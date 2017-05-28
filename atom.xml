@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/WeiChiaChang/blog/"/>
+  <updated>2017-05-28T15:31:38.000Z</updated>
+  <id>https://github.com/WeiChiaChang/blog/</id>
+  
+  <author>
+    <name>WeiChiaChang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#35</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-35/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-35/</id>
+    <published>2017-05-28T15:31:38.000Z</published>
+    <updated>2017-05-28T15:31:38.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#34</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-34/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-34/</id>
+    <published>2017-05-28T15:31:36.000Z</published>
+    <updated>2017-05-28T15:32:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-28-Wesley’s-Digest-Collection"><a href="#2017-05-28-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/28 Wesley’s Digest Collection"></a>2017/05/28 Wesley’s Digest Collection</h4><ul>
+<li><p>提供 UX 相關的經驗談，以 Podcast 的形式播放，筆者覺得這比單看影片畫面似乎更有想像空間，也能夠更單純專注在要傳遞的內容本身，國外做程式相關分享很常看到 Podcast，但台灣這方面似乎就比較少了點。</p>
+<ul>
+<li><a href="http://uxcoffee.co/episodes/68958-26-medium" target="_blank" rel="external">#26：设计小白的光速成长之路（Medium 设计师姜羽扬 - 上）</a></li>
+</ul>
+</li>
+<li><p>當我們觀察到一群人批評著還在使用 jQuery 的另一群人應該要去使用 React 或是 Vue，一條蔓延許久的鄙視鏈就這樣形成了，在另一個圈子的人看來都像是小孩子在吵架，與其花時間在那邊糾結沒意義的討論，一直找大神在那邊拜來拜去，不如痛定思痛把真正重要的底層學會學好，懂了底層，才會懂得原理，也才能奠基於此之上進而創造新事物。</p>
+<ul>
+<li><a href="https://juejin.im/post/59278e312f301e006c2e1510" target="_blank" rel="external">JavaScript深入系列15篇正式完结！</a></li>
+</ul>
+</li>
+<li><p>非常棒的一篇文章，一氣呵成的把一行程式碼用到的技術細節全盤闡釋過一輪，看完筆者自覺對於 JavaScript 本身尚有許多基本特性不夠熟悉，有點被框架的 API 慣壞了。</p>
+<ul>
+<li><a href="https://segmentfault.com/a/1190000006860477" target="_blank" rel="external">从一行代码里面学点 JavaScript</a></li>
+</ul>
+</li>
+<li><p>極為勵志的分享，從一個外行人跨域成為真正的開發者，文中觀點不僅適用於職業生涯，對於整體人生觀也有一定程度幫助。筆者覺得最棒的是該文作者飲水思源，積極擁抱 OSS的態度，對一個 newbie 而言任何可以 Google 到的東西都是資源，把學到的東西回饋給社群，才會有正循環的出現。</p>
+<ul>
+<li><a href="https://medium.freecodecamp.com/how-to-go-from-hobbyist-to-professional-developer-11a8b8a52b5f" target="_blank" rel="external">How to Go From Hobbyist to Professional Developer</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>不管是嚮往大公司的規模或是小公司的快速變通，Google 都是從無到有的過程中最好的朋友，很難想像哪天開始 Google 搜尋要收費了，雖然這的確是有可能發生的。<ul>
+<li><a href="https://github.com/xitu/gold-miner/blob/master/TODO/google.interview.university.md">gold-miner/TODO/google.interview.university.md</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>在看失戀 33 天聽到的，那陣子心情實在太糟，沒有意識的把這部片重複看了三次，這首歌也聽了好幾遍，旋律印在腦袋裡，然後就開始很厭世的抱怨自己，埋怨感情什麼的當初就不應該開始，但很明顯是沒用的，繼續活著就得繼續承受。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=2PPyyGtret4" target="_blank" rel="external">陳珊妮 - 情歌 - 華盛頓砍倒櫻桃樹 - 2004</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-28-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-28-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/28 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#33</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-33/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-33/</id>
+    <published>2017-05-28T15:31:34.000Z</published>
+    <updated>2017-05-28T15:32:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-27-Wesley’s-Digest-Collection"><a href="#2017-05-27-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/27 Wesley’s Digest Collection"></a>2017/05/27 Wesley’s Digest Collection</h4><ul>
+<li><p>小說好像是每個人只要有心都能參與的一件事，但誠如村上春樹曾說過的，每個人都會寫點文章寫點東西，但有些人寫的就是沒人看，而自己寫的東西很幸運的是正好切中了某群受眾的口味，身為這樣的小說家是幸福的。筆者在當兵那段鳥日子無聊到發慌，也曾在大兵日記試圖寫點連載小說，結果寫的沒頭沒尾，還被輔導長關注。不過筆者始終相信很多人類未能解決的問題在小說中都有一個明確的解答，不管是未來預言還是一種異領域衝撞後產生的想法。</p>
+<ul>
+<li><a href="https://www.inside.com.tw/2017/05/26/think-like-a-novelist" target="_blank" rel="external">【硬塞書摘】：《只要出問題，小說都能搞定好》－像小說家一樣思考就能解決問題</a></li>
+</ul>
+</li>
+<li><p>在<a href="https://wanqu.co/a/4211/2016-11-09-making-time-for-side-projects.html?s=social" target="_blank" rel="external">灣區日報 753 期</a>看到的好文。做 side project 最怕的就是虎頭蛇尾，怕一開始把餅畫太大，怕下班時間都在搞沒做其他休息娛樂。不過該文作者對於 side project 的建議倒是很受用，每天都接觸，每天花個 15 分鐘也好，不要有壓力，嘗試融入一直很想使用的新技術，把 iterm2 和編輯器一直開著，時不時摸ㄧ摸，維持手感很重要。</p>
+<ul>
+<li><a href="https://ponyfoo.com/articles/making-time-for-side-projects?utm_source=wanqu.co&amp;utm_campaign=Wanqu+Daily&amp;utm_medium=website" target="_blank" rel="external">Making Time for Side Projects: A Daily Habit</a></li>
+</ul>
+</li>
+<li><p>這篇意外超合筆者的胃口，可能是從小一直以來對一些舊舊的東西特別感興趣，聽老歌，翻舊書，看年代久遠的港片等等。古早的電腦雖然性能不比當今人手一台的手機，但沒有這段過去是絕對不會有後續科技的高速發展，想到這筆者開始幻想如果哪天像賭聖一樣被人家發功還是走在路上掉入時光縫隙，掉到五十年前的世界，高階語言誠如 Ruby 等等都還沒誕生，我還會繼續走軟體開發這一行嗎？</p>
+<ul>
+<li><a href="https://fugu.cafe/talks/14697" target="_blank" rel="external">用 MSX 學寫 BASIC 的女高中生，與親切的陌生大叔們</a></li>
+</ul>
+</li>
+<li><p>筆者中學時期物理一向很爛，到了極爛的程度，儘管知道世間萬物的運作機制背後都有人類理解範疇內的“物理”試圖做出合理的解釋，但還是提不起興致去深入探索，老師教條式的講解或許是某種程度的原因，但這種心態其實很要不得，對於不喜歡的事情就排斥，這樣下去好像弱點只會越來越多，不過還好有唸過大學，多少體會到學會如何學習這件事本身，用自己的腦袋思考，看科普文章，找相關知識佐證，這才發現自己不是討厭物理這門學問，而是討厭機械式的填鴨教育才變相討厭物理。</p>
+<ul>
+<li><a href="http://pansci.asia/archives/119540" target="_blank" rel="external">一拳超人物理學：深不可測的是埼玉還是物理？</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>活著最重要的一件事應該就是對一件事情堅持下去然後做到完，但往往很難對每件事情都堅持做完，有太多太多因素在干擾，有更新的計畫和規劃不斷打破原先的平衡，初衷破碎，重建初衷，反覆這樣的過程。一段感情一段婚姻要跟同一個人走八年都要面對不少新鮮感的挑戰了，一段事業有八年的時間要維持，資金短缺顯得營運格外克難，看完這類文章不知為何超哥的身影總會轉眼現身，一頭亂到不行的長髮和輪廓也不是很清楚，但依舊可以看到他很篤定的一直帶著後頭的人繼續往前走。<ul>
+<li><a href="http://www.gamelook.com.cn/2017/05/292395" target="_blank" rel="external">独立开发者：为何一个小游戏做了8年？</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>這禮拜最值得開心的絕對是同性婚姻在台灣是合法的這件事，一直到上大學才意識到身邊好多朋友都是同性戀，跟他們交朋友也不會覺得特別奇怪，彼此都很開心，在相處過程中也發覺他們對於情感這件事比起一般人更重視，像是重視朋友之間的相聚，重義氣等等，雖然現在在南部工作，比較少機會可以和以前在北部求學的那群朋友相處，但有時還是會抬起頭看看，此時此刻我們也是看著同樣的一片天空吧。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=jpsyk-5jGwY" target="_blank" rel="external">五月天 - 盛夏光年 - 盛夏光年 - 2006</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-27-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-27-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/27 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#32</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-32/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-32/</id>
+    <published>2017-05-28T15:31:31.000Z</published>
+    <updated>2017-05-28T15:32:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-26-Wesley’s-Digest-Collection"><a href="#2017-05-26-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/26 Wesley’s Digest Collection"></a>2017/05/26 Wesley’s Digest Collection</h4><ul>
+<li><p>Codepen 以外另一個好用的工具，筆者常會在測試一些簡單的腳本或是 CSS 特效時在這邊試個水溫。可以在 Chrome 安裝這個 extension，更為便利的是離線狀態時也支援，雖然離線時本機直接測試也蠻快就是了。</p>
+<ul>
+<li><a href="https://webmakerapp.com/" target="_blank" rel="external">Web Maker</a></li>
+</ul>
+</li>
+<li><p>是說筆者也不是很清楚中研院和工研院主要差異在哪裡，大概就像一般素人會把台科和北科混淆成同一所學校，但這樣的誤會其實有時對當事人還蠻惱人的。陳昇瑋教授很早之前就開始推動資料科學相關的計畫，也有招收暑期實習生等等，算是從業界到學界身份轉換上都非常成功的一個前輩，<a href="http://research.sinica.edu.tw/" target="_blank" rel="external">研之有物</a>作為一個入門磚，引介了各式各樣的科普，讀起來非常有趣。</p>
+<ul>
+<li><a href="http://www.businesstoday.com.tw/article-content-80394-164354" target="_blank" rel="external">中研院在做什麼？「鄉民」小編全曝光</a></li>
+</ul>
+</li>
+<li><p>打開遙控器，按號碼轉台，大聲點，拉近點。沒想過做 web 竟然也能做到看電視的特殊效果，不過 web 可以玩的東西真的太多了，用 web 技術搶 app 的飯碗這類事好像也越來越不意外，走這塊現在看來似乎是正確的道路！？</p>
+<ul>
+<li><a href="http://inter-dimensionalcable.xyz/" target="_blank" rel="external">dimensionalcable</a></li>
+</ul>
+</li>
+<li><p>筆者最近有個小專案想做點不同的嘗試，說是不同的嘗試也只是因為原本的 menu 設計不甚滿意，太一般了，於是便稍微爬文找到了這篇文章，程式碼本身很好懂，可以很簡單的實作出扁平式風格的按鈕。</p>
+<ul>
+<li><a href="http://www.oxxostudio.tw/articles/201503/css-material-design-icon.html" target="_blank" rel="external">純 CSS Material Design 風格按鈕</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>這漫畫是一系列的，目前好像還有在連載中。如果今天需求方沒有要養一隻 IT 團隊的預算和打算，那勢必就是找 vendor 做事啦，其中品質參差不齊，要做到供需雙方都非常滿意始終是個頗大的難題，不過漫畫中描述的事實也凸顯出雙方資訊不對稱造成的災難，需求方一直以為寫幾行 code 就可以容易就搞定了，但隔行如隔山，又不是在隔山打牛。<ul>
+<li><a href="http://www.techug.com/post/how-much-money-is-needed.html" target="_blank" rel="external">《神秘的程序员们》漫画 做个 App 到底需要多少钱？</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>其實很少聽英文老情歌，不過國小上英文補習班每次在上課時班主任都會在樓下播這首歌，放得蠻大聲的，在樓上上課還聽得蠻清楚的，拉拉拉拉，旋律一直默默記著，只不過上高中之後才知道原來是木匠兄妹。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=YTaWayUE5XA" target="_blank" rel="external">The Carpenters - Yesterday Once More - Yesterday Once More - 1973</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-26-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-26-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/26 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#31</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-31/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-31/</id>
+    <published>2017-05-28T15:31:29.000Z</published>
+    <updated>2017-05-28T15:31:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-25-Wesley’s-Digest-Collection"><a href="#2017-05-25-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/25 Wesley’s Digest Collection"></a>2017/05/25 Wesley’s Digest Collection</h4><ul>
+<li><p>人生很短，所以才渴望多去嘗試其他可能性。筆者也不想一輩子沈溺在鑽研技術裡頭，不想被定型，這條路繼續走下去頂多也只是變成人們口中的大神，做好做不好都有人會戰你，反正 haters gonna hate。</p>
+<ul>
+<li><a href="https://www.ptt.cc/bbs/CareerPlan/M.1494767704.A.C76.html" target="_blank" rel="external">Re: [請益] 能分享如何決定工作嗎</a></li>
+</ul>
+</li>
+<li><p>好強的網頁特效技術，一邊放音樂影片，一邊可以使用提供的畫筆把影片內容上色，極具互動的設計，細節上處理的也很完整。</p>
+<ul>
+<li><a href="https://stainedglassvideo.com/" target="_blank" rel="external">STAINED GLASS</a></li>
+</ul>
+</li>
+<li><p>其實就是給尚在迷茫中的自己，做點實際的記錄，看看自己都幹了些什麼。筆者上述的服務都使用過，先前在實習期間和同事就是使用 Trello 協作，可以很方便的管理每一條開出來的待辦事項，有更動時還會寄信提醒通知，個人認為相當好用，現在公司內部則是使用 jira 去做團隊管理工具，可能是因為香港和台灣隔了一片海吧，但我還是覺得 Trello 較為好用。至於 Pocket 其實也很讚，不過個人經驗是，大部分收進 Pocket 之後的連結之後好像就再也不會拿出來看了，於是用了沒多久就砍了，想想還是當下看完吧。</p>
+<ul>
+<li><a href="http://jerryzou.com/posts/method-of-self-learning/" target="_blank" rel="external">给迷茫的自学者指一条路</a></li>
+</ul>
+</li>
+<li><p>一直說要把部落格搬到 hexo 的筆者始終還在擺爛中，也許是因為這禮拜請了兩天特休假，外加週末二日，一連放了四天放太爽，甚至開始思考在 23 歲的年紀退休這回事。之前玩過蠻多部落格服務，用過 Wordpress 和 Ghost，但留言功能到頭來都是使用 Disqus，因為介面簡單簡潔，不過現在知道有其他的可能性，而且的確會來看部落格的 TA 幾乎都是技術背景相關的，有 Github 帳號也是很合情合理的，乾脆就把坑挖大一點。</p>
+<ul>
+<li><a href="https://geniustanley.github.io/2017/05/23/Migrate-Hexo-comment-from-disqus-to-gitment/" target="_blank" rel="external">Migrate Hexo comment from disqus to gitment</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>平常雖然很少使用 node 技術線相關的工具，但也是玩過一陣子 npm 相關的工具，該文提及的八個使用技巧好像都曾玩過了，不過多懂一點 shortcut 於開發速度也是 Z &gt; B 啦，看起來好像也比較潮一點。<ul>
+<li><a href="https://medium.freecodecamp.com/8-npm-tricks-you-can-use-to-impress-your-colleagues-dbdae1ef5f9e" target="_blank" rel="external">8 npm Tricks You Can Use to Impress Your Colleagues</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>很清楚的記得是大一某個週末沒回台南，待在只有一個人的宿舍，然後便很熱血的搜了過去日本公信榜上幾首熱門單曲，找到這首歌對於當時的筆者就像是挖到寶，雖然一如往常的還是聽不懂半句日文只聽旋律。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=4zyF9MwqZOE" target="_blank" rel="external">flumpool - 花になれ - Unreal - 2008</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-25-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-25-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/25 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#30</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-30/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-30/</id>
+    <published>2017-05-28T15:28:13.000Z</published>
+    <updated>2017-05-28T15:30:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-24-Wesley’s-Digest-Collection"><a href="#2017-05-24-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/24 Wesley’s Digest Collection"></a>2017/05/24 Wesley’s Digest Collection</h4><ul>
+<li><p>筆者原先還在北部唸書看這篇文章是很有感的，但現在回南部當碼農之後這樣的情緒似乎就不像以前這麼強烈，不過工作際遇這種事情還難說，或多或少都對海外工作有種憧憬和想像。</p>
+<ul>
+<li><a href="https://www.ptt.cc/bbs/Oversea_Job/M.1377583554.A.1A7.html" target="_blank" rel="external">各位在海外工作的朋友</a></li>
+</ul>
+</li>
+<li><p>了解 UI 設計師的日常工作項目對於和工程師之間的交流絕對是有益無害，多看看別人怎麼做事的，某方面某種程度也能夠降低對於一個行業的誤解，類似啊不就畫個圖畫個 icon 這類沒概念沒腦的話就可以少一點，溝通也會更順利。</p>
+<ul>
+<li><a href="https://medium.com/as-a-product-designer/design-system-practice-f460a60c5169" target="_blank" rel="external">Design System Practice 初次設計系統經驗分享</a></li>
+</ul>
+</li>
+<li><p>之前曾看過有人聲稱做網站做前後端的工程師根本不需要懂所謂的演算法也能做事，是啊，是也能做事，不過很多時候做出來的東西像狗屎罷了，如果那樣的東西你要的話，筆者就曾經在面試前端工作時被問過快速排序法，不能說是非本科出身所以不懂是可以被接受的，有這樣的心態哪天無預警被取代也是再正常不過了。</p>
+<ul>
+<li><a href="https://buzzorange.com/techorange/2015/05/12/the-real-10-algorithms-that-dominate-our-world/" target="_blank" rel="external">個人意見：這十個演算法，才是真的改變世界的重量級演算法</a></li>
+</ul>
+</li>
+<li><p>機器開始寫詩啦，意境還蠻有層次感的，不特別說明還分辨不出哪篇是真人寫的。AlphaGo 在理性分析上絕對遠勝過人類，如果機器連情感方面也能逐步學習掌握的話，或許人類之後真的被機器統治之後只能靠愛來解救了。</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/PkB8SCUakvgpyxHFNJofOg" target="_blank" rel="external">人类史上第一部机器人写的诗集，你觉得怎样？</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>在灣區日報上看到便順便看了原文綜合一下讀後感。系統穩定比什麼都重要，如果常常需要 de 一些無謂的 bug 像是套件相依性等等，很多時候真的是在自尋煩惱，自己挖坑給自己跳。之前曾在 vgod 的<a href="http://blog.vgod.tw/2012/10/27/premature-optimization/" target="_blank" rel="external">部落格</a>看到這樣一句話：Premature optimization is the root of all evil。是說這段話還是出自於資訊界大師的名言，但總是適用於人生各個階段和各種情況。如果一直沈溺於最新的框架和工具這樣砌磚的技術，很有可能忘記自己其實原來的初衷是要蓋大樓的，兩種選擇之間也沒有誰好誰壞。<ul>
+<li><a href="http://www.expatsoftware.com/Articles/happiness-is-a-boring-stack.html?utm_source=wanqu.co&amp;utm_campaign=Wanqu+Daily&amp;utm_medium=website" target="_blank" rel="external">Happiness is a Boring Stack</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>一聽真的好久了，久到筆者都快覺得自己要發霉長香菇了。傑西麥卡尼那時根本紅到翻過去，比現在小假還要誇張，不過 easy come easy go，很快又漸漸消失在歌壇了。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=YVOFTbVB7D8" target="_blank" rel="external">Jesse McCartney - Because You Live - Beautiful Soul - 2008</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-24-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-24-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/24 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#29</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-29/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-29/</id>
+    <published>2017-05-28T15:28:10.000Z</published>
+    <updated>2017-05-28T15:30:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-23-Wesley’s-Digest-Collection"><a href="#2017-05-23-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/23 Wesley’s Digest Collection"></a>2017/05/23 Wesley’s Digest Collection</h4><ul>
+<li><p>TonyQ 六年前的舊文，現在看來還是很適用。筆者一直以來對於 Open Source 的認解是，有人願意主動把專案的程式碼開放給其他人使用，很多時候是接近無償的做法，單純分享的精神也讓 Open Source 這件事本身格外有意義。</p>
+<ul>
+<li><a href="https://www.ptt.cc/bbs/Soft_Job/M.1302425787.A.C8B.html" target="_blank" rel="external">Open Souce 作為一種態度</a></li>
+</ul>
+</li>
+<li><p>筆者正式踏入職場前，包含實習階段一直以來都是使用 Sublime，期間也有不少朋友推坑 VS Code 等潮潮的編輯器，直到上上個禮拜決定認真跳到 Atom 的陣營，雖然它開啟速度始終是個問題，但筆者會喜歡 Atom 只有一個簡單的原因，說起來也很不理性，就只是因為它的介面讓我想一直用它，不然認真評估性能和背後社群支援程度大概會義無反顧的選擇 VS Code，但現在還沒有找到那個義無反顧的理由，這三種編輯器都有各自擅長的地方，到頭來也只是協助開發的工具，編輯器再聰明也不為自動幫你寫專案需要的程式碼，大概就跟有人沒事幹總愛在那邊戰編輯器一樣腦。</p>
+<ul>
+<li><a href="http://blog.jobbole.com/109756/" target="_blank" rel="external">编辑器性能测试：Atom 、VS Code、Sublime Text</a></li>
+</ul>
+</li>
+<li><p>AlphaGo 的出現不代表是人類幾百幾千年來在圍棋智慧這方面的失敗，機器背後的算法也是一大票工程師的心血結晶啊，所謂的勝敗也只不過是一時的，如何真正有效利用機器輔助提升人類文化到另一個境界才是要學習的。</p>
+<ul>
+<li><a href="https://www.inside.com.tw/2017/05/23/ke-jie-lose-first-round" target="_blank" rel="external">人機大戰首盤 AlphaGO 勝！柯潔苦拼最後一刻仍不敵</a></li>
+</ul>
+</li>
+<li><p>滿滿的 Mac 周邊軟體，好像只用過幾種而已，不過 awesome 系列最好玩的就是會收集很多同質性高的軟體作為選項比較，類似貨比三家的概念，別人說好用是他覺得好用，自己實際用過順手的才是真正適合自己的。</p>
+<ul>
+<li><a href="https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md?utm_content=buffer48b49&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer">jaywcjlove/awesome-mac</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>專業挖礦的心得分享文。不要誤會，筆者對於比特幣和區塊鏈技術是個完完全全的路人，不過基於現在工作的內容真的有點過於安逸，尋找其他領域的知識來啃也算是讓頭腦保持對於新知的靈活度，不想總是重複做一樣的事，跨出舒適圈是必要的。<ul>
+<li><a href="https://medium.com/@wilsonhuang/gpu-%E5%A4%9A%E9%A1%AF%E5%8D%A1%E9%9B%99%E6%8C%96%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%A7%BF%E5%8B%A2-%E4%B8%8A-b016adb5f2eb" target="_blank" rel="external">GPU 多顯卡雙挖的基本姿勢（上）</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>最早是從日劇求婚大作戰聽到這首歌，後來輾轉發現新垣唱的這版本，不過更喜歡原本在劇中聽到的，更為熱血，蠻貼切的表達那種衝動和青春亢奮的情緒，只是不管是劇中人物還是現在的筆者好像也都不年輕了。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=7jgeq66ish0" target="_blank" rel="external">新垣結衣 - 小さな恋のうた - 專輯名 - 2010</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-23-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-23-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/23 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#28</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-28/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-28/</id>
+    <published>2017-05-28T15:28:08.000Z</published>
+    <updated>2017-05-28T15:30:41.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-22-Wesley’s-Digest-Collection"><a href="#2017-05-22-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/22 Wesley’s Digest Collection"></a>2017/05/22 Wesley’s Digest Collection</h4><ul>
+<li><p>實務能力才是真正體現書本知識的具體實踐，就如李開復曾說過的，創新是創造有用的創新，如果只是一味追求論文數沈溺在研究之中，如有那些看似不務正業的人跳脫舊有框架，那今天就不會有 Google 和 Facebook。</p>
+<ul>
+<li><a href="https://www.thenewslens.com/article/68777" target="_blank" rel="external">十年前他帶學生親手打造太陽能車，如今門生遍佈Tesla、Gogoro</a></li>
+</ul>
+</li>
+<li><p>從 TonyQ 臉書上看到的一個測驗，一百題滿滿的 JavaScript，題目不難，陷阱題倒是蠻多的，偶爾當作練習和腦力激盪也挺不錯的。</p>
+<ul>
+<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeBrQ9NspE3_6MCk2Fi0rMfu3baVcnNrPIEhvKz5ZsB3pwnNw/viewscore?viewscore=AE0zAgA7VfGY6zYz0w88N3Y0UZAVdV6q64q7iLgiY7FA2KXcP2JnASQWZO1bFw" target="_blank" rel="external">最終試煉 - JS 百題斬</a></li>
+</ul>
+</li>
+<li><p>筆者認為第四點重要的原因在於，常常在專案中需要對從後端取得的資料做些處理，例如要對一個陣列做一些不重複的處理等等，這時你雖然知道有 lodash 可以使用，但你多數時候還是會選擇自己寫個算法，一方面是不需要單純為了一個需求而引入一大包函式庫，另一方面也可以訓練自己再比較自己的程式碼和別人的差異在哪。</p>
+<ul>
+<li><a href="https://calpa.me/2017/05/21/learn-javascript-in-six-steps/" target="_blank" rel="external">打好 JavaScript 基礎的6個步驟</a></li>
+</ul>
+</li>
+<li><p>當今 RESTful 盛行的年代，前後端免不了透過 API 串接資料，該篇文章很清楚的解釋了背後運作的原理，同源政策和 JSONP 都有做出相當明瞭的解說，是說筆者原本在看這篇之前也一直不曉得那個 OPTIONS 到底做了啥事，真的是孤陋寡聞。</p>
+<ul>
+<li><a href="http://blog.techbridge.cc/2017/05/20/api-ajax-cors-and-jsonp/" target="_blank" rel="external">輕鬆理解 Ajax 與跨來源請求</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>想知道用戶端的手持裝置是什麼瀏覽器，通常都會搭配 user agent 去抓取相關資訊，再做相對應的樣式或是處理，實用好物。<ul>
+<li><a href="https://github.com/f2etw/detect-inapp">f2etw/detect-inapp</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>大四下的最後一個寒假看了他們在畢業的前一天爆炸，劇中最後一幕放出的這首 Life’s a struggle，無比震撼，有半晌說不出話來，如果宋岳庭還在世上的話，才華能力說是與周杰倫媲美都不為過。不過這世界的的確確不是童話世界。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=GsrXRsXQHmM&amp;index=36&amp;list=PL9do701rCbQzwjmlebZffsYM4mVw44SrJ" target="_blank" rel="external">宋岳庭 - Life’s a struggle - Life’s a struggle - 2003</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-22-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-22-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/22 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#27</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-27/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-27/</id>
+    <published>2017-05-28T15:28:05.000Z</published>
+    <updated>2017-05-28T15:30:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-21-Wesley’s-Digest-Collection"><a href="#2017-05-21-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/21 Wesley’s Digest Collection"></a>2017/05/21 Wesley’s Digest Collection</h4><ul>
+<li><p>微軟提供關於 Code Review 的文件。不是筆者在說，很多人都在強調 Code Review 的重要性，就好像你可以常常聽到說寫測試很重要啊，但筆者真的很好奇到底有多少公司真的有做相關的流程。</p>
+<ul>
+<li><a href="https://msdn.microsoft.com/zh-tw/communitydocs/visual-studio/ta14052601" target="_blank" rel="external">Code Review Guidance</a></li>
+</ul>
+</li>
+<li><p>把 CSS 的屬性整理成好讀容易理解的形式，animation 的部份還是跑範例直接看效果，光看這個網站都覺得使用 CSS 是種視覺上的饗宴，在實務工作上查詢相關 property 時會是相當有效率的輔助工具。</p>
+<ul>
+<li><a href="http://cssreference.io/" target="_blank" rel="external">CSS Reference type</a></li>
+</ul>
+</li>
+<li><p>會想自幹程式庫，往往都是現有方案無法全面性的解決實務上遇到的問題和狀況，當要自己撰寫的函式比例遠大於使用這個框架或是 library 本身，那種工程師本能的自幹魂就油然而生了。</p>
+<ul>
+<li><a href="http://www.ithome.com.tw/voice/113904" target="_blank" rel="external">笨方法寫程式庫</a></li>
+</ul>
+</li>
+<li><p>對於這將近一個月以來開始動筆寫文摘的筆者而言，也開始在思考如何讓每天的寫作更有效率點，像是研究灣區日報寫 Slack bot 腳本自動化發文等等，後來也逐漸有在關注介面更易用的內容編輯器，這套雖然好像不是這麼主流，但好是好在開源，目前也有人在持續維護。</p>
+<ul>
+<li><a href="https://github.com/n457/Uncolored">n457/Uncolored</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>去年七月要入伍前一直在看 Vue 1.X 的文件，只覺得這框架做了好多神奇的事情，個人覺得有點像當時初玩 Rails 的感覺，現在社群也相對茁壯許多，連 Conference 都開始辦了，果然一個好東西還是需要好的社群經營，個人希望 Vue 的熱度能持續保持下去。<ul>
+<li><a href="https://juejin.im/post/591fa2d0a0bb9f005f3ccd1b" target="_blank" rel="external">VueConf 大会现场笔记</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>OOK 是少數一聽就會為之瘋狂的日搖樂團，主唱 Taka 的聲線極為高亢，超標準的英文發音咬字一直都很到位，但最厲害的還是唱 live 的爆發力，筆者去年好不容易搶到票進場去聽，唱得比 CD 還要好，現場的渲染力也非常足夠，大概可以列為筆者推薦人生到死之前必看的演場會之一，第一始終是 Sakanaction，第二就是 ONE OK ROCK。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=OKjjU2ySkyA" target="_blank" rel="external">ONE OK ROCK - Living Dolls - 感情エフェクト - 2008</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-21-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-21-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/21 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#26</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-26/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-26/</id>
+    <published>2017-05-28T15:28:03.000Z</published>
+    <updated>2017-05-28T15:30:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-20-Wesley’s-Digest-Collection"><a href="#2017-05-20-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/20 Wesley’s Digest Collection"></a>2017/05/20 Wesley’s Digest Collection</h4><ul>
+<li><p>這麼久之前的文章筆者竟然現在才看到。IFTTT 試圖把兩個以上的服務 API 串接在一塊，例如當截圖時就把圖片同步存到 Evernote 或是 Google Drive 等等，類似機器人接機器人的概念，把每天會花很多時間的瑣事自動化處理，筆者認為這或許對有各種需求的使用者會更加友善。</p>
+<ul>
+<li><a href="https://www.bnext.com.tw/article/32241/BN-ARTICLE-32241" target="_blank" rel="external">網路自動連結服務IFTTT入門教學~如果明天下雨，今日請提醒我</a></li>
+</ul>
+</li>
+<li><p>循序漸進從最傳統單純的 all-in-one 架構漸漸講到分散式，負載平衡，快取等機制。雖然筆者目前還只是停留在前端這塊領域，但前後端分離個人認為一直以來都是個假議題，做前端不能只考慮前端的問題啊，畢竟前端也是整體架構的一部份，充分理解整個網站架構對拓展視野都會有一定程度的助益。</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/Mpc-S_bCOXKWlDokeCljfg?utm_content=buffer4e88e&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer" target="_blank" rel="external">大型项目架构演进过程及思考的点</a></li>
+</ul>
+</li>
+<li><p>矽谷群瞎傳筆者只看過前面幾集後來就沒追了，劇中影射的科技公司和人物大概都不難猜到，Not Hotdog 已經不是第一個真的有人做出來，pied piper 也在真實世界中出現了。不過這部劇之所以有趣個人是覺得蠻多層面都有把矽谷的模樣演出來，一堆工程師拿到創投真的就開始燒錢，產品沒人用，遊走法律邊緣等等。</p>
+<ul>
+<li><a href="https://meet.bnext.com.tw/articles/view/40630" target="_blank" rel="external">原來美劇《矽谷群瞎傳》虛構的食物辨識App「Not Hotdog」真的能下載</a></li>
+</ul>
+</li>
+<li><p>使用者體驗放到今天講絕對是顯學，從各種器材器具吃的喝的玩的，任一方都有可能是任一方的服務提供者。自動販賣機的標示設計這回事，魔鬼真的是出在毫不起眼的小細節，可能是單純的個性龜毛，但對於產品設計的龜毛那就很有必要性了，之前還在實習時聽超哥說過一句話，辦 AIC 或是工作坊等活動，對我們而言是日復一日的工作，但對於每一場參加工作坊的學生，其實很有可能就是兩天結束錄完影之後就再也不會見面了，也就是一期一會的概念，對於他們而言，我們也很有可能只會出現這麼一次，那這一次務必要做到最好，讓他們留下最為深刻的印象。時隔多日，現在雖然在其他間公司做產品開發，這段話反覆想想依舊很受用。</p>
+<ul>
+<li><a href="http://adventure-now.blogspot.tw/2016/08/uxvendingmachine.html?m=1" target="_blank" rel="external">【UX 觀察】淺談自動販賣機的操作設計問題</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>最近筆者都在玩 React Native，也導致每天寫的文摘幾乎都是滿滿的相關文章，但無妨，反正也是種學習記錄的好方式。該文作者提出 12 個關於用 RN 開發的常見問題，學了 APP 開發之後的思路確實有差，現在看到其他手機應用都會若有若無的覺得自己好像也做得到類似的 UI 效果。不過對筆者而言是都沒有太多差異，大概是因為目前階段還算是玩票性質。<ul>
+<li><a href="https://medium.com/dailyjs/12-common-questions-about-react-native-74fc9ba49b17" target="_blank" rel="external">12 Common Questions from Working with React Native</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>經典好像不一定要年代久遠的吧，不過所有的經典都是從新到舊，依然禁得起時間的考驗，筆者認為這首放到十年，二十年後聽還是一樣經典。熊仔和 BR 的出現象徵學院派在饒舌樂壇的崛起，聽他們的作品真心覺得饒舌也可以有這麼狂的玩法。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=HvIV1XBSHRg&amp;index=35&amp;list=PL9do701rCbQzwjmlebZffsYM4mVw44SrJ" target="_blank" rel="external">熊仔 - Riyoko(好友已滿) - 太極拳 - 2016</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-20-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-20-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/20 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#25</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-25/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-25/</id>
+    <published>2017-05-28T15:28:01.000Z</published>
+    <updated>2017-05-28T15:30:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-19-Wesley’s-Digest-Collection"><a href="#2017-05-19-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/19 Wesley’s Digest Collection"></a>2017/05/19 Wesley’s Digest Collection</h4><ul>
+<li><p>一直以來都有意無意的試圖找看看有無 Dcard 官方提供的 API 接口，不過一直毫無所獲，昨天看到有人很好心的 Dcard API 打包了起來，筆者實測是可以真的抓到資料的，不過這好像是廢話。</p>
+<ul>
+<li><a href="https://github.com/Larry850806/Dcard-API">Larry850806/Dcard-API</a></li>
+</ul>
+</li>
+<li><p>筆者大概是資質太駑鈍了，這個禮拜在玩 React Native，也漸漸玩到 Redux 這塊，不過爬了好多文都覺得根本在看天書，官方文件似乎寫的不錯但大概是前備知識還不夠格吧，好不容易終於找到一篇老嫗能解的，要踏入 React 這領域還蠻多障礙要跨過的，太多新的知識點和新技術要掌握，幾乎要整套相關的生態圈都要去玩玩看才能把它的能量發揮到最大，否則簡單的網頁應用還是乖乖用 jQuey 吧，工具沒有優劣之分，jQuery 開創了一個偉大的 JS 時代，沒有它不會有現在前端的蓬勃發展。視工作和時間多寡情況而定並把事情確實做完才是工程師的本質核心，現實點就是 User 壓跟不會去鳥你背後用什麼技術實作。</p>
+<ul>
+<li><a href="http://www.jianshu.com/p/fc66564e3743" target="_blank" rel="external">Redux学习笔记（1）简单使用</a></li>
+</ul>
+</li>
+<li><p>文摘好像不一定都得要記錄程式相關的文章，了解自身以外的領域也是相當重要的課題，不管是對於自己的人生或是世界觀都是。這樣客觀的描述歷史事件和歷史事實筆者認為這才是歷史教育的核心價值，最賭爛也最不想看到的還是那些試圖竄改歷史事實的黨派。</p>
+<ul>
+<li><a href="http://forgetfulbc.blogspot.tw/2017/05/world.html?m=1" target="_blank" rel="external">用19分鐘看完整個世界歷史</a></li>
+</ul>
+</li>
+<li><p>可以很方便做到讓初來乍到網站的使用者進行簡單的導覽，如果不想自己刻或是礙於專案死線壓力會是不錯的工具。</p>
+<ul>
+<li><a href="http://eragonj.github.io/Trip.js/" target="_blank" rel="external">Trip.js</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>去年筆者還在當草莓兵，有時晚上會開放手機，記得那時同袍拿著手機問我知不知道 PPAP，筆者完全沒聽過，看完影片發現這到底是Ｘ小。不過這類用純 CSS ，沒用到半點 JavaScript 完成動畫的作品每次看程式碼都覺得作者功力大概是很深厚。<ul>
+<li><a href="http://codepen.io/WeiChiaChang/pen/woNgJP?editors=1100" target="_blank" rel="external">PPAP</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>筆者人生買的第一張日文專輯就是大塚愛，國中還在學鋼琴時聽鋼琴老師蠻喜歡她的，後來還學了這首的鋼琴曲，後來就殺去光南買來聽看看其其他的作品，算是個人風格非常強烈的類型。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=yUL-KrF05-I" target="_blank" rel="external">大塚愛 - 金魚花火 - 金魚花火 - 2004</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-19-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-19-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/19 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#24</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-24/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-24/</id>
+    <published>2017-05-28T15:27:58.000Z</published>
+    <updated>2017-05-28T15:30:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-18-Wesley’s-Digest-Collection"><a href="#2017-05-18-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/18 Wesley’s Digest Collection"></a>2017/05/18 Wesley’s Digest Collection</h4><ul>
+<li><p>工程師到底該做些什麼呢，如果只是把每天公司交代的事項做完，用很屌又飛快的框架做完之後收工下班回家，日復一日年復一年，好像也只是淪為一個工具的操作者，工程師不應該只有一般認知上工程師要有的樣子，人生這麼短，為何不多做點嘗試，做個傳遞知識火炬的跑者也能夠讓自己為這個世界帶來一點點不一樣吧。</p>
+<ul>
+<li><a href="https://www.bnext.com.tw/article/44516/microsoft-technical-evangelist-ericsk" target="_blank" rel="external">工程師以外的第二人生──專訪微軟技術傳教士上官林傑</a></li>
+</ul>
+</li>
+<li><p>公司最近開始在 jira 導入所謂的 Scrum 流程，還有一個大大的 Kanban 系統，所有事項清清楚楚，團隊之間的每個人都知道每個 team 的 issue 和 task 是哪些，一目了然的方式相對透明化。不過筆者現在還在適應期，總覺得要估 score 這件事很吃經驗值，怕抓不好量最後被死線搞死，所以現在都多估至少一分，還有每件事不管多大多小都要開一個新的 issue，私心覺得有點累贅，一下子就四百多快要五百多個了。</p>
+<ul>
+<li><a href="https://5xruby.tw/posts/agile-project" target="_blank" rel="external">Agile Project 初體驗</a></li>
+</ul>
+</li>
+<li><p>使用社群網站方便歸方便，思考著更深層的問題，所謂的安全性和隱私性似乎都蕩然無存，最麻煩的還是不時會被插入商業廣告，中央始終有個老大哥在監控整個社群，社群根本也不是真正存在自由度，大概也間接導致 mastodon 這類服務的興起，既然都會被管制言論，那就玩大一點啊，自己的社群乾脆自己架。</p>
+<ul>
+<li><a href="http://technews.tw/2017/05/16/twitter-new-liver-mastodon/" target="_blank" rel="external">社群網站 Twitter 不可小覷的挑戰者：去中心化的 Mastodon</a></li>
+</ul>
+</li>
+<li><p>支援批踢踢的搜尋工具，目前支援軟體版，留學版，和科技版。個人覺得比現在的手機版內建搜尋好用許多，尤其是開筆電瀏覽網站時。</p>
+<ul>
+<li><a href="https://github.com/billcccheng/ptt-search">billcccheng/ptt-search</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Medium 上的文章一向都頗具質量，Mybridge 會定期搜尋相關的熱門話題並把他們收錄在一塊，對於短時間內不想一直爬文，想要了解這個圈子發生了些什麼事會是不錯的資訊來源。<ul>
+<li><a href="https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-may-2017-945b12672719" target="_blank" rel="external">React.JS Top 10 Articles for the Past Month (v.May 2017)</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>國中時的神劇，卻沒拿到當年金鐘獎的任何一個獎，鋒頭全部被痞子英雄搶走，不是說誰好誰壞，沒辦法，商業片嗎。赫然想到桂綸鎂也在裡頭。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=vpaKVsnnFiM&amp;list=PL9do701rCbQzwjmlebZffsYM4mVw44SrJ&amp;index=32" target="_blank" rel="external">阿沁 - 波麗士大人 - 波麗士大人電視原聲帶 - 2008</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-18-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-18-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/18 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#23</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-23/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-23/</id>
+    <published>2017-05-28T15:27:56.000Z</published>
+    <updated>2017-05-28T15:29:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-17-Wesley’s-Digest-Collection"><a href="#2017-05-17-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/17 Wesley’s Digest Collection"></a>2017/05/17 Wesley’s Digest Collection</h4><ul>
+<li><p>大家都喜歡高測試覆蓋率，但是卻很少人喜歡寫測試，這句話具體的說明了軟體開發的老問題。筆者也不太喜歡寫測試，尤其是簡單的元件會動就好啦，寫測試的時間說不定比開發時間還要久。這樣的心態或許間接導致了日後軟體難以維護的事實，結果最後還是乾脆打掉重練，人生哪有這麼多美國時間讓你這樣搞？</p>
+<ul>
+<li><a href="http://teddy-chen-tw.blogspot.tw/2015/09/blog-post_28.html?m=1" target="_blank" rel="external">不要用憶測的方式來除錯</a></li>
+</ul>
+</li>
+<li><p>今早看到的輕巧版的前端開發工具，尚在開發中，Gulp 和 Grunt 似乎都蠻大包的，不一定是指容量大小方面，而是你需要的功能常常是最基本功能就能滿足現有需求，但光是要滿足此需求，卻必須額外去安裝一些 plugins，這對某些人來說會是一件心情不太美麗的事情。</p>
+<ul>
+<li><a href="https://pin.gy/cli/?utm_content=buffer762f4&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer" target="_blank" rel="external">PINGY CLI</a></li>
+</ul>
+</li>
+<li><p>Lea 女神的新作，也是筆者目前認為 CSS 的第一把交椅，看過她的 <a href="https://github.com/LeaVerou">Github page</a> 就可以知道這個人真的誇張猛。開發網頁真的越來越簡單了，筆者認為這是件好事，技術的門檻本來就不應該限制住一個人想做的事，藉由新工具的掌握讓自己能夠深入到自身未曾接觸過的領域，文明才真正再進化。</p>
+<ul>
+<li><a href="https://www.smashingmagazine.com/2017/05/introducing-mavo/" target="_blank" rel="external">Introducing Mavo: Create Web Apps Entirely By Writing HTML!</a></li>
+</ul>
+</li>
+<li><p><a href="http://blog-junyiacademy.org/2017/03/01/%E5%9D%87%E4%B8%80%E7%B6%B2%E7%AB%99%E8%B3%87%E6%96%99%E6%94%B6%E9%9B%86%E5%92%8C%E5%88%86%E6%9E%90%E6%9E%B6%E6%A7%8B%E4%B8%8A/" target="_blank" rel="external">上集在這裡</a>。均一教育平台的運作模式有點像是國外知名的 Khan Academy，雖然技術線可能不太一樣，但最終目的都是希望偏鄉小孩能不被資訊不對稱等外在影響，能夠受到更為全面的教育。筆者很喜歡看網站架構相關的文章，最難的就是要從無到有想出整個流程，這對菜鳥如筆者這類的工程師是尤其需要長期培養的能力。</p>
+<ul>
+<li><a href="http://blog-junyiacademy.org/2017/05/11/%E5%9D%87%E4%B8%80%E7%B6%B2%E7%AB%99-%E8%B3%87%E6%96%99%E6%94%B6%E9%9B%86%E5%92%8C%E5%88%86%E6%9E%90%E6%9E%B6%E6%A7%8B-%E4%B8%8B/" target="_blank" rel="external">均一網站 — 資料收集和分析架構 (下)</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>筆者覺得掘金這系列翻譯質量都有水準之上，雖然大家都說搞技術最好還是看英文為主，才能夠確保是最新的，但筆者也是人，偶爾也會想發懶，看點中文翻譯也無傷大雅。<ul>
+<li><a href="https://github.com/xitu/gold-miner">掘金翻译计划，翻译掘金上优质的英文文章</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>國中開始因為火影忍者而開始聽生物股長，三人組的樂團加上一把特別突出的口琴配吉他，整個音樂性十足。印象比較深刻的是高中音樂課表演想來點不一樣，於是上網找了琴譜彈了這首曲子。結果沒在時間內練起來，真正上台也只有彈到我練到的那部分，整首歌就斷尾了。人生中還沒這麼多次尷尬到不行的時候。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=v8lN_AGf_-c" target="_blank" rel="external">生物股長 - Sakura - 單曲 - 2006</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-17-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-17-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/17 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#22</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-22/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-22/</id>
+    <published>2017-05-28T15:27:53.000Z</published>
+    <updated>2017-05-28T15:29:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-16-Wesley’s-Digest-Collection"><a href="#2017-05-16-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/16 Wesley’s Digest Collection"></a>2017/05/16 Wesley’s Digest Collection</h4><ul>
+<li><p>對於每天最常掛在網上的工程師而言，Github 應該算是除了臉書之外最頻繁瀏覽的社群網站了，有必要藉著工具的輔助讓自己對這個生態圈更了解，這篇文章推坑了一卡車相關的工具和服務，其中 Zenhub 筆者認為相當不錯，尤其在公司內部開始在 jira 上導入 Kanban 看板，一直覺得 jira 不是那麼好用，而且公司幾乎每個工程師包含 PM 都有 Github 帳號，不好好善用一下太可惜了，Zenhub 用起來讓我有之前使用 Trello 的感覺，這樣的話每天就有更多時間和理由可以泡在 Github 上了。</p>
+<ul>
+<li><a href="https://github.com/github-serendipity/github-serendipity.github.io/issues/1">超实用工具，看老司机怎么把 Github 玩出花来</a></li>
+</ul>
+</li>
+<li><p>React Native 的推坑文，會有人認為 RN 是未來不是沒有原因的。講到這不得不提官方文件真的寫得很完整，看了很多入門的中譯教學文後還是搞不太懂在寫Ｘ小，回頭看文件果然是最佳解，真的是 Read The Fucking Manual。</p>
+<ul>
+<li><a href="https://medium.freecodecamp.com/after-building-my-first-react-native-app-im-now-convinced-it-s-the-future-d3c5e74f8fa8" target="_blank" rel="external">After building my first React Native app, I’m now convinced it’s the future.</a></li>
+</ul>
+</li>
+<li><p>最近面試文在筆者的同溫層到處飛來飛去，於是也來跟風一下，看篇文章壓壓驚。到底演算法等基礎 CS 知識在實際工作的日常項目重要與否，真的會用到嗎？文中作者有著不同的觀點，但筆者看完之後覺得，人生本來就很多事都是徒勞無功啊，但往往就是那些你當下以為徒勞無功的事在日後造成也許是間接也可能是重大的影響，如果不去接觸，那以後你錯過什麼你永遠不會知道。那些演算法能力值逆天，又兼具豐富實務開發經驗，這類人的數量其實並不少。掌握一定程度的演算法對工作或許不會有立即性的顯著效果，但至少你的邏輯會比別人更清楚，這類基本功會持續於大學基礎課程存在不是沒有道理的。也許作者的全文重點應該是這句話：面试的根本目的是找到”能够干好工作”的人，而“高学历”，“算法好”，“基础好”，“有经验”这些都是表象而不是根本，它们并不能直接和“工作好”划等号。如何更專注在提升用戶體驗上，能夠更有效率的把事情做完，而不是把事情做很快卻丟三落四。</p>
+<ul>
+<li><a href="http://www.cnblogs.com/weidagang2046/archive/2013/02/15/on-interview.html?utm_content=bufferc88d7&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer" target="_blank" rel="external">程序员面试什么最重要？</a></li>
+</ul>
+</li>
+<li><p>不是文章，純粹看到想做個分享，但裡頭也有不少程式碼可以研究研究。南部一直以來都是資訊沙漠，跟北部的發展好像永遠都會慢人家一拍，說是地域性的問題倒不確定，但可以很肯定的是，南部的社群風氣的確不像北部這麼熱絡，筆者回到台南工作之後，發現南部人其實不是吝於分享，而是單純的較為內向，認為自己還不夠好，分享技術這種事還是給更有能力的人去做吧。這也導致其實南部很多有著大神實力的人卻一直很低調，低調也不是件壞事啦，只是覺得還是想看看社群蓬勃發展的樣子。不過最近筆者終於發現台南也有 co-working space，叫<a href="goodideas-studio.com">好想工作室</a>，上禮拜去朝聖之後裡頭討論技術的氛圍真的超棒。希望有天台南除了美食和古蹟，還多了一個資訊能力很強的記憶點。</p>
+<ul>
+<li><a href="https://github.com/ReactMaker">ReactMaker</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>command line 可以說是工程師的靈魂所在，fish 提供了許多易用的指令，讓新手也比較不會感到挫折，往往很多人都是因為看到 cmd 黑漆漆的很可怕就拒之於千里之外，正因為如此才難以理解使用 cmd 的美妙之處。<ul>
+<li><a href="http://www.ruanyifeng.com/blog/2017/05/fish_shell.html" target="_blank" rel="external">Fish shell 入门教程</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>筆者一向不喜歡追太潮的東西，像是歌手或是樂團等等，不過程式語言和框架除外。上大學以前沒聽過太多中文歌，很多華語歌都是大學跟朋友夜唱聽到的，喜歡一首歌就跟喜歡一個人一樣，不需要太多理由。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=VEYVQmgWsIg" target="_blank" rel="external">蕭敬騰 - 只能想念你 - 漁人碼頭夏日狂想曲新歌演唱會 - 2011</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-16-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-16-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/16 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#21</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-21/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-21/</id>
+    <published>2017-05-28T15:27:51.000Z</published>
+    <updated>2017-05-28T15:29:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-15-Wesley’s-Digest-Collection"><a href="#2017-05-15-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/15 Wesley’s Digest Collection"></a>2017/05/15 Wesley’s Digest Collection</h4><ul>
+<li><p>英語始終是個令人頭痛的問題，工程師每天在查找的資料多半都是英文，沒有一定程度的字彙認知量，筆者認為這樣下去只會搞死自己，搞死自己還不要緊，最怕的是把公司項目搞砸，連 debug 都不知從何處起頭，最後還要同事來幫忙救火。</p>
+<ul>
+<li><a href="https://www.zhihu.com/question/55998388" target="_blank" rel="external">英语是否会成为开发工程师的发展瓶颈？</a></li>
+</ul>
+</li>
+<li><p>身為前端工程師，設計思維的知識掌握跟程式開發能力一樣重要。利器周報是個挺有意思的平台，收集了各種實際在日常生活中使用的工具，從旁觀察別人怎麼做事，檢討自己是否同樣落入沒有效率的窠臼也是門學問。</p>
+<ul>
+<li><a href="http://liqi.io/weekly59/" target="_blank" rel="external">利器周报｜这个灵感收集器，值得每一位设计师拥有</a></li>
+</ul>
+</li>
+<li><p>對話式的介面不斷的演進，從最早的 command line 到 GUI，每一種都有不同的擁護者，但筆者還是比較喜歡 cmd 的介面，功能強大又可以把很多事情簡單化許多。順帶一提，這個部落格翻譯了非常多兼具高質量的設計相關文章，對筆者來說幾乎是滿滿的乾貨，閒暇之餘可以多看看培養設計思維。</p>
+<ul>
+<li><a href="https://colachan.com/post/3536" target="_blank" rel="external">混合型界面:对话式UI的未来</a></li>
+</ul>
+</li>
+<li><p>主管會這麼大膽用一個非本科畢業的工程師，在那套冠冕堂皇的說詞背後，很可能只是單純找不到人，急需即戰力而已，更可能藉故把起薪調的超低而工程師本人卻毫不知情，這類事情筆者聽過的也蠻多，進去之前說的很漂亮一定會有人帶，結果進去之後發現根本沒有人會這套技術線，導致最後為求開發效率自己額外花錢去買線上課程下班自學。如果在一個安逸的地方待久了，幾乎都是用同樣的模式做同樣的事，上層沒有主動想改變的想法，下面做事的人沒有太多機會在新專案嘗試新技術，簡言之就是學不到新東西，用一年的同樣一套技術做了三年的經驗，那麼真的可以考慮跳槽了。</p>
+<ul>
+<li><a href="https://www.ptt.cc/bbs/Soft_Job/M.1494738085.A.8D8.html" target="_blank" rel="external">在小公司待不太下去</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>也是有段時間的教學，教你如何把 Github 免費的靜態頁面搭配 Hexo 自架一個部落格管理平台，此外 Hexo 是<a href="https://zespia.tw/blog/2012/10/11/hexo-debut/" target="_blank" rel="external">台灣人開發</a>的，找天來把部落格重新換個骨架玩玩看。<ul>
+<li><a href="https://speakerdeck.com/irene84111/shou-da-zao-ni-de-zhuan-shu-wang-zhi-nil-hexo-jian-jie-ji-jiao-xue" target="_blank" rel="external">一手打造你的專屬網誌－Hexo 簡介及教學</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>會知道麋先生好像是看了某年的金曲獎，算是間接得知。很難定義這團的風格，感覺有點像後搖滾，但筆者不是專業的，只覺得風格和力量很有日本樂團的味道，身上沒有其他團的影子，卻會想起 ONE ON ROCK 般的野獸派作風，台灣的獨立樂團真的各種曲風都有，屌。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=LUMGI6LtCqY" target="_blank" rel="external">麋先生Mixer - 麋途 - 沒名字的人類 - 2015</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-15-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-15-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/15 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#20</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-20/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-20/</id>
+    <published>2017-05-28T15:27:49.000Z</published>
+    <updated>2017-05-28T15:29:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-14-Wesley’s-Digest-Collection"><a href="#2017-05-14-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/14 Wesley’s Digest Collection"></a>2017/05/14 Wesley’s Digest Collection</h4><ul>
+<li><p>昨天半夜睡覺前在水管看到新的一集編輯者出了，真心推薦這一集。面試絕對不算是小事，影片中提到的 Codility 筆者還沒嘗試過這樣的面試流程，不過看了一下真的算神兵利器，節省的是面試雙方的時間和精力。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=JUtrUCyYPFs&amp;feature=youtu.be" target="_blank" rel="external">面試這檔事 | Talk | Editor 編輯者 #11</a></li>
+</ul>
+</li>
+<li><p>印象中在臉書看到的部落格，推薦演算法真的蠻會預測使用者的偏好和行為，仔細想想有點可怕。矽谷應該是所有搞軟體的工程師都想踏入的堂奧吧，現在還在努力也無妨，人若無名便可專心練劍。</p>
+<ul>
+<li><a href="https://dosudo.com/" target="_blank" rel="external">Dosudo 讀書肚</a></li>
+</ul>
+</li>
+<li><p>搞資安一直是個很酷的人生選項，這個頻道把 hackthissite 常見的練習題做過了一遍，可以參考他的解法試著練習一遍。是說駭客技巧這回事，不管在做前端或是後端系統都要特別謹慎，便利和危險往往只是一線之隔。</p>
+<ul>
+<li><a href="https://www.youtube.com/user/steven5538" target="_blank" rel="external">steven5538</a></li>
+</ul>
+</li>
+<li><p>高手果然來自民間，該平台在 UI 上做了很多細節上的調整，相當有質感。政府和人民之間本就是雙向溝通和互動的過程，彼此監督所作所為，筆者私心認為這也是台灣讓許多國家羨慕的民主機制。</p>
+<ul>
+<li><a href="https://medium.com/twreporter/%E6%88%91%E5%80%91%E5%A6%82%E4%BD%95%E8%A3%BD%E4%BD%9C-%E8%94%A1%E8%8B%B1%E6%96%87%E5%8B%9E%E5%8B%95%E6%94%BF%E7%AD%96%E8%BF%BD%E8%B9%A4%E5%B9%B3%E5%8F%B0-643a4d3dab01" target="_blank" rel="external">我們如何製作「蔡英文勞動政策追蹤平台」？</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>去年的舊文但相當有趣，那陣子大平台真的到處都是，能夠想到拿來做轉址服務也是蠻聰明的做法，也許之後又來個某個熱門話題也可以參照臨摹類似的作法。<ul>
+<li><a href="https://medium.com/@DcardLab/%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0-%E5%A4%A7%E5%B9%B3%E5%8F%B0-tw-514ee947f764" target="_blank" rel="external">如何打造.大平台.tw</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>這團的歌都輕飄飄的，同樣是聽不懂歌詞只聽曲風，好像真的是嗑了藥才寫得出這樣的歌，但聽起來很過癮。不過這首反倒是 remix 版本比較有感覺，原版反而太稀鬆平常了。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=0zUE1E3e7Mg" target="_blank" rel="external">Spangle call Lilli line “nano - TK kaleidoscope Remix” - SINCE2 - 2013</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-14-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-14-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/14 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#19</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-19/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-19/</id>
+    <published>2017-05-28T15:27:46.000Z</published>
+    <updated>2017-05-28T15:29:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-13-Wesley’s-Digest-Collection"><a href="#2017-05-13-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/13 Wesley’s Digest Collection"></a>2017/05/13 Wesley’s Digest Collection</h4><ul>
+<li><p>還沒接觸軟體以前，很難想像幾行程式碼中藏匿的臭蟲會成為後續事件的導火線，更別說造成類似火箭升空爆炸或是飛彈漏秒的意外，雖然筆者也認為劣質的 PM 忽略主動和開發團隊的溝通在估算開發時程所預留的時間有著同樣的殺傷力就是了。</p>
+<ul>
+<li><a href="https://hackmd.io/s/B1eo44C1-?utm_content=buffer1e354&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer" target="_blank" rel="external">軟體缺失導致的危害</a></li>
+</ul>
+</li>
+<li><p>昨天在一個前端社群看到有人分享的神作，看原始碼使用了極為大量的 SVG，使勁地滑會出現一個不斷旋轉的圓，滑到最後會出現什麼筆者不清楚，不過看起來圓圈會層層疊疊一直覆蓋上去。</p>
+<ul>
+<li><a href="http://www.narrowdesign.com/" target="_blank" rel="external">narrowdesign</a></li>
+</ul>
+</li>
+<li><p>從灣區看到摘錄，花了點時間看完原文。框架工具滿天飛，隨便一個路人都會寫點程式碼，這樣的情境在某些地方已經發生，當你寫的程式碼開始沒有品質可言，沒有足夠扎實的電腦科學知識基礎，你要如何不被取代？新創公司往往需要的是即戰力，所以會用傾向找擅長現行熱門框架的技術者，就算你是所謂的非本科像是筆者也無妨;但如果真的有心想衝一波大公司，學習 FLAG 這類更接近純軟的公司是怎麼做事的，那學習 DSA 絕對是必經之路。與其不斷抱怨，五年十年後還是在鳥公司徘徊遊走，倒不如多用點心在提升內功層面上。</p>
+<ul>
+<li><a href="https://rainsoft.io/the-path-of-software-development-craftsmanship/?utm_source=wanqu.co&amp;utm_campaign=Wanqu+Daily&amp;utm_medium=website" target="_blank" rel="external">The path of software development craftsmanship</a></li>
+</ul>
+</li>
+<li><p>實習本身是件極為有趣的事情，可以非常近距離的觀察到一間公司的運作日常，在一間新創公司尤其明顯。不過關於無薪實習筆者是覺得也相當值得嘗試，當然這番言論一定會被有心人士攻擊，但筆者是以一個純粹學習技術的角度切入，沒有人要為你的學習負責，更何況是出錢請你來這邊學習，就算今天這間公司真的賺不到什麼錢，白話一點說就是經營困難，但始終有股熱情讓你想待在這裡，那你就待啊，沒有人逼你，這是一個願打一個願挨的道理。</p>
+<ul>
+<li><a href="https://medium.com/@pa023315/%E5%85%AC%E5%8F%B8%E7%82%BA%E4%BB%80%E9%BA%BC%E5%BE%B5%E5%AF%A6%E7%BF%92%E7%94%9F-4d0eea4e536d" target="_blank" rel="external">公司為什麼徵實習生 ?</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>讓你可以在 mobile 上調試的一項好玩工具，算是一個移動端的 Chrome console，雖然現在測試手機畫面已經比過去簡單很多，在 Chrome 瀏覽器打個 chrome://inspect/ 然後接上裝置就可以開始 debug 了，但筆者始終認為工具本身沒有好壞之身，只有在各自合適的情況才能發揮出最大效益。<ul>
+<li><a href="https://github.com/liriliri/eruda">eruda</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>國小差不多十幾年前的歌了，記得當時每個地方都在播，比流行病散播的還要誇張，但總覺得 FIR 在台灣始終沒有很紅，大概是因為主唱跟蔡依林是大學同學，這樣的感覺才會更覺得明顯吧。第一張專輯幾乎每首拿出來都可以當主打，媲美當年剛出道就屌打樂壇的周杰倫，後來的曲風總是超越不了前作，儘管如此還是一個很棒的樂團，有時還會不小心把他們跟日本的生物股長認錯。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ZOHsd6Zk7DM&amp;index=7&amp;list=PLEmGDcbB6fK---UVRCXjPAztmibt-t9yd" target="_blank" rel="external">FIR - Lydia - FIR - 2004</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-13-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-13-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/13 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#18</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-18/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-18/</id>
+    <published>2017-05-28T15:27:43.000Z</published>
+    <updated>2017-05-28T15:29:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-12-Wesley’s-Digest-Collection"><a href="#2017-05-12-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/12 Wesley’s Digest Collection"></a>2017/05/12 Wesley’s Digest Collection</h4><ul>
+<li><p>基於 MIT License 的開源表格系統，相當好用，不僅分別提供了幾個常用框架像 Angular，Vue，React，jQuery 等等的整合，甚至還有一個所見即所得的線上版編輯器，應用層面顯得更廣。</p>
+<ul>
+<li><a href="https://github.com/surveyjs/surveyjs">surveyjs</a></li>
+</ul>
+</li>
+<li><p>Rails Guide 的官方文件，筆者剛好找到簡中版本的，偷懶看個中文，但這類文件如果要 follow 到最新還是誠心建議直接看原文，畢竟在網路世界尤其是使用 Github 交友網站時你傳的無論是 commit 或是 pull request 都是以英文為主，講到這個就覺得蠻可惜的，台灣人目前極少人會用英文進行程式相關文件撰寫，包含筆者，導致這東西其實超棒，卻因為語言隔閡而沒辦法獲得同樣的關注，訓練用英文進行寫作是有必要的。</p>
+<ul>
+<li><a href="https://rails.guide/book/contributing_to_ruby_on_rails.html#contributing-to-ruby-on-rails" target="_blank" rel="external">第 36 章 为 Ruby on Rails 做贡献</a></li>
+</ul>
+</li>
+<li><p>灣區日報上覺得不錯的文章，文中的開發者算是名副其實的一人公司，很多時候開發者都是自身在現實生活遇到的困難，進而寫程式寫代碼解決，而回到當初其實甚至沒有要創業的念頭，筆者很喜歡這種模式，活在問題當下的人往往就是解決問題的最佳人選。</p>
+<ul>
+<li><a href="https://www.indiehackers.com/businesses/park-io?utm_source=wanqu.co&amp;utm_campaign=Wanqu+Daily&amp;utm_medium=website" target="_blank" rel="external">park.io</a></li>
+</ul>
+</li>
+<li><p>各種學習的心智圖，內容涵蓋非常多領域，資安，生物，歷史，法律等等應有盡有，可以說是線上版的百科全書。筆者有時會思考大學教育到底學會了什麼，畢竟自己是非本科轉換跑道的，最近才比較有感，覺得大學最重要的不是知識技能，而是教會自己如何獨立思考，learn to how learn 的概念。</p>
+<ul>
+<li><a href="https://github.com/nikitavoloboev/knowledge-map">knowledge-map</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>鬼神般的開發工具，在做 UI 的同時可以選擇直接轉成 Swift 程式碼輸出，昨天甚至官方還宣布開始支援 <a href="https://twitter.com/zeplin_io/status/862332986443927553" target="_blank" rel="external">React Native</a> 的 code snippet，對設計師和工程師而言都是一個不錯的嘗試機會和挑戰。<ul>
+<li><a href="https://zeplin.io/" target="_blank" rel="external">zeplin</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>前幾個禮拜住宿處的網路壞掉，原本壞掉覺得很不方便，後來發現可以不用被網路所束縛住好像也不錯，但不知為何卻開始下班看 K-On! 的日子了，記得這部剛推出時沒有追，劇中人物跟筆者應該算是同年齡左右，對於這種有校園有樂團等元素的動畫來說，對一個工程師的下班生活真的挺紓壓的。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=q-_vNyfuBDA" target="_blank" rel="external">K-On! - 我的戀愛是釘書機 - Kyoto Animation - 2009</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-12-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-12-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/12 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#17</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-17/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-17/</id>
+    <published>2017-05-28T15:27:40.000Z</published>
+    <updated>2017-05-28T15:28:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-11-Wesley’s-Digest-Collection"><a href="#2017-05-11-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/11 Wesley’s Digest Collection"></a>2017/05/11 Wesley’s Digest Collection</h4><ul>
+<li><p>JavaScript 要上手很容易，但要精通就要花很多力氣，這個當初只花了十天就做出來的語言現在看來真的蠻多奇葩的特性，還好現在有 ES6 等現代開發手法試圖彌補 JS 本身的缺陷，儘管如此還是難免覺得這個圈子變化太奇妙了。</p>
+<ul>
+<li><a href="http://yulun.me/2014/5-typical-javascript-interview-questions/" target="_blank" rel="external">5 個 JavaScript 面試常見問題</a></li>
+</ul>
+</li>
+<li><p>開源好棒棒的後台系統，對於非開發人員，像是常常需要看數據報表的業務分析人員也提供相當友善的操作介面，稍微看了一下對於常見的 MySQL 和 PostgreSQL 也都有支援。</p>
+<ul>
+<li><a href="https://github.com/metabase/metabase">metabase</a></li>
+</ul>
+</li>
+<li><p>感覺是大神級的開發者，寫了超多間公司的面試心得文，筆者對於其中幾間原本印象還算不錯，卻因為這篇經歷文一一被推翻了。不過一個好的面試流程對供需雙方都是必要的，這點在目前的台灣還有蠻多改善空間的。</p>
+<ul>
+<li><a href="https://www.ptt.cc/bbs/Soft_Job/M.1451695803.A.2B4.html" target="_blank" rel="external">前端/Front-End/F2E面試心得分享(22間)</a></li>
+</ul>
+</li>
+<li><p>系列文，作者是一位機械系的非本科開發者，而後靠著自身熱情鑽研現在於 Google 任職。離開學校之後發現什麼新東西，新技術，都得要靠自己鞭策自己，否則很容易淪陷於薪水多寡本身，而忽略當時追求頂尖的那個初衷。</p>
+<ul>
+<li><a href="https://medium.com/@fchern/%E9%97%9C%E6%96%BC%E8%AE%8A%E5%BC%B7%E9%80%99%E6%AA%94%E4%BA%8B-%E5%85%AD-6402cef83bf0" target="_blank" rel="external">關於變強這檔事（六）</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>egghead 網站提供的有關開源貢獻的免費教學，對於每天都在網路上晃來晃去的筆者，在做專案或是自己的 side projects 總會用到別人寫的套件或是開源碼，看懂別人寫的程式碼很重要，但也許你可以做更多一點，主動協助維護，剛開始從幫忙改文件也好，循序漸進是好事，然後漸漸的你也能夠幫忙開發新功能，參與開源社群的討論算是魚幫水水幫魚的一件事。<ul>
+<li><a href="https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github" target="_blank" rel="external">How to Contribute to an Open Source Project on GitHub</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>轉眼也快二十年，感覺也才一眨眼而已，1999 年出了陶喆，2000 年來了周杰倫，華語歌壇算是迎來了那時的黃金年代，R&amp;B 風格的曲風就算拿到現在來聽還是不落俗套，耐聽程度可見一斑。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ngiq6uOA8f8&amp;list=PL9do701rCbQzwjmlebZffsYM4mVw44SrJ&amp;index=23" target="_blank" rel="external">陶喆 - 小鎮姑娘 - I’m ok - 1999</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-11-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-11-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/11 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#16</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-16/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-16/</id>
+    <published>2017-05-28T15:27:38.000Z</published>
+    <updated>2017-05-28T15:28:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-05-10-Wesley’s-Digest-Collection"><a href="#2017-05-10-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/10 Wesley’s Digest Collection"></a>2017/05/10 Wesley’s Digest Collection</h4><ul>
+<li><p>該文介紹的日常開發工具筆者大概七成以上都使用過，有些是進公司之前就很常使用的 Sublime，不過也蠻多是在進公司之後，團隊需要遠端協作而使用的，尤其是 UI 設計師人在香港，開發 team 在台灣的這種窘境更是需要合適的工具導入。</p>
+<ul>
+<li><a href="https://blog.prototypr.io/my-list-of-essential-tools-and-apps-for-design-front-end-development-9e5fd02b3d07" target="_blank" rel="external">My list of essential tools and apps for design &amp; front-end development</a></li>
+</ul>
+</li>
+<li><p>原生 CSS 終於可以寫變量了，看了一下各家瀏覽器廠商的支援度大約七成，主流的版本幾乎都有實做了這項功能，筆者之前用過 Sass 等 prepocessor 協助撰寫 CSS，讓 CSS 的規格與時俱進是必要的。</p>
+<ul>
+<li><a href="http://www.ruanyifeng.com/blog/2017/05/css-variables.html" target="_blank" rel="external">CSS 变量教程</a></li>
+</ul>
+</li>
+<li><p>在社群看到的一篇有趣文章，算是小知識系列，每天開啟網頁之後一併打開 console 幾乎是筆者每天工作的序幕，user-agent 每回都會看到，卻沒感到任何異常，可能是筆者神經比較大條沒特別的 fu，不過各家瀏覽器大戰的那個年代真的是蠻亂的，什麼標準都不一致，各家廠商都各走自己的陽關道，搞的開發者比開發商還累人。</p>
+<ul>
+<li><a href="https://yulun.me/2013/mozilla5-0-always-user-agent-string/" target="_blank" rel="external">為什麼瀏覽器 user-agent string 總是包含 Mozilla/5.0 ?</a></li>
+</ul>
+</li>
+<li><p>關於 UX / UI 設計的議題，筆者認為對於前端工作者也相當受用，前端的角色常常需要在 UI 設計師和工程端取得一個平衡，很多時候在設計像是公司內部系統而 UI 沒給設計稿，這時就要自立自強，自己想像整個流程和畫面了。</p>
+<ul>
+<li><a href="https://uxdesign.cc/design-better-data-tables-4ecc99d23356" target="_blank" rel="external">Design Better Data Tables</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>當消遣看看吧，前幾天才看到 StackOverflow 的調查，男性工程師佔了整個社群的九成以上，女性工程師就數字觀點而言確實是相對弱勢，像是筆者公司最近收了一位 ios 開發的女工程師，原本大家中午吃飯都各自吃各自的，現在都揪團出發，可見女性在整個職場的影響力。<ul>
+<li><a href="https://www.zhihu.com/question/37787176" target="_blank" rel="external">当一个颜值很高的程序员是怎样一番体验？</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>好像是國中還是高中聽到的，單純因為光陰的故事喜歡上這首歌，不過好像再怎麼聽也回不到過去，就跟筆者明明看了棋靈王全集快五遍，但怎麼看都還是不會下圍棋是一樣的道理。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=kwX-nw1bhcU&amp;index=20&amp;list=PL9do701rCbQzwjmlebZffsYM4mVw44SrJ" target="_blank" rel="external">張震嶽 &amp; 林芯儀 - 回到過去 - 光陰的故事原聲帶 - 2009</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-05-10-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-10-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/10 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
