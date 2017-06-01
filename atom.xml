@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-05-31T05:34:27.000Z</updated>
+  <updated>2017-06-01T03:02:23.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#38</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/06/01/Wesley-Daily-Digest-38/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/06/01/Wesley-Daily-Digest-38/</id>
+    <published>2017-06-01T03:01:41.000Z</published>
+    <updated>2017-06-01T03:02:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-06-01-Wesley’s-Digest-Collection"><a href="#2017-06-01-Wesley’s-Digest-Collection" class="headerlink" title="2017/06/01 Wesley’s Digest Collection"></a>2017/06/01 Wesley’s Digest Collection</h4><ul>
+<li><p>這篇讀下來真的通體舒暢，比筆者主管解釋得還清楚，不知道這樣講會不會被打。前幾個禮拜和同樣在新創當工程師的朋友吃了個飯，聊到有關使用者認證這塊時好像有志一同都是使用 JWT 去實作，由此可見目前的通用性。原先也覺得把使用者資訊放在中間那段 payload 直覺就超不安全，但重點還是在第三部分的那段簽章，確實能夠同時做到降低 server 端連線和請求的開銷。</p>
+<ul>
+<li><a href="https://yami.io/jwt/" target="_blank" rel="external">以 JSON Web Token 替代傳統 Token</a></li>
+</ul>
+</li>
+<li><p>內容目前還不多，但行文相當簡潔，直截了當的舉出同樣的情境下用 jQuery 和 Vue 實作個別會是長什麼樣子，透過這種比較的方式其實也更容易理解新框架所帶來的新效益。</p>
+<ul>
+<li><a href="https://teed7334-restore.gitbooks.io/-jquery-vue-js-rx-js/content/" target="_blank" rel="external">給jQuery愛好者的Vue.js 2教學手冊</a></li>
+</ul>
+</li>
+<li><p>這讓我想到一位曾短暫共事過的同事，年紀很輕，感覺也很有膽識，後來也真的跳槽了，薪水根據他的說法也是越跳越高，奇怪的是每間公司卻都待不久，佔了個位置之後又總是說著哪間公司要挖角他。殊不知當天和另位同事面試他時，竟然連最基本的 CSS 都寫不出來，題目內容沒有任何一點刻意刁難的成分，這件事始終讓我困惑至今。</p>
+<ul>
+<li><a href="http://smalltalk.niclin.tw/posts/1898732-difference-between-beijing-and-taipei" target="_blank" rel="external">北京工作與台北的差別</a></li>
+</ul>
+</li>
+<li><p>習慣用 Flex 排版之後開始覺得自己以前切版不知道在切三小，真的太好用了，而這篇整理了有關 flexbox 一些常用的元件，算是常見的設計模式實踐，可以很輕易的，幾乎不會造成衝突的直接套用到已經開始使用 flex 排版的頁面。</p>
+<ul>
+<li><a href="http://www.flexboxpatterns.com/home" target="_blank" rel="external">Flexbox Patterns</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>自從公司開始用 Slack 之後，和同事之間的言談之間總會加入不少 emoji 和 gif 圖戰來戰去，整個超白爛但也莫名好玩。能夠做到可以號稱動圖界的第一把交椅也算是把 Google 打掉了，文中提到的這段話確確實實描述了我們這代人對於一些網路服務的第一印象：Giphy 是動圖搜尋第一入口，如同 Google 之於內容搜尋，YouTube 之於影片，Pinterest 之於圖片搜尋。<ul>
+<li><a href="https://www.bnext.com.tw/article/44710/giphy" target="_blank" rel="external">不只要坐GIF界的Google，Giphy想要成為一家娛樂公司</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>有陣子會不自覺開這首歌聽個好幾遍，可能是在想一個人，也可能是單純打發時間。講到這又突然想到今年跟朋友跑去小琉球跨年，記得當天晚上沒什麼光害，星星炸的到處都是，然後看到月亮旁邊有顆超亮但看起來又不像星星的星星，才發現原來夜空中最亮的星，是金星。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=fzuy63eCUKc" target="_blank" rel="external">逃跑計劃 - 夜空中最亮的星 - 世界 - 2011</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-06-01-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-01-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/01 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#37</title>
@@ -959,56 +1009,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-05-13-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-13-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/13 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#18</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-18/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-18/</id>
-    <published>2017-05-28T15:27:43.000Z</published>
-    <updated>2017-05-28T15:29:13.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-05-12-Wesley’s-Digest-Collection"><a href="#2017-05-12-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/12 Wesley’s Digest Collection"></a>2017/05/12 Wesley’s Digest Collection</h4><ul>
-<li><p>基於 MIT License 的開源表格系統，相當好用，不僅分別提供了幾個常用框架像 Angular，Vue，React，jQuery 等等的整合，甚至還有一個所見即所得的線上版編輯器，應用層面顯得更廣。</p>
-<ul>
-<li><a href="https://github.com/surveyjs/surveyjs">surveyjs</a></li>
-</ul>
-</li>
-<li><p>Rails Guide 的官方文件，筆者剛好找到簡中版本的，偷懶看個中文，但這類文件如果要 follow 到最新還是誠心建議直接看原文，畢竟在網路世界尤其是使用 Github 交友網站時你傳的無論是 commit 或是 pull request 都是以英文為主，講到這個就覺得蠻可惜的，台灣人目前極少人會用英文進行程式相關文件撰寫，包含筆者，導致這東西其實超棒，卻因為語言隔閡而沒辦法獲得同樣的關注，訓練用英文進行寫作是有必要的。</p>
-<ul>
-<li><a href="https://rails.guide/book/contributing_to_ruby_on_rails.html#contributing-to-ruby-on-rails" target="_blank" rel="external">第 36 章 为 Ruby on Rails 做贡献</a></li>
-</ul>
-</li>
-<li><p>灣區日報上覺得不錯的文章，文中的開發者算是名副其實的一人公司，很多時候開發者都是自身在現實生活遇到的困難，進而寫程式寫代碼解決，而回到當初其實甚至沒有要創業的念頭，筆者很喜歡這種模式，活在問題當下的人往往就是解決問題的最佳人選。</p>
-<ul>
-<li><a href="https://www.indiehackers.com/businesses/park-io?utm_source=wanqu.co&amp;utm_campaign=Wanqu+Daily&amp;utm_medium=website" target="_blank" rel="external">park.io</a></li>
-</ul>
-</li>
-<li><p>各種學習的心智圖，內容涵蓋非常多領域，資安，生物，歷史，法律等等應有盡有，可以說是線上版的百科全書。筆者有時會思考大學教育到底學會了什麼，畢竟自己是非本科轉換跑道的，最近才比較有感，覺得大學最重要的不是知識技能，而是教會自己如何獨立思考，learn to how learn 的概念。</p>
-<ul>
-<li><a href="https://github.com/nikitavoloboev/knowledge-map">knowledge-map</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>鬼神般的開發工具，在做 UI 的同時可以選擇直接轉成 Swift 程式碼輸出，昨天甚至官方還宣布開始支援 <a href="https://twitter.com/zeplin_io/status/862332986443927553" target="_blank" rel="external">React Native</a> 的 code snippet，對設計師和工程師而言都是一個不錯的嘗試機會和挑戰。<ul>
-<li><a href="https://zeplin.io/" target="_blank" rel="external">zeplin</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>前幾個禮拜住宿處的網路壞掉，原本壞掉覺得很不方便，後來發現可以不用被網路所束縛住好像也不錯，但不知為何卻開始下班看 K-On! 的日子了，記得這部剛推出時沒有追，劇中人物跟筆者應該算是同年齡左右，對於這種有校園有樂團等元素的動畫來說，對一個工程師的下班生活真的挺紓壓的。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=q-_vNyfuBDA" target="_blank" rel="external">K-On! - 我的戀愛是釘書機 - Kyoto Animation - 2009</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-05-12-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-12-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/12 Wesley’
     
     </summary>
     
