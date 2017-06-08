@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-06-07T04:31:41.000Z</updated>
+  <updated>2017-06-08T05:42:06.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#45</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/06/08/Wesley-Daily-Digest-45/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/06/08/Wesley-Daily-Digest-45/</id>
+    <published>2017-06-08T05:41:53.000Z</published>
+    <updated>2017-06-08T05:42:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-06-08-Wesley’s-Digest-Collection"><a href="#2017-06-08-Wesley’s-Digest-Collection" class="headerlink" title="2017/06/08 Wesley’s Digest Collection"></a>2017/06/08 Wesley’s Digest Collection</h4><ul>
+<li><p>使用 CSS 去做垂直置中可以說是每個寫網頁的人都經歷過類似的 suffer，甚至還有這個 generator 根據需求動態去生樣式，一堆招數啊，一堆奇技淫巧啊，人類都快到火星殖民了結果連搞個垂直水平置中還可以這麼痛苦。這時真的要好好感謝 flexbox 的出現拯救了許多原本會被浪費的青春和人生，雖然在 CSS 設計上筆者依然是個苦手，很多寫程式的好像都看不起會切版的，但筆者始終是認為術業有專攻，切版要兼顧的細節不會少於寫 JS 的複雜度，再說現在主流是重視 UI 遠勝於過去只重視單一功能性，一個風水輪流轉的概念啊。</p>
+<ul>
+<li><a href="http://howtocenterincss.com/" target="_blank" rel="external">HOW TO CENTER IN CSS</a></li>
+</ul>
+</li>
+<li><p>實用啊，想起去年剛 on-board 跟後端還不熟悉的情況下，討論要接 API 時一直接不順利，後來看 console 一目了然馬上得知是 CORS 老問題，於是便低聲下氣的跑去跟後端溝通，後來找到<a href="https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi" target="_blank" rel="external">這個</a>就能避掉跨網域問題，但不能要求使用者為了開你的東西之前還要先裝個外掛吧，目前的最佳解八九不離十還是直接從後端搞定最快，儘管如此這篇文章涵蓋的內容在多數開發情境依然很受用。</p>
+<ul>
+<li><a href="https://kuro.tw/posts/2017/06/07/%E5%A6%82%E4%BD%95%E5%9C%A8-Vue-CLI-%E5%BB%BA%E7%AB%8B%E7%9A%84%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83%E5%91%BC%E5%8F%AB%E8%B7%A8%E5%9F%9F%E9%81%A0%E7%AB%AF-RESTful-APIs/" target="_blank" rel="external">如何在 Vue-CLI 建立的開發環境呼叫跨域遠端 RESTful APIs</a></li>
+</ul>
+</li>
+<li><p>曾經聽業界一位前輩說過，如果去不了 FLAG 這些軟體界最頂尖的公司，那去搞博弈和色情產業的網站同樣讓你荷包賺飽飽，甚至讓你成為人們口中的大神。這句話的真實性是有很多人背書過的，porn site 應該也是少數在整體環境經濟不景氣還能逆勢成長的網站，原因可想而知。每天要面對這麼多的請求和訪問量，伺服器和網站架構如果沒有足夠的穩定性和彈性是無法支撐的，背後的學問可不是開玩笑的複雜。</p>
+<ul>
+<li><a href="https://buzzorange.com/techorange/2017/04/06/porn-site-information-security/" target="_blank" rel="external">全球最大色情網站 Pornhub 全面加密，再也不怕 A 片瀏覽記錄被看到啦！</a></li>
+</ul>
+</li>
+<li><p>像 Telegram 的開發團隊，極為精簡的編制，各個都是能力值足以一挑百的神級工程師，你卻甚至連人家總部在哪都不知道，矽谷以外的世界各地還是有著各式各樣的可能性，就概念就好像過去老一輩的人會說最優秀的人都是那些海歸人，而不會是那些繼續留在本土默默耕耘的人，這觀念根深柢固，要反轉幾乎是不太可能的，但活在這當世依然有著許多好處，大可以不用管太多人的眼光，堅持走自己的路，持續地走，總會有認同的人追隨的。</p>
+<ul>
+<li><a href="https://nextdesignhub.com/2017/06/05/%E5%85%A8%E7%90%83%E5%89%B5%E6%A5%AD%E5%A0%B1%E5%91%8A%EF%BC%9A%E7%9F%BD%E8%B0%B7%E4%B8%8D%E5%86%8D%E6%98%AF%E4%B8%96%E7%95%8C%E4%BA%BA%E6%89%8D%E7%9A%84%E7%AC%AC%E4%B8%80%E9%81%B8%E6%93%87/" target="_blank" rel="external">全球創業報告：矽谷不再是世界人才的第一選擇</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>從這間公司到跳槽至下一間新公司，到底有哪些誘因直接或是間接造成一個工程師的離開呢？薪資或許是主要因素，如果在剛加入公司時沒談好底線太早亮出籌碼很容易就被對方吃的死死的，就算接下來想往上談也不是特別容易的一件事。個人覺得最讚的是這句：你一個框架用了N年了，卻連一行源碼都沒讀過？如果它是你女朋友，估計早該分手了。<ul>
+<li><a href="https://www.oschina.net/news/85558/whats-the-core-competitiveness-of-programmers" target="_blank" rel="external">程序员最核心的竞争力是什么？</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>主唱音色很不尋常，但比起那更值得一提的是他同時是兩個樂團的主唱，還曾經幹過兩個樂團的歌曲同時攻佔日本公信榜的前五名，才華洋溢到一個不行，雖然之前也傳過不少負面新聞，但不能否認音樂方面的確很有 sense 這個事實。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=C6-AN8J385c&amp;index=53&amp;list=PL9do701rCbQzwjmlebZffsYM4mVw44SrJ" target="_blank" rel="external">ゲスの極み乙女。 - ロマンスがありあまる - 両成敗 - 2016</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-06-08-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-08-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/08 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#44</title>
@@ -959,56 +1009,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-05-20-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-20-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/20 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#25</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-25/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-25/</id>
-    <published>2017-05-28T15:28:01.000Z</published>
-    <updated>2017-05-28T15:30:16.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-05-19-Wesley’s-Digest-Collection"><a href="#2017-05-19-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/19 Wesley’s Digest Collection"></a>2017/05/19 Wesley’s Digest Collection</h4><ul>
-<li><p>一直以來都有意無意的試圖找看看有無 Dcard 官方提供的 API 接口，不過一直毫無所獲，昨天看到有人很好心的 Dcard API 打包了起來，筆者實測是可以真的抓到資料的，不過這好像是廢話。</p>
-<ul>
-<li><a href="https://github.com/Larry850806/Dcard-API">Larry850806/Dcard-API</a></li>
-</ul>
-</li>
-<li><p>筆者大概是資質太駑鈍了，這個禮拜在玩 React Native，也漸漸玩到 Redux 這塊，不過爬了好多文都覺得根本在看天書，官方文件似乎寫的不錯但大概是前備知識還不夠格吧，好不容易終於找到一篇老嫗能解的，要踏入 React 這領域還蠻多障礙要跨過的，太多新的知識點和新技術要掌握，幾乎要整套相關的生態圈都要去玩玩看才能把它的能量發揮到最大，否則簡單的網頁應用還是乖乖用 jQuey 吧，工具沒有優劣之分，jQuery 開創了一個偉大的 JS 時代，沒有它不會有現在前端的蓬勃發展。視工作和時間多寡情況而定並把事情確實做完才是工程師的本質核心，現實點就是 User 壓跟不會去鳥你背後用什麼技術實作。</p>
-<ul>
-<li><a href="http://www.jianshu.com/p/fc66564e3743" target="_blank" rel="external">Redux学习笔记（1）简单使用</a></li>
-</ul>
-</li>
-<li><p>文摘好像不一定都得要記錄程式相關的文章，了解自身以外的領域也是相當重要的課題，不管是對於自己的人生或是世界觀都是。這樣客觀的描述歷史事件和歷史事實筆者認為這才是歷史教育的核心價值，最賭爛也最不想看到的還是那些試圖竄改歷史事實的黨派。</p>
-<ul>
-<li><a href="http://forgetfulbc.blogspot.tw/2017/05/world.html?m=1" target="_blank" rel="external">用19分鐘看完整個世界歷史</a></li>
-</ul>
-</li>
-<li><p>可以很方便做到讓初來乍到網站的使用者進行簡單的導覽，如果不想自己刻或是礙於專案死線壓力會是不錯的工具。</p>
-<ul>
-<li><a href="http://eragonj.github.io/Trip.js/" target="_blank" rel="external">Trip.js</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>去年筆者還在當草莓兵，有時晚上會開放手機，記得那時同袍拿著手機問我知不知道 PPAP，筆者完全沒聽過，看完影片發現這到底是Ｘ小。不過這類用純 CSS ，沒用到半點 JavaScript 完成動畫的作品每次看程式碼都覺得作者功力大概是很深厚。<ul>
-<li><a href="http://codepen.io/WeiChiaChang/pen/woNgJP?editors=1100" target="_blank" rel="external">PPAP</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>筆者人生買的第一張日文專輯就是大塚愛，國中還在學鋼琴時聽鋼琴老師蠻喜歡她的，後來還學了這首的鋼琴曲，後來就殺去光南買來聽看看其其他的作品，算是個人風格非常強烈的類型。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=yUL-KrF05-I" target="_blank" rel="external">大塚愛 - 金魚花火 - 金魚花火 - 2004</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-05-19-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-19-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/19 Wesley’
     
     </summary>
     
