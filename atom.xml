@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-06-12T04:51:23.000Z</updated>
+  <updated>2017-06-13T00:37:21.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#50</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/06/13/Wesley-Daily-Digest-50/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/06/13/Wesley-Daily-Digest-50/</id>
+    <published>2017-06-13T00:37:03.000Z</published>
+    <updated>2017-06-13T00:37:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-06-13-Wesley’s-Digest-Collection"><a href="#2017-06-13-Wesley’s-Digest-Collection" class="headerlink" title="2017/06/13 Wesley’s Digest Collection"></a>2017/06/13 Wesley’s Digest Collection</h4><ul>
+<li><p>文中舉出的手機 UI 改版一例也讓筆者覺得訝異，原先也是預期會是大圖取向的設計會更吸引使用者，但最後結果條列式的勝出，原因是大圖版反而會造成瀏覽困難。A/B Test 最為有趣的部分在於你永遠不會知道使用者的習慣與喜好，因為很多時候甚至連使用者本身都不清楚自己真正需要的是什麼，要把這些資料量化成實際可用，有用的資訊，勢必要歷經一關關的抽絲剝繭和一道道繁複繁瑣的流程，but it always demanding but rewarding。</p>
+<ul>
+<li><a href="https://medium.com/asiayo-engineering/a-b-testing-%E4%BD%A0%E7%9C%9F%E7%9A%84%E5%81%9A%E5%B0%8D%E4%BA%86%E5%97%8E-%E7%94%A2%E5%93%81%E9%96%8B%E7%99%BC%E5%9C%98%E9%9A%8A%E5%BF%85%E6%87%82%E7%9A%84%E4%BA%94%E5%A4%A7%E6%96%B9%E6%B3%95%E8%AB%96-2da1d20c2678" target="_blank" rel="external">A/B testing 你真的做對了嗎？產品開發團隊必懂的五大方法論</a></li>
+</ul>
+</li>
+<li><p>會喜歡日本品牌除了穩定的品質以外，其實大概有份特殊情感存在，小時候有 Nintendo 和 Play Station 電玩系列伴隨長大，成年後開始玩智慧型手機，明明有更潮更 fancy 的 iphone 可以選擇，但念舊如筆者面臨換機還是堅持使用 SONY 等日本牌子，說穿了也只是覺得某樣東西就應該要有這樣的質量才夠格稱自己作產品，否則都只是隨處隨便可取代的免洗筷。</p>
+<ul>
+<li><a href="https://www.cool3c.com/article/124907" target="_blank" rel="external">[品牌大傳奇] 從日本到台灣 體驗感動BALMUDA 與寺尾玄的職人之道</a></li>
+</ul>
+</li>
+<li><p>從幾件事情可以試圖了解新手和資深設計師的設計歷程有什麼差異：新手會繞很久以後最後急轉彎到達目標；而資深設計師會分階段，先看起點和終點，但不會一次就做到終點，必要性有目的的探索，做幾個假設再驗證，看清楚題目、設計限制，設足夠的假設點。UX 是關於人的事情，而人，本身就是無比複雜的，試誤法也常常成為必經之路，意見不合也是家常便飯，但一旦彼此認知到都是以同樣一件事為目標而吵架而討論，做該做的事就是 priority，那麼對公司對團隊都是一件好事，因為也代表足夠重視。</p>
+<ul>
+<li><a href="http://www.ditldesign.com/news/2017/6/11/ux" target="_blank" rel="external">UX角色的美麗與哀愁 / AJA陳文剛、Trendmicro游欣</a></li>
+</ul>
+</li>
+<li><p>一言以蔽之，一般而言，標準差愈大，表示漲跌較劇烈，風險程度也較大，而那類產品通常都有大起大落的趨勢。複習大學重修一年的統計學，那時還特別下過不少功夫，雖然現在看來都像外星文。不過懂點統計對生活也是有益無害的，開始工作一堆朋友都在問有沒有考慮投資或是買股票等等，筆者以前沒想過這塊，金融市場向來都是利口巨鱷，尤其是華爾街那群交易員，一個原則，沒有人會做對自己完全沒有任何利益的事情，或多或少都有油水可以撈才會真的跳下海做。</p>
+<ul>
+<li><a href="https://hellolynn.hpd.io/2017/05/27/%E4%BB%80%E9%BA%BC%E6%98%AF%E5%9F%BA%E9%87%91%EF%BC%9F%E8%AE%8A%E7%95%B0%E6%95%B8%E6%A8%99%E6%BA%96%E5%B7%AE%EF%BC%9F-%E8%B6%85%E7%B0%A1/" target="_blank" rel="external">什麼是基金？變異數/標準差拿來衡量風險？—超簡單介紹</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>必須說一句，潮流寫的未必會真正成為未來趨勢，可能不會是現在，但也很可能是三到五年之後才普及，這觀點就跟一樣美感很有關聯性啊，唐朝人眼中所謂的美是帶點豐腴的身材，搭配神秘的蛾翅眉，但時間軸拉到現代大概會被打入冷宮。筆者個人是主觀偏愛手繪風的設計，像是 Dropbox，有人說過科技這回事要降低門檻和隔閡，就必須要做到老嫗能解，老朋友小朋友都能輕易理解的程度才是現代科技要努力的方向。<ul>
+<li><a href="https://nextdesignhub.com/2017/06/01/2017%E5%9C%96%E5%83%8F%E8%A8%AD%E8%A8%88%E6%BD%AE%E6%B5%81/" target="_blank" rel="external">2017圖像設計潮流</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>魯路修從來沒看完過，很多日本動畫都是只聽片頭片尾曲，劇情什麼的很少真正會去認真追完，不過如果以這種態度去對待你的另一半或是女朋友，估計分手也是遲早的事。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=oXwrFZmIuAY" target="_blank" rel="external">FLOW - COLORS - Flow Anime Best - 2011</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-06-13-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-13-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/13 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#49</title>
@@ -959,56 +1009,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-05-25-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-25-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/25 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#30</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-30/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/05/28/Wesley-Daily-Digest-30/</id>
-    <published>2017-05-28T15:28:13.000Z</published>
-    <updated>2017-05-28T15:30:58.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-05-24-Wesley’s-Digest-Collection"><a href="#2017-05-24-Wesley’s-Digest-Collection" class="headerlink" title="2017/05/24 Wesley’s Digest Collection"></a>2017/05/24 Wesley’s Digest Collection</h4><ul>
-<li><p>筆者原先還在北部唸書看這篇文章是很有感的，但現在回南部當碼農之後這樣的情緒似乎就不像以前這麼強烈，不過工作際遇這種事情還難說，或多或少都對海外工作有種憧憬和想像。</p>
-<ul>
-<li><a href="https://www.ptt.cc/bbs/Oversea_Job/M.1377583554.A.1A7.html" target="_blank" rel="external">各位在海外工作的朋友</a></li>
-</ul>
-</li>
-<li><p>了解 UI 設計師的日常工作項目對於和工程師之間的交流絕對是有益無害，多看看別人怎麼做事的，某方面某種程度也能夠降低對於一個行業的誤解，類似啊不就畫個圖畫個 icon 這類沒概念沒腦的話就可以少一點，溝通也會更順利。</p>
-<ul>
-<li><a href="https://medium.com/as-a-product-designer/design-system-practice-f460a60c5169" target="_blank" rel="external">Design System Practice 初次設計系統經驗分享</a></li>
-</ul>
-</li>
-<li><p>之前曾看過有人聲稱做網站做前後端的工程師根本不需要懂所謂的演算法也能做事，是啊，是也能做事，不過很多時候做出來的東西像狗屎罷了，如果那樣的東西你要的話，筆者就曾經在面試前端工作時被問過快速排序法，不能說是非本科出身所以不懂是可以被接受的，有這樣的心態哪天無預警被取代也是再正常不過了。</p>
-<ul>
-<li><a href="https://buzzorange.com/techorange/2015/05/12/the-real-10-algorithms-that-dominate-our-world/" target="_blank" rel="external">個人意見：這十個演算法，才是真的改變世界的重量級演算法</a></li>
-</ul>
-</li>
-<li><p>機器開始寫詩啦，意境還蠻有層次感的，不特別說明還分辨不出哪篇是真人寫的。AlphaGo 在理性分析上絕對遠勝過人類，如果機器連情感方面也能逐步學習掌握的話，或許人類之後真的被機器統治之後只能靠愛來解救了。</p>
-<ul>
-<li><a href="https://mp.weixin.qq.com/s/PkB8SCUakvgpyxHFNJofOg" target="_blank" rel="external">人类史上第一部机器人写的诗集，你觉得怎样？</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>在灣區日報上看到便順便看了原文綜合一下讀後感。系統穩定比什麼都重要，如果常常需要 de 一些無謂的 bug 像是套件相依性等等，很多時候真的是在自尋煩惱，自己挖坑給自己跳。之前曾在 vgod 的<a href="http://blog.vgod.tw/2012/10/27/premature-optimization/" target="_blank" rel="external">部落格</a>看到這樣一句話：Premature optimization is the root of all evil。是說這段話還是出自於資訊界大師的名言，但總是適用於人生各個階段和各種情況。如果一直沈溺於最新的框架和工具這樣砌磚的技術，很有可能忘記自己其實原來的初衷是要蓋大樓的，兩種選擇之間也沒有誰好誰壞。<ul>
-<li><a href="http://www.expatsoftware.com/Articles/happiness-is-a-boring-stack.html?utm_source=wanqu.co&amp;utm_campaign=Wanqu+Daily&amp;utm_medium=website" target="_blank" rel="external">Happiness is a Boring Stack</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>一聽真的好久了，久到筆者都快覺得自己要發霉長香菇了。傑西麥卡尼那時根本紅到翻過去，比現在小假還要誇張，不過 easy come easy go，很快又漸漸消失在歌壇了。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=YVOFTbVB7D8" target="_blank" rel="external">Jesse McCartney - Because You Live - Beautiful Soul - 2008</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-05-24-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-05-24-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/05/24 Wesley’
     
     </summary>
     
