@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-06-23T05:52:04.000Z</updated>
+  <updated>2017-06-24T07:54:52.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#61</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/06/24/Wesley-Daily-Digest-61/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/06/24/Wesley-Daily-Digest-61/</id>
+    <published>2017-06-24T07:54:35.000Z</published>
+    <updated>2017-06-24T07:54:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-06-24-Wesley’s-Digest-Collection"><a href="#2017-06-24-Wesley’s-Digest-Collection" class="headerlink" title="2017/06/24 Wesley’s Digest Collection"></a>2017/06/24 Wesley’s Digest Collection</h4><ul>
+<li><p>網站開發細節多，前端眉角特別多，多到會開始質疑自己是否真的適合繼續幹這行。文中提及的幾項開發工具老實說筆者沒用過幾個，是說也不用特別執著一定要馬上改用，各自有各自適合的使用情境，勉強使用只是徒增困擾。目前 CSS 撰寫和 JS 一些檔案壓縮都是用另外一套叫做 pingy 的前端工具去實作，比起老牌的 Grunt 和 Gulp 輕量許多，Webpack 很生猛沒錯但目前還是只敢用在自己玩票性質成分居多的 side project。</p>
+<ul>
+<li><a href="https://calpa.me/2017/06/19/front-end-performance-check-list-for-production-in-chinese/" target="_blank" rel="external">【翻譯】前端性能測試必備工具清單</a></li>
+</ul>
+</li>
+<li><p>『GraphQL 是一種由 Facebook 設計並開源的 API 查詢語言。在構建 API 時，你可以認為 GraphQL 是 REST 的替代品。然而 REST 是一個概念上的模型，用來設計並實現你的 API，而 GraphQL 是一種標准的語言，系統地在客戶端和服務端中創建了一個強力的條約。有了這樣一門能與我們所有的設備通訊的語言，可以有效地簡化建設大規模、跨平台應用程序的過程。』前後端分離的概念大大改變了過去寫網站的觀念，開始變得更複雜但也更多樣有趣，可以說 RESTful 架構會炒起來是 Rails 間接點的火，用了這麼久的 REST，每隔幾年總會出現新的挑戰者，GraphQL 筆者相當看好之後的發展。</p>
+<ul>
+<li><a href="https://juejin.im/post/5947b45c128fe1006a505189" target="_blank" rel="external">REST 2.0 在此，它的名字叫 GraphQL</a></li>
+</ul>
+</li>
+<li><p>『如果不是愛飛機，我不會強迫自己讀完英文手冊，搞到多益從七百變九百；不可能認識那麼多業界人員的；更不可能在面對電機系人生難題時，不感到迷惘無助。千萬，千萬不要以為興趣不能當飯吃，愈早去摸專業領域，你會愈能了解自己是不是真的熱愛這件事，愈能早點決定要不要繼續下去。外國人常常都 16 歲或更早就開始學飛了，我們為何要等到 24 歲或更老才去學？』『新竹中學對我最大的影響就是「堅持」，不管外在環境如何，勇敢的做自己 - 柯 P』看完這篇的此時此刻才真正理解超哥追求的到底是什麼，明星科系不是人人適合，沒有充分的理由和必要性，也不應該有任何強加或是外力逼迫一個人選擇道路的決定，畢竟腿長在自己身上，走的人還是自己，不是整天叫你考國立的高中老師，說什麼五育均衡發展，怎麼看也只是升學主義下的笑話。</p>
+<ul>
+<li><a href="http://telegra.ph/%E9%9D%A0%E5%8C%97%E7%AB%B9%E4%B8%AD-06-20" target="_blank" rel="external">靠北竹中</a></li>
+</ul>
+</li>
+<li><p>讀點舒適圈以外的知識點，才會知道自己還有很大的成長空間。防抖動（ Debounce ）、節流閥（ Throttle ）和 requestAnimationFrame 都沒有機會碰上過，真的是孤陋寡聞。不過 debounce 看完 code 發現還蠻多適合使用的時機啊，偵測使用者在做 scroll 動作時等等，這部分在 Vue 文檔看到也有做過這方面的包裝。</p>
+<ul>
+<li><a href="https://silencewanghui.github.io/2017/06/19/%E9%98%B2%E6%8A%96%E5%8A%A8%E3%80%81%E8%8A%82%E6%B5%81%E9%98%80%E4%B8%8ErAF/" target="_blank" rel="external">防抖动、节流阀与rAF</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『有時候，時間和價值是相互對立的（更多的工作時間意味著更少的價值產出），因為如果以“業務價值”KPI為前提，那麼你的產出將取決於很多難以掌控的未知因素。你可能花了一整天嘗試解決某些問題，然後回家休息了一個晚上，第二天早上回來繼續工作，居然在5分鐘之內把問題解決了，或許你會因此認為充分的休息更為重要。』神話級別的十倍產能工程師，大概要往 FLAG 這類巨頭公司才挖得到了，資方也不要有太多錯誤的期待，還是實際點把一個平凡人工程師該做的做好吧。<ul>
+<li><a href="http://www.infoq.com/cn/news/2017/06/Talk-10x-programmers" target="_blank" rel="external">再谈10x程序员</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>當時 IOH 好像還有 AIC 活動的時候，常常要去幫忙寫網頁以外的事情，當副導播就是其中一項工作，累歸累，但可以體驗不同的樣子自然也有不同的收穫。記得那次收工時，啟嘉好像在用 Spotify 放音樂，Lean On 就是那時候聽到的。未來感濃厚，迷幻到有點ㄎㄧㄤ，這首歌不知不覺點閱量也超過 20 億了。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=YqeW9_5kURI" target="_blank" rel="external">Major Lazer &amp; DJ Snake - Lean On - Peace Is The Mission - 2015</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-06-24-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-24-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/24 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#60</title>
@@ -959,56 +1009,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-06-05-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-05-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/05 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#41</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/06/04/Wesley-Daily-Digest-41/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/06/04/Wesley-Daily-Digest-41/</id>
-    <published>2017-06-04T03:07:29.000Z</published>
-    <updated>2017-06-04T03:07:37.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-06-04-Wesley’s-Digest-Collection"><a href="#2017-06-04-Wesley’s-Digest-Collection" class="headerlink" title="2017/06/04 Wesley’s Digest Collection"></a>2017/06/04 Wesley’s Digest Collection</h4><ul>
-<li><p>非常喜歡這道問題和該篇下面的留言評論。大三下才開始接觸程度如筆者，玩了一陣子才發現，原來自己會的東西別人國高中就玩過了，知道真相的當下開始懷疑自己要努力到牛年馬月才勉強看得到人家的車尾燈。特別認同文中這段話：做系統，確實不提倡“重複發明輪子”。但注意，是不提倡“重複發明”，不是不提倡“重新制造”。恰恰相反的，我以為，系統的編程能力正體現在“重新製造”的能力。</p>
-<ul>
-<li><a href="https://www.zhihu.com/question/31034164?utm_content=buffer27dd2&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer" target="_blank" rel="external">什么才算是真正的编程能力？</a></li>
-</ul>
-</li>
-<li><p>星期六還是上班日，整個人都懶洋洋的，公司新專案的設計稿還在生，顯得前端現在沒啥事可以做，於是花了些時間研究研究平常用的開發工具，看有無能夠顯著提升開發效率的好物，除了裝了<a href="https://github.com/feross/standard">standard-javascript</a>改善一下程式碼品質之外，還發現這款潮到出水的 plugin，雖然裝這個東西不太可能提升寫程式的速度，但視覺上一堆連續 combo 數某種程度也是很紓壓的啊。</p>
-<ul>
-<li><a href="https://atom.io/packages/activate-power-mode" target="_blank" rel="external">Activate Power Mode</a></li>
-</ul>
-</li>
-<li><p>越來越多體驗設計相關的工作出現了，什麼課程體驗師啊 blablabla。過去只顧及產品功能性的思維在 apple 產品系列席捲全球，講白一點就是使用者的胃口被養大之後，開始會格外重視所謂的使用者經驗和介面等等細節，但這是好事，魔鬼出在細節裡不是沒道理的，既然都要掏腰包付錢了總要挑個讓自己看起來舒服的才能下手吧。這發展大概也間接促成了前後端分離的網站分工，前端越來越多花樣可以玩，後端發展到最後幾乎只剩下開 API 的功能，很大一部分 loading 都逐漸轉移到前端去做，筆者常在想如果真的追不上變化神速的前端境界，三十歲後就去搞點人文相關的東西吧。</p>
-<ul>
-<li><a href="https://www.bnext.com.tw/article/44719/user-experience-designer" target="_blank" rel="external">使用者經驗的創造者──體驗設計師</a></li>
-</ul>
-</li>
-<li><p>大 CS 時代出國如果不是唸電腦科學相關的領域上批踢踢詢問網友意見好像都會被噓，導致雜魚如筆者也幻想在這行混口飯吃。但仔細想想鑽研其他領域的知識邏輯其實才是根本啊， CS 的威力是在於和不同領域結合才能發揮原先難以發揚的價值，也許可以說明為何有些數學程度優異的學生以前沒寫過程式，轉去唸 CS 後卻能立馬屌打一群本科生，李開復老師就是一個鮮明的例子。</p>
-<ul>
-<li><a href="https://technews.tw/2017/06/02/computer-science-not-only-way-to-do-high-paying-job/?utm_content=buffer5df96&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer" target="_blank" rel="external">MIT：想爭取高薪工作，主修電腦科學不是唯一途徑</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>看看 Vue 作者對於該專案的未來期許。是說 Vue 核心團隊找人的方式也是蠻酷的，不過這的確很合理，經常發送 PR 甚至參與維護的話，這麼活躍的人絕對是發展該專案的不二人選。Vue 和 React 在前端這個戰場上各有所長，但筆者認為只要 Vue 足夠專注在其核心目標，不要搞太多有的沒的花樣，未來使用成長量依舊很看好。<ul>
-<li><a href="https://zhuanlan.zhihu.com/p/27205354" target="_blank" rel="external">大神面对面：Vue.js 作者尤雨溪专访</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>大二升大三暑假的那年有兩個禮拜，跑去台北體育館當亞青女排的志工，其實就只是簡單的外語接待而已，也沒有機會真的下去跟各國選手打個排球，印象中是看韓國打越南的場次，那時坐在旁邊發呆看比賽，第一局剛結束，韓國對拿下一局，這首歌就這樣放出來了。前陣子看了高中甲級排球賽，依舊是在老地方紅館打球，才發現隔了這麼久放的歌還是同一首。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=GPaW5avYUis" target="_blank" rel="external">戴佩妮 - 草莓麵包 - 純屬意外 - 2013</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-06-04-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-04-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/04 Wesley’
     
     </summary>
     
