@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-06-26T04:03:30.000Z</updated>
+  <updated>2017-06-27T05:54:39.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#64</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/06/27/Wesley-Daily-Digest-64/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/06/27/Wesley-Daily-Digest-64/</id>
+    <published>2017-06-27T05:54:21.000Z</published>
+    <updated>2017-06-27T05:54:39.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-06-27-Wesley’s-Digest-Collection"><a href="#2017-06-27-Wesley’s-Digest-Collection" class="headerlink" title="2017/06/27 Wesley’s Digest Collection"></a>2017/06/27 Wesley’s Digest Collection</h4><ul>
+<li><p>『而高科技業的研發工作，往往是一個具備時程壓力的獨立工作項目，難以切分與替代；因此傳統生產線的「排班」變得困難。然而業主也有應對方法，例如台積電24小時輪值，以加薪30%重賞組成的「夜鷹」菁英研發部隊，晨星半導體則有無限提供飲料、高級餐點，驅動員工連續工作直到專案完成的「戰情室」，都是管理階層將勞動力榨取至極致的神祕武器。』TECH_JOB 板上可以說幾乎快變成 GG 板了，更常看到 N + 5 ，包子啊，紅茶，發哥之類的 metaphor 文化。其實跟軟體寫三年左右的本薪領的差不多，比較可觀的還是分紅，往往光這塊領的就足以屌打許多行業的年薪。</p>
+<ul>
+<li><a href="https://www.bnext.com.tw/article/44690/labor-culture-of-tech-in-taiwan" target="_blank" rel="external">程式、分紅、保肝丸──高科技業的勞動文化</a></li>
+</ul>
+</li>
+<li><p>『在Facebook之類的社交網絡裡經常使用的一套鼓勵機制就是經常性地給你推薦好友，其本質就是想讓你在Facebook平台上可以更多地沉澱你的社交關系。另外，Facebook timeline的功能則是有效地將你的個人歷史事件記錄下來，這樣你的 facebook timeline 就成為了一種個人歷史，在這樣豐厚（而且有情感）的數據積累面前，你很難拋棄Facebook而轉入一個新的社交平台（比如Google+）。』在 Facebook 推出之前人與人之間的聯繫可能只剩下每幾年碰面一次的同學會，或僅僅只是電話聯絡，甚至可以大膽的說臉書開創了之後通訊交友的一整片紅海。不得不說增加客戶黏著度和用戶鼓勵這兩項機制臉書運用得極為出色，在如此海量的數據面前你真的和它難分難捨。</p>
+<ul>
+<li><a href="https://www.huxiu.com/article/130729/1.html" target="_blank" rel="external">Growth Hacking让Facebook首页5年未改版，人人网改版自掘坟墓的背后，缺少的是什么</a></li>
+</ul>
+</li>
+<li><p>『矽谷，一個代表自由、開放與陽光的城市，作為全球IT產業的標竿，在這塊土地上面有著滿地跑的 Tesla 跟數不清的科技公司（誤）；對於一個還沒有見過世面的工程師/設計師而言，「矽谷」這個代稱同時也包裝了一個又一個的機會與夢想，在這片土地上似乎隨時都可能孕育出下一個世界級的產品或服務？下一個億萬級的公司或者下一個像 Steve Jobs 一樣作為時代象徵的代表性人物？在這樣的一個氛圍底下，自己曾經做過的或者努力過的一切都彷彿微不足道。』這段文章讀下來最為喜愛這段話，在偉大的產品面前我們都只是顆不起眼的小螺絲釘，儘管如此你還是費盡心思極其努力的還是想為產品貢獻點什麼。能夠在矽谷發光發熱可能也是大多數工程師不斷累積實力想挑戰的堂奧吧。</p>
+<ul>
+<li><a href="https://medium.com/@citysite1025/%E7%9F%BD%E8%B0%B7-%E5%8D%81%E5%A4%A9-f6e9f8bd8368" target="_blank" rel="external">矽谷，十日。</a></li>
+</ul>
+</li>
+<li><p>聽一個人說話，不能只聽他說了些什麼，而是要去想他沒說了什麼，同樣的臉書現在開放部分資源供你下載，不難想像是為了更全面的把通訊相關的生產鏈一條龍全部吃下來所做的佈局。Open Source 的力量在於可以結合整個社群的力量去推動一個專案的持續成長，以社群網站的例子說就是粉絲，從工程師的角度而言就是 contributor。其實有時候會覺得，大家都在參與飼養這頭巨獸的過程，如果哪天有人駕著這頭巨獸做壞事呢？似乎也只能靠自身約束力去限制了。</p>
+<ul>
+<li><a href="https://nextdesignhub.com/2017/06/21/facebook-messenger%E5%B9%B3%E5%8F%B0%E7%9A%84%E8%A8%AD%E8%A8%88%E5%A5%97%E4%BB%B6/" target="_blank" rel="external">Facebook Messenger平台的設計套件</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『那麼，社科背景有什麼好處呢？我們對於人充滿同理。社會學讓我們有機會接觸到社會上各個階層、背景的人，了解他們的生活（或許還給他一個理論）。人類學讓我們接觸到不同的文化脈絡，或是用參與觀察的角度來理解我們原本熟悉的社群。這些訓練讓我們習慣於去理解和我們不同的人，並且也能給予為什麼他們會這麼做的原因（雖然不見得都正確），這麼做有助於向其他人（例如PM、軟體工程師等等）解釋使用者的行為，以及為自己的設計辯護。』設計師在台灣的待遇已經不能用慘來形容了，文組生去哪裡都被噓更是批踢踢上的常態，病態到沒藥醫的行徑也無怪乎有人稱台灣作鬼島。台灣向來都不缺科技人才，但對於人文情操這類的素養始終被壓縮到無法好好喘口氣，當然你還是可以很常發現許多高知識份子不只理性論述明確同時兼備情感層面訴求，但也可能只是你的同溫層剛好認識這些人。要改變，要有感的話，少一分批判，多一點同理心，真正要檢討要提升的還是整島的台灣人。<ul>
+<li><a href="https://medium.com/@stephanie.kuo0809/%E4%BA%BA%E9%A1%9E%E5%AD%B8-%E7%A4%BE%E6%9C%83%E5%AD%B8-%E8%A8%AD%E8%A8%88-ux-273c288cd1cf" target="_blank" rel="external">人類學 + 社會學 + 設計 = UX ?!</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>第二次成大工作坊結束後在台南又多待了一個晚上，蓉萍的邀約也讓原本跟第五屆不太熟的我突然熟了起來。搭高鐵回台北的路上，效慈拿了耳機給我要我聽聽她最近常聽的幾首歌，裡頭放的就是南山南。一眨眼一年也過了，畢業紛飛的時節要再相聚似乎也變得難上加難，但人生路還長著呢，總會有新故事新朋友的加入，下次的相聚雖也不知何時，可能在世界的一角，抑或某個熟悉的路口，都曾有類似的身影不斷徘徊。等待的過程，其實也顯得有趣。必須好好活著啊，你只能這樣告訴自己。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=1cj1BApoYF0" target="_blank" rel="external">馬頔 - 南山南 - 孤島 - 2014</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-06-27-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-27-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/27 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#63</title>
@@ -960,56 +1010,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-06-08-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-08-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/08 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#44</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/06/07/Wesley-Daily-Digest-44/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/06/07/Wesley-Daily-Digest-44/</id>
-    <published>2017-06-07T04:31:34.000Z</published>
-    <updated>2017-06-07T04:31:41.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-06-07-Wesley’s-Digest-Collection"><a href="#2017-06-07-Wesley’s-Digest-Collection" class="headerlink" title="2017/06/07 Wesley’s Digest Collection"></a>2017/06/07 Wesley’s Digest Collection</h4><ul>
-<li><p>主視覺設計的相關一篇優質文章，提出了八個大原則大方向，從不理性中找出理性是設計，再從理性中找出不理性，那就是藝術了。設計本身是很重要，但要論整體產品是好是壞功能性還是優於設計之前，最怕的就是本末倒置了。</p>
-<ul>
-<li><a href="https://heywesley.wordpress.com/2015/09/05/visual-principles-gestalt-principles/" target="_blank" rel="external">視覺法則 – 格式塔原則</a></li>
-</ul>
-</li>
-<li><p>以人本為中心的設計師，由於常常要針對不同的對象，所產生的不同需求來設計，在設計過程中大多會使用同理心方法，來試著挖掘使用者的潛在想法，並且盡量消除自己的主觀偏見，避免影響最終的產出。同理心無論何時何地都很適用，就好像很多人都自稱是使用者體驗的最佳實踐者，但樓下街角賣早餐的阿姨每天面對這麼多形形色色的人，記著常客的各種點餐喜好，時不時和客人聊天，她對於 UX 的理解可能都比你來的深刻。</p>
-<ul>
-<li><a href="https://medium.com/@uxeastmeetswest/2017-ucan-%E7%B2%BE%E9%87%87%E7%84%A6%E9%BB%9E-airbnb-%E5%89%B5%E6%84%8F%E7%B8%BD%E7%9B%A3-steve-selzer-design-for-friction-235445f96e0e" target="_blank" rel="external"> [ 2017 UCAN 精采焦點] Airbnb 創意總監 Steve Selzer &lt; Design for Friction &gt; </a></li>
-</ul>
-</li>
-<li><p>不過也才筆者出生前幾年的事情而已，大概那個年代的人都覺得蘋果氣數已盡，後來的故事大家都知道了，Jobs 挺身而出救起了他過去親手打造的王國。雖然 Jobs 這人如果是身處在公司，絕絕對對會是一個 GY 到不行，讓你每天氣到ＸＸ都快跳出來的老闆，但他對於產品本身的定位和原則一直都是明確的，包含文案，新聞稿都可以做到錙銖必較，氣度可以顯示一個人的格局，而細節可以表示一個人是否認真重視。</p>
-<ul>
-<li><a href="https://www.hbrtaiwan.com/article_content_AR0004944.html?utm_source=facebook&amp;utm_medium=social&amp;utm_campaign=201706fb" target="_blank" rel="external">我擔任蘋果公關十年學到的事</a></li>
-</ul>
-</li>
-<li><p>一位電機系教授的文章，不難體會到為人師表的用心良苦。常在上批踢踢的朋友都知道，科技版基本上就是ＧＧ版，好像跟ＧＧ不相干的工作和職業就會直接被無視或是冷嘲熱諷，雖然筆者很愛上批踢踢，但這種風氣確實有點歪。話雖如此，但也能用同理心思考這種狀況為何會發生，個人認為有很大的成分在於台灣現在大環境真的爛到爆了，想買棟房子安居樂業除非家裡富二代，不然就算月薪將近六位數最少也需要扛三十五年以上的房貸，繳完將近退休房子也變老屋了。當然會有人罵建商神經病，但罵歸罵，去ＧＧ賺錢還是比較實際。</p>
-<ul>
-<li><a href="https://www.evernote.com/shard/s518/sh/fd956261-57b3-4140-b54d-e84586984007/170b7f3300b81808" target="_blank" rel="external">信號與人生二 （李琳山老師）逐字稿 </a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>前天結束的 WWDC 偷懶沒看大半夜的直播，睡飽覺直接看隔天的重點懶人包也是種策略。令人驚豔的除了 iMac Pro 以外大概就是這台轟趴，筆者向來對音質不是那麼要求，但這台光看描述都想直接下單買一台回家擺著，以這種價位可以買到的話真的算是 CP 值爆棚了。<ul>
-<li><a href="https://rocket.cafe/talks/84491" target="_blank" rel="external">從聲學設計角度，看Apple HomePod的技術創新</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>自從在那段下班沒網路的日子跟同事借來硬碟看完 K-ON 兩季覺得搞樂團實在太潮了啊，30 歲後的人生轉換跑道也蠻屌的啊。還是有認真做了點功課的，這首是來自泰國的吉他大師 Thammarat 的單曲創作，最早是從 <a href="https://www.youtube.com/watch?v=EiYMOKbLhRM" target="_blank" rel="external">LAI’s Records 賴暐哲老師</a>這裡聽到的 cover，找來原作聽過比較。筆者雖然有學過一陣子的鋼琴，但音感方面跟正常人幾乎無異，聽不太出來差別，只覺得速彈那段太震撼了，吉他可以玩的東西還是挺多的啊。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=WWdRliNueGw" target="_blank" rel="external">Jack Thammarat - Awakening - 單曲 - 2014</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-06-07-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-07-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/07 Wesley’
     
     </summary>
     
