@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-07-08T04:38:04.000Z</updated>
+  <updated>2017-07-09T02:59:30.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#76</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/07/09/Wesley-Daily-Digest-76/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/07/09/Wesley-Daily-Digest-76/</id>
+    <published>2017-07-09T02:59:01.000Z</published>
+    <updated>2017-07-09T02:59:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-07-09-Wesley’s-Digest-Collection"><a href="#2017-07-09-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/09 Wesley’s Digest Collection"></a>2017/07/09 Wesley’s Digest Collection</h4><ul>
+<li><p>『如果說蘋果在誕生之初就為自己的未來規劃好行程的機靈鬼的話，那麼 HTC 則只能算是一個走一步算一步的老實人。而這個專注於硬件研發的老實人在雲端服務、內容提供、移動遊戲上去從沒有過佈局。』;『在這個時代變了的戰場裡。當出現了在某個層面高一個維度的對手時，他們會硬生生重塑這個世界的玩法與規則，而看不懂這一切的選手只能被擠出局。』想當初高三那年要寫個人備審資料，motto 那欄還寫了 quietly brilliant 做為人生格言，沒想到不過幾年就變化的如此劇烈，公司的 CTO 和主管以前也在紅茶待過，同時也負責推出全球第一隻智慧型手機這項專案，筆者面試時曾反問過 CTO 紅茶在經歷過這些後會不會死，他只說，確實有群很厲害的人出走也不會再回來了，但他仍然相信紅茶會好好的活著，就只是單純覺得。</p>
+<ul>
+<li><a href="https://buzzorange.com/techorange/2017/05/05/quietly-brilliant-etc-dream/" target="_blank" rel="external">HTC 完整 9 年演變史：崛起、輝煌、失利、下跌、救贖以及最後迷失的夢</a></li>
+</ul>
+</li>
+<li><p>『Alan提醒，不要讓PM和設計團隊花掉許多時間做規劃才要RD買單，「應該要在一開始就讓大家一起了解目標並規劃時程」。Alan最後提醒大家，設計師要有獨特的觀點、見解，再將專業體現到對人的關懷。在業界，設計師如果願意彼此分享案例，也有助於提升整個產業的高度。』看到這就不得不抱怨一下公司之前專案的 PM，規劃時完全不跟 RD 討論，總是到規劃完才跟我們說，如果是這樣就算了，最賭爛的例子就是一個註冊頁面，progress bar 上有三個步驟流程，ios，android 和 web 都做完了隔天要 demo，記得那天很開心還去聚餐，結果晚上 8 點多 Slack 突然跳訊息，心想 what the heck，果不其然那個 progress bar 要改成兩個，PM 個人覺得這樣註冊會更快，媽的，明天要給客戶 demo 今天還這樣搞，都下班這麼久才緊急通知，有時候會覺得那位 PM 不適合換位思考，她需要的是換個腦袋。</p>
+<ul>
+<li><a href="https://ditldesign.squarespace.com/news/2017/7/1/-aja-" target="_blank" rel="external">換位思考-打破介面設計的思考框架 / 楊英亮 AJA創意總監暨共同創辦人</a></li>
+</ul>
+</li>
+<li><p>『對於研發而言，技術調研等同於我們的產品調研。曾經一位前端的開發朋友，見到了一種新的交互動畫，用了一個月的時間進行技術調研，最終將其完美實現出來。這樣一個交互動畫是他曾經沒有做過的，在他的認知裡是”做不到“的，是”無法實現“的。最後是某位產品經理，找到了國外的案例，來佐證”該功能，可被開發“。於是，通過解析安裝包，尋找各種資料，進行長時間的技術調研，最終實現了一個”新功能“，一個曾經從未做過的功能。』剛剛罵完了前 PM，現在這位 PM 真的好多了。前 PM 掛名 senior，但顯然工作能力不夠格，只因為她是美國名校 Wharton 商學院畢業;而現在這位 PM 學歷不比她亮眼，但因為有過創業經驗和學過程式開發，對於現在專案項目顯得得心應手。筆者還是主管認為一個好的 PM 不應該ㄧ味順應客戶需求，那只會帶給跟著你做事的人更多無謂的 suffer。</p>
+<ul>
+<li><a href="http://www.woshipm.com/pmd/700260.html" target="_blank" rel="external">当我们接触一个不了解的新项目时，应该怎么做？</a></li>
+</ul>
+</li>
+<li><p>『掘金已有的移動端、Web 端及瀏覽器插件產品滿足了開發者在碎片化、工作中及工作間隙時間的各種內容消費場景，通過用戶的閱讀、收藏、評論、關注等多位的行為數據，不斷通過分發系統推薦內容。』筆者幾乎每天都會在稀土掘金看文章，頻繁程度大概跟瀏覽 Github 不相上下，從來沒看過哪一門專業像 Web 技術一樣每天都有爆炸多的新知可以鑽研，你再有時間也不可能一一深入研究，稀土把這些資源做了全面性且有架構的翻譯，降低門檻也是為了讓技術更為平易近人。</p>
+<ul>
+<li><a href="http://www.cyzone.cn/a/20170628/312384.html" target="_blank" rel="external">稀土掘金A轮融资2000万人民币，将投入百万元激励中国原创技术内容</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『在開始的時候，確定你的項目要實現的主要目標。如果你想打破你以往的設計風格，那就把心思花在設計上；如果你測試一個新的前端框架，那就鑽研代碼；如果你想獲得大量用戶，就把精力用在銷售上。盡早確定目標可以幫助你擺脫誘惑，防止你到最後忘記初心。 也許你的項目並不能成為下一個 Snapchat, 但是在通往你目標的道路上，你會更加的熟練運用各種做產品的工具。漸漸地，你會擁有越來越強大的設計、編碼、銷售等能力。』簡單的事每天做就不簡單，困難的事每天做就不困難，一言以蔽之。沒有好點子壞點子之分，那都只是某群人的定義，把水放到乾枯炎熱的沙漠面前就是黃金，最重要的還是第一步，第一步往往最難，但一旦開始你就很難停下了。<ul>
+<li><a href="https://juejin.im/entry/58f6136861ff4b00580aef28?utm_source=gold-miner&amp;utm_medium=readme&amp;utm_campaign=github" target="_blank" rel="external">[译] 真正行动之前 你将一无所成</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>昨天一位香港的好朋友要飛回家了，短期之內應該都不會飛來台灣了，想想之後要再碰面真屬不易，然後不自覺地開始想起當初是如何熟絡的，人與人之間的關係，好像無形中也有一條線牽著呢。謝謝 IOH 讓這一切變得可能。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=QiTaUM0k3uI" target="_blank" rel="external">王苑之 - 迷失藝術 - The Songbird Anthology - 2014</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-07-09-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-09-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/09 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#75</title>
@@ -960,56 +1010,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-06-20-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-20-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/20 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#56</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/06/19/Wesley-Daily-Digest-56/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/06/19/Wesley-Daily-Digest-56/</id>
-    <published>2017-06-19T03:27:10.000Z</published>
-    <updated>2017-06-19T03:27:24.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-06-19-Wesley’s-Digest-Collection"><a href="#2017-06-19-Wesley’s-Digest-Collection" class="headerlink" title="2017/06/19 Wesley’s Digest Collection"></a>2017/06/19 Wesley’s Digest Collection</h4><ul>
-<li><p>用 RN 在快速開發已經快到變成在 Hackathon 技術使用上的一個選項了，厲害的點在於 android 和 ios 雙平台幾乎能保持九成以上共用的程式碼，這是用 Native 語言難以想像且做到的。這年頭寫前端寫 JavaScript 可以說是利多，但同時相關技術的保鮮期也變得相對短，這個月推崇框架Ａ，下個月就有更強勢號稱更強大全面的框架Ｂ來踢館了。</p>
-<ul>
-<li><a href="http://blog.techbridge.cc/2016/11/10/react-native-in-24-hours/" target="_blank" rel="external">React Native in 24 Hours</a></li>
-</ul>
-</li>
-<li><p>筆者國小偶然在電視轉播上看到當時經典的 Roger Federer 和 Andy Roddick 對決，開始對網球這項隔網運動有著許多憧憬。從觀察網球運動延伸出來的哲學也是相當有憑有據：已故的英特爾創辦人之一安迪·葛洛夫早就預言這樣的時代變遷，描述為「唯有偏執狂得以倖存」，也就是普通平庸將不被接受，只有最好最強，要求幾近於偏執所產生的產品或服務，才能存活。這樣的新世界當然也包括產業需要動用到才華最頂尖的人才。</p>
-<ul>
-<li><a href="http://www.peoplenews.tw/news/1fab9fb3-2737-42ae-9cb7-abb1c468c60c" target="_blank" rel="external">【藍圖】法網20歲女單新冠軍的致勝球</a></li>
-</ul>
-</li>
-<li><p>在短短幾年時間裡，科技巨頭已經開始採用那些令他們的公司成為美國經濟支柱的技術大規模重塑學校教育的本質。通過慈善事業，他們正在影響學校教學的課程、教師選擇的課堂工具和基本的學習方法。雖說用科技改變傳統教育的做法是個非常棒的實踐，但歷史告訴我們，大於一定比例的資源壟斷最終帶來的結果不會是預期所見的，當矽谷的特性和金錢正在影響自己的學校，有任何足夠的力量能與幕後的主使者制衡嗎？</p>
-<ul>
-<li><a href="https://cn.nytstyle.com/technology/20170607/tech-billionaires-education-zuckerberg-facebook-hastings/zh-hant/" target="_blank" rel="external">矽谷精英爭當美國教育改革家</a></li>
-</ul>
-</li>
-<li><p>不仔細看還以為是路上隨處可見的小Ｐ孩，畢竟這個年紀的大多是不受控制的熊孩子，更不用說保護主義濃厚的直升機父母。現在 10 歲小孩都可以來跟工程師搶飯碗了，這代表著程式教育的普及和家長的開明，同時也象徵著全民寫程式不再是天方夜譚，而是隨手可及，門檻不再是門檻，再次印證了星爺說過的話，只要有心，人人都可以成為食神。川普都當選總統了，這年代的確沒有什麼事不可能發生的了。</p>
-<ul>
-<li><a href="http://www.mooner.orgs.one/show/30203" target="_blank" rel="external">他才10歲，就被蘋果CEO點名聊人生。霸占蘋果整個大螢幕，碾壓全球5000精英的背後，你該看到這些</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>What doesn’t kill you makes you stronger。17 本質其實是個相當不錯的應用，個人覺得是有點被污名化的太嚴重，藝人很少這麼有商業頭腦的，多的是大手筆亂投資像是 LED 之類的最後慘賠收場。好的想法無分貴賤，甚至也沒什麼道德不道德的，如何用更多想法去支撐最初的想法，這都是創業之所以困難重重但同時也是最有挑戰的地方。<ul>
-<li><a href="http://www.gq.com.tw/entertainment/celebrities/content-32576.html" target="_blank" rel="external">IDEA MAKER：黃立成 不怕打也打不死</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>寫著寫著竟然也累積到 56 篇了，特別紀念一下這難得的數字。小時候很瘋 5566，都快把他們當作神在拜了，畢竟當時哪有什麼韓流，本土天團大家都愛。只是不知道為何升上高中之後，談論起喜愛的偶像團體都會很有默契的避開 5566 不提，歌明明很好聽啊。個人感覺是一種青春期想脫離中二病的一種方式，害筆者也不好意思說曾經買過 56 的專輯了。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=T0LfHEwEXXw" target="_blank" rel="external">5566 - 我難過 - C’est Si Bon - 2006</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-06-19-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-19-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/19 Wesley’
     
     </summary>
     
