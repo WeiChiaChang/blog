@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-07-09T02:59:30.000Z</updated>
+  <updated>2017-07-10T02:35:08.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#77</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/07/10/Wesley-Daily-Digest-77/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/07/10/Wesley-Daily-Digest-77/</id>
+    <published>2017-07-10T02:34:49.000Z</published>
+    <updated>2017-07-10T02:35:08.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-07-10-Wesley’s-Digest-Collection"><a href="#2017-07-10-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/10 Wesley’s Digest Collection"></a>2017/07/10 Wesley’s Digest Collection</h4><ul>
+<li><p>『筆者認為可能要來個革命，移除掉許多根深蒂固的文化（特別是由上而下的階級管理方法），從高層領導人就要深入了解 Scrum 跟敏捷方法且廣泛施行，才能讓 Scrum 像在西方世界一樣發揮效用。只要更多年輕一代的亞洲人思考 21 世紀組織該有的運作方式，想要改善它，就有一絲希望！只希望 Scrum 跟敏捷方法在亞洲普及的那天，筆者還活著，繼續喝著那一小口咖啡。』從美式橄欖球術語延伸出來的 Scrum 理論在國外已是行之有年，甚至在軟體開發以外的領域都屢見不鮮，如果真要把 Scrum 導入讓團隊成員認真當作一回事的話，就必須屏棄原有框架和上下分明的階級制，要像國外也要學得像一點，否則也只是皮毛上做功夫。</p>
+<ul>
+<li><a href="https://cyberrob.github.io/scrum/asia/taiwan/2017/07/01/scrum-in-asia-translated.html" target="_blank" rel="external">Scrum在亞洲行不通</a></li>
+</ul>
+</li>
+<li><p>『那些技術文章如果每天看每天看，會有一種「我好像學到很多」的錯覺。但過一個月以後再問你當初看的那篇文章在講什麼，你還記得嗎？像我的話八成是忘記了，只大概記得文章的標題跟一點點內容而已。覺得看很多篇技術文章就能學到很多技術的這種想法，我真的太天真了。實際上你把整篇文章看完，學到的可能只是作者理解的 30% 或者是更少而已。為什麼？因為你只是看，你沒有動手做，你也沒有實際碰過那個問題。所以那篇文章對你來說，就只是看著看著就忘記了。』聽說有些人會在每天晚上睡覺前關掉所有手機筆電等裝置，就為了提前 30 分鐘做個冥想，反省自身一天下來做了哪些事，哪些事可以做得更好等自我改善，筆者最近開始試著實踐這項 daily todo lisy，檢討自己在技術鑽研的路上是否過度為了追求開發效率而欠下許多環不完的技術債，又或者是看了許多技術文章以為自己真的懂了的走馬看花式學習，沒有真正走過痛過，永遠都只是紙上談兵。</p>
+<ul>
+<li><a href="http://blog.techbridge.cc/2016/12/31/review-2016/" target="_blank" rel="external">一個資淺工程師年末的自我省視</a></li>
+</ul>
+</li>
+<li><p>『我的結論是：好劇本打遍天下無敵手。別小看區區幾分鐘的脫口秀，艾倫的每一個段子往往能滿足三幕劇架構，同時包含所有賣座電影都具備的 15 個情節轉折，節奏精準到以秒為單位。』脫口秀普遍來說都不會太長，不像台灣連續劇常常可以歹戲拖棚到數千集，鋪下的每個梗要在對的時間觸發好讓每個情節的轉折更帶有別緻的戲劇性色彩，要抓住觀眾目光靠的可不只是胸脯四兩，當然那還是吸睛保證。</p>
+<ul>
+<li><a href="https://www.inside.com.tw/2017/07/04/lesson-learned-from-ellen-show" target="_blank" rel="external">好劇本讓你的影片打遍天下無敵手，從《艾倫脫口秀》看劇本架構</a></li>
+</ul>
+</li>
+<li><p>『我覺得這個思考也很像是醫生的思維：如果看到身體出問題了，還是要考慮最根本的問題，而不是買了高價補品、用了很貴的醫療就一定可以治好。這次交流中，我最受收穫的是看到他的信念。台灣政治人物太多是搖擺的，美其名是尊重民意，但反而是沒有中心思想和投機取巧的展現。柯P堅持正確的事情，即使有些事情我也不見得覺得是一定是正確的，這樣的精神還是值得敬佩和學習的。』這讓筆者想到了物理學中的第一性原則，專注在產生問題的核心原因，不要被其衍生的直接或間接結果所影響，頭痛醫頭腳痛醫腳雖說是舊時代的觀念，卻也不難發現現代法治觀點在許多層面看來依然守舊不堪。</p>
+<ul>
+<li><a href="http://www.storm.mg/article/293118" target="_blank" rel="external">林旅強觀點：國家結構性問題　柯Ｐ也莫可奈何</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『「你相信嗎？我們最受到歡迎的功能，居然是開啟App後，讓螢幕會持續亮著，不會變暗。」愛料理共同創辦人兼技術長李致緯說，這些小細節，在一開始開發的時候，其實並沒有被注意到，直到公司同事的朋友做菜時發現，「手油膩膩的，還要用密碼或指紋解鎖螢幕，實在很麻煩。」大家才驚覺，原來這就是使用者的痛點。』會認識 Richard 也是因為超哥的緣故，年紀不比筆者大多少，深厚的技術底子幫了當時想做直播的 IOH 好大一個忙，雖然這句話說起來過於浮誇，但那時才深刻體會到別人口中的那句十倍工程師所帶來的產值是非線性的可怕。<ul>
+<li><a href="https://www.bnext.com.tw/article/45228/icook-cto-said-good-management-should-like-marching" target="_blank" rel="external">用工程師思維帶食譜網站前進，愛料理共同創辦人李致緯：技術的價值被低估了</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>聽 Aimer 唱歌不會發現有太多技巧充斥其中，個人的嗓音辨識度極高，偶爾兀自呢喃很輕鬆很隨意卻也好聽無比，但說沒有技巧也蠻怪的，更精確地說，應該是一氣呵成你甚至不會發現她在某個音節刻意用了某個技巧，就是很多人說的沒有匠氣這回事。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=XIUkyw6UsME" target="_blank" rel="external">Aimer - Nothing to lose - Sleepless Nights - 2016</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-07-10-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-10-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/10 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#76</title>
@@ -960,56 +1010,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-06-21-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-21-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/21 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#57</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/06/20/Wesley-Daily-Digest-57/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/06/20/Wesley-Daily-Digest-57/</id>
-    <published>2017-06-20T01:41:39.000Z</published>
-    <updated>2017-06-20T01:41:56.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-06-20-Wesley’s-Digest-Collection"><a href="#2017-06-20-Wesley’s-Digest-Collection" class="headerlink" title="2017/06/20 Wesley’s Digest Collection"></a>2017/06/20 Wesley’s Digest Collection</h4><ul>
-<li><p>如果有人想交流某種專業，大家可以運用下班的空檔彼此分享，不僅可以找到成就感，還可以學到知識，卻又不像上課那樣嚴肅、枯燥、必須保持紀律，可以得到某種補習班無法給予、對於人際交流的充實感受。筆者下班之後的步調其實過的頗糟糕，一樣是開著筆電看技術文章，因為沒特別的事情想做啊，朋友絕大多數都在北部，平常根本很難聯絡上，更不用說約吃來吃個飯，生活圈極度侷限在公司這一個小圈圈。原來自己也蠻邊緣人的啊。</p>
-<ul>
-<li><a href="http://www.30.com.tw/webonly_content_1318.html" target="_blank" rel="external">敲敲門創辦人Aimee：夢想，不要等到下班後才開始</a></li>
-</ul>
-</li>
-<li><p>貧富差距的社會問題遠超乎原先的想像，簡單說就是富者越富窮者越窮，不斷的拷貝身份不斷的階級複製，你甚至開始懷疑起富不過三代到底是誰說的。你的生活圈，你的臉書同溫層，都在討論著出國留學，繼續讀研究所與否，iphone 系列又有新貨啦，星巴克第二杯半價喝起來還是覺得好貴。這怎麼看起來都像是種不文明的文明病。</p>
-<ul>
-<li><a href="https://m.cn.nytimes.com/opinion/20170612/stop-pretending-youre-not-rich/zh-hant/" target="_blank" rel="external">別再假裝你不是有錢人</a></li>
-</ul>
-</li>
-<li><p>這是個智慧的城市，你我都倒楣的活在其中。科技的高度發展，帶給人類的到底是生活更佳便利還是失去某種程度的自由？我們的確是被手機綁架了，當草莓冰的四個月，剛入伍尚未放結訓假的那兩週，完全沒有用到手機，好像失去一個原本可以輕易掌握的東西，心中開始產生無數的恐慌和焦慮，真的是蠻有病的。</p>
-<ul>
-<li><a href="https://medium.com/@poga/%E9%80%99%E6%98%AF%E5%80%8B%E6%99%BA%E6%85%A7%E7%9A%84%E5%9F%8E%E5%B8%82-c6389c00fbed" target="_blank" rel="external">這是個智慧的城市</a></li>
-</ul>
-</li>
-<li><p>工程師在彼此協作之間常常會有一套程式風格，以用來確保寫出來的程式碼就像是同一個人寫出來的一樣，儘管這在實務上很難做到啦。同樣的設計師團隊之間如果也有一套 guideline 可以遵循，一定程度上可以減少溝通的磨合，如同這段敘述：設計語言系統 (DLS) 的主要目的之一就是讓設計師和開發者共同訂定新功能組件，一旦定義之後，這個組件名稱將會同時應用在 iOS、Android 和 web 平台上。儘管這些功能組件是不同開發人員在不同開發環境下開發的，但他們的名字都一樣，而且它們對公司所有人而言都有同樣的核心概念。</p>
-<ul>
-<li><a href="http://betweengos.com/airbnb-alex-schleifer-talk-about-design/" target="_blank" rel="external">Airbnb設計副總怎麼看：設計、產品、工程師的糾葛關係</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>林藝的經歷相當有意思，少數看過這麼充滿正能量的女生，文中這段話也頗值得玩味的：我才發現，在這個社會上，蠻多人是不願意努力的耶！如果你願意努力，很容易就能贏過大半的人。可能是對的，也可能是錯的，多數人可能是願意努力的，卻一直在錯誤的方向上努力，在不是自己想走的領域一直撞牆做白功，因為我們都怕變得跟別人不一樣，所以一狗票人跑去念大學，拿了類似的畢業證書，落入同樣不可逆的悲劇循環。<ul>
-<li><a href="https://www.inside.com.tw/2017/06/18/yi-lin" target="_blank" rel="external">【2017 師大畢業典禮演講】林藝：真正的窮不是沒有錢，而是沒有努力去改變</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>還在 IOH 實習的一天晚上，好像晚上九點多，在和西卡準備隔天要用的工作坊器材。西卡向來是個很有品味的人，工作之餘還是需要點音樂調劑身心，然後她就開始放她的 Collcetion。可以說是從西卡那知道 Toe 這個後搖樂團的，這首 Goodbye 就好像有魔力似的，乍聽之下鼓點亂到不行，聽著聽著每個斷點都突然連起來，一氣呵成精確無比，數字搖滾的魅力正在於此。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=e0RWnzd_b_k" target="_blank" rel="external">Toe - Goodbye - For Long Tomorrow - 2009</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-06-20-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-20-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/20 Wesley’
     
     </summary>
     
