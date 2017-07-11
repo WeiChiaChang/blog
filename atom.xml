@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-07-10T02:35:08.000Z</updated>
+  <updated>2017-07-11T04:21:14.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#78</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/07/11/Wesley-Daily-Digest-78/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/07/11/Wesley-Daily-Digest-78/</id>
+    <published>2017-07-11T04:20:58.000Z</published>
+    <updated>2017-07-11T04:21:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-07-11-Wesley’s-Digest-Collection"><a href="#2017-07-11-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/11 Wesley’s Digest Collection"></a>2017/07/11 Wesley’s Digest Collection</h4><ul>
+<li><p>『我講個AT&amp;T人力資源部的故事。他們會對員工分析「你這個工作需要十個技能，但你只具備七項，還差三個。」公司已和線上學習單位合作，員工差哪幾樣技能，就去學哪幾樣；甚至想學其他項目，或是想修喬治亞理工學院的線上資訊碩士課程，公司也可以付錢，但是，有個條件：你只能在下班後上課。員工如果認為，平時工作很累，不想上課，公司就會讓他離開。AT&amp;T和員工的工作契約就這麼簡單：你必須終身學習，否則無法在這裡工作。』光是能夠下班後持續自學自我充電這件事就打趴一狗票人了，筆者很討厭競爭，但要在現世安身立命，取得自己想要的資源，你不得不去習慣競爭，也不是要爭個你死我活，其實下班後只要願意多撥出一個到兩個小時學點新東西就很夠了，重點還是在每天持續並穩定的做。</p>
+<ul>
+<li><a href="https://www.hbrtaiwan.com/article_content_AR0007213.html" target="_blank" rel="external">動機，是未來最大的落差</a></li>
+</ul>
+</li>
+<li><p>『「很多人都以為我們會跟大戶談戀愛，其實不然，很多大戶根本不願意透露他們的真實身分。」Dora說自己只知道某些出手大方的網友住在海外，但其他事情則一無所知。「曾經聽過直播主真的跟某個大戶網友談戀愛，結果一談之後，這個男生再也沒有送禮物給她，反而跑去打賞別的女直播主了。」』不知為何感覺有點像是現代版的火山孝子，最有名的還是不久前 17 直播，有位主播原本還是落後，最後關頭有位土豪哥贊助了好幾百萬，贊助的錢都比當天最大獎還要貴了，有錢人的遊戲還真不是一般人能理解的。</p>
+<ul>
+<li><a href="http://www.gq.com.tw/women/girl/content-32783.html" target="_blank" rel="external">直播網美， 摸不到也要浪擲千金！</a></li>
+</ul>
+</li>
+<li><p>Anki 筆者目前還沒有實際在工作用途使用過，主要是因為現在較為缺乏類似的情境，不像考生或是學生常常要面對數不完的大小考試，在一堆八股到不行的白紙黑字前而旁邊又有手機筆電等外在資訊誘惑，要提起興致好好用功一番定力真的要很足，既然肝都快黑了，不妨花點時間學習善用工具，人生才會接近彩色。</p>
+<ul>
+<li><a href="https://medium.com/@hsieh_ting.lin/%E5%9C%8B%E8%80%83%E8%AE%80%E7%B4%AF%E4%BA%86%E5%AF%AB%E5%80%8Banki%E6%95%99%E5%AD%B8-part-i-7728d680e44a" target="_blank" rel="external">國考讀累了寫個Anki教學(PART I入門篇)</a></li>
+</ul>
+</li>
+<li><p>『我們雖然藉由傅立葉轉換，將觀點切換到了頻域上面去，但傅立葉分析的本質是時間的流動。用比較哲學的說法是，傅立葉分析讓我們找出一個在時間上流動的訊號，它的內涵是什麼。這裡說的內涵，同時包括了「內容」，以及該內容的「意義」。所以，傅立葉分析讓我們找出內容的意義。』很物理的一篇文章，所謂物理，也是在試圖領悟大自然和萬物其運動機智的箇中道理，台大的李琳山教授也曾寫過一篇從理科人角度和思維衍伸出的人生哲學和世界觀，不斷的和這偌大宇宙學習，人終究還是太過於渺小的存在。</p>
+<ul>
+<li><a href="https://simeneer.blogspot.tw/2015/05/blog-post_30.html" target="_blank" rel="external">傅立葉轉換到底在轉換什麼?</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『就像緊急情況下為你而開的車，當你離開時，自動化測試也一直在忙碌著。自動的軟件測試可以節省重復工作的時間，從而使人工測試可以圍繞更加富有創造力的測試用例展開。自動化測試最成功的地方不在於試圖使它的行為像人類一樣，而是過創建新的、獨特的腳本來提高整體產品的覆蓋率。』其實筆者公司的 QA 雖然到目前為止還是用手動測試程式碼，但已有開始著手做自動化的測試，Web 其實相較 App 的測試簡化很多，畢竟 mobile 裝置每天都在用，要進行腳本測試的複雜度其實還蠻高的，而且人工去檢測還是可以找出許多自動化測不出來的 bug，要說完全被取代，至少在這十年以內可能還是有待評估。<ul>
+<li><a href="https://mp.weixin.qq.com/s/qxtjGzq61KyytUGl-VraFg" target="_blank" rel="external">人工测试不能被取代的13个原因</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>這陣子饒舌頗夯，想起之前會開始對這圈子開始興趣應該是從<a href="https://www.youtube.com/watch?v=wndeTCKJBCY" target="_blank" rel="external">這裡</a>，BR 強大的韻腳 flow 和機關槍似的 punchline 根本單方面屠殺，而這首歌就是當時的背景音樂，帶入音樂，看 BR 展技，太過癮了。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=fXJc2NYwHjw" target="_blank" rel="external">Souls Of Mischief - 93 ‘Til Infinity - 93 ‘til Infinity - 1993</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-07-11-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-11-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/11 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#77</title>
@@ -960,56 +1010,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-06-22-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-22-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/22 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#58</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/06/21/Wesley-Daily-Digest-58/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/06/21/Wesley-Daily-Digest-58/</id>
-    <published>2017-06-21T04:12:57.000Z</published>
-    <updated>2017-06-21T04:13:18.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-06-21-Wesley’s-Digest-Collection"><a href="#2017-06-21-Wesley’s-Digest-Collection" class="headerlink" title="2017/06/21 Wesley’s Digest Collection"></a>2017/06/21 Wesley’s Digest Collection</h4><ul>
-<li><p>「那是我人生中最糟糕的日子。就像是將一群聰明人關進一個壓力鍋，還有一個不可能的最後期限，一個不可能的任務，然後你聽說全公司的未來就寄託在它上面。這就像是一鍋痛苦熬成的湯。」。這個專案太過機密，機密到完全沒辦法透露一點細節，機密到我要做些什麼都不知道，之前看過有人這樣描述研發機密產品的心境。iphone 這項產品的問世徹底的改變了生活習慣，提倡，mobile-first 從此應運而生。</p>
-<ul>
-<li><a href="https://meet.bnext.com.tw/articles/view/40924" target="_blank" rel="external">「iPhone就是我離婚的原因。」——迎接iPhone十週年，十個你不知道的歷史</a></li>
-</ul>
-</li>
-<li><p>Redux 推出之後不久的文章，卻現在才看到，有種相見恨晚的感覺。Redux 的架構設計很輕巧，不同於 Flux 架構有多個 store 這回事，在 Redux 中只會有一個 store 去管理這些資料，兩個同樣都是優秀的設計概念，甚至可以說 Redux 的核心是奠基在 Flux 既有設計上所做的延伸，HMR 這件事在其架構上比起 Flux 會更為容易實踐。</p>
-<ul>
-<li><a href="https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn">《看漫画，学 Redux》 —— A cartoon intro to Redux</a></li>
-</ul>
-</li>
-<li><p>看看別人的經歷可以反思自己在哪些部分有加強的必要。很多公司都號稱要做新創界的獨角獸，水平式管理啊，在這裡我們不稱老闆和員工，我們都是夥伴啊這類聽起來就非常場面的Ｐ話，薪資也沒有到矽谷程度還敢開那種條件。最要不得的應該是在一堆技術社群 po 文說要急徵人才，結果一狗票的人包含一些能力不錯的工程師去投了卻石沈大海，就算今天要把別人拒於千里之外，也應該回信表示該位工程師適合與否，那公司招不到人也只是剛好而已。</p>
-<ul>
-<li><a href="https://meet.bnext.com.tw/articles/view/40935?utm_campaign=2932243&amp;utm_source=SendPulse&amp;utm_medium=push" target="_blank" rel="external">前Google實習生告訴你：如何進入Google實習、面試流程是什麼、實習生每天都在幹嘛？</a></li>
-</ul>
-</li>
-<li><p>打臉文，打的很痛很響亮，良藥苦口但真的點出問題所在。看未來和趨勢，而不是眼前。這點我覺得是學生事情剛踏入工作的時候最容易犯的錯誤，包含筆者的大多數人可能因為有不錯的收入而開始安逸下來，但 settle down 的心態對一個菜鳥工程師絕對 B &gt; Z，你將會錯過很多原本屬於你的機會，不要只當個埋頭做事的工程師，更不要只為了單純的福利而選擇公司。這段描述尤其爽快：一般在工作時長得驚人但又沒有 unicorn 估值的公司裡，我總覺得加班是一種羞恥，是團隊領導不會分優先順序或者戰略不明確的表現；如果創始人還一直在那裡秀加班來感動自己的話，我的建議是「儘早離開這樣的公司」。同時我還敢打賭，90% 這樣的公司在加班（和日常工作時間裡）的效率非常低。</p>
-<ul>
-<li><a href="https://buzzorange.com/techorange/2016/05/16/correct-thnking-entering-the-workforce/" target="_blank" rel="external">前 Facebook 工程師給年輕人的 8 個提醒：有一種瞎忙，叫做自我滿足式的忙碌</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>可能有low的技術，但大多數時候人會比較low。我都不知道，那些當前熱衷於各種大會交流的人，能夠十幾二十年裡都熱衷嗎？那些當前熱衷於技術PK的人，能夠十幾二十年裡都熱衷技術嗎？人生還有很多比 “low 不 low” 更實在的問題需要解決。追逐新技術不是件壞事，用不同的思維做事情會收到不同的成效，畢竟身而為人生活真的過於乏味，不過遠比技術更重要的東西不用筆者特別一一說明大家也都清楚。到底要何年何月何日所謂的鄙視鏈才會消失呢？<ul>
-<li><a href="https://www.zhihu.com/question/61081083/answer/184933424" target="_blank" rel="external">bootstrap+jq+ES5 真的比react/vue/angular+ES6 low吗?</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>最近瘋狂聽海闊天空，感覺是壓力太大，暫時沒時間去唱歌就只好聽歌紓壓。專案一直在趕，頁面都還沒出來就被告知這週五就要上線了，設計稿下來了，版本已經到第十一版了啊大哥，最扯的是 UI 還來個大調整，Jesus 當大家吃飽沒事幹嘛，改就算了，越改越醜是怎樣，自古以來 PM 和工程師要處得好必定是有一方修養太好。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=Z9G5bAa6r90" target="_blank" rel="external">范逸臣 - 海闊天空 - 搖滾吧，情歌 ! - 2013</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-06-21-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-21-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/21 Wesley’
     
     </summary>
     
