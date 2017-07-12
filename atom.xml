@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-07-11T04:21:14.000Z</updated>
+  <updated>2017-07-12T03:40:05.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#79</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/07/12/Wesley-Daily-Digest-79/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/07/12/Wesley-Daily-Digest-79/</id>
+    <published>2017-07-12T03:39:49.000Z</published>
+    <updated>2017-07-12T03:40:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-07-12-Wesley’s-Digest-Collection"><a href="#2017-07-12-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/12 Wesley’s Digest Collection"></a>2017/07/12 Wesley’s Digest Collection</h4><ul>
+<li><p>『比如說，過去在電影《格雷的五十道陰影》（Fifty Shades of Grey）的宣傳期間，也有為電影中主角 Christian Grey 在臉書上，建立一個聊天機器人，來跟影迷對話及互動；魔力紅樂團（Maroon 5）也建立專屬機器人來與粉絲聊天，並針對粉絲的問題給予立即性的答覆。』社群平台的大量出現讓產品和使用者之間多了一道更直接更透明的管道，即便知道傳訊息的對方可能是機器人的罐頭作業，但主動出擊還是遠勝過使用者的被動查詢。</p>
+<ul>
+<li><a href="https://medium.com/@chatisfy/katyperry-chatbot-marketing-a3f1abfdfd17" target="_blank" rel="external">明星也在用 Chatbot：宣傳作品、創造互動的好方法！</a></li>
+</ul>
+</li>
+<li><p>Titanic 是個非常容易上手的 icon library，可以很輕易的引入並放在專案中使用，一般而言 icon 不太會有太多的互動或是特效，可能就是很生硬的放在畫面上，除非使用者主動去點擊或是做點什麼事件間接觸發 icon 上的狀態變化，而 Titanic 這個函式庫的 icon 只要在使用者 hover 圖標時就會有所反應，其實和近幾年提倡的微互動頗有呼應。</p>
+<ul>
+<li><a href="https://calpa.me/2017/07/06/titanic-a-set-of-animated-icons/" target="_blank" rel="external">簡單易用的開源 JavaScript 動畫圖標庫 – Titanic</a></li>
+</ul>
+</li>
+<li><p>『雖然不時愛裝老土，但她對新技術生活還是很了解的。不少人都會問她是否有使用 Google 搜索引擎，答案是肯定的。不過，只在她其中一台手機使用。在另一台手機上，她用的是“無痕”搜索引擎 DuckDuckGo，而且，有時還會用 Bing（回答時，伴隨著一臉“是的，世界上的確有 Bing 用戶”表情）。』自媒體帶來的是一個開放式的社群，分享自己的私生活已經是無比尋常的事了，同時你的一舉一動也被老大哥監視著，那些同意條款在高度利潤商業化之下也變得不再重要。科技到底是讓人類更為進步還是退步呢？</p>
+<ul>
+<li><a href="http://www.ifanr.com/866820" target="_blank" rel="external">控苹果、告 Google，欧盟这位“科技巨头克星”是怎样的一个存在？</a></li>
+</ul>
+</li>
+<li><p>『但他還是這樣一周七日，白天當門市營業員、晚上學習放歌與經營公司、周末晚上就在電音場子工作。聽 Trance 的人不夠多，他就跟 Trance Family 及各大團體合作。他發現我們是念商的，就向我們請教行銷廣告的點子。明明知道請別種音樂類型的 DJ 會更好賺錢，他還是很堅持自己的初衷。而敬業的他，也從來不會在有請 DJ 來場時玩得太嗨。他總是很敬業地跟重要人士握手，很認真地站在後台觀摩 DJ 放歌、觀察台下觀眾反應。』灣區一帶一向是以矽谷這兩字聞名世界，卻也很多人忽略了其他行業依然有值得學習效仿之處，成功的人或多或少都不約而同有部分雷同的個性或是相似的態度，就算生活欺騙了你，你還是會想方設法擠出時間，用實際行動讓自己更接近目標一點，其實也只是想給這無趣無聊的生活一個響亮的巴掌。</p>
+<ul>
+<li><a href="https://crossing.cw.com.tw/blogTopic.action?id=529&amp;nid=8245&amp;utm_source=Facebook&amp;utm_medium=Social&amp;utm_campaign=Dailydraw" target="_blank" rel="external">大灣區小DJ，科技之都的另類成功記──他的毅力，比我MBA同學還令人尊敬</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『1973年，這部剛出到第三卷的書（計劃寫七卷）已被計算機界視為“神作”, 1974年美國計算機學會就“迫不及待”的把計算機界的最高獎圖靈獎授予克努特- 此時高納德僅僅36歲 ！只靠一套還沒有完成的書就獲得ACM圖靈獎，不但是前無古人，估計也後無來者了。然而令人大跌眼鏡的是， 拿到圖靈獎以後， 高納德宣布暫停寫作， 理由竟然是現有的計算機排版系統太差，破壞了書的美感 ！ 然後單槍匹馬開發出了革命性的排版系統TEX , TEX至今仍是全球學術排版的不二之選。』最早聽到高納德這位 CS 界大師的名字是從 vgod 的部落格文章中看到的，不管是理論哲學或是程式實作都有以一擋百的功力，高納德老爺爺所做的開創性項目一次次讓工程師覺得這人真的太神了。<ul>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&amp;mid=400653194&amp;idx=1&amp;sn=04dd17e827c55e4e1e5428c42262c6ec&amp;scene=21#wechat_redirect" target="_blank" rel="external">聊一聊那些神一样的程序员们(上）</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>未聞花名的 op，當年看完最後一集哭個唏哩花啦，好像要把這一輩子能哭的眼淚都哭光了，話說這團的歌雖然只聽過這首，昨天才知道原來他們在 2016 年就解散了，但歌曲依舊傳唱，你還是可以在 youtube 連結下看到什麼 ‘2017 還在聽’ 之類的話，累積的眼淚應該也超過一公升了吧。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=T3bxbVGWy5k" target="_blank" rel="external">Galileo Galilei - Aoi Shiori - PORTAL - 2012</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-07-12-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-12-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/12 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#78</title>
@@ -960,56 +1010,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-06-23-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-23-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/23 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#59</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/06/22/Wesley-Daily-Digest-59/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/06/22/Wesley-Daily-Digest-59/</id>
-    <published>2017-06-22T06:01:49.000Z</published>
-    <updated>2017-06-22T06:02:06.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-06-22-Wesley’s-Digest-Collection"><a href="#2017-06-22-Wesley’s-Digest-Collection" class="headerlink" title="2017/06/22 Wesley’s Digest Collection"></a>2017/06/22 Wesley’s Digest Collection</h4><ul>
-<li><p>近期看過最棒的一篇，只能 Quote 了。『相比起心理學、經濟學和社會學等人文學科需經常配搭前置假設才能應用，「硬學科」是完全建立在基礎假設及邏輯思維分析之上，例如數學就是一個完全不依托真實存在的世界，透過假定範圍，幾乎所有的推論都是正確，因此它的知識可以算是更可靠，更貼近「第一性原理」（ First Principle ) 的本質。』;『我會運用「第一性原理」思維而不是「類比」思維去思考問題。在日常生活中，人總是傾向於比較 — — 別人已經做過了或者正在做這件事情，我們也就去做。這樣的結果只能產生細小的叠代發展。「第一性原理」的思考方式是用物理學的角度看待世界的方法，也就是說一層層剝開事物的表象，看到裏面的本質，然後再從本質一層層往上走。』</p>
-<ul>
-<li><a href="https://softnshare.wordpress.com/2017/04/29/elonmuskfirstprinciple/" target="_blank" rel="external">引發驚人的爆炸力！ Elon Musk 知識軍火庫中最強殺傷力的武器 : 「第一性原理」（ First Principle )</a></li>
-</ul>
-</li>
-<li><p>『我們的專案玩過誰把 build 搞失敗，就把一件衣服掛到他的位置上，直到下一個失敗前是無法被移動的。在愛面子的作祟下，確實那一陣子 build 的成功率提高不少。』把連累同事的人抓出來鞭屍，這玩法還蠻有趣的。孟母三遷的故事大家都聽過，環境影響一個人的程度可能會很久，非常久。這也是大部分科技公司試圖抓住優秀工程師的普遍作法，把辦公室搞的像是遊樂場，有 buffet 吃到飽，健身房游泳池，甚至還有高爾夫球場等高級設備。筆者是個吃貨，用吃的抓住人心是確實可行的。儘管如此工作產能還是要有啦。</p>
-<ul>
-<li><a href="http://kojenchieh.pixnet.net/blog/post/448797200-%E4%B8%8D%E7%94%A8%E6%94%B9%E8%AE%8A%E8%83%BD%E5%8A%9B%E7%9A%84%E8%AE%8A%E9%9D%A9%E6%96%B9%E6%B3%95:-%E8%AA%BF%E6%95%B4%E7%92%B0%E5%A2%83" target="_blank" rel="external">不用改變能力的變革方法: 調整環境</a></li>
-</ul>
-</li>
-<li><p>這幾天蠻熱門的文章。『在我選擇工作，我的第一要點是我真的愛這個產品，而不是因為他是大公司的抬頭。』，幹好慚愧，frankly speaking，很多工程師也只是拿錢做事，筆者就是這樣的俗人，產品什麼本身熱愛與否就見仁見智了。人一旦落入舒適圈，嚐過安逸的滋味之後就很難再思突破或是振作，但想改變現狀就要試著去做以前的自己絕對不敢或是不想做的事。隻身到海外挑戰跨國企業光是聽起來就覺得壓力山大，很多的 challenges 都是從進公司的那一刻開始。當人類真的蠻累的其實。</p>
-<ul>
-<li><a href="https://medium.com/@pa023315/%E5%BE%9E%E7%84%A1%E5%88%B0%E6%9C%89-%E6%88%91%E8%A2%AB%E7%A7%91%E6%8A%80%E5%A4%A7%E7%89%9B%E5%85%AC%E5%8F%B8%E9%8C%84%E5%8F%96%E6%95%85%E4%BA%8B%E5%88%86%E4%BA%AB-c62004c48be1" target="_blank" rel="external">【從無到有 我被科技大牛公司錄取故事分享 — 重點摘錄】</a></li>
-</ul>
-</li>
-<li><p>用 Pure CSS3 可以做出漸層效果真的是一大福音，可以看到主流網站開始大規模採用漸層做為企業主色調，網站設計風格也有這個趨勢存在，看起來就令人感到心曠神怡。突然想到之前在台南某間小店也有販售這款式的飲料，主打就是漸層，一瓶飲料裡面竟然有五顏六色的基色調，筆者對那類過於鮮豔的飲品就敬而遠之，還是看看就好。</p>
-<ul>
-<li><a href="https://webkul.github.io/coolhue/" target="_blank" rel="external">Coolest handpicked Gradient Hues for your next super  ⚡ amazing stuff</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『人多手腳亂，隔膜大、矛盾都會大，規模小的團隊才可有效將工作按優次排序完成，「保持問自己，最重要是做甚麼」，「重要先做，不重要就不做。」Ray指團體追求的，是工作的價值，而非人數，「做得開心最重要」。』之前聽過一位技術社群的前輩說過，永遠不要因為短期內缺人手就亂招人來面試，這種情境下找到的人通常質量都不會太好，也只是造成另一個人月神話的悲劇。<ul>
-<li><a href="https://topick.hket.com/article/1829365/9GAG%20%E4%B8%8D%E4%BF%A1%E9%9D%A2%E8%A9%A6%E3%80%80%20%E9%AB%98%E5%83%B9%E8%AB%8B%E4%BA%BA%E4%BB%A4%E5%9C%98%E9%9A%8A%E7%84%A1%E5%BE%8C%E9%A1%A7%E4%B9%8B%E6%86%82" target="_blank" rel="external">9GAG不信面試　 高價請人令團隊無後顧之憂</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>大學有一個室友常常在練火舞，選取用的就是這一首。那陣子常常跟他去公館水源後面的橋下練習，是什麼橋我也忘了，很久沒去了，只記得有一個溜滑梯和不時的小Ｐ孩會來玩。玩火舞常常要點汽油，聞起來味道超臭的，筆者的室友當時為了練口中噴火絕技喝了不少口汽油，後來有次不小心喝太多，火剛點就哇哇燒起來，立馬吐出來全部灑在地板上，所以有塊地板沒有意外的話現在去看應該還有黑黑的燒焦痕跡。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=AULG4MoYxQk" target="_blank" rel="external">DJ Okawari - Flower Dance - Kaleidoscope - 2011</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-06-22-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-22-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/22 Wesley’
     
     </summary>
     
