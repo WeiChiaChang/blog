@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-07-12T03:40:05.000Z</updated>
+  <updated>2017-07-13T03:49:06.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#80</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/07/13/Wesley-Daily-Digest-80/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/07/13/Wesley-Daily-Digest-80/</id>
+    <published>2017-07-13T03:48:41.000Z</published>
+    <updated>2017-07-13T03:49:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-07-13-Wesley’s-Digest-Collection"><a href="#2017-07-13-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/13 Wesley’s Digest Collection"></a>2017/07/13 Wesley’s Digest Collection</h4><ul>
+<li><p>『原來的前端開發現在竟然也可以毫無障礙的寫後端的程序了， 是名副其實的“全棧工程師” ！這就是我，一個屌絲的逆襲， 我的創始人絕對想不到10幾年後我能成為這麼一個高富帥， 我估計他夜裡經常會想： “唉，當年太倉促了， 我要是把javascript 設計的更好一點就好了。” 』當年 JavaScript 橫空出世，除了很神以外大概猜想得到鐵定是有不少值得改善之處，是人寫的都會有漏洞，更何況只花十天就開發出來，大翻身的過程也算是很勵志，ECMA 也有明確的 timeline 去推出更為有規範的進化版 JS，寫 Web 的開發者們也只能不斷適應這汰舊換新的速度，換個角度想寫 JS 總是會有新的語法糖可以玩耍也是挺讚的。</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&amp;mid=2665513059&amp;idx=1&amp;sn=a2eaf97d9e3000d15a33681d1b720463&amp;scene=21#wechat_redirect" target="_blank" rel="external">Javascript：一个屌丝的逆袭</a></li>
+</ul>
+</li>
+<li><p>這個項目蠻輕巧的，如果說要在原有架構使用 .vue 檔案去進行撰寫，勢必要先和 webpack 打過交道，加上不夠熟悉 config 等基本設定的話還是只能回頭乖乖把 HTML，CSS，JavaScript 分開寫，但現在有了這個 http-vue-loader，你可以很輕易的在原有專案中引入 cdn，把無趣的檔案結構全部用 .vue 的版本改寫，人生也變得輕鬆起來了呢。才怪。</p>
+<ul>
+<li><a href="https://github.com/FranckFreiburger/http-vue-loader">FranckFreiburger/http-vue-loader</a></li>
+</ul>
+</li>
+<li><p>『於是Design Principle就不只是元件的一致，而且有頁面類型的一致性，將來若是有新增的頁面，有這份設計準則，設計師自己、或是交接的設計師也不會把類似的頁面而做出不一致的頁面出來。不只是建立頁面的關聯性，更是建立自己工作與知識的關聯性。』筆者一直認為團隊合作最怕的不是做錯事，而是方向整個歪掉導致一大坨東西要打掉重練，瞬間會讓不管設計還是開發人員都會覺得，幹，那我這段期間都在空轉做白工啊。未雨綢繆，莫急莫驚慌，Guideline 先訂定出來，不要像隻傻鳥帶著你的同伴亂亂飛，被獵人擊落也只是剛好而已。</p>
+<ul>
+<li><a href="https://medium.com/as-a-product-designer/%E5%BE%9E%E4%BD%BF%E7%94%A8%E8%80%85%E5%88%B0app%E9%A0%81%E9%9D%A2%E8%A8%AD%E8%A8%88%E6%BA%96%E5%89%87-9d3437090a46" target="_blank" rel="external">從使用者到APP頁面設計準則</a></li>
+</ul>
+</li>
+<li><p>『第三部分也就是生活，大量的與人相處，大量地體驗人生，這部分關係到你想要做的事，用創業來說就是決定了你的題目是什麼，而這部分也是感染力的關鍵所在，唯有真正透過實際的生活和相處瞭解他人，才有辦法做到從心出發，發揮感染力，進而造就影響力，但這部分我就只能夠持續進行，暫時無法投入大量資源。』學會好好生活才寫得出好東西好文章，這是筆者國小一位專教作文的老師曾說過的一句話，那些經典名家名著，輕鬆寫意的筆調背後都是經歷過對於生活的苦悶無力和力不從心到充分體會和用心經營，如有此態度則學什麼新事物也都能水到渠成了。</p>
+<ul>
+<li><a href="https://medium.com/%E5%AD%B8%E7%BF%92%E7%9A%84%E4%B8%80%E7%99%BE%E7%A8%AE%E7%90%86%E7%94%B1/%E5%AD%B8%E7%BF%92%E7%9A%84%E6%A7%8B%E6%88%90-fc199260f226" target="_blank" rel="external">【學習的構成】</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『 Outcome Health 可不是一般的廣告公司，它提供的不僅只是醫藥訊息而已，而是當病患在醫院或診所裡等著看醫生前(平均要等 20 分鐘)， Outcome 會先讓你看一段與病情有關的影片或教學，讓病患先有個心理準備，知道這樣的症狀有那些處理方式可以選擇，又各有什麼影響。這樣當病患與醫生討論病情時，就會有比較明確的概念。』突然想到台灣健保好歸好，但民眾濫取藥物的例子還真是不少，普遍還是有著反正很便宜乾脆盡量多拿一點，搞得很像 buffet 吃到飽。<ul>
+<li><a href="http://www.startuplatte.com/2017/07/04/outcome-health-free-for-doctor-and-patient/" target="_blank" rel="external">你掛65號，到了醫院發現才看到7號，你怎麼辦？這家公司用全新的商業模式解決了這個問題，讓公司的價值飆到50億美金</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>PTP 的歌曲風格都相當美式，metalcore 的強力旋律極為容易讓人上癮，這麼有爆發力的樂團，主唱卻早早離開這世界，也只能從音樂中尋找他的身影，靜靜的緬懷了。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=FTtZHLsSHfI" target="_blank" rel="external">Pay money To my Pain - Pictures - Breakfast - 2012</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-07-13-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-13-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/13 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#79</title>
@@ -960,56 +1010,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-06-24-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-24-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/24 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#60</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/06/23/Wesley-Daily-Digest-60/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/06/23/Wesley-Daily-Digest-60/</id>
-    <published>2017-06-23T05:51:33.000Z</published>
-    <updated>2017-06-23T05:52:04.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-06-23-Wesley’s-Digest-Collection"><a href="#2017-06-23-Wesley’s-Digest-Collection" class="headerlink" title="2017/06/23 Wesley’s Digest Collection"></a>2017/06/23 Wesley’s Digest Collection</h4><ul>
-<li><p>2010 年由 Google 推出的一本電子書，內容涵蓋了網際網路的基礎知識和一些科普導論。Rails 的推出讓開發全端網站應用程式變得飛快，React 如同超新星的降臨改寫了整個前端的歷史和固有思維，不斷的顛覆，不斷的考驗工程師對於新事物新技術的接受度。今天的前後端儘管起了極大的變化，這本小書的內容放到現在來看大部分還是很讚。或許有些技術真的會隨時代的進步而被淘汰，但依然有些本質是不會改變的，就像你如果真的理解 JavaScript 的運作原理，就不會被新興的框架唬嚨的團團轉，而是成為發明框架的那個人。</p>
-<ul>
-<li><a href="http://www.20thingsilearned.com/zh-TW/what-is-the-internet/1" target="_blank" rel="external">20 THINGS I LEARNED ABOUT BROWSERS &amp; THE WEB</a></li>
-</ul>
-</li>
-<li><p>『要知道，入門容易精通難，計算機和軟件的基礎對你用JS或瀏覽器編程都非常重要。web可能是最有影響力的平台和環境之一，在那裡執行的程序必須被小心對待。一位優秀的前端工程師不僅要考慮web技術和語言，並且還要了解所有不同的組件、系統和概念。』文中提出了幾點關於劣質前端工程師的做事風格，筆者認為沒有人是完人，資深的工程師也是從菜鳥工程師慢慢練起來的，棋靈王也說過，再厲害的職業棋士也是從初段開始的，一點一滴的進步，逐步擺脫那些缺點，訓練自己把工具的使用和架構思考的更全面。</p>
-<ul>
-<li><a href="https://www.100offer.com/blog/posts/83" target="_blank" rel="external">为什么整个互联网行业都缺前端工程师？</a></li>
-</ul>
-</li>
-<li><p>值得細細玩味的一篇商業評論，教你如何從去除外在因素只思考事物本質的角度去思考。『客戶在美軍一個軍種服務，很希望能找到方法，從大量令人困惑的資訊中擷取關鍵資料點。與會者包括一個警探、一個消防隊長、一個股票經紀人、一個小說家、一個空難調查員、一位歷史學者和一個大聯盟棒球球探，他們全都描述了自己如何收集資訊，以及如何把重要的資料和雜訊分開。出人意料的構想不斷湧現，令人印象深刻。』。</p>
-<ul>
-<li><a href="https://www.hbrtaiwan.com/article_content_AR0003127.html?utm_source=facebook&amp;utm_medium=social&amp;utm_campaign=201706fb" target="_blank" rel="external">跨領域思考求創新</a></li>
-</ul>
-</li>
-<li><p>『服務的拆分是一個非常有學問的技術活，要圍繞業務模塊進行拆分，拆分粒度應該保證微服務具有業務的獨立性與完整性，盡可能少的存在服務依賴，鏈式調用。但是，在實際開發過程中，有的時候單體架構更加適合當前的項目。實際上，微服務的設計並不是一蹴而就的，它是一個設計與反饋過程。因此，我們在設計之初可以將服務的粒度設計的大一些，並考慮其可擴展性，隨著業務的發展，進行動態地拆分也是一個不錯的選擇。』在微服務上面似乎有種在前端看到網頁組件化的既視感，或許背後的思維真的是一樣也說不定。</p>
-<ul>
-<li><a href="http://blog.720ui.com/2017/msa_design/" target="_blank" rel="external">服务端指南 | 微服务初级设计指南</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『數學是不會很快消逝的。在我們領域中所做的一切，都是建立在穩固的數學原理之上（算法和數據結構正是這樣的例證），所以用在數學上的時間絕不是浪費，這不可辯論。再重複一次，總結起來就是： 要真正理解東西，而不是非死記硬背地使用。當涉及到計算機時，數學能有助你更深入地理解你所做的。事實上，正如 Steve Yegge 所言，作為 Coder 我們所做的事很像數學，只是我們甚至都沒有意識到這一點。』。多數人都懼怕數學，原因可能來自於從小的教育，數學老師固然可怕，但更令人擔憂的是，數學本身是很美妙的，卻因為數學教育的填鴨式和唯分數主義的升學制度把這可能萌生的興趣壓垮了。<ul>
-<li><a href="https://buzzorange.com/techorange/2015/05/04/math-and-coding/" target="_blank" rel="external">「卓越」的工程師與「優秀」的工程師之間的界線：數學</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>最早是聽到小林未郁的版本，後來才發現 Aimer 也有唱一個自己的版本，兩位的風格其實很接近，Mika 的聲音蠻渾厚的，不會想到人小小一個聲音卻這麼有爆發力，Aimer 的嗓音是屬於療癒系，偏低沉但會有一股恣意舒服的感覺。講這麼多主角可是澤野弘之啊，說是當代日本最偉大的作曲家也不為過，迄今已創作無數首動畫主題曲，總是可以把弦樂和各種樂器巧妙的融合創作出迥然不同的新鮮感受，你可以聽到滂礡的氣場和氛圍，也能感受到厚實而溫暖的交響襯托，層次是非常多重且源源不絕的。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=G8ir1WHMpHI" target="_blank" rel="external">Unicorn Gundam Live - Remind You - UnChild - 2014</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-06-23-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-23-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/23 Wesley’
     
     </summary>
     
