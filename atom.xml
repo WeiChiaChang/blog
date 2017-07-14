@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-07-14T04:24:51.000Z</updated>
+  <updated>2017-07-14T04:28:21.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://github.com/WeiChiaChang/blog/2017/07/14/Wesley-Daily-Digest-81/"/>
     <id>https://github.com/WeiChiaChang/blog/2017/07/14/Wesley-Daily-Digest-81/</id>
     <published>2017-07-14T04:24:24.000Z</published>
-    <updated>2017-07-14T04:24:51.000Z</updated>
+    <updated>2017-07-14T04:28:21.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="2017-07-14-Wesley’s-Digest-Collection"><a href="#2017-07-14-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/14 Wesley’s Digest Collection"></a>2017/07/14 Wesley’s Digest Collection</h4><ul>
 <li><p>『舉個例子就能明白了這兩個概念。譬如有一顆大樹，季節變換了葉子也會從綠色變成黃色，這個就是 Repaint。如果樹枝或者其他什麼部位被砍了或者插枝嫁接了，大樹會自動恢復傷口或將新枝包裹成為自己的一部分，最後變成一個完整的大樹。這個過程就類似 Reflow。Reflow 和 Repaint 都是瀏覽器慢的元凶。用戶和 Web 頁面都不能在 Reflow 和 Repaint 執行時做任何操作和響應，而且在極端的情況下，CSS 會拖慢 JS 的執行速度，這就是瀏覽器有的時候就是在操作之後沒反應的原因之一。』剛開始入門學 jQuery 覺得超直覺超好用，多了點專案經驗後才發現直接操作 DOM 是極為沒有效能的一件事，所以前端才會出現這麼多框架試圖提出新的解決方案像是 Virtual DOM 等等。</p>
@@ -40,7 +40,7 @@
 </li>
 <li><p>『靠人工來保證項目的維護總是不出差錯是不靠譜的，人總有健忘和糊塗的時候，尤其是當項目越來越復雜時，一個人甚至可能無法全部了解項目的全部邏輯，這時我們就要依靠測試來保證項目的可靠性，這裡的測試包括但不限於，單元功能測試，UI 測試，兼容性測試等等。』。這篇言簡意賅的介紹了一個完整的 open source project 應該具備哪些要件，你可以常常看到那些星星數一堆的 README 都寫的超多超詳細，那其實就是吸引別的開發者來使用你做的項目一個很大的誘因，而這些多位開發者密集維護的套件或是框架往往也有豐富且全面的測試，使用起來也會更安心點。</p>
 <ul>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzI2NzExNTczMw==&amp;mid=2653284934&amp;idx=1&amp;sn=af82495f35adea9b919e27a20749145e&amp;scene=1&amp;srcid=0708AigCqTI0RpFMJT6MhAcp&amp;key=77421cf58af4a65386d8a3d36fb7fb3f6a6a4631beb5f8a87c8448d85f1135802d43e85b216f113efa06f19f479902d5&amp;ascene=0&amp;uin=MzAyNjk4MDU1&amp;devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.10.5+build(14F1808" target="_blank" rel="external">一个靠谱的前端开源项目需要什么？</a>&amp;version=11020201&amp;pass_ticket=hXS2sgF6aJfo9PbSLZf0ltuHlOg6150rr%2FOnA%2FyFI4Ze2rlQsKd9wrzsPz5yZH%2FV#rd)</li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzI2NzExNTczMw==&amp;mid=2653284934&amp;idx=1&amp;sn=af82495f35adea9b919e27a20749145e&amp;scene=1&amp;srcid=0708AigCqTI0RpFMJT6MhAcp&amp;key=77421cf58af4a65386d8a3d36fb7fb3f6a6a4631beb5f8a87c8448d85f1135802d43e85b216f113efa06f19f479902d5&amp;ascene=0&amp;uin=MzAyNjk4MDU1&amp;devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.10.5+build" target="_blank" rel="external">一个靠谱的前端开源项目需要什么？</a></li>
 </ul>
 </li>
 </ul>
