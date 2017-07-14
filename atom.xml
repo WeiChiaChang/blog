@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-07-13T03:49:06.000Z</updated>
+  <updated>2017-07-14T04:24:51.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#81</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/07/14/Wesley-Daily-Digest-81/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/07/14/Wesley-Daily-Digest-81/</id>
+    <published>2017-07-14T04:24:24.000Z</published>
+    <updated>2017-07-14T04:24:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-07-14-Wesley’s-Digest-Collection"><a href="#2017-07-14-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/14 Wesley’s Digest Collection"></a>2017/07/14 Wesley’s Digest Collection</h4><ul>
+<li><p>『舉個例子就能明白了這兩個概念。譬如有一顆大樹，季節變換了葉子也會從綠色變成黃色，這個就是 Repaint。如果樹枝或者其他什麼部位被砍了或者插枝嫁接了，大樹會自動恢復傷口或將新枝包裹成為自己的一部分，最後變成一個完整的大樹。這個過程就類似 Reflow。Reflow 和 Repaint 都是瀏覽器慢的元凶。用戶和 Web 頁面都不能在 Reflow 和 Repaint 執行時做任何操作和響應，而且在極端的情況下，CSS 會拖慢 JS 的執行速度，這就是瀏覽器有的時候就是在操作之後沒反應的原因之一。』剛開始入門學 jQuery 覺得超直覺超好用，多了點專案經驗後才發現直接操作 DOM 是極為沒有效能的一件事，所以前端才會出現這麼多框架試圖提出新的解決方案像是 Virtual DOM 等等。</p>
+<ul>
+<li><a href="https://www.lidongtech.com/source-of-influence-on-web.html" target="_blank" rel="external">影响前端性能的本源——Reflow和Repaint</a></li>
+</ul>
+</li>
+<li><p>『這帶來了類神經網路模型復甦的又一春。由於 Neural Network 長久以來太過惡名昭彰，Hinton 決定把多層的神經網路 (Deep Neural Network) 重命名為深度學習 (Deep Learning)。(同時，他又用有點諷刺意味的說法，將 Neural Network 以外、層數小於 3 的機器學習方法，包括 SVM 等稱為「淺層學習」(Shallow Learning)，可能是想一雪長久以來被 SVM 壓在頭頂上的不爽吧 (´_ゝ)… )』這幾年這些 buzzword 根本飛天，隨便找個路人來問問都可以對人工智慧說出一套自己的理解，每個人都想在這領域挖出金礦，卻很少人想過這中間的突破性發展還是由一位教授所提出的，學術和實作果然還是缺一不可。</p>
+<ul>
+<li><a href="https://hellolynn.hpd.io/2017/07/03/%E4%B8%8D%E5%AE%B9%E9%8C%AF%E9%81%8E%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%B0%A1%E5%8F%B2/" target="_blank" rel="external">從人工智慧、機器學習到深度學習，不容錯過的人工智慧簡史</a></li>
+</ul>
+</li>
+<li><p>『有一次實作示範的時候，老師就說「如果只是要做出『業界要求』的排版，那其實不需要來上門課，因為這就已經先預設一個框架了。」當然業界、客戶可能不一定會接受我們做出來、突破框架的作品，關於這一點老師在他的作品集《吃書的馬》中有略提，他的態度是想辦法把作品做到最好、然後去說服客戶為什麼要這樣做設計；但如果一開始就預設了標準、框架，那就等於自己都沒打算把這個作品給做到最好了，自然是難以說服客戶的。』看過真正厲害的設計師的作品，是每個細節都有其設計理念和意義存在，不是隨便一個元素只是單純因為喜歡就草率的放上去了，文字敏銳度和對於排版美感的培養難度其實不亞於做程式開發。</p>
+<ul>
+<li><a href="https://medium.com/slidea-tw/%E7%A9%BA%E7%99%BD%E5%9C%B0%E5%8D%80%E6%8E%92%E7%89%88%E8%A8%AD%E8%A8%88%E8%AA%B2%E7%A8%8B-%E4%B8%80%E9%BB%9E%E5%BF%83%E5%BE%97-3d12463614ac" target="_blank" rel="external">空白地區排版設計課程｜一點心得</a></li>
+</ul>
+</li>
+<li><p>『靠人工來保證項目的維護總是不出差錯是不靠譜的，人總有健忘和糊塗的時候，尤其是當項目越來越復雜時，一個人甚至可能無法全部了解項目的全部邏輯，這時我們就要依靠測試來保證項目的可靠性，這裡的測試包括但不限於，單元功能測試，UI 測試，兼容性測試等等。』。這篇言簡意賅的介紹了一個完整的 open source project 應該具備哪些要件，你可以常常看到那些星星數一堆的 README 都寫的超多超詳細，那其實就是吸引別的開發者來使用你做的項目一個很大的誘因，而這些多位開發者密集維護的套件或是框架往往也有豐富且全面的測試，使用起來也會更安心點。</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzI2NzExNTczMw==&amp;mid=2653284934&amp;idx=1&amp;sn=af82495f35adea9b919e27a20749145e&amp;scene=1&amp;srcid=0708AigCqTI0RpFMJT6MhAcp&amp;key=77421cf58af4a65386d8a3d36fb7fb3f6a6a4631beb5f8a87c8448d85f1135802d43e85b216f113efa06f19f479902d5&amp;ascene=0&amp;uin=MzAyNjk4MDU1&amp;devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.10.5+build(14F1808" target="_blank" rel="external">一个靠谱的前端开源项目需要什么？</a>&amp;version=11020201&amp;pass_ticket=hXS2sgF6aJfo9PbSLZf0ltuHlOg6150rr%2FOnA%2FyFI4Ze2rlQsKd9wrzsPz5yZH%2FV#rd)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『幾乎每次坐長途飛機，我都能遇上對空姐不依不饒的乘客，他們明知道空姐有很多無法逾越的許可權，有很多無可奈何的難處，卻還是不加收斂地把怨氣都發泄在她們身上，而讓他們理直氣壯的唯一理由就是：我累了。這不是幼稚的巨嬰心態，說到底還是修養不夠好。神清氣爽的時候，每個人都願意出手相助，唯有精疲力盡時，才能看出一個人的修養。修養越好的人，自控力越強。所謂自控力，無非就是不要用你的遭遇懲罰別人而已。』最近真的體會到職場能力各方各面，只會寫程式大概會被當作一台機器，出包了責任還是你要扛，雖然這件事追究起來也不是你的問題，但你的的確確是那個執行的人，你發了個 action 的指令，但真正執行的卻是 reducer，所以 reducer 就被罵了。<ul>
+<li><a href="http://www.epochtimes.com.tw/n217934/%E7%B6%B2%E6%96%87-%E4%B8%80%E5%80%8B%E4%BA%BA%E5%80%BC%E4%B8%8D%E5%80%BC%E5%BE%97%E4%BA%A4%E5%BE%80-%E5%B0%B1%E7%9C%8B%E4%BB%96%E7%96%B2%E6%86%8A%E6%99%82%E7%9A%84%E6%A8%A1%E6%A8%A3.html" target="_blank" rel="external">網文：一個人值不值得交往 就看他疲憊時的模樣</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>被音樂封面吸引就點進來聽的一首歌，一如往常的聽不懂半句日文，中後段進入副歌時那段高音尖到會嚇一跳。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=QQPVQFyL0_Y" target="_blank" rel="external">まじ娘 - 心做し - Contrast - 2015</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-07-14-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-14-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/14 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#80</title>
@@ -960,56 +1010,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-06-25-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-25-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/25 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#61</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/06/24/Wesley-Daily-Digest-61/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/06/24/Wesley-Daily-Digest-61/</id>
-    <published>2017-06-24T07:54:35.000Z</published>
-    <updated>2017-06-24T07:54:52.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-06-24-Wesley’s-Digest-Collection"><a href="#2017-06-24-Wesley’s-Digest-Collection" class="headerlink" title="2017/06/24 Wesley’s Digest Collection"></a>2017/06/24 Wesley’s Digest Collection</h4><ul>
-<li><p>網站開發細節多，前端眉角特別多，多到會開始質疑自己是否真的適合繼續幹這行。文中提及的幾項開發工具老實說筆者沒用過幾個，是說也不用特別執著一定要馬上改用，各自有各自適合的使用情境，勉強使用只是徒增困擾。目前 CSS 撰寫和 JS 一些檔案壓縮都是用另外一套叫做 pingy 的前端工具去實作，比起老牌的 Grunt 和 Gulp 輕量許多，Webpack 很生猛沒錯但目前還是只敢用在自己玩票性質成分居多的 side project。</p>
-<ul>
-<li><a href="https://calpa.me/2017/06/19/front-end-performance-check-list-for-production-in-chinese/" target="_blank" rel="external">【翻譯】前端性能測試必備工具清單</a></li>
-</ul>
-</li>
-<li><p>『GraphQL 是一種由 Facebook 設計並開源的 API 查詢語言。在構建 API 時，你可以認為 GraphQL 是 REST 的替代品。然而 REST 是一個概念上的模型，用來設計並實現你的 API，而 GraphQL 是一種標准的語言，系統地在客戶端和服務端中創建了一個強力的條約。有了這樣一門能與我們所有的設備通訊的語言，可以有效地簡化建設大規模、跨平台應用程序的過程。』前後端分離的概念大大改變了過去寫網站的觀念，開始變得更複雜但也更多樣有趣，可以說 RESTful 架構會炒起來是 Rails 間接點的火，用了這麼久的 REST，每隔幾年總會出現新的挑戰者，GraphQL 筆者相當看好之後的發展。</p>
-<ul>
-<li><a href="https://juejin.im/post/5947b45c128fe1006a505189" target="_blank" rel="external">REST 2.0 在此，它的名字叫 GraphQL</a></li>
-</ul>
-</li>
-<li><p>『如果不是愛飛機，我不會強迫自己讀完英文手冊，搞到多益從七百變九百；不可能認識那麼多業界人員的；更不可能在面對電機系人生難題時，不感到迷惘無助。千萬，千萬不要以為興趣不能當飯吃，愈早去摸專業領域，你會愈能了解自己是不是真的熱愛這件事，愈能早點決定要不要繼續下去。外國人常常都 16 歲或更早就開始學飛了，我們為何要等到 24 歲或更老才去學？』『新竹中學對我最大的影響就是「堅持」，不管外在環境如何，勇敢的做自己 - 柯 P』看完這篇的此時此刻才真正理解超哥追求的到底是什麼，明星科系不是人人適合，沒有充分的理由和必要性，也不應該有任何強加或是外力逼迫一個人選擇道路的決定，畢竟腿長在自己身上，走的人還是自己，不是整天叫你考國立的高中老師，說什麼五育均衡發展，怎麼看也只是升學主義下的笑話。</p>
-<ul>
-<li><a href="http://telegra.ph/%E9%9D%A0%E5%8C%97%E7%AB%B9%E4%B8%AD-06-20" target="_blank" rel="external">靠北竹中</a></li>
-</ul>
-</li>
-<li><p>讀點舒適圈以外的知識點，才會知道自己還有很大的成長空間。防抖動（ Debounce ）、節流閥（ Throttle ）和 requestAnimationFrame 都沒有機會碰上過，真的是孤陋寡聞。不過 debounce 看完 code 發現還蠻多適合使用的時機啊，偵測使用者在做 scroll 動作時等等，這部分在 Vue 文檔看到也有做過這方面的包裝。</p>
-<ul>
-<li><a href="https://silencewanghui.github.io/2017/06/19/%E9%98%B2%E6%8A%96%E5%8A%A8%E3%80%81%E8%8A%82%E6%B5%81%E9%98%80%E4%B8%8ErAF/" target="_blank" rel="external">防抖动、节流阀与rAF</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『有時候，時間和價值是相互對立的（更多的工作時間意味著更少的價值產出），因為如果以“業務價值”KPI為前提，那麼你的產出將取決於很多難以掌控的未知因素。你可能花了一整天嘗試解決某些問題，然後回家休息了一個晚上，第二天早上回來繼續工作，居然在5分鐘之內把問題解決了，或許你會因此認為充分的休息更為重要。』神話級別的十倍產能工程師，大概要往 FLAG 這類巨頭公司才挖得到了，資方也不要有太多錯誤的期待，還是實際點把一個平凡人工程師該做的做好吧。<ul>
-<li><a href="http://www.infoq.com/cn/news/2017/06/Talk-10x-programmers" target="_blank" rel="external">再谈10x程序员</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>當時 IOH 好像還有 AIC 活動的時候，常常要去幫忙寫網頁以外的事情，當副導播就是其中一項工作，累歸累，但可以體驗不同的樣子自然也有不同的收穫。記得那次收工時，啟嘉好像在用 Spotify 放音樂，Lean On 就是那時候聽到的。未來感濃厚，迷幻到有點ㄎㄧㄤ，這首歌不知不覺點閱量也超過 20 億了。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=YqeW9_5kURI" target="_blank" rel="external">Major Lazer &amp; DJ Snake - Lean On - Peace Is The Mission - 2015</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-06-24-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-24-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/24 Wesley’
     
     </summary>
     
