@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-07-14T04:28:21.000Z</updated>
+  <updated>2017-07-15T01:59:16.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#82</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/07/15/Wesley-Daily-Digest-82/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/07/15/Wesley-Daily-Digest-82/</id>
+    <published>2017-07-15T01:58:33.000Z</published>
+    <updated>2017-07-15T01:59:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-07-15-Wesley’s-Digest-Collection"><a href="#2017-07-15-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/15 Wesley’s Digest Collection"></a>2017/07/15 Wesley’s Digest Collection</h4><ul>
+<li><p>『這幾天除了吃飯都在寫程式，甚至有一天睡四小時就從床上彈起來繼續寫；換作是用下班的休息時間開發，保守估計時間至少會拉長到一個月。除了進度不連貫的問題，有時回家也沒太多精神繼續奮鬥。』從另一個領域跳入程式開發這個完全陌生的新地帶，太多的不確定性和外在誘因都會使得一個初學者不斷撞牆，最怕的就是撞到後來就完全喪失鬥志，要想辦法維持著那團火的旺盛，輕易的被澆熄，三分鐘的熱度也說明了你只是想玩玩罷了。</p>
+<ul>
+<li><a href="http://pala.tw/my-first-ios-game/#game" target="_blank" rel="external">《Rocket Cat Adventure》遊戲開發心得</a></li>
+</ul>
+</li>
+<li><p>『而天份這種事更是沒那麼重要，高中三年和大學四年有辦法碰到的問題，從學界的眼光來看幾乎都是巨大的史萊姆們，打他們哪裡需要天分呢？我的物理能力在國二時幾乎都是班上倒數五名，然而「想學、想學、我該死的好想學它」，就是心中一直有這股聲音在吶喊，我才有辦法進入並在物理的世界自得其樂。所以對於這些人，我想說的大概就是：相信自己，然後抱著不畏現實的心態去追隨自己嚮往的目標吧！講這句話並不是因為它很正向或激勵人心，而是因為，它是事實。』不畏現實這一點想到了 vgod 那篇熱血的系列文章，追求神乎其技的程式設計之道，裡頭有段 vgod 自己的回憶，回憶當年被程式語言吸引並做出影響他日後人生的重大決定，就是他選擇完全專注在寫程式，其他課業就放著擺爛，把所有精力集中火力攻克一個明確而堅定的目標，換作是高中時的筆者絕對做不到同樣的程度，說穿了也只不過是膽子不夠大，加上不夠清楚日後要做什麼，與其獨樹一格不如隨波逐流，現在想來也挺悲哀的。</p>
+<ul>
+<li><a href="https://scyablog.blogspot.tw/2015/08/blog-post_10.html" target="_blank" rel="external">物理、興趣、天分、現實、求知 </a></li>
+</ul>
+</li>
+<li><p>最近看到很多利用網頁技術撰寫的音樂作品和專案，耳目一新的繽紛感讓人暫時忘卻了公司平淡無奇的每一天和客戶發揮 freestyle 本能狂改需求和 spec 的無下限的日常，整個人都不好了，這幾個禮拜晚上回家還是繼續在趕公司內部的專案，倒也不是東西太難調整，而是有些需求實在太奇葩，方向改成東之後下班後又傳個訊息過來說要改回西，當下如果氣頭上忍不住真的很想立馬買機票飛去香港找 PM 好好喬一下。</p>
+<ul>
+<li><a href="https://typatone.com/" target="_blank" rel="external">typatone</a></li>
+</ul>
+</li>
+<li><p>『余英時最近接受《天下雜誌》訪問，談到崇拜和佩服的分別，說自己一輩子沒有崇拜過任何人，並指出崇拜一個人就像是對這個人有宗教熱情似的，視這個人為十全十美，有如信徒之視教主；他認為真正在知識上求上進的人是不會這樣崇拜一個人的，但仍然可以佩服某些人。』在對一個領域還是生手的階段之時，只要遇到比自己厲害一點，稍微多懂一點東西的人就以為對方就是大大，基本上看誰都會覺得有高大上之感，摸索過一陣子的最大轉變就是，開始懂得去分辨哪些人是真高手，而哪些人又是嘴上功夫比實際作為強上許多。要從崇拜到佩服，其實還有很長一大段路要走。</p>
+<ul>
+<li><a href="https://fishandhappiness.blogspot.tw/2014/09/blog-post_22.html" target="_blank" rel="external">崇拜和佩服</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『李昕迪思考，為什麼沒有人把這些醫療群資訊標在地圖上呢？他恍然大悟原來自己就是「沒有人」，於是他自己開始動手寫程式。』這個就是零時政府曾說過的名言阿，沒有人是萬能的，你就是那個沒有人，既然沒有人跳下去做，那處在問題當下的你自然就是不二人選，因為你實際體驗過，你很清楚那個體驗帶來的不方便，不方便到坐立難安，捲起袖子一一把困難排開，當你開始想要專心投入解決一個頭痛問題時，整個宇宙都會聯合起來幫助你達成。<ul>
+<li><a href="http://www.ithome.com.tw/news/89622" target="_blank" rel="external">醫師變工程師，下海寫程式幫助推廣家醫制度</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>K 的聲線太讚了，主唱往往決定一個樂團日後的大紅與否，PTP 做到了，但一切意外都發生得太突然了，就像今天得知好多位香港同事都接二連三離職一樣，想想這流動率到底是正常還是我太過於敏感呢。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=l7UT8kEUxIA" target="_blank" rel="external">Pay Money to My Pain - This Life - Remember the name - 2011</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-07-15-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-15-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/15 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#81</title>
@@ -960,56 +1010,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-06-26-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-26-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/26 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#62</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/06/25/Wesley-Daily-Digest-62/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/06/25/Wesley-Daily-Digest-62/</id>
-    <published>2017-06-25T05:38:45.000Z</published>
-    <updated>2017-06-25T05:39:03.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-06-25-Wesley’s-Digest-Collection"><a href="#2017-06-25-Wesley’s-Digest-Collection" class="headerlink" title="2017/06/25 Wesley’s Digest Collection"></a>2017/06/25 Wesley’s Digest Collection</h4><ul>
-<li><p>Emoji 越來越多花招了，尤其有在用 Slack 的人都知道，你甚至可以自己上傳客製化的 emoji 圖案，然後就開始一陣無意義的圖戰了。同事如果都是台灣人就好了，背景生活習慣相近，不會有太多的跨文化誤解，但公司有不少香港同事，常常要用 Slack 隔著一片海溝通設計上的細節，然後每次都會收到奇怪的圖示，那種要笑不笑的囧臉啊，不然就是皮笑肉不笑，搞的筆者都要試圖理解用這張貼圖的人背後到底想表達什麼意思。結果對方說只是單純覺得貼圖好看就用了。</p>
-<ul>
-<li><a href="https://www.inside.com.tw/2017/06/19/cross-culture-emoji-world" target="_blank" rel="external">表情符號也需要跨文化解讀：Cross Culture in Emoji World</a></li>
-</ul>
-</li>
-<li><p>『藍瓶咖啡即是用Keynote（簡報軟體）製作出網站外觀，讓受測者可以模擬真實的使用情形。納普強調，他們做過100多次衝刺計畫，「只有少數幾次，Keynote沒能滿足需求。」』;『藍瓶咖啡一共建置了3個網站的原型，安排目標顧客做測試。結果顯示， 原本團隊認為極具質感的木質風格，被說「俗套」「不值得信賴」；而用文字說明沖泡方式與口感的設計卻大受好評，被形容「經營網站的人真的懂咖啡」。』初學技術時總會覺得自己無所不能，因為心中有偏見所以眼中看到的網站都覺得是渣。真正跳下去磨練個一段時間才發現，以一個產品的角度而言，網站技術真的是最簡單的一塊，技術能力再強，用多潮的框架使用者都不會知道，對於一個初來乍到的 user，你能給他的第一印象往往決定了產品往後的成敗。</p>
-<ul>
-<li><a href="https://meet.bnext.com.tw/articles/view/40952" target="_blank" rel="external">產品上市前，怎麼確定顧客一定滿意？「咖啡界的Apple」藍瓶咖啡的做法值得一學！</a></li>
-</ul>
-</li>
-<li><p>『PM 在排人日前會先問過所需工時，當我報出這個數字時不接受殺價、也不接受「幫忙一下加個班」這種人情攻勢。誰敢跟我說「很簡單啦你就隨便弄弄很快就好」，我就敢把 Photoshop 教學書丟過去說「很簡單啦你就隨便弄弄很快就好」。公司桌上我常備幾本工具書，不只是自己查資料方便，堵人嘴也很好用。』所以我說客戶是世界上最鯛的一群人，87% 的比例更是像個大爺會用錢砸在你臉上要你趕快改，PM 如果涉世未深沒有視情況把不合理的需求擋下來，那被工程師和 UI 設計師幹到飛天也是合情合理的。</p>
-<ul>
-<li><a href="https://blog.akanelee.me/posts/159756-keep-modified-design/" target="_blank" rel="external">改不停的設計與加班</a></li>
-</ul>
-</li>
-<li><p>『對我來說，建築師是一群整合現有條件，加入自己的一些想像，並藉由的創造出的環境來營造各種價值的人。而工程師呢？工程師們是一群挑戰對世界的認知和定義，並以跌破眼鏡的方式做到所有人常態下認為沒有機會發生的事！簡單地說，我認為工程師是一群可以直接挑戰上帝的新時代物種！』前幾天看到禹秀也開始寫部落格了，有點東西記錄整理下來總是好事。當然文中這段描述是有點浮誇過了，但筆者確實看過厲害的工程師可以幾秒鐘輕鬆寫意解決你卡住很久的問題，甚至是用你可能連聽都沒聽過的方法去實作，走筆至此還是要八股一句話：你永遠不會知道你本來就不知道的東西。</p>
-<ul>
-<li><a href="http://show006100.blogspot.tw/2017/06/blog-post.html" target="_blank" rel="external">當程式可以替你寫文章 (上)</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『許多人以為我們需要不受政治干預的純粹音樂或體育的空間，所以不斷地主張:「政治歸政治」、「體育歸體育」、「音樂歸音樂」，但這樣的說法其實並不正確，在現實上也不可能切割，因為既然政治是「（管理）眾人之事」，體育、音樂也是眾人之事，怎麼會與「政治」無關？ 』不可能完全沒有關係的，這世界就是個大染缸，漠不關心，也只是種多數人會採取的冷暴力。『當納粹來抓共產主義者的時候，我保持沉默；我不是共產主義者。當他們囚禁社會民主主義者的時候，我保持沉默；我不是社會民主主義者。當他們來抓工會會員的時候，我沒有抗議；我不是工會會員。當他們來抓猶太人的時候，我保持沉默；我不是猶太人。當他們來抓我的時候，已經沒有人能替我說話了。』<ul>
-<li><a href="https://medium.com/@benlakuang/%E9%9F%B3%E6%A8%82%E6%AD%B8%E9%9F%B3%E6%A8%82-%E6%94%BF%E6%B2%BB%E6%AD%B8%E6%94%BF%E6%B2%BB-1a6585e3575" target="_blank" rel="external">音樂歸音樂？政治歸政治？</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>很少會認真 follow 西洋歌，少數知道的都是從朋友推薦間接知道的，像這首就是從享享那聽到的。Pentatonix 的版本好像比原作更有音樂性，但筆者相信很多人都是聽完 cover 版本才去聽原版的，甚至誇張點的是聽到 cover 版才知道，哇，原來原唱是另一組人馬。cover 比本尊更紅的其實並不少數。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=TsVeQnBmp70" target="_blank" rel="external">Naughty Boy - La La La - Hotel Cabana - 2013</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-06-25-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-25-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/25 Wesley’
     
     </summary>
     
