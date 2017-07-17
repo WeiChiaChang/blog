@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-07-16T02:46:34.000Z</updated>
+  <updated>2017-07-17T08:01:37.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#84</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/07/17/Wesley-Daily-Digest-84/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/07/17/Wesley-Daily-Digest-84/</id>
+    <published>2017-07-17T08:01:23.000Z</published>
+    <updated>2017-07-17T08:01:37.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-07-17-Wesley’s-Digest-Collection"><a href="#2017-07-17-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/17 Wesley’s Digest Collection"></a>2017/07/17 Wesley’s Digest Collection</h4><ul>
+<li><p>『個產業有不少公司的玩法都是盡可能開多個網站，然後讓行銷市場的人去推，看最後哪個網站的獲利起來，起的來就繼續養，起不來就關掉，這些網站的功能可能幾乎一模一樣，差在皮不一樣，我們做的也是這樣，算是來分這市場一杯羹、拷貝別人現有網站的功能、領域的追隨者，談不上什麼創新，或者說，營利模式已經很確定了，沒什麼未知、不為人知的部分』這樣的自問自答可以和內心的自我對話，自我省視並且反思有無哪裡可以做的更好，畢竟我們大多數時候都太難接受別人對於自己的指責或是批評，良藥苦口也是無可避免。</p>
+<ul>
+<li><a href="https://medium.com/@festime/developers-guide-to-interviewing-ask-questions-and-answer-them-myself-3b0c79b13df9" target="_blank" rel="external">A Developer’s Guide to Interviewing 自問自答</a></li>
+</ul>
+</li>
+<li><p>寫程式不是說行數越多就代表你產能越高，會用這種作法去判斷一個工程師的產能基本上是非常蠢的行為，但至少在台灣很多沒有技術背景的主管或是老闆會覺得你工作的很認真，沒有辛勞至少也有苦勞，反倒是這種可以把程式寫的更為簡潔好懂的技巧卻沒人願意去做。筆者最近趕的公司專案說實在也寫了一堆廢 code，還好有位技術大神同事願意花額外的時間幫忙優化，要好好珍惜身邊願意 code review 的主管啊。</p>
+<ul>
+<li><a href="https://larry850806.github.io/2016/07/16/JS-tips/" target="_blank" rel="external">[Javascript] 幾個實用的 JS 小技巧</a></li>
+</ul>
+</li>
+<li><p>因為專案上的需求常常要不斷跟設計師催稿和打交道，不知道是筆者過於眼尖業障重還是怎樣，有位設計師是直接把別人家現成的設計稿拿掉幾個核心元素，上面打了一個大大的叉叉然後放在旁邊的 dashboard 卻不拿掉，筆者總感覺是某種臨摹或是刻意的模仿，因為兩種風格實在是有點太像，太像就算了，最後還在別人的作品上標記一個鮮紅的叉叉，感覺實在很糟。</p>
+<ul>
+<li><a href="https://medium.com/as-a-product-designer/%E5%88%86%E4%BA%AB-%E8%B6%85%E5%A5%BD%E7%94%A8%E7%9A%84%E5%8E%9F%E5%9E%8B%E8%A8%AD%E8%A8%88%E5%B7%A5%E5%85%B7-%E5%A2%A8%E5%88%80mockingbot-99a4395c2a0f" target="_blank" rel="external">[分享] 超好用的原型設計工具 — 墨刀Mockingbot</a></li>
+</ul>
+</li>
+<li><p>『30岁以前，这个时间段，应该是人学习和积累的时间段，这个时间段，就是努力学习的时间段。这个时间段，你一定要把时间花在解决问题的技能上。就是说，你一定要练就成的技能是——你能解决大多数人不能解决的问题。使蛮力埋头加班苦干，当一个搬砖老黄牛的是肯定没有前途的。如果你不幸呆在了一个搬砖的地方，天天被业务压得喘不过气来，我建议你宁可让你的项目延期被老板骂，也要把时间挤出来努力学习基础知识，多掌握一些技术（很多技术在思路上是相通的），然后才能有机会改变自己目前的状况。因为，比起你的个人未来，项目延期被老板骂、绩效不好拿不到奖金，都不是什么事儿。』想要在這行取得突破性大的成就，就必須先捨棄一些過分容易取得的甜頭，像是做一些再簡單不過的瑣事，你往往可以很快地做完，卻發現都是些無意義的勞動活，多去思考事物的本質，也才能把這路摸清一點。</p>
+<ul>
+<li><a href="http://coolshell.cn/articles/17583.html" target="_blank" rel="external">技术人员的发展之路</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『坦白說，CS 真的不容易，以前有去修過資科的課，兩週後就退選了QQ。學長有產業的經驗，走產品端會相對有優勢，因為你了解該產業的需求，做出來的產品，才能有效的解決「問題」。能解決問題，才能創造價值。而就功利的角度來看，能創造價值的人，才能在就業市場保有一席之地。』中肯文，電腦科學是當代顯學，誰會想到十年多之言前網路泡沫大家都避而遠之的那段歷史呢？一些躍進式的發展像是深度學習，其實也是換個名詞大家看到就高潮了。生存不容易，要站穩腳步，就必須找到產業痛點並實作出解決方案，這也是今日 CS 顯學最大的挑戰之一。<ul>
+<li><a href="https://www.ptt.cc/bbs/CareerPlan/M.1494920156.A.5BE.html" target="_blank" rel="external">Re: [請益] 文科碩為求職轉學CS相關 現在還合適嗎?</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>大一住在學校宿舍，好幾個週末都沒有回台南，某個禮拜六的半夜睡不著在滑筆電，滑著滑著就在水管上聽到這首歌，看到那樣熟悉的視訊背景就瞬間勾起好多回憶。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=cfpX8lkaSdk" target="_blank" rel="external">宇多田ヒカル - Goodbye Happiness - Goodbye Happiness - 2010</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-07-17-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-17-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/17 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#83</title>
@@ -959,56 +1009,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-06-28-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-28-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/28 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#64</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/06/27/Wesley-Daily-Digest-64/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/06/27/Wesley-Daily-Digest-64/</id>
-    <published>2017-06-27T05:54:21.000Z</published>
-    <updated>2017-06-27T05:54:39.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-06-27-Wesley’s-Digest-Collection"><a href="#2017-06-27-Wesley’s-Digest-Collection" class="headerlink" title="2017/06/27 Wesley’s Digest Collection"></a>2017/06/27 Wesley’s Digest Collection</h4><ul>
-<li><p>『而高科技業的研發工作，往往是一個具備時程壓力的獨立工作項目，難以切分與替代；因此傳統生產線的「排班」變得困難。然而業主也有應對方法，例如台積電24小時輪值，以加薪30%重賞組成的「夜鷹」菁英研發部隊，晨星半導體則有無限提供飲料、高級餐點，驅動員工連續工作直到專案完成的「戰情室」，都是管理階層將勞動力榨取至極致的神祕武器。』TECH_JOB 板上可以說幾乎快變成 GG 板了，更常看到 N + 5 ，包子啊，紅茶，發哥之類的 metaphor 文化。其實跟軟體寫三年左右的本薪領的差不多，比較可觀的還是分紅，往往光這塊領的就足以屌打許多行業的年薪。</p>
-<ul>
-<li><a href="https://www.bnext.com.tw/article/44690/labor-culture-of-tech-in-taiwan" target="_blank" rel="external">程式、分紅、保肝丸──高科技業的勞動文化</a></li>
-</ul>
-</li>
-<li><p>『在Facebook之類的社交網絡裡經常使用的一套鼓勵機制就是經常性地給你推薦好友，其本質就是想讓你在Facebook平台上可以更多地沉澱你的社交關系。另外，Facebook timeline的功能則是有效地將你的個人歷史事件記錄下來，這樣你的 facebook timeline 就成為了一種個人歷史，在這樣豐厚（而且有情感）的數據積累面前，你很難拋棄Facebook而轉入一個新的社交平台（比如Google+）。』在 Facebook 推出之前人與人之間的聯繫可能只剩下每幾年碰面一次的同學會，或僅僅只是電話聯絡，甚至可以大膽的說臉書開創了之後通訊交友的一整片紅海。不得不說增加客戶黏著度和用戶鼓勵這兩項機制臉書運用得極為出色，在如此海量的數據面前你真的和它難分難捨。</p>
-<ul>
-<li><a href="https://www.huxiu.com/article/130729/1.html" target="_blank" rel="external">Growth Hacking让Facebook首页5年未改版，人人网改版自掘坟墓的背后，缺少的是什么</a></li>
-</ul>
-</li>
-<li><p>『矽谷，一個代表自由、開放與陽光的城市，作為全球IT產業的標竿，在這塊土地上面有著滿地跑的 Tesla 跟數不清的科技公司（誤）；對於一個還沒有見過世面的工程師/設計師而言，「矽谷」這個代稱同時也包裝了一個又一個的機會與夢想，在這片土地上似乎隨時都可能孕育出下一個世界級的產品或服務？下一個億萬級的公司或者下一個像 Steve Jobs 一樣作為時代象徵的代表性人物？在這樣的一個氛圍底下，自己曾經做過的或者努力過的一切都彷彿微不足道。』這段文章讀下來最為喜愛這段話，在偉大的產品面前我們都只是顆不起眼的小螺絲釘，儘管如此你還是費盡心思極其努力的還是想為產品貢獻點什麼。能夠在矽谷發光發熱可能也是大多數工程師不斷累積實力想挑戰的堂奧吧。</p>
-<ul>
-<li><a href="https://medium.com/@citysite1025/%E7%9F%BD%E8%B0%B7-%E5%8D%81%E5%A4%A9-f6e9f8bd8368" target="_blank" rel="external">矽谷，十日。</a></li>
-</ul>
-</li>
-<li><p>聽一個人說話，不能只聽他說了些什麼，而是要去想他沒說了什麼，同樣的臉書現在開放部分資源供你下載，不難想像是為了更全面的把通訊相關的生產鏈一條龍全部吃下來所做的佈局。Open Source 的力量在於可以結合整個社群的力量去推動一個專案的持續成長，以社群網站的例子說就是粉絲，從工程師的角度而言就是 contributor。其實有時候會覺得，大家都在參與飼養這頭巨獸的過程，如果哪天有人駕著這頭巨獸做壞事呢？似乎也只能靠自身約束力去限制了。</p>
-<ul>
-<li><a href="https://nextdesignhub.com/2017/06/21/facebook-messenger%E5%B9%B3%E5%8F%B0%E7%9A%84%E8%A8%AD%E8%A8%88%E5%A5%97%E4%BB%B6/" target="_blank" rel="external">Facebook Messenger平台的設計套件</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『那麼，社科背景有什麼好處呢？我們對於人充滿同理。社會學讓我們有機會接觸到社會上各個階層、背景的人，了解他們的生活（或許還給他一個理論）。人類學讓我們接觸到不同的文化脈絡，或是用參與觀察的角度來理解我們原本熟悉的社群。這些訓練讓我們習慣於去理解和我們不同的人，並且也能給予為什麼他們會這麼做的原因（雖然不見得都正確），這麼做有助於向其他人（例如PM、軟體工程師等等）解釋使用者的行為，以及為自己的設計辯護。』設計師在台灣的待遇已經不能用慘來形容了，文組生去哪裡都被噓更是批踢踢上的常態，病態到沒藥醫的行徑也無怪乎有人稱台灣作鬼島。台灣向來都不缺科技人才，但對於人文情操這類的素養始終被壓縮到無法好好喘口氣，當然你還是可以很常發現許多高知識份子不只理性論述明確同時兼備情感層面訴求，但也可能只是你的同溫層剛好認識這些人。要改變，要有感的話，少一分批判，多一點同理心，真正要檢討要提升的還是整島的台灣人。<ul>
-<li><a href="https://medium.com/@stephanie.kuo0809/%E4%BA%BA%E9%A1%9E%E5%AD%B8-%E7%A4%BE%E6%9C%83%E5%AD%B8-%E8%A8%AD%E8%A8%88-ux-273c288cd1cf" target="_blank" rel="external">人類學 + 社會學 + 設計 = UX ?!</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>第二次成大工作坊結束後在台南又多待了一個晚上，蓉萍的邀約也讓原本跟第五屆不太熟的我突然熟了起來。搭高鐵回台北的路上，效慈拿了耳機給我要我聽聽她最近常聽的幾首歌，裡頭放的就是南山南。一眨眼一年也過了，畢業紛飛的時節要再相聚似乎也變得難上加難，但人生路還長著呢，總會有新故事新朋友的加入，下次的相聚雖也不知何時，可能在世界的一角，抑或某個熟悉的路口，都曾有類似的身影不斷徘徊。等待的過程，其實也顯得有趣。必須好好活著啊，你只能這樣告訴自己。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=1cj1BApoYF0" target="_blank" rel="external">馬頔 - 南山南 - 孤島 - 2014</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-06-27-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-06-27-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/06/27 Wesley’
     
     </summary>
     
