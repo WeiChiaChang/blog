@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-07-23T04:30:20.000Z</updated>
+  <updated>2017-07-24T03:00:44.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#91</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/07/24/Wesley-Daily-Digest-91/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/07/24/Wesley-Daily-Digest-91/</id>
+    <published>2017-07-24T03:00:20.000Z</published>
+    <updated>2017-07-24T03:00:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-07-24-Wesley’s-Digest-Collection"><a href="#2017-07-24-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/24 Wesley’s Digest Collection"></a>2017/07/24 Wesley’s Digest Collection</h4><ul>
+<li><p>『實習，是個定位有點尷尬的工作。實習很像是上班，但又不完全是正式工作；看似是教育延伸，但也不是學校的課程。實習工作可以幫助學生在學業完成前，有機會能親身體驗真實工作的樣貌。因為同樣是設計師，在不同産業的公司，或甚至同一産業的不同型態公司，工作方法和內容都可能有極大的差別。所以，學生若能提前思考自己喜愛或適合什麼樣的公司，當然是非常好的事。』實習說穿了就是提前體驗職場生活，越早接觸也就能越快釐清原有想像是否和現實存在落差，而這也是學校教育比較無法提供的，做為實習生可以沒有正職的包袱，更能夠盡情地發問和學習。</p>
+<ul>
+<li><a href="https://rocket.cafe/talks/85134" target="_blank" rel="external">雙方都尷尬：如何讓設計系學生實習更有意義？</a></li>
+</ul>
+</li>
+<li><p>之前幫忙公司營養師做簡單的測驗題曾經使用過 survey.js，用起來相當簡單上手，但如果需要新增刪除問題或是有所調整，往往必須從工程端協助處理，沒有一個簡易可以直接讓營養師操作的介面，Google sheet 的強大真正解決了這個問題，可以像使用一般 sheet 的操作製作問題，只要工程端把相關自動化程式撰寫好就可以運作。</p>
+<ul>
+<li><a href="https://practical-dbm.blogspot.tw/2014/12/spreadsheet_1.html" target="_blank" rel="external">以Google Sheet題庫產生Google Forms隨機測驗卷</a></li>
+</ul>
+</li>
+<li><p>『2G訊號只能傳送文字簡訊，完全沒辦法讀取The Weather Channel的app畫面。有時我們完全沒有任何準備，就必須在雨中或低溫下爬山。這是一件十分惱人的事情。況且這種狀況並不只有在遙遠的地方才會發生。在我學校體育館的更衣室裡，手機通常是沒有任何訊號的。這讓我難以讀取跑步訓練前所需要的資料，例如室外體感溫度。遭遇到這些狀況後，我想要打造一臺能夠提供任何需要資訊、且不需要3G或LTE訊號的專屬簡訊機器人。』並不是所有地方都跟辦公室一樣有著超快的 5G 網路，像山區等收訊較差的地區往往最好的收訊程度也只能收發簡訊，做為開發者這點務必要納入考慮，而這項 project 吸引筆者的就是這點，用簡訊 SMS 的機制時作出 bot，這在危急情況發生時的確是個最佳解。</p>
+<ul>
+<li><a href="http://www.makezine.com.tw/make2599131456/sms-bot" target="_blank" rel="external">用Python和Twilio打造SMS簡訊機器人</a></li>
+</ul>
+</li>
+<li><p>『这就是我们今天的社会，不辩真伪，不分善恶！当吴清友与他的诚品书店出现在我们目前的时候，我们会因感知到美好而发出赞叹，但当我们真实的去感受脚下的这块土地的时候，我们又不得不承认：它并不属于我们！』誠品創辦人不久前過世了，留下的一個足以象徵文青圈必經朝拜聖地的誠品書店，為了做這一個文化事業忍受了長達十五年的虧損，用生命的能量投注在讓誠品這兩個字的全力燃燒，我們眼前所能看到的美好都是不斷經過這樣的不容易而僥倖存活的，慶幸我們還有著誠品這樣優美的詞彙在腦海。</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/avTYZxZI7dyAv0Lje_Q1Qw" target="_blank" rel="external">台湾才有吴清友，我们只有罗振宇</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『在天眼通的這個位置， 能看到許多公司評價，求職者評論以及他們的行為， 台灣人才的處境其實比原本想像的更糟，如果剛畢業的時候只是有點失望，那現在應該是接近絕望， 不過「世界上只有一種真正的英雄主義，就是在認清生活真相之後仍然熱愛生活。」，儘管很多事情都讓我們很害怕，或者對於現實的醜陋感到無奈，我仍然覺得這份工作真的是蠻有意思的，推薦給大家。』筆者還沒畢業之前就對於大學所教授的過程感到失望(並不是母校不夠好，而是單純個人對於系上的課程大綱無法融入)，出了社會開始工作因為是自學而找到相關工作，這樣的情緒反倒平復了一點，但大環境的慘況相信彼此都很清楚，會創業無非也是想改變點什麼。<ul>
+<li><a href="https://blog.qollie.com/qollie-anniversary/" target="_blank" rel="external">在「求職天眼通」工作一年是個怎樣的體驗</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>鋼之鍊金術師從 op1 聽到 op5 最愛的一首，大概和 brotherhood 版本即將收尾的心情有關，牛媽的作品厲害在於故事本身的厚度和情感層面渲染力，風格多樣性也不難從鋼鍊到銀之匙察覺，鋼鍊和 Guilty Crown 並列筆者心目中的神作。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=394Hmcmyxok" target="_blank" rel="external">Sid - Rain - Dead Stock - 2011</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-07-24-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-24-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/24 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#90</title>
@@ -959,56 +1009,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-07-05-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-05-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/05 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#71</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/07/04/Wesley-Daily-Digest-71/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/07/04/Wesley-Daily-Digest-71/</id>
-    <published>2017-07-04T05:45:36.000Z</published>
-    <updated>2017-07-04T05:45:51.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-07-04-Wesley’s-Digest-Collection"><a href="#2017-07-04-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/04 Wesley’s Digest Collection"></a>2017/07/04 Wesley’s Digest Collection</h4><ul>
-<li><p>『就視覺來說，看看多數銀行的網頁與 ＡＰＰ就知道了吧，確實還有很多的進步空間，作為設計師總是希望自己的設計除了美觀，更重要的是用戶體驗佳，但就流程來說，最基本的依據是安控基準，除了安全還是安全，所以自然的有很多的規範與認證要去遵守，就像是Apple Guideline一樣，金融界也有Guideline要去了解與遵守。』這年代學資訊不再是件難事，3 歲小孩都會寫 code，真正的挑戰在於要如何善用資訊的力量結合既有其他領域創造出不同於以往的新價值，做不到這一點，很多狂人對於產品技術面的一味熱衷也只是白搭。</p>
-<ul>
-<li><a href="https://medium.com/as-a-product-designer/%E6%B7%BA%E8%AB%87-%E5%BE%9E%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88%E5%B8%AB%E7%9C%8Bfintech%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80-b27e6fdc189d" target="_blank" rel="external">淺談-從產品設計師看Fintech金融科技</a></li>
-</ul>
-</li>
-<li><p>筆者主觀認為現階段可能還不是那麼成熟，要拿來使用在專案上是會卻步的，平心而論 web component 的概念挺好的，一些複用性極高的組件通常在多個頁面都會使用到，更理想的姿態是Ａ專案曾寫過的某個組件可以繼續拿來Ｂ專案沿用，相信我你不會想一直造一樣而類似的輪子的。不難察覺近幾年倡導前後端分離(當然還是要看專案實際情境和需求而定)的態勢之下，component 思維已然深入人心，工程師都是懶惰的，而懶惰會讓科技的發展更加神速。</p>
-<ul>
-<li><a href="http://blog.techbridge.cc/2017/03/04/webcomopnent-practice/" target="_blank" rel="external">Web Component 實戰</a></li>
-</ul>
-</li>
-<li><p>『我之前有幾個合作夥伴（各個專案都有），就不太喜歡被動式的溝通，總覺得用通話的方式講會比較快；的確，以溝通的那段時間來說，通話很快。但問題是我們不一定都處在剛好可以通話的狀態，所以反而會一直拖延我們溝通發生的時間點；後來我就慢慢和他們溝通我雖然隨時都在線上，但我會避免工作被打擾而選擇不要馬上語音通話，所以請他們盡量先簡單文字交代，又或者直接用語音錄音的功能。』Remote Wordking 一向讓筆者心神嚮往，曾經試著在家裡做事，卻發現效率極差，做沒多久的正事就不知不覺滾到床上了，感覺還是要去人多一點的地方吸收點人氣，一方面也是因為不要讓本來就很宅的生活顯得更宅。</p>
-<ul>
-<li><a href="https://medium.com/slidea-tw/nomad-life-%E6%95%B8%E4%BD%8D%E9%81%8A%E6%B0%91%E8%88%87%E9%81%A0%E7%AB%AF%E5%B7%A5%E4%BD%9C%E7%94%98%E8%8B%A6%E8%AB%87-86ea8cc8548a" target="_blank" rel="external">Nomad Life — 數位遊民與遠端工作甘苦談</a></li>
-</ul>
-</li>
-<li><p>完整介紹了 iOS 前後版本的 UI 差異，介面真的蠻漂亮的，但筆者從來沒有使用過 iphone 系列的手機，最近有個機會換了手機，還是選擇了慣用的 Sony 系列，說不上特別的選擇原因，就只是久了也習慣罷了。但寫前端網頁總不可能一直把 Android 相關尺寸奉為圭臬啊，大部分的人還是人手一台 iphone，至少在臺灣是這樣，所以我說做 Responsive 頁面的複雜度越來越高了，既要兼顧效能和 render 的時間，還是各種奇葩尺寸和瀏覽器兼容。</p>
-<ul>
-<li><a href="https://medium.com/uxabc/ios11-design-diff-7cbf8f38369f" target="_blank" rel="external">iOS 10 vs 11：完整 UI 比較分析</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>Github 個人頁面顯然已經成為工程師在網路世界豐功偉業的一張憑證，同時也是世界上最大的同性交友網站，該篇整理了從入門到精(ㄈㄤˋ)通(ㄑㄧˋ)的多種玩法，幾年前 Wordpress 架站蔚為風潮，直至今日世界上有五成以上的網站還是用 WP 技術架設，但做為一個平凡的螺絲釘工程師想寫點技術文章有必要用到 WP 這麼大包的框架嗎？然後 Github static pages 就開始有了另一種玩法，甚至還有 Jekyll 和 Hexo 這樣快速架站的 scaffold。<ul>
-<li><a href="https://segmentfault.com/a/1190000009985489" target="_blank" rel="external">SegmentFault 技术周刊 Vol.28 - GitHub —— 你不得不上的交友网站</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>之前貼過一次了，只是這回的是混音版，cover 版本聽多之後回去聽原版反而覺得原版不像原版了，有種拋磚引玉的意味，各種版本各種混搭也象徵著每個人呈現的各種姿態。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=ordCiKUVRWI" target="_blank" rel="external">ストレイテナー × toe × Spangle call Lilli line - live mashup - 2014</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-07-04-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-04-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/04 Wesley’
     
     </summary>
     
