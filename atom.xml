@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-07-24T03:00:44.000Z</updated>
+  <updated>2017-07-25T01:58:05.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#92</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/07/25/Wesley-Daily-Digest-92/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/07/25/Wesley-Daily-Digest-92/</id>
+    <published>2017-07-25T01:57:47.000Z</published>
+    <updated>2017-07-25T01:58:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-07-25-Wesley’s-Digest-Collection"><a href="#2017-07-25-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/25 Wesley’s Digest Collection"></a>2017/07/25 Wesley’s Digest Collection</h4><ul>
+<li><p>『在大致上的視覺風格與功能確認之後，接著進入開發階段，在這個階段，常常會有很多「彩蛋」發生；像是礙於時程的壓力，前期的設計規劃被壓縮，就會發生許多可以事先預防的狀況，直到開發階段才被發現，導致開發團隊需花更多的時間重新調整，看上去省了前期設計的時間，但其實是讓病徵延後才發病，也沒有省掉太多的時間。』不知道是只有筆者的公司才有這個狀況還是新創都有類似的問題，PM 可能真的人太好，客戶一提需求改動就必定遵循，對啊，看起來很棒很順暢，但倒霉的就是開發團隊啦，設計稿一直改，三天一小改五天一大改，改到最後麻痺到只好試圖說服自己，因為有客戶的頻繁改動，工程端才有飯可以吃啊，已經到這種必須講幹話給自己吸收的地步了。</p>
+<ul>
+<li><a href="https://medium.com/as-a-product-designer/%E5%B0%88%E6%A1%88%E5%8F%96%E5%90%91%E7%9A%84%E8%A8%AD%E8%A8%88%E6%B5%81%E7%A8%8B-2733013373b0" target="_blank" rel="external">專案取向的設計流程</a></li>
+</ul>
+</li>
+<li><p>『第三类跨界的人是靠遇到特殊的贵人，实现跨界转型的。这次我要讲的也是一个画家，不过今天大家知道他是作为一个发明家，他发明了工业革命时期非常重要的蒸汽船，这个人叫做富尔顿。这个人在过去中国小学课本中有介绍，不知道今天的课本里还有没有他了。』; 『受到瓦特的影响，富尔顿从此迷上了蒸汽机和各种机械。在绘画之余，他开始学习数学和化学，这让他有了后来成为发明家的理论基础。在英国期间，富尔顿还遇到了著名的空想社会主义理论家、工厂主欧文，并且为后者开始设计和发明各种机械。』跨領域思維筆者自始至終都覺得是個假議題，世界上沒有人在一個領域專業到可以被稱為專家，所謂專家二字也只不過和痛苦一樣是比較出來的，但可以肯定的一點是，長期在同一個範疇鑽研許久未必會有顯著突破，反而是從另個地方跨進來的人往往因為較能不被傳統束縛而產出不同以往的爆炸和火花，就跟現在這麼多人跑去唸 AI 和深度學習，但真正取得突破性進展的教授卻也不是 CS 本科出身的。</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzAwNjYxNzc0OA%3D%3D&amp;mid=2649539353&amp;idx=1&amp;sn=c8fcd587669593eb5ef1a49ac7d38375&amp;chksm=8312cce2b46545f451ea00aaa47c664deaaf2f2d2d17c9f868db494ce0ce55f7983994e6c94c&amp;mpshare=1&amp;scene=43&amp;srcid=0722oWRvHn5ZdOQ1iFPSDFOf#rd" target="_blank" rel="external">如何成为一位跨界人才？</a></li>
+</ul>
+</li>
+<li><p>『简单的工作重复 10000 小时。比如现在互联网比较热门，一些人学了一点编程技巧也能挣还不错的工资，于是就守着这点技能每天在低水平地重复，这些人恰恰在未来是要被计算机淘汰的。』筆者已經開始感到類似的危機了，明明踏入職場還不滿一年的說，前端變化之快就不說了，一直用類似的技術或是框架工具，到頭來都還是在做同一件事，一個比喻就是你不斷學會如何把馬操縱的更好騎得更快，但若是一直拘泥在這視野，你可能一輩子就不會知道其實你也是可以造出飛機和太空梭的。</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/Q0O4NaLMgUVmPrS_rWngbA" target="_blank" rel="external">正确利用10000小时定律，从新手变成专家</a></li>
+</ul>
+</li>
+<li><p>『另一個我覺得也很重要的是個人網站，個人網站在國外其實非常盛行，因爲自己的網站比較能精準的傳達自己的想法，上面可以放你的經歷、作品、文章，甚至有任何關你曾經做過有趣的事情。而且結構上非常不受拘束，可以很有創意。我認為網站就是代表一個人的性格，也是最能夠了解設計師sense的一個方式。』台灣人往海外出走尋找工作已經是被迫不得不如此，相信很大一部分人是為了尋求自我突破和海外歷練，但現實面無非還是錢，國內能給的，扣掉每月固定成本開銷再看看房價真的會想哭。</p>
+<ul>
+<li><a href="https://medium.com/as-a-product-designer/ux-ui%E8%A8%AD%E8%A8%88%E5%B8%AB%E6%B5%B7%E5%A4%96%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97%E8%A8%98%E9%8C%84-95742d8a4c96" target="_blank" rel="external">UX/UI設計師海外面試心得記錄</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>該文作者寫了篇好詳細的介紹文，筆者開始懷疑作者就是台灣駐聖文森大使館的代表，感覺也是跟資深鄉民。相信從國中地理和高中接連上了六年的史地課程，與台灣邦交的國家只見減少不曾增加過，少數幾個穩如泰山的幾乎都在中南美，號稱絕對不會背棄台灣的巴拿馬也在不久之前宣布斷交，再也不能搬出巴拿馬總統跟我也有點交情這樣的說詞。聖文森也不是什麼大國，小國之間的橋樑是否穩固就建立在誠信，每次都這樣講，講到最後都變成金錢外交。<ul>
+<li><a href="https://www.ptt.cc/bbs/Gossiping/M.1495635655.A.39C.html" target="_blank" rel="external">Re: [新聞] 聖文森再駁：說台灣是中國一部分太可笑</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>火影忍者進入疾風傳系列的第一首 OP，上次聽是國中還是高中了，轉眼間火影也結束連載了，一個偉大的時代也跟著完結了，儘管如此，曾帶起的旋風都已形成對於一個世代的影響力，很慶幸我們這一代有著火影這樣熱血的漫畫陪伴度過。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=KoAfKrjUC88" target="_blank" rel="external">秦 基博 - 透明だった世界 - Documentary - 2010</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-07-25-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-25-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/25 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#91</title>
@@ -959,56 +1009,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-07-06-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-06-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/06 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#72</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/07/05/Wesley-Daily-Digest-72/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/07/05/Wesley-Daily-Digest-72/</id>
-    <published>2017-07-05T05:49:44.000Z</published>
-    <updated>2017-07-05T05:50:07.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-07-05-Wesley’s-Digest-Collection"><a href="#2017-07-05-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/05 Wesley’s Digest Collection"></a>2017/07/05 Wesley’s Digest Collection</h4><ul>
-<li><p>『福斯托說，在他們設計iPhone後的幾年，從來沒聽過「擬真化（skeuomorphism）」這個詞，他認為這詞聽起來很不自然、很詭異。對他而言，好設計是易上手、易接近且友善的，不需要說明書就知道如何使用。而他們過去使用的照片說明設計、隱喻設計等設計理念，都被賈伯斯注入在第一代蘋果產品。「我們用了這些設計理念，但這並不代表我們喜歡每樣細節。不過我們設計出這些產品確實成功了，你只需要看人們如何使用他們就知道。」』Jobs 離開之後的蘋果顯然已不再是當年那個為細節而苛求的蘋果，但你不得不承認蘋果仍然是當今最重視使用者經驗等因素的公司之一。Jobs 的時代過去了，雖然現在的蘋果推出的產品沒有辦法做到同樣高度的水平，但至少可以看到這經驗是被傳承下來的，也教育著更多大廠更致力於投入資源讓 UI/UX 這類生硬的名詞可以輕巧的走進大眾的生活。</p>
-<ul>
-<li><a href="https://www.bnext.com.tw/article/45148/scott-forstall-discusses-creation-first-iphone" target="_blank" rel="external">五年未露面，iOS之父史考特．福斯托談賈伯斯和第一代iPhone開發過程</a></li>
-</ul>
-</li>
-<li><p>要建立起一套有系統的品牌規範用腳趾頭想都知道是件困難指數極高的挑戰，有公司願意提供資源製作出這樣優質的素材絕對是件令人激賞的好事，筆者常覺得跟我差不多年紀的人們好像要錢也沒啥口袋深度，談感情大多數情況也只是幫人養老婆，最好的還是把時間和金錢投資在自己身上，畢竟窮的也只剩下時間了，用時間換取一個可自由規劃的人生，好像也是現階段唯一能夠明確掌握的一件事。</p>
-<ul>
-<li><a href="https://www.paganiniplus.com/brand/index.html" target="_blank" rel="external">帕格數碼品牌規範</a></li>
-</ul>
-</li>
-<li><p>『新聞工作者常瞧不起商人、管理階層的人，認為就是商業利益的思維下，侵害了新聞的獨立性。而身為一個新聞人，絕對不能向錢看等。因此，會敵視或忽視很多商業邏輯與行銷公關思維。然而，當新聞工作者一頭埋入新聞熱，創造出許多深度內容後，卻不曾好好停下來思考：我的報導究竟有沒有人看得到？』媒體界的混亂程度堪比政治圈，每每會讓人想說句貴圈真亂的感嘆。新聞能見度不會是個假議題，因為這種現象絕對不僅只發生在那，產品做的夠好，也有少數金主願意買單，卻沒有更多人發現而知道。要嘛產品夠好沒人看到，看到之後卻沒人願意提供資金，IOH 現在就深陷類似的泥淖出不來。</p>
-<ul>
-<li><a href="https://medium.com/@Jimmy_Wei/%E5%85%A7%E5%AE%B9%E7%82%BA%E7%8E%8B-%E9%86%92%E9%86%92%E5%90%A7-%E6%A0%B9%E6%9C%AC%E6%B2%92%E4%BA%BA%E6%83%B3%E7%9C%8B%E4%BD%A0%E7%9A%84%E5%85%A7%E5%AE%B9-%E4%B8%8A-3c1f8df5e8f5" target="_blank" rel="external">內容為王？ 醒醒吧！根本沒人想看你的內容（上）</a></li>
-</ul>
-</li>
-<li><p>批踢踢雖然亂象多，但還是很多神人不時會在上面 po 文現身說法，這點就猶如看電影總會不經意發現有無埋藏的彩蛋，看文章前都會先看一下 po 文者的 ID，也算是蠻有趣的。不同年紀有著不同際遇，做了一個不一樣的選擇便有了截然不同的人生，在做選擇的當下和實踐所做選擇的同時都是異常迷惘的，極有可能那條路完全沒有人走過，甚至要首當其衝成為這條路的開路先鋒。講句俗氣的，做為人類果然還是最累的。</p>
-<ul>
-<li><a href="https://www.ptt.cc/bbs/CareerPlan/M.1375905543.A.29B.html" target="_blank" rel="external">[問題] 老人考上醫科 該去念嗎?</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『所以我還在這裡：還站在競技場中央，與我自己創造出來的惡魔進行肉搏戰，試著在宇宙中撞出一點小小的凹痕（編按：原文是「make a small dent in the universe」，而「Let’s make a dent in the universe.」是 Steve Jobs 的名言之一）。或許這遠不及一個偉大的成功故事，但是打一場漂亮的仗，協助他人成就偉業，順便完成一點點自己的目標應該也不錯。再過一個月我就要滿 46 歲了，大多數人過了我這個年紀時大多早已證明自己，但我還在努力。』其實這時候看這篇文章蠻敏感的，文中作者近日因為牽扯進性騷擾案件而整個人黑掉，但在報導被證實之前筆者認為不能如此武斷，大家也都成年了，也應該知道什麼是能做什麼是不該做的。<ul>
-<li><a href="https://www.inside.com.tw/2012/07/13/late-bloomer-not-loser" target="_blank" rel="external">一位矽谷投資人的告白：我不是失敗者，只是大器晚成</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>沒有 vocal 的純音樂，鮮明節拍讓整首曲子就算沒有人聲的加入依然很激昂。筆者分不太清楚搖滾的類型，有人說是後現代搖滾也有人說數字搖滾，天曉得到底是哪一種類型，做為一個庸俗到不行的聽者，我也只是單純喜歡這樣的曲調風格。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=F6cprNJLea0" target="_blank" rel="external">tio - sign - toitoitoi - 2014</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-07-05-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-05-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/05 Wesley’
     
     </summary>
     
