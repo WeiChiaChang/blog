@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-07-29T06:25:11.000Z</updated>
+  <updated>2017-07-30T03:09:12.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#97</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/07/30/Wesley-Daily-Digest-97/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/07/30/Wesley-Daily-Digest-97/</id>
+    <published>2017-07-30T03:08:47.000Z</published>
+    <updated>2017-07-30T03:09:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-07-30-Wesley’s-Digest-Collection"><a href="#2017-07-30-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/30 Wesley’s Digest Collection"></a>2017/07/30 Wesley’s Digest Collection</h4><ul>
+<li><p>不能否認的是，網路方便的現在做任何事都顯得特別快速，身旁的幾個朋友可能也開始跳下去寫程式了，筆者也不自覺回想當初是怎麼自學過來的，路上也沒啥人帶，能做的也只是問問 Google 大神並實際去做各種嘗試，很神奇的大部分的問題都可以解決，前提是關鍵字要下對，但盲點就在這裡，你要怎麼知道有哪些關鍵字是可能關聯到這個問題的呢？於是你還是要回到最最基礎的核心把底子打好，官方文檔 README 常常翻閱，之後也才有能力和動力去遍讀原始碼甚至去發 PR 。</p>
+<ul>
+<li><a href="https://calpa.me/2017/07/24/six-steps-to-debug-before-directly-ask-question/" target="_blank" rel="external">項目代碼調試：提問前要做的六個步驟</a></li>
+</ul>
+</li>
+<li><p>『但要跟坐收版權費的唱片公司談降分成比例，無異於從他們口袋里搶錢。據外媒 MBW 推測，這大概是 Spotify「被迫」自制內容的原因。虛假藝人是誕生過程，則是 Spotify 通過與第三方製作公司達成合作（或者是投資關係），版權方以降低版稅分成比例的方式獲取高曝光渠道，平台方以提供優質歌單位置實現低成本採購，最後按照一定比例對播放收益分成。』筆者很常使用 Spotify 平台，不管是在上面聽歌還是隨意瀏覽，會喜歡用的原因無非就是在 Mac 環境使用是完全免費的，只是偶爾會有幾支廣告，蠻像在聽沒有主持人的廣播電台，但也很怕因為被這樣的習慣制約，變得不是 Spotify 就不聽，偏偏他們家的音質就是比其他家好。在享受平台的同時，他們也正在努力經營著啊，真的會被使用者體驗至上這幾個字搞死。</p>
+<ul>
+<li><a href="https://buzzorange.com/techorange/2017/07/24/spotify-make-own-music/" target="_blank" rel="external">越熱門越賠錢？Spotify 被版權掐到快死！拼死一搏自製音樂，還遭唱片公司控偷流量</a></li>
+</ul>
+</li>
+<li><p>『與其等待那個駕著七彩祥雲來迎娶我的蓋世英雄，與其等待遇上那個踩著水晶鞋的美麗灰姑娘，與其等待那個一見如故難分難捨的靈魂伴侶，我倒寧願把身邊那個陽光積極善良的人，相處成另一個自己 。』半信半疑的讀完這篇，停留的印象除了標題聳動以外內容倒是還好，因為自身沒發生過這種事，聽聽就好。但筆者相信這會是趨勢，談戀愛變得像在扣奢侈稅，兩個人從朋友成為情人的成本也越來越高，交友圈社交圈全部重疊在一塊，兩人若有緣則走到最後眾人祝福，但多的是分手之後打死不相往來因為怕朋友圈見面變得尷尬。談感情是否也必須把持寧缺勿濫這點，還是見仁見智。</p>
+<ul>
+<li><a href="https://buzzorange.com/vidaorange/2017/07/24/wait-for-true-love/" target="_blank" rel="external">關於單身的殘酷真相：「寧缺勿濫」反而讓你離真愛越來越遠</a></li>
+</ul>
+</li>
+<li><p>『說起解嚴30年：「我是出生解嚴那一年，可是我覺得現在還是一個新戒嚴的年代，像我這樣的統派，被欺負、被網路霸凌，不是一樣的嗎？」可是，戒嚴對人民的壓迫可不僅是網路霸凌，有些是付出生命的，他則這麼說：「對國民黨來說，戒嚴的正當性是來自反共；台獨者也因為戒嚴阻擋了共產黨統一而有了日後談論獨立的空間。」』對王炳忠的印象停留在唱中華民國唱到破音那段，媒體真的害人不淺。雖然他的政治立場明顯和台灣主流有所區別，但他說的這段話的確有道理存在，不過關於共產主義下決策的獨斷獨行優於台灣民主這觀點，筆者想說的是，在台灣才有可能允許這麼多聲音出現，在中國同樣的做法換來的只是一言堂和禁聲，希望他也不要忘了這點。</p>
+<ul>
+<li><a href="https://www.mirrormedia.mg/story/20170724web001/" target="_blank" rel="external">【吃便當】吃滷肉飯也要當中國人　王炳忠</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『不過，趙明誠和李清照志趣相投，他們長期蒐集、研究、考訂金石，最後編成一本《金石錄》，是自歐陽修《集古錄》之後，最有系統的金石學著作。雖然寫詞寫不贏妻子，但李清照31歲生日時，有一幅寫真小照，趙明誠題上：「清麗其詞，端莊其品，歸去來兮，真堪偕隱。」讚嘆妻子的好品德與美妙文采，認為兩個人應該一起隱居。充分表達了兩人的鶼鰈情深。』高中國文選讀過的宋詞，簾捲西風，人比黃花瘦，莫道不銷魂，都出自於李清照筆下，很少會在中國文學看到女性的身影，從古至今寫詞能及的上的實在屈指可數。<ul>
+<li><a href="http://www.storm.mg/lifestyle/285455" target="_blank" rel="external">誰說老婆比較優秀，注定夫妻失和？宋代李清照與趙明誠，千年前就示範何謂鶼鰈情深</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>莫名洗腦，好像也什麼，聽了大概 40 次就關掉了。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=glF_bfX9HXI&amp;list=PL9do701rCbQzwjmlebZffsYM4mVw44SrJ&amp;index=125" target="_blank" rel="external">蕭志瑋 - 簽名照 - 單曲 - 2017</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-07-30-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-30-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/30 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#96</title>
@@ -965,56 +1015,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-07-11-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-11-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/11 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#77</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/07/10/Wesley-Daily-Digest-77/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/07/10/Wesley-Daily-Digest-77/</id>
-    <published>2017-07-10T02:34:49.000Z</published>
-    <updated>2017-07-10T02:35:08.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-07-10-Wesley’s-Digest-Collection"><a href="#2017-07-10-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/10 Wesley’s Digest Collection"></a>2017/07/10 Wesley’s Digest Collection</h4><ul>
-<li><p>『筆者認為可能要來個革命，移除掉許多根深蒂固的文化（特別是由上而下的階級管理方法），從高層領導人就要深入了解 Scrum 跟敏捷方法且廣泛施行，才能讓 Scrum 像在西方世界一樣發揮效用。只要更多年輕一代的亞洲人思考 21 世紀組織該有的運作方式，想要改善它，就有一絲希望！只希望 Scrum 跟敏捷方法在亞洲普及的那天，筆者還活著，繼續喝著那一小口咖啡。』從美式橄欖球術語延伸出來的 Scrum 理論在國外已是行之有年，甚至在軟體開發以外的領域都屢見不鮮，如果真要把 Scrum 導入讓團隊成員認真當作一回事的話，就必須屏棄原有框架和上下分明的階級制，要像國外也要學得像一點，否則也只是皮毛上做功夫。</p>
-<ul>
-<li><a href="https://cyberrob.github.io/scrum/asia/taiwan/2017/07/01/scrum-in-asia-translated.html" target="_blank" rel="external">Scrum在亞洲行不通</a></li>
-</ul>
-</li>
-<li><p>『那些技術文章如果每天看每天看，會有一種「我好像學到很多」的錯覺。但過一個月以後再問你當初看的那篇文章在講什麼，你還記得嗎？像我的話八成是忘記了，只大概記得文章的標題跟一點點內容而已。覺得看很多篇技術文章就能學到很多技術的這種想法，我真的太天真了。實際上你把整篇文章看完，學到的可能只是作者理解的 30% 或者是更少而已。為什麼？因為你只是看，你沒有動手做，你也沒有實際碰過那個問題。所以那篇文章對你來說，就只是看著看著就忘記了。』聽說有些人會在每天晚上睡覺前關掉所有手機筆電等裝置，就為了提前 30 分鐘做個冥想，反省自身一天下來做了哪些事，哪些事可以做得更好等自我改善，筆者最近開始試著實踐這項 daily todo lisy，檢討自己在技術鑽研的路上是否過度為了追求開發效率而欠下許多環不完的技術債，又或者是看了許多技術文章以為自己真的懂了的走馬看花式學習，沒有真正走過痛過，永遠都只是紙上談兵。</p>
-<ul>
-<li><a href="http://blog.techbridge.cc/2016/12/31/review-2016/" target="_blank" rel="external">一個資淺工程師年末的自我省視</a></li>
-</ul>
-</li>
-<li><p>『我的結論是：好劇本打遍天下無敵手。別小看區區幾分鐘的脫口秀，艾倫的每一個段子往往能滿足三幕劇架構，同時包含所有賣座電影都具備的 15 個情節轉折，節奏精準到以秒為單位。』脫口秀普遍來說都不會太長，不像台灣連續劇常常可以歹戲拖棚到數千集，鋪下的每個梗要在對的時間觸發好讓每個情節的轉折更帶有別緻的戲劇性色彩，要抓住觀眾目光靠的可不只是胸脯四兩，當然那還是吸睛保證。</p>
-<ul>
-<li><a href="https://www.inside.com.tw/2017/07/04/lesson-learned-from-ellen-show" target="_blank" rel="external">好劇本讓你的影片打遍天下無敵手，從《艾倫脫口秀》看劇本架構</a></li>
-</ul>
-</li>
-<li><p>『我覺得這個思考也很像是醫生的思維：如果看到身體出問題了，還是要考慮最根本的問題，而不是買了高價補品、用了很貴的醫療就一定可以治好。這次交流中，我最受收穫的是看到他的信念。台灣政治人物太多是搖擺的，美其名是尊重民意，但反而是沒有中心思想和投機取巧的展現。柯P堅持正確的事情，即使有些事情我也不見得覺得是一定是正確的，這樣的精神還是值得敬佩和學習的。』這讓筆者想到了物理學中的第一性原則，專注在產生問題的核心原因，不要被其衍生的直接或間接結果所影響，頭痛醫頭腳痛醫腳雖說是舊時代的觀念，卻也不難發現現代法治觀點在許多層面看來依然守舊不堪。</p>
-<ul>
-<li><a href="http://www.storm.mg/article/293118" target="_blank" rel="external">林旅強觀點：國家結構性問題　柯Ｐ也莫可奈何</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『「你相信嗎？我們最受到歡迎的功能，居然是開啟App後，讓螢幕會持續亮著，不會變暗。」愛料理共同創辦人兼技術長李致緯說，這些小細節，在一開始開發的時候，其實並沒有被注意到，直到公司同事的朋友做菜時發現，「手油膩膩的，還要用密碼或指紋解鎖螢幕，實在很麻煩。」大家才驚覺，原來這就是使用者的痛點。』會認識 Richard 也是因為超哥的緣故，年紀不比筆者大多少，深厚的技術底子幫了當時想做直播的 IOH 好大一個忙，雖然這句話說起來過於浮誇，但那時才深刻體會到別人口中的那句十倍工程師所帶來的產值是非線性的可怕。<ul>
-<li><a href="https://www.bnext.com.tw/article/45228/icook-cto-said-good-management-should-like-marching" target="_blank" rel="external">用工程師思維帶食譜網站前進，愛料理共同創辦人李致緯：技術的價值被低估了</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>聽 Aimer 唱歌不會發現有太多技巧充斥其中，個人的嗓音辨識度極高，偶爾兀自呢喃很輕鬆很隨意卻也好聽無比，但說沒有技巧也蠻怪的，更精確地說，應該是一氣呵成你甚至不會發現她在某個音節刻意用了某個技巧，就是很多人說的沒有匠氣這回事。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=XIUkyw6UsME" target="_blank" rel="external">Aimer - Nothing to lose - Sleepless Nights - 2016</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-07-10-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-10-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/10 Wesley’
     
     </summary>
     
