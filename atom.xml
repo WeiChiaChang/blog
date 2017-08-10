@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-08-09T04:28:05.000Z</updated>
+  <updated>2017-08-10T03:29:52.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#108</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/08/10/Wesley-Daily-Digest-108/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/08/10/Wesley-Daily-Digest-108/</id>
+    <published>2017-08-10T03:29:37.000Z</published>
+    <updated>2017-08-10T03:29:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-08-10-Wesley’s-Digest-Collection"><a href="#2017-08-10-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/10 Wesley’s Digest Collection"></a>2017/08/10 Wesley’s Digest Collection</h4><ul>
+<li><p>『愛德華驚嘆生命的誕生，並且指出鍊金術師數百年來無法做到「人類創造人類」，但女人用 280 日就成功了。所謂「人類創造人類」，其實就是男女的性事繁殖。鍊金術與性繁殖，在此串連起來，而兩者的共通點正是「創造」。』鋼鍊之所以是經典有諸多原因，藉著賢者之石這樣的設定把故事劇情和人性的七宗罪一一剖析，合理展開的鋪陳顯得不過度為作品人氣而做不必要的渲染，灑狗血這類基本上在原作是完全看不到的。</p>
+<ul>
+<li><a href="http://corrupttheyouth.net/2017/01/12/%E3%80%8A%E9%8B%BC%E9%8D%8A%E3%80%8B%E9%9A%B1%E8%97%8F%E7%9A%84%E8%81%96%E7%B6%93%E5%AF%86%E7%A2%BC/" target="_blank" rel="external">《鋼鍊》隱藏的聖經密碼</a></li>
+</ul>
+</li>
+<li><p>『選擇 Ruby 的語法跟物件導向設計是為了盡可能降低學習門檻；而用 Go 寫則是要滿足現在 Web server 對於 performance 的需求（microservice 當紅）。只要 Goby 能夠帶來足夠多的效能提升，而且不會讓 Ruby 開發者太難上手，他們自然就容易轉換到 Goby，就像前陣子流行轉換到 Elixir 一樣。』該文作者和筆者差不多年紀，別人都在飛天甚至辭職 full time 開發自己的程式語言，看看對方再想想自己，總是在前端忙得跟什麼一樣，新框架說穿了就算解決某些問題還是層層的語法糖包裹住的，如果不能理解工具的核心和實作方式這一輩子大概也只能當個工匠而忘記自己其實是有能力成為發明工具的那個人。</p>
+<ul>
+<li><a href="https://medium.com/@st0012/the-economic-of-programming-languages-76dbd8b63310" target="_blank" rel="external">The Economic of Programming Languages 以及我還是堅持開發 Goby 的原因</a></li>
+</ul>
+</li>
+<li><p>『JWT 其中的一個組成內容為 Signature，可以防止藉由 Base64 可逆方法回推 payload 內容並將其修改。因為 Signature 是經由 Header 跟 Payload 一起 Base64 組成的。當然如果你的加密的金鑰 (secret) 流失， 便可經由第三方自行重置合法的 Token 導致失去驗證授權與否的效益』使用 JWT 似乎是多數新創進行工程相關開發的默契了，但很多人用不代表 JWT 就是顆銀彈，payload 一般而言不太可能放過於敏感的使用者資訊，像是簽章和金鑰這類還是應該存放於伺服端。</p>
+<ul>
+<li><a href="https://kylinyu.win/head-first-json-web-token-jwt/" target="_blank" rel="external">Head First JSON Web Token (JWT)</a></li>
+</ul>
+</li>
+<li><p>『远程团队招聘一般喜欢直接用一个实际需求来查看你的适应能力。比如让你用一个周末解决一个小需求。因为这样能直接考察你独立解决问题的能力。比如我当时被要求解决一个线上表格问题。给我一个周末的时间，让我给出初步方案。那我就得沟通需求、分析需求、画出草图、确认需求、理解现有技术架构，然后去实现它，中途有问题的话就主动沟通。你会发现代码能力其实可能只占 50% 的比重，更多的是你的做事方式适合符合这个团队。所以你预先了解团队是很重要的。』remote working 最棒的就是可以自在的選擇在哪裡工作，沒有一個固定的地方或場所限制住，今天我想去某間咖啡店就去，如果可以不用天天進辦公室照樣維持平常的生產力，這樣的工作模式想必有很多人都會想跳下坑來嘗試嘗試，但壞處還是存在，可能沒有可以常常碰面的同事，越來越邊緣化也不無可能。</p>
+<ul>
+<li><a href="http://gitbook.cn/books/5952f77b94b141525e125cba/index.html" target="_blank" rel="external">如何成为一位远程开发者</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『筆者本身是一位「半左撇子」──自懂事以來都是用右手寫字，不過也有左手用餐具等左撇子習慣。也是這個背景，令筆者對左撇子的日常生活這個題目産生興趣，並透過訪談和觀察等方法去了解更多。「左」在不同的文化和宇宙觀都被貼上次等甚或邪惡的標籤，故此左撇子在歷史上一直是被厭惡，需要「改正」的習慣[4]。在世俗化和強調個人發展的現代社會，對左撇子的負面概念比以往減退不少。』筆者就是左撇歧視的受害者，從小就習慣用左手拿筷子和寫字，後來被老媽發現後怕筆者被同儕霸凌，硬是被糾正回來用右手寫子，天曉得時至今日用右手寫出的字一樣醜，間接獲得的好處是打球多數時候可以左右開弓，雖然也沒什麼好炫耀的就是了。<ul>
+<li><a href="https://sobooks.tw/right-hand-left-hand/" target="_blank" rel="external">視之不見的煩惱：日常設計和左撇子的世界</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>台語 R&amp;B 怎麼聽怎麼過癮，一聽就上癮。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=K5qKpFLWaoA" target="_blank" rel="external">周杰倫 - 火車叨位去 - 八度空間 - 2002</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-08-10-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-10-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/10 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#107</title>
@@ -966,56 +1016,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-07-22-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-22-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/22 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#88</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/07/21/Wesley-Daily-Digest-88/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/07/21/Wesley-Daily-Digest-88/</id>
-    <published>2017-07-21T02:20:38.000Z</published>
-    <updated>2017-07-21T02:20:52.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-07-21-Wesley’s-Digest-Collection"><a href="#2017-07-21-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/21 Wesley’s Digest Collection"></a>2017/07/21 Wesley’s Digest Collection</h4><ul>
-<li><p>『我覺得機會真的很重要，因為唱歌比我好、演戲比我好的人太多了，我常講，要抓住機會。吳宗憲簽了我，後來楊峻榮聽了我的歌，覺得我有跟別人不一樣的地方。所以，人生需要有伯樂，或者，那個伯樂就是你自己，你去參加選秀，自己要抓住機會。我也想過，我如果不在這個舞台，就會是個鋼琴老師。光有才藝，有一技之長，沒被人發現，那你就一輩子在那邊了。但是你不能一輩子在那邊啊，你要往前走，去找你的機會，機會是不等人的。』長大的路上，很多人都會告訴你一定要培養出一項專長，因為在這社會上，如果你沒有富爸爸可靠，你只能靠這個專業立足，但專業領域的視野往往就像個框架把我們牢牢框住，我們也似乎忘記其實自身還有其他可能性存在的，與其靠別人發掘，還不如好好靠自己挖掘自己。</p>
-<ul>
-<li><a href="http://www.cw.com.tw/article/article.action?id=5048738" target="_blank" rel="external">周杰倫：你就是你人生的伯樂</a></li>
-</ul>
-</li>
-<li><p>『現代大學教育本質上是產業的附庸，為了滿足泰勒化生產的需要，要求勞動者接受更多系統化的、偏實用的學校教育，著重於技術革新和業界價值（競爭力、創業行銷等等），而不是培養能夠獨立思考的藝術家、哲學家和科學家。因此，大家表面上提倡跨領域人才，但當你真的對任何知識都抱有熱情時，大多數的人是沒辦法站在欣賞的角度看待你的，甚至覺得你這個人真怪。』學校提供的一種學術理論思維，尤其專心在剖析知識本質與其核心的探討，硬要把學校和職業訓練所這兩個本來就不同的事物放在一塊，然後又罵東罵西的，最奇怪最奇葩的永遠是人。</p>
-<ul>
-<li><a href="https://mropengate.blogspot.tw/2017/07/blog-post_33.html" target="_blank" rel="external">台大資工研究所畢業心得：怪咖、凡人和藝術家</a></li>
-</ul>
-</li>
-<li><p>『雖然這些畫師可能是出於善意幫助別人，但這種做法會令作畫整體市場價格下降，令專業畫師的工作報價也下降<br>在如今的網絡化社會，這種行業價格一旦被拉低就很難再回復到原來水平，最後損害的是畫師整體利益，以低價免費為別人提供畫作對於畫師、創作者來說如同慢性自殺』設計系最大的煩惱大概就是會被無數自稱是交情還不錯的朋友討免費的設計圖，你身邊一定有這樣的朋友，畫功神猛，藝術底子也足夠深厚，而你也常常很犯賤的去跟他/她要個簡單畫畫就好的 icon。如果真的是朋友那就更應該尊重專業，做為人的基本道德和羞恥心還是要有的。</p>
-<ul>
-<li><a href="http://hkacger.com/archives/41218" target="_blank" rel="external">【廉價創作如同慢性自殺】日本畫師協會公開繪圖收費行情參考價，呼籲畫師以合理價格工作</a></li>
-</ul>
-</li>
-<li><p>每天開瀏覽器到別人家的網站晃晃已經是現代人再正常不過的 daily todo list，什麼 Google 搜尋等記錄當幫把記得牢牢的，包含你曾經瀏覽過的任何網站，等於說你在網路世界的足跡完全是公開透明的，甚至在無痕視窗做過的壞事也都有跡可循，這仔細想想真的是挺可怕的一件事，你以為你沒有把柄，其實到處都是把柄，god damn。</p>
-<ul>
-<li><a href="https://github.com/gautamkrishnar/nothing-private">gautamkrishnar/nothing-private</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『相信大家都在國中公民課學過馬斯洛需求理論 — — 人的基本需求依序為：生存、安全、社交、尊重，以及自我實現；而根據現況，許多人認同，需求理論的金字塔最下方應該新增一項：Wi-Fi。』看過不少相關的笑話，一個陌生的怪叔叔拿出棒棒糖問一個小女孩要不要，想藉此騙她上車做糟糕的事情，結果小女孩鳥都不鳥他一眼，結果怪叔叔接著問，有免費的 wifi 呦～然後小女孩就乖乖上車被騙走了。<ul>
-<li><a href="https://medium.com/@tih/%E7%8F%BE%E4%BB%A3%E4%BA%BA%E9%A1%9E%E7%94%9F%E5%AD%98%E5%9F%BA%E6%9C%AC%E9%9C%80%E6%B1%82-71c3f4a66dfc" target="_blank" rel="external">現代人類生存基本需求</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>升大三的暑假跑去當亞青女排的志工，而在那之前有半個多月的空窗期，當時的室友推薦了一部動漫，就是 Guilty Crown，整部動畫絲毫沒有任何推泥帶水之處，就差結局爛了點，除了神曲 βίος 以外最愛的就是這首插曲，也當了很久的手機來電鈴聲。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=Nkh77L5GcBc" target="_blank" rel="external">Cyua - Rё∀L - Guilty Crown Theme Soundtrack - 2012</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-07-21-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-21-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/21 Wesley’
     
     </summary>
     
