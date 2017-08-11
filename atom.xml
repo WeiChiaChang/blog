@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-08-10T03:29:52.000Z</updated>
+  <updated>2017-08-11T04:05:02.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#109</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/08/11/Wesley-Daily-Digest-109/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/08/11/Wesley-Daily-Digest-109/</id>
+    <published>2017-08-11T04:04:39.000Z</published>
+    <updated>2017-08-11T04:05:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-08-11-Wesley’s-Digest-Collection"><a href="#2017-08-11-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/11 Wesley’s Digest Collection"></a>2017/08/11 Wesley’s Digest Collection</h4><ul>
+<li><p>『別家公司怎麼樣我不清楚，不過 Booking.com 給了很多 relocation 的協助除了幫你買機票，他們還會出一個貨櫃幫你把東西運過去還有專門的人幫你辦簽證，辦抵稅的事項，還有幫你找房子，第一個月也有提供住宿而且荷蘭的工作簽證是連伴侶也可以一起去工作。』國外很多工作讓人嚮往的幾個關鍵原因就在於，他們是真的把你當作一回事，相關的配套和安排都是有一定水準的，很難看到有人在版上抱怨某某軟體巨頭的評論文，也不是硬要比較本土企業和作風，只是多數的勞工在台灣真的很常被視做免洗筷就是了。</p>
+<ul>
+<li><a href="https://www.ptt.cc/bbs/Soft_Job/M.1501341075.A.FCA.html" target="_blank" rel="external">[心得] 歐洲、日本面試心得</a></li>
+</ul>
+</li>
+<li><p>『這全都是我的真心話，我並不是開拓了一片未知的土地，我只是跟著地圖走，你覺得我聰明，可能是因為這份地圖是用函數寫的，看起來很難懂，但它終究是一份地圖，我看著這份地圖，知道何時該抄近路、何時該橫越河流，讓這趟旅程更快、品質更好，但我還是遠遠比不上發現公園的那個人。』掉入窠臼不可怕，可怕的是當事人還不知道自己已經深深陷入，還以為自己真的學會了些什麼而無法自拔。知道和知識還是有落差的。</p>
+<ul>
+<li><a href="https://www.inside.com.tw/2016/02/25/how-i-became-a-programmer-and-when-i-started-calling-myself-one" target="_blank" rel="external">我是怎麼靠自學成為工程師的：懂原理比應用更重要</a></li>
+</ul>
+</li>
+<li><p>『難怪此次我們重啟抗爭，罹病工人們每次北上搭乘捷運都好稀奇地說：「真的很乾淨，很舒服，很方便，很明亮，很進步。」那是他們在城市暗面中辛勤勞動時，不曾經歷過的亮面對待；也是他們努力工作帶來的美好成果，如今與他們卻像是兩個不相干的世界。』各行各業都有各自的心酸面，服務業往往也是另一個產業的服務對象，就像筆者公司是做生醫相關的，但不管是營養師還是 PM 都常常熬夜到凌晨還在加班趕專案，為了提供給客戶一個提升健康層次的產品，卻犧牲了自己人的身體健康，想來其實蠻諷刺的。</p>
+<ul>
+<li><a href="https://buzzorange.com/2017/07/24/mrt-workers-waited-20-years/" target="_blank" rel="external">【為北捷犧牲卻被遺忘的一群人】為蓋捷運飽受骨頭發黑「潛水夫病」折磨，卻 20 年等不到市府關注……</a></li>
+</ul>
+</li>
+<li><p>『若是軟體相關的，可以不時將自己練習的 code 放上 Github，讓雇主了解你平常有在寫 code，有在學習新東西，即使 code 寫得沒有很好也沒關係，就是讓對方知道你平日有在練習。對於雇主來說，新鮮人的優勢就是潛力，讓對方看到你的熱情、努力以及學習力是非常重要的。』其實講難聽點找軟體相關工作蠻多地方可以把握的，很多雇主都是看這個人的 commit 數和平常在 Github 上的活躍程度，暫且不管 coding style，如果每天都有相當頻繁的 commits 量，這位開發者拿到 offer 的機率真的會大幅增加。</p>
+<ul>
+<li><a href="https://crossing.cw.com.tw/blogTopic.action?id=505&amp;nid=8359&amp;utm_source=Facebook&amp;utm_medium=Social&amp;utm_campaign=Daily" target="_blank" rel="external">不要畏懼收到感謝函──留學英國，歷史系畢業拿到軟體工程師offer的寫實錄</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『免錢的最貴，直接不看就複製使用也很可怕，不怕不能動，只怕有危險…。 這邊我們來舉一個CORS(跨網域存取)的例子做說明，基本上跨網域存取預設大部分伺服器是禁止的，除非有特殊需求需自己開放。特殊需求像是開發SPA(單頁應用程式)時，API的網域跟前端站台的網域不同，所以需要額外處理來做開放。』回想起之前在實習期間幹過一件超級丟臉的事情。那時有個新需求下來，說要在主頁面加點新東西，勢必要在架構和 CSS 樣式做點調整。當時對 CSS 排版實在過於苦手，胡亂找了一陣子資料就把類似的樣式碼改了一改就更新上了。疏於軟體開發流程管控和 code review 的下場就是主頁整個炸掉，原先只在 mobile 秀出的樣式卻在 desktop 大辣辣的呈現出來，最扯的是當時筆者還在狀況外，直到請大神外援協助 debug 才知道是自己捅的簍子。低能到很想坐時光機回去扁當時的自己。<ul>
+<li><a href="https://sudo.tw/article/some-advice-for-web-beginner" target="_blank" rel="external">給初學者的網站開發分享</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>看了 Guilty Crown 全作兩次卻沒聽過這首，反倒是在水管上無意間才發現，不得不說這部除了劇情很神，也出了很多首經典的神曲。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=hc2qwt46dTk&amp;list=PL9do701rCbQzwjmlebZffsYM4mVw44SrJ&amp;index=135" target="_blank" rel="external">歌手 - Home In This Corner - Leina - 2012</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-08-11-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-11-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/11 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#108</title>
@@ -966,56 +1016,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-07-23-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-23-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/23 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#89</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/07/22/Wesley-Daily-Digest-89/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/07/22/Wesley-Daily-Digest-89/</id>
-    <published>2017-07-22T05:11:02.000Z</published>
-    <updated>2017-07-22T05:11:29.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-07-22-Wesley’s-Digest-Collection"><a href="#2017-07-22-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/22 Wesley’s Digest Collection"></a>2017/07/22 Wesley’s Digest Collection</h4><ul>
-<li><p>『我們南部的就業環境，對台灣最大的最大的貢獻是，輸出腦礦給天龍國用！」有天阿輝很堅定提了離職，他笑笑地沒交代原因，轉身去補習班報名考公職，拚了兩年順利考上，他才透露不能說的秘密：「有一天我跟淑芬姐借公司外套，口袋裡面居然有淑芬姐的薪資條，這數字讓我看不到未來……』安居樂業從頭到尾根本就是場騙局，學歷再也不能保證什麼，身旁的人還是告訴你必須念，必須一路念到至少大學畢業，儘管他們都很清楚就算如此也無法確定什麼，只是沒有這張門票，日子只會更難過，周遭的人也只會更瞧不起你。</p>
-<ul>
-<li><a href="http://www.storm.mg/lifestyle/300347" target="_blank" rel="external">南部低薪有多狂？台大畢業、10年資歷主管薪水讓他嚇到離職，道出鬼島求生真理</a></li>
-</ul>
-</li>
-<li><p>『不過換個角度來說，這種寫法倒也可以視為一種「誠實」的表現。例如某家廠商原本想說的是「我們價格最便宜」；但只要用了「最」字，就是一種固定的狀態，只要有人能舉證別家比你便宜一塊錢，你就是騙人。』自媒體當道，每天在社群平台都可以看到許多網紅網美又開始接了某家廠商的代言寫了一長串的業配文章，用字遣詞過於浮誇不真實的情境也層出不窮，應該要好好學學防禦性的撰文寫法，在傳達真實不唬爛的前提下也能適當保護自己的立場。</p>
-<ul>
-<li><a href="https://fredjame.com/defensive-writing-f92b0409d835" target="_blank" rel="external">「防禦性寫作」的技巧</a></li>
-</ul>
-</li>
-<li><p>『現在，在 React component底下，JavaScript跟HTML的介接回歸到最原始的 onClick ，不需要再命名一個class/id 讓jQuery來query。而CSS這邊可以使用CSS module規格，你可以用最簡短的名字命名，跟其他地方重複也沒關係，把BEM, SMACSS等方法忘記。』本文提出一種完全不同的思考角度，這就想起樂觀人和悲觀人看半瓶水的故事，悲觀的開發者看到變化如此之快的前端生態都覺得太病態了，要學完可能得等下輩子，而樂觀開發者心中很清楚，新的工具和框架是為了解決某項特定的問題，這些應運而生的新興生態無非都是一層層的語法糖，試圖讓解決問題變得更加容易，這一正一反的思考方向也造成了日後不同的發展。</p>
-<ul>
-<li><a href="http://stylecoder.tw/front-end-is-getting-easier/" target="_blank" rel="external">每24個月，前端都會簡單一倍</a></li>
-</ul>
-</li>
-<li><p>『妄想、獨斷、隨興而為。對鈴木嘉和而言，可能一點都沒注意到這些情緒有什麼問題。這個泡沫時代已經是一個全民瘋狂的時代了，沒有人停下來想想，沒有人願意腳踏實地，而鈴木又有什麼不對呢？他只是順應著這股瘋狂潮流，抓著輕飄飄的希望，期待風向帶他走向沒人去過的未來。』貌似是自殺的行為但筆者卻相當喜愛這樣的生存態度，瘋狂獨斷在另一個人的眼裡可能會被解讀成勇於改變的實踐家，氣球大叔所做的事情非但沒有錯，而是一種對當時經濟低迷的年代做出的宣言。寧願相信他真的漂到氣球的天堂，完美抵達他心中的美好目的地。</p>
-<ul>
-<li><a href="https://fugu.cafe/talks/15795" target="_blank" rel="external">天外沒有奇蹟：「氣球大叔」鈴木嘉和的消失</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『PHP用在製作如 WordPress 的 Plugin/Theme 上吧！站在 WordPress 的肩膀上，製作網站會容易多。而 Rails 就用於製作一些需要從頭做起、規模稍大、架構稍完整的網站。』每天關注社群議題不難發現程式語言之間的矛盾和隔閡從沒少過，與其吵這個話題不如去做點更有意義的開發，工具之所以為工具就是為了解決問題，拿解牛刀去切水果不覺得大材小用嗎？特定情境有各自適合的工具，對的時機使用他就是一項再好用不過的利器。筆者做為一個程式開發者，期勉自己在幾年工作之後，也能同樣保有文中作者的求知心態。<ul>
-<li><a href="https://blog.frost.tw/posts/2012/03/25/my-web-develop-way/" target="_blank" rel="external">我的網站開發之路</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>又一位當代巨星的自縊殞落，你很難想像一個總是不斷傳達正面能量給更多人的背後，跟我們都一樣是平凡人，沒有童話故事的包裝，也只能在認清生活真相之後，依然熱愛生活，要唱出這樣的歌聲，到底要花多少的努力克服，似乎也等不到答案了。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=eVTXPUF4Oz4" target="_blank" rel="external">Linkin Park - In The End - HYBRID THEORY - 2009</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-07-22-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-22-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/22 Wesley’
     
     </summary>
     
