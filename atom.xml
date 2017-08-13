@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-08-12T01:44:53.000Z</updated>
+  <updated>2017-08-13T06:44:37.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#111</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/08/13/Wesley-Daily-Digest-111/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/08/13/Wesley-Daily-Digest-111/</id>
+    <published>2017-08-13T06:44:26.000Z</published>
+    <updated>2017-08-13T06:44:37.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-08-13-Wesley’s-Digest-Collection"><a href="#2017-08-13-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/13 Wesley’s Digest Collection"></a>2017/08/13 Wesley’s Digest Collection</h4><ul>
+<li><p>『 PronTech (編按：色情科技)的技術含量其實非常高，色情網站是最早使用線上付款和信用卡加密技術的一種應用。這是因為色情產業一直都是剛需的超大市場，甚至比旅遊市場還大，在這樣的環境下很容易孕育出很強的科技。事實上，很多科技都受到 PornTech 影響很深，例如 VHS（編按：Video Home System，家用錄影系統），現在你很難想像大部分線上追劇平台的影音串流技術都比不上色情網站。』2008 金融海嘯那年世界經濟一片愁雲慘霧，失業這回事變得像是家常便飯天天都在報導，後來忘記是誰做了一個調查，意外發現像 Pornhub 這類的成人網站流量不減反增，整個就是逆轟高灰，背後的原因其實稍微推敲是可以理解的，反正都沒工作了，不如就在家多看幾部片吧。</p>
+<ul>
+<li><a href="https://www.proguidescreen.com/?p=8497" target="_blank" rel="external">那個被笑沒有商業利益的點子後來如何了？Lawsnote一週年專訪</a></li>
+</ul>
+</li>
+<li><p>『在沒有軟體與資料的 mindset 之前就學習 AI，不會知道什麼對市場重要、什麼有潛在價值；通常會做的事情就是把機器學習當成 API、當做以前製造業當中的一個元件，接個語音辨識 API 想要賣機器人、或是想要接個影像辨識 API 想要賣各種衣服偵測、異常偵測、物體偵測服務。』多少名詞每天在那些大佬口中玩弄，不懂就跟著講反正很潮啊，從最早的使用者介面，使用者體驗等等，到現在街上每個人都在跨足人工智慧和機器學習，接個 API 就說我做了一個會自動辨識熱狗的 app ，有沒有創投要來給我錢搞大啊。</p>
+<ul>
+<li><a href="https://data.leafwind.tw/build-software-engineering-and-data-culture-before-doing-ai-6e345986f872" target="_blank" rel="external">有軟體與數據文化，才有 AI</a></li>
+</ul>
+</li>
+<li><p>『Docker 是一套 Container 的工具，利用 cgroup、chroot、name space 等功能，將執行環境從系統獨立出來，由於直接共用系統的核心資源，讓 Docker 與傳統的 VM 相比，少了虛擬硬體以及客體系統的資源負擔，有著更輕量化、更快的啟動速度、更多的執行個體等特性，讓我們的開發能夠更加的便利。』在前端開發的日常還沒什麼機會可以使用 Docker，概念上和傳統 Virtual Machine 有點接近，但中間抽掉了蠻多層架構，建立一個新環境的檔案遠比單純用虛擬機器開發來得更快速。</p>
+<ul>
+<li><a href="https://medium.com/@DcardLab/dcard-%E5%AF%A6%E7%BF%92%E7%94%9F%E6%B4%BB%E6%97%A5%E8%A8%98-%E5%B0%8F%E9%AF%A8%E9%AD%9A-docker-%E4%BB%8B%E7%B4%B9-a574b28feae4" target="_blank" rel="external">Dcard 實習生活日記：小鯨魚（Docker）介紹</a></li>
+</ul>
+</li>
+<li><p>『我覺得旅遊的確很重要，每一次跟媽媽（我唯一的家人）旅行，都讓我回味無窮，記憶最深的幾個點，都沒有牽涉到什麼豪華的設施或高昂的花費。雖然她的日記大多是以我為主角在寫（因為她說這日記是我未來的嫁妝），沒有詳細記載她自己旅遊時的情緒，但我還記得我們一起哈哈大笑的模樣，所以我相信這些對我媽也是很棒的回憶，雖然她現在不住在地球上。』在批踢踢上最期待看到的除了飄版的文章外就是這類型不看還好，一看才發現洋蔥塞了一大顆的文章，文章不見得要特別有文筆，簡簡單單一樣可以讓人有所感觸和共鳴。</p>
+<ul>
+<li><a href="https://www.ptt.cc/bbs/marriage/M.1501248864.A.961.html" target="_blank" rel="external">Re: [閒聊] 與老公的金錢觀不太一樣</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『开发只是软件开发流程中的一环，程序员需要拓展自己的视野，和其他角色一起配合才能保证产品的交付。在日常的开发中，程序员还需要快速、准确的将自己的想法和创意表达出来。最后，更快速的完成手头的工作可以让你有更多的时间来思考，来改进那些低效的工作方式。』做寫程式這行的人很大一部分都是把興趣和工作結合，看起來是挺好的，但往往變成下班後還是在研究新技術，儘管是假日週末還是做類似的事情，久了其實還是會很膩的，如果能培養一個額外的技能或是才藝像是樂器或是球類專長，宅也可以宅的很生活。<ul>
+<li><a href="http://icodeit.org/2017/07/tips-for-newbies/" target="_blank" rel="external">如何成为一名优秀的程序员？</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>昨天看到嘻哈俠被淘汰整個 low 到不行，只好找他之前曾唱過的作品回來 respect 一下。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=najZnLbpT3s&amp;list=PL9do701rCbQzwjmlebZffsYM4mVw44SrJ&amp;index=138" target="_blank" rel="external">陳奐仁 Hanjin 歐陽靖 MC Jin - 買一送一 - 買一送一 - 2010</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-08-13-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-13-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/13 Wesley’
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#110</title>
@@ -966,56 +1016,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-07-25-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-25-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/25 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#91</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/07/24/Wesley-Daily-Digest-91/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/07/24/Wesley-Daily-Digest-91/</id>
-    <published>2017-07-24T03:00:20.000Z</published>
-    <updated>2017-07-24T03:00:44.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-07-24-Wesley’s-Digest-Collection"><a href="#2017-07-24-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/24 Wesley’s Digest Collection"></a>2017/07/24 Wesley’s Digest Collection</h4><ul>
-<li><p>『實習，是個定位有點尷尬的工作。實習很像是上班，但又不完全是正式工作；看似是教育延伸，但也不是學校的課程。實習工作可以幫助學生在學業完成前，有機會能親身體驗真實工作的樣貌。因為同樣是設計師，在不同産業的公司，或甚至同一産業的不同型態公司，工作方法和內容都可能有極大的差別。所以，學生若能提前思考自己喜愛或適合什麼樣的公司，當然是非常好的事。』實習說穿了就是提前體驗職場生活，越早接觸也就能越快釐清原有想像是否和現實存在落差，而這也是學校教育比較無法提供的，做為實習生可以沒有正職的包袱，更能夠盡情地發問和學習。</p>
-<ul>
-<li><a href="https://rocket.cafe/talks/85134" target="_blank" rel="external">雙方都尷尬：如何讓設計系學生實習更有意義？</a></li>
-</ul>
-</li>
-<li><p>之前幫忙公司營養師做簡單的測驗題曾經使用過 survey.js，用起來相當簡單上手，但如果需要新增刪除問題或是有所調整，往往必須從工程端協助處理，沒有一個簡易可以直接讓營養師操作的介面，Google sheet 的強大真正解決了這個問題，可以像使用一般 sheet 的操作製作問題，只要工程端把相關自動化程式撰寫好就可以運作。</p>
-<ul>
-<li><a href="https://practical-dbm.blogspot.tw/2014/12/spreadsheet_1.html" target="_blank" rel="external">以Google Sheet題庫產生Google Forms隨機測驗卷</a></li>
-</ul>
-</li>
-<li><p>『2G訊號只能傳送文字簡訊，完全沒辦法讀取The Weather Channel的app畫面。有時我們完全沒有任何準備，就必須在雨中或低溫下爬山。這是一件十分惱人的事情。況且這種狀況並不只有在遙遠的地方才會發生。在我學校體育館的更衣室裡，手機通常是沒有任何訊號的。這讓我難以讀取跑步訓練前所需要的資料，例如室外體感溫度。遭遇到這些狀況後，我想要打造一臺能夠提供任何需要資訊、且不需要3G或LTE訊號的專屬簡訊機器人。』並不是所有地方都跟辦公室一樣有著超快的 5G 網路，像山區等收訊較差的地區往往最好的收訊程度也只能收發簡訊，做為開發者這點務必要納入考慮，而這項 project 吸引筆者的就是這點，用簡訊 SMS 的機制時作出 bot，這在危急情況發生時的確是個最佳解。</p>
-<ul>
-<li><a href="http://www.makezine.com.tw/make2599131456/sms-bot" target="_blank" rel="external">用Python和Twilio打造SMS簡訊機器人</a></li>
-</ul>
-</li>
-<li><p>『这就是我们今天的社会，不辩真伪，不分善恶！当吴清友与他的诚品书店出现在我们目前的时候，我们会因感知到美好而发出赞叹，但当我们真实的去感受脚下的这块土地的时候，我们又不得不承认：它并不属于我们！』誠品創辦人不久前過世了，留下的一個足以象徵文青圈必經朝拜聖地的誠品書店，為了做這一個文化事業忍受了長達十五年的虧損，用生命的能量投注在讓誠品這兩個字的全力燃燒，我們眼前所能看到的美好都是不斷經過這樣的不容易而僥倖存活的，慶幸我們還有著誠品這樣優美的詞彙在腦海。</p>
-<ul>
-<li><a href="https://mp.weixin.qq.com/s/avTYZxZI7dyAv0Lje_Q1Qw" target="_blank" rel="external">台湾才有吴清友，我们只有罗振宇</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『在天眼通的這個位置， 能看到許多公司評價，求職者評論以及他們的行為， 台灣人才的處境其實比原本想像的更糟，如果剛畢業的時候只是有點失望，那現在應該是接近絕望， 不過「世界上只有一種真正的英雄主義，就是在認清生活真相之後仍然熱愛生活。」，儘管很多事情都讓我們很害怕，或者對於現實的醜陋感到無奈，我仍然覺得這份工作真的是蠻有意思的，推薦給大家。』筆者還沒畢業之前就對於大學所教授的過程感到失望(並不是母校不夠好，而是單純個人對於系上的課程大綱無法融入)，出了社會開始工作因為是自學而找到相關工作，這樣的情緒反倒平復了一點，但大環境的慘況相信彼此都很清楚，會創業無非也是想改變點什麼。<ul>
-<li><a href="https://blog.qollie.com/qollie-anniversary/" target="_blank" rel="external">在「求職天眼通」工作一年是個怎樣的體驗</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>鋼之鍊金術師從 op1 聽到 op5 最愛的一首，大概和 brotherhood 版本即將收尾的心情有關，牛媽的作品厲害在於故事本身的厚度和情感層面渲染力，風格多樣性也不難從鋼鍊到銀之匙察覺，鋼鍊和 Guilty Crown 並列筆者心目中的神作。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=394Hmcmyxok" target="_blank" rel="external">Sid - Rain - Dead Stock - 2011</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-07-24-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-24-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/24 Wesley’
     
     </summary>
     
