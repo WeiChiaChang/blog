@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-08-18T06:30:48.000Z</updated>
+  <updated>2017-08-18T15:15:45.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://github.com/WeiChiaChang/blog/2017/08/18/Wesley-Daily-Digest-116/"/>
     <id>https://github.com/WeiChiaChang/blog/2017/08/18/Wesley-Daily-Digest-116/</id>
     <published>2017-08-18T06:30:31.000Z</published>
-    <updated>2017-08-18T06:30:48.000Z</updated>
+    <updated>2017-08-18T15:15:45.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="2017-08-18-Wesley’s-Digest-Collection"><a href="#2017-08-18-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/18 Wesley’s Digest Collection"></a>2017/08/18 Wesley’s Digest Collection</h4><ul>
 <li><p>『B.C. &amp; Lowy 可說是臺灣網路翻譯界的始祖，近期各種的譯者/字幕組開始竄出氾濫，包含影片翻譯/梗圖翻譯！翻譯素質基本都有一定的水平，較差者自然也會被淘汰。為何臺灣未出現此風潮？因大眾多以傳統的媒體電視節目、電影來接觸到國外的事物，除了透過網路外 能跟上國際的腳步實在太慢，電影老是重播、很少能看到國外節目！』筆者從他們家看到很多國外的短片翻譯，每次看每次笑的黑人二人組也是從那時發現的，或許經營的模式真的是有點像谷ㄚ貘。</p>
@@ -62,6 +62,10 @@
     
     </summary>
     
+    
+      <category term="Vue" scheme="https://github.com/WeiChiaChang/blog/tags/Vue/"/>
+    
+      <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
     
   </entry>
   
