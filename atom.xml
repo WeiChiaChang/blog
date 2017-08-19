@@ -80,7 +80,7 @@
     <link href="https://github.com/WeiChiaChang/blog/2017/08/18/Wesley-Daily-Digest-116/"/>
     <id>https://github.com/WeiChiaChang/blog/2017/08/18/Wesley-Daily-Digest-116/</id>
     <published>2017-08-18T06:30:31.000Z</published>
-    <updated>2017-08-19T02:32:42.000Z</updated>
+    <updated>2017-08-19T10:58:46.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="2017-08-18-Wesley’s-Digest-Collection"><a href="#2017-08-18-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/18 Wesley’s Digest Collection"></a>2017/08/18 Wesley’s Digest Collection</h4><ul>
 <li><p>『B.C. &amp; Lowy 可說是臺灣網路翻譯界的始祖，近期各種的譯者/字幕組開始竄出氾濫，包含影片翻譯/梗圖翻譯！翻譯素質基本都有一定的水平，較差者自然也會被淘汰。為何臺灣未出現此風潮？因大眾多以傳統的媒體電視節目、電影來接觸到國外的事物，除了透過網路外 能跟上國際的腳步實在太慢，電影老是重播、很少能看到國外節目！』筆者從他們家看到很多國外的短片翻譯，每次看每次笑的黑人二人組也是從那時發現的，或許經營的模式真的是有點像谷ㄚ貘。</p>
@@ -129,8 +129,6 @@
     
       <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
-      <category term="vue" scheme="https://github.com/WeiChiaChang/blog/tags/vue/"/>
-    
   </entry>
   
   <entry>
@@ -138,7 +136,7 @@
     <link href="https://github.com/WeiChiaChang/blog/2017/08/17/Wesley-Daily-Digest-115/"/>
     <id>https://github.com/WeiChiaChang/blog/2017/08/17/Wesley-Daily-Digest-115/</id>
     <published>2017-08-17T03:44:20.000Z</published>
-    <updated>2017-08-19T02:33:04.000Z</updated>
+    <updated>2017-08-19T10:59:00.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="2017-08-17-Wesley’s-Digest-Collection"><a href="#2017-08-17-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/17 Wesley’s Digest Collection"></a>2017/08/17 Wesley’s Digest Collection</h4><ul>
 <li><p>『基於這些指標，通過下面的方法，對於哪個角色會在接下來死去我們可以形成有根據的推測：瞭解還活著的人有哪些和已經死去的角色有相似的特徵。這個問題類似於眾所周知的流失問題，多種基於分類的算法能解決這類問題。在這個分析中我們使用 SVM（支持向量機），這也是最準確的模型。』從眾多資料理出一套分析法則，找出潛在性的共同特徵進一步預測目標變數，機器學習在今日能做到這樣的地步已經不再是天方夜譚。</p>
@@ -188,6 +186,8 @@
       <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
     
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="vue" scheme="https://github.com/WeiChiaChang/blog/tags/vue/"/>
     
   </entry>
   
