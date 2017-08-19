@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-08-19T02:11:56.000Z</updated>
+  <updated>2017-08-19T02:25:30.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://github.com/WeiChiaChang/blog/2017/08/19/Wesley-Daily-Digest-117/"/>
     <id>https://github.com/WeiChiaChang/blog/2017/08/19/Wesley-Daily-Digest-117/</id>
     <published>2017-08-19T02:10:24.000Z</published>
-    <updated>2017-08-19T02:11:56.000Z</updated>
+    <updated>2017-08-19T02:25:30.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="2017-08-19-Wesley’s-Digest-Collection"><a href="#2017-08-19-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/19 Wesley’s Digest Collection"></a>2017/08/19 Wesley’s Digest Collection</h4><ul>
 <li><p>對於南韓的印象其實比想像中還要刻板，可能是每幾年的國際賽事上看到標題黨的惡意抹黑，又或者是迭代更新的女團男團，人數似乎有越來越成長的趨勢。記錄片本身不長，卻有種不想繼續看下去的感受，塑膠女孩中的塑膠，似有若無的影射這個國家的人民瘋狂熱衷 plastic surgery 這件事。</p>
@@ -63,15 +63,15 @@
     </summary>
     
     
-      <category term="documentary" scheme="https://github.com/WeiChiaChang/blog/tags/documentary/"/>
-    
       <category term="Vue" scheme="https://github.com/WeiChiaChang/blog/tags/Vue/"/>
-    
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
       <category term="Design" scheme="https://github.com/WeiChiaChang/blog/tags/Design/"/>
     
       <category term="Resume" scheme="https://github.com/WeiChiaChang/blog/tags/Resume/"/>
+    
+      <category term="Documentary" scheme="https://github.com/WeiChiaChang/blog/tags/Documentary/"/>
+    
+      <category term="Strategy" scheme="https://github.com/WeiChiaChang/blog/tags/Strategy/"/>
     
   </entry>
   
@@ -80,7 +80,7 @@
     <link href="https://github.com/WeiChiaChang/blog/2017/08/18/Wesley-Daily-Digest-116/"/>
     <id>https://github.com/WeiChiaChang/blog/2017/08/18/Wesley-Daily-Digest-116/</id>
     <published>2017-08-18T06:30:31.000Z</published>
-    <updated>2017-08-18T15:19:45.000Z</updated>
+    <updated>2017-08-19T02:25:37.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="2017-08-18-Wesley’s-Digest-Collection"><a href="#2017-08-18-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/18 Wesley’s Digest Collection"></a>2017/08/18 Wesley’s Digest Collection</h4><ul>
 <li><p>『B.C. &amp; Lowy 可說是臺灣網路翻譯界的始祖，近期各種的譯者/字幕組開始竄出氾濫，包含影片翻譯/梗圖翻譯！翻譯素質基本都有一定的水平，較差者自然也會被淘汰。為何臺灣未出現此風潮？因大眾多以傳統的媒體電視節目、電影來接觸到國外的事物，除了透過網路外 能跟上國際的腳步實在太慢，電影老是重播、很少能看到國外節目！』筆者從他們家看到很多國外的短片翻譯，每次看每次笑的黑人二人組也是從那時發現的，或許經營的模式真的是有點像谷ㄚ貘。</p>
@@ -123,11 +123,13 @@
     </summary>
     
     
-      <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
+      <category term="Vue" scheme="https://github.com/WeiChiaChang/blog/tags/Vue/"/>
     
-      <category term="interview" scheme="https://github.com/WeiChiaChang/blog/tags/interview/"/>
+      <category term="Study" scheme="https://github.com/WeiChiaChang/blog/tags/Study/"/>
     
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
+      <category term="Interview" scheme="https://github.com/WeiChiaChang/blog/tags/Interview/"/>
+    
+      <category term="Career" scheme="https://github.com/WeiChiaChang/blog/tags/Career/"/>
     
   </entry>
   
@@ -136,7 +138,7 @@
     <link href="https://github.com/WeiChiaChang/blog/2017/08/17/Wesley-Daily-Digest-115/"/>
     <id>https://github.com/WeiChiaChang/blog/2017/08/17/Wesley-Daily-Digest-115/</id>
     <published>2017-08-17T03:44:20.000Z</published>
-    <updated>2017-08-17T03:44:43.000Z</updated>
+    <updated>2017-08-19T02:25:16.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="2017-08-17-Wesley’s-Digest-Collection"><a href="#2017-08-17-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/17 Wesley’s Digest Collection"></a>2017/08/17 Wesley’s Digest Collection</h4><ul>
 <li><p>『基於這些指標，通過下面的方法，對於哪個角色會在接下來死去我們可以形成有根據的推測：瞭解還活著的人有哪些和已經死去的角色有相似的特徵。這個問題類似於眾所周知的流失問題，多種基於分類的算法能解決這類問題。在這個分析中我們使用 SVM（支持向量機），這也是最準確的模型。』從眾多資料理出一套分析法則，找出潛在性的共同特徵進一步預測目標變數，機器學習在今日能做到這樣的地步已經不再是天方夜譚。</p>
@@ -178,6 +180,14 @@
     
     </summary>
     
+    
+      <category term="Github" scheme="https://github.com/WeiChiaChang/blog/tags/Github/"/>
+    
+      <category term="English Learning" scheme="https://github.com/WeiChiaChang/blog/tags/English-Learning/"/>
+    
+      <category term="Front-end" scheme="https://github.com/WeiChiaChang/blog/tags/Front-end/"/>
+    
+      <category term="Life" scheme="https://github.com/WeiChiaChang/blog/tags/Life/"/>
     
   </entry>
   
