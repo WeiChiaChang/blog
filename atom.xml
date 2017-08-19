@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-08-18T15:19:45.000Z</updated>
+  <updated>2017-08-19T02:11:56.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,66 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#117</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/08/19/Wesley-Daily-Digest-117/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/08/19/Wesley-Daily-Digest-117/</id>
+    <published>2017-08-19T02:10:24.000Z</published>
+    <updated>2017-08-19T02:11:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-08-19-Wesley’s-Digest-Collection"><a href="#2017-08-19-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/19 Wesley’s Digest Collection"></a>2017/08/19 Wesley’s Digest Collection</h4><ul>
+<li><p>對於南韓的印象其實比想像中還要刻板，可能是每幾年的國際賽事上看到標題黨的惡意抹黑，又或者是迭代更新的女團男團，人數似乎有越來越成長的趨勢。記錄片本身不長，卻有種不想繼續看下去的感受，塑膠女孩中的塑膠，似有若無的影射這個國家的人民瘋狂熱衷 plastic surgery 這件事。</p>
+<ul>
+<li><a href="https://www.damanwoo.com/node/90139" target="_blank" rel="external">南韓的典型美學？Nils Clauss 詭異呈現「塑膠女孩」紀錄片</a></li>
+</ul>
+</li>
+<li><p>『值得一提的是，當 style 標籤加上 scoped 屬性，那麼在 Vue 元件檔經過編譯後，會自動在元件上打上一個隨機的屬性，再透過 CSS Attribute Selector 的特性來做到 CSS scope 的切分，使得即便是在不同元件檔裡的 h1 也能有 CSS 樣式不互相干擾的效果。』對於 React 生態筆者還不夠深入，但就使用 Vue 在產品開發的經驗上，每個組件每個 .vue 檔有各自獨立的樣式和函式其實更符合 component 化的網頁，傳統向來提倡的前端三本柱要盡量切開的思維也被打破了。</p>
+<ul>
+<li><a href="https://kuro.tw/posts/2017/07/26/%E5%BE%9EVue%E4%BE%86%E7%9C%8BCSS%E7%AE%A1%E7%90%86%E6%96%B9%E6%A1%88%E7%9A%84%E7%99%BC%E5%B1%95/" target="_blank" rel="external">從 Vue 來看 CSS 管理方案的發展</a></li>
+</ul>
+</li>
+<li><p>『創新是對的，我同意，但不一定要搞出新玩意兒出來，才叫創新。你的價值不一定要是做出別人沒做過的東西，也可以是把別人做出來的東西，做得更好、更精。在原有的基礎上，加上新的元素，就會有人買。』這觀點用在哪裡都很適用，筆者同樣認為 React 和 Vue 都是非常厲害的前端庫，但 React 的門檻對實戰經驗較少的開發者所要冒的風險的付出的投資成本相對高出一些，Vue 的實作方式比官方文件寫的還要淺顯易懂，兩方都是好工具，一切還是端看使用情境再去斟酌決定何者更適合。</p>
+<ul>
+<li><a href="http://www.cw.com.tw/article/article.action?id=5084190&amp;utm_source=Facebook&amp;utm_medium=Social&amp;utm_campaign=Daily" target="_blank" rel="external">高承恕：「隱形冠軍模式」才是台灣該走的路</a></li>
+</ul>
+</li>
+<li><p>『相不相信設計思考，相不相信 Fail early, success sooner（越早失敗、越快成功）非常重要，但在現實企業裡卻不見得有時間給你嘗試失敗。所以在一開始的摸索期，專案產出的點子可能在前期驗證的時候就失敗，大家的信心也會漸漸下降而致放棄。』記得之前公司專案有個功能想了兩天不知道要怎麼實作，有點想放棄的念頭就趴下去咪個眼睡午覺，腦袋卻還是在這件事，不過很神奇的是睡了半小時醒過來之後解法也跟著出來了，只要不放棄嘗試，都不算失敗啊。</p>
+<ul>
+<li><a href="https://medium.com/@stellahsiao/%E8%A8%AD%E8%A8%88%E6%80%9D%E8%80%83-%E8%A6%81%E6%80%8E%E9%BA%BC%E5%A4%B1%E6%95%97-%E5%B0%B1%E9%80%99%E9%BA%BC%E6%A0%BD-1b5b1beed548" target="_blank" rel="external">設計思考：要怎麼失敗，就這麼栽</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『我以前是貝吉塔行星的王子，後來因為一些原因行星粉碎了，所以這次來這間超市應徵打工，也因為以上壓力我變成了 M 形禿，因此希望能盡快成為超市的工讀生，我會活用天生的戰鬥力，讓那些混帳客人們開心一下。』說穿了就是中二病發作，不過筆者相當喜歡這種反差感，投遞履歷本身過於嚴肅，勞方資方不僅是對立而是上對下，每個應徵口號都說，夥伴們一起加入這個大家庭吧，屁話誰都會講反正又不用成本，給員工的薪水依然少的根本 cost down。<ul>
+<li><a href="https://buzzorange.com/2017/08/04/idiot-cv/" target="_blank" rel="external">「老子沒有證照，也沒有死角」日、英網友這樣投履歷——台灣老闆，你們敢錄取他們嗎？</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>每回和朋友去 KTV 總是不約而同把汲汲營營唱成 GGININ，然後幾個人笑得跟腦殘一樣。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=9ei1PUmDz98&amp;list=PL9do701rCbQzwjmlebZffsYM4mVw44SrJ&amp;index=142" target="_blank" rel="external">張震嶽 - 思念是一種病 - OK - 2017</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-08-19-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-19-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/19 Wesley’
+    
+    </summary>
+    
+    
+      <category term="documentary" scheme="https://github.com/WeiChiaChang/blog/tags/documentary/"/>
+    
+      <category term="Vue" scheme="https://github.com/WeiChiaChang/blog/tags/Vue/"/>
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="Design" scheme="https://github.com/WeiChiaChang/blog/tags/Design/"/>
+    
+      <category term="Resume" scheme="https://github.com/WeiChiaChang/blog/tags/Resume/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#116</title>
@@ -63,9 +123,9 @@
     </summary>
     
     
-      <category term="interview" scheme="https://github.com/WeiChiaChang/blog/tags/interview/"/>
-    
       <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
+    
+      <category term="interview" scheme="https://github.com/WeiChiaChang/blog/tags/interview/"/>
     
       <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
@@ -966,56 +1026,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-07-31-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-31-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/31 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#97</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/07/30/Wesley-Daily-Digest-97/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/07/30/Wesley-Daily-Digest-97/</id>
-    <published>2017-07-30T03:08:47.000Z</published>
-    <updated>2017-07-30T03:09:12.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-07-30-Wesley’s-Digest-Collection"><a href="#2017-07-30-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/30 Wesley’s Digest Collection"></a>2017/07/30 Wesley’s Digest Collection</h4><ul>
-<li><p>不能否認的是，網路方便的現在做任何事都顯得特別快速，身旁的幾個朋友可能也開始跳下去寫程式了，筆者也不自覺回想當初是怎麼自學過來的，路上也沒啥人帶，能做的也只是問問 Google 大神並實際去做各種嘗試，很神奇的大部分的問題都可以解決，前提是關鍵字要下對，但盲點就在這裡，你要怎麼知道有哪些關鍵字是可能關聯到這個問題的呢？於是你還是要回到最最基礎的核心把底子打好，官方文檔 README 常常翻閱，之後也才有能力和動力去遍讀原始碼甚至去發 PR 。</p>
-<ul>
-<li><a href="https://calpa.me/2017/07/24/six-steps-to-debug-before-directly-ask-question/" target="_blank" rel="external">項目代碼調試：提問前要做的六個步驟</a></li>
-</ul>
-</li>
-<li><p>『但要跟坐收版權費的唱片公司談降分成比例，無異於從他們口袋里搶錢。據外媒 MBW 推測，這大概是 Spotify「被迫」自制內容的原因。虛假藝人是誕生過程，則是 Spotify 通過與第三方製作公司達成合作（或者是投資關係），版權方以降低版稅分成比例的方式獲取高曝光渠道，平台方以提供優質歌單位置實現低成本採購，最後按照一定比例對播放收益分成。』筆者很常使用 Spotify 平台，不管是在上面聽歌還是隨意瀏覽，會喜歡用的原因無非就是在 Mac 環境使用是完全免費的，只是偶爾會有幾支廣告，蠻像在聽沒有主持人的廣播電台，但也很怕因為被這樣的習慣制約，變得不是 Spotify 就不聽，偏偏他們家的音質就是比其他家好。在享受平台的同時，他們也正在努力經營著啊，真的會被使用者體驗至上這幾個字搞死。</p>
-<ul>
-<li><a href="https://buzzorange.com/techorange/2017/07/24/spotify-make-own-music/" target="_blank" rel="external">越熱門越賠錢？Spotify 被版權掐到快死！拼死一搏自製音樂，還遭唱片公司控偷流量</a></li>
-</ul>
-</li>
-<li><p>『與其等待那個駕著七彩祥雲來迎娶我的蓋世英雄，與其等待遇上那個踩著水晶鞋的美麗灰姑娘，與其等待那個一見如故難分難捨的靈魂伴侶，我倒寧願把身邊那個陽光積極善良的人，相處成另一個自己 。』半信半疑的讀完這篇，停留的印象除了標題聳動以外內容倒是還好，因為自身沒發生過這種事，聽聽就好。但筆者相信這會是趨勢，談戀愛變得像在扣奢侈稅，兩個人從朋友成為情人的成本也越來越高，交友圈社交圈全部重疊在一塊，兩人若有緣則走到最後眾人祝福，但多的是分手之後打死不相往來因為怕朋友圈見面變得尷尬。談感情是否也必須把持寧缺勿濫這點，還是見仁見智。</p>
-<ul>
-<li><a href="https://buzzorange.com/vidaorange/2017/07/24/wait-for-true-love/" target="_blank" rel="external">關於單身的殘酷真相：「寧缺勿濫」反而讓你離真愛越來越遠</a></li>
-</ul>
-</li>
-<li><p>『說起解嚴30年：「我是出生解嚴那一年，可是我覺得現在還是一個新戒嚴的年代，像我這樣的統派，被欺負、被網路霸凌，不是一樣的嗎？」可是，戒嚴對人民的壓迫可不僅是網路霸凌，有些是付出生命的，他則這麼說：「對國民黨來說，戒嚴的正當性是來自反共；台獨者也因為戒嚴阻擋了共產黨統一而有了日後談論獨立的空間。」』對王炳忠的印象停留在唱中華民國唱到破音那段，媒體真的害人不淺。雖然他的政治立場明顯和台灣主流有所區別，但他說的這段話的確有道理存在，不過關於共產主義下決策的獨斷獨行優於台灣民主這觀點，筆者想說的是，在台灣才有可能允許這麼多聲音出現，在中國同樣的做法換來的只是一言堂和禁聲，希望他也不要忘了這點。</p>
-<ul>
-<li><a href="https://www.mirrormedia.mg/story/20170724web001/" target="_blank" rel="external">【吃便當】吃滷肉飯也要當中國人　王炳忠</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『不過，趙明誠和李清照志趣相投，他們長期蒐集、研究、考訂金石，最後編成一本《金石錄》，是自歐陽修《集古錄》之後，最有系統的金石學著作。雖然寫詞寫不贏妻子，但李清照31歲生日時，有一幅寫真小照，趙明誠題上：「清麗其詞，端莊其品，歸去來兮，真堪偕隱。」讚嘆妻子的好品德與美妙文采，認為兩個人應該一起隱居。充分表達了兩人的鶼鰈情深。』高中國文選讀過的宋詞，簾捲西風，人比黃花瘦，莫道不銷魂，都出自於李清照筆下，很少會在中國文學看到女性的身影，從古至今寫詞能及的上的實在屈指可數。<ul>
-<li><a href="http://www.storm.mg/lifestyle/285455" target="_blank" rel="external">誰說老婆比較優秀，注定夫妻失和？宋代李清照與趙明誠，千年前就示範何謂鶼鰈情深</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>莫名洗腦，好像也什麼，聽了大概 40 次就關掉了。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=glF_bfX9HXI&amp;list=PL9do701rCbQzwjmlebZffsYM4mVw44SrJ&amp;index=125" target="_blank" rel="external">蕭志瑋 - 簽名照 - 單曲 - 2017</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-07-30-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-30-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/30 Wesley’
     
     </summary>
     
