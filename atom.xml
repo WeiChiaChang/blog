@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-08-19T02:32:53.000Z</updated>
+  <updated>2017-08-20T02:56:14.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#118</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/08/20/Wesley-Daily-Digest-118/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/08/20/Wesley-Daily-Digest-118/</id>
+    <published>2017-08-20T02:53:27.000Z</published>
+    <updated>2017-08-20T02:56:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-08-20-Wesley’s-Digest-Collection"><a href="#2017-08-20-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/20 Wesley’s Digest Collection"></a>2017/08/20 Wesley’s Digest Collection</h4><ul>
+<li><p>『維持一座市場的運作，倚靠的不只是買賣行為和短期的活動，更是因為人與在地情感因映現代生活習慣彼此交織融合而成。 創造親子市場更是希望將如此具有溫度的牽絆，傳承給下一代、下下一代，永續留存。』從沒想過市場其實也是個相當出色的教學環境，如何發想並將小學和市場之間的關係做出連結，能想到這點並認真實踐，永續經營的概念將不再只是空談。</p>
+<ul>
+<li><a href="https://vide.tw/%E6%94%B9%E9%80%A0%E5%82%B3%E7%B5%B1%E5%B8%82%E5%A0%B4%E7%92%B0%E5%A2%83-%E7%B6%93%E7%87%9F%E4%BA%BA%E8%88%87%E4%BA%BA%E7%9A%84%E9%97%9C%E4%BF%82/" target="_blank" rel="external">改造傳統市場環境 經營人與人的關係</a></li>
+</ul>
+</li>
+<li><p>『Java 複雜複雜、肥大、充滿儀式性的做法而且被濫用。Rails 就在眾人需要的時候出現了。但今非昔比，現在有 React、Vue.js，「還有比較沒那麼爛」的 JavaScript，替代品太多了。』必須承認 Ruby 本身就不是多數開發者首選的腳本語言，Python 的面向更容易讓人選擇，但小眾自然還是有小眾的好處，過度跟風信仰完全沒有實質意義，況且寫出好產品從來靠的就不是死板的教條和工具。</p>
+<ul>
+<li><a href="https://www.inside.com.tw/2017/08/04/ruby-on-rails-is-out-major-coding-bootcamp-ditches-it-due-to-waning-interest" target="_blank" rel="external">Ruby on Rails 退潮？知名程式培訓班 Coding Dojo 因需求不足砍課程</a></li>
+</ul>
+</li>
+<li><p>『看來酒精對記憶的作用比我們過去認識的還複雜，飲酒對人們造成的身心效果還有待更多的研究來發現。說不定對那些在期末考抱佛腳的大學生來說，可以自己實驗一下，讀完書之後喝了酒然後跑去睡覺，隔天考試成績會很不錯，但是不要睡到沒去考試…』酒後吐真言可能還是要看人，但喝醉酒能不能記得當時發生的事情應該是可以的，筆者以身試法了兩次，隔天記憶真的蠻清楚的，但最麻煩的是你沒辦法控制你去做什麼事，酒後出洋相是再自然不過的事了。</p>
+<ul>
+<li><a href="https://www.inside.com.tw/2017/08/04/retrograde-memory-facilitation" target="_blank" rel="external">【Gene 愛聊科學】酒醉心理學－喝醉了到底會忘記還是記得更清楚？</a></li>
+</ul>
+</li>
+<li><p>『這麼大一筆資金，將運用在改造Reddit自從2005年以來便沒有變動過的網站架構，他們打算利用這些資金來寫新的網站，由於Reddit的300萬用戶中，有80%都是以電腦瀏覽Reddit，所以將會專心致志於網頁版本，並且開發上傳使用者影片的功能，進而留住使用者。』Reddit 相當於台灣的批踢踢，國外同樣有著大量鄉民群聚在這論壇上，不過網頁版的介面設計一向很詭異，也從未聽說過要改版這回事，這次 Reddit 拿到如此多資金，希望可以看到以不同面貌示人並有眼睛一亮的感覺。</p>
+<ul>
+<li><a href="https://newtalk.tw/news/view/2017-08-01/93900" target="_blank" rel="external">Reddit獲18億美金 美版PTT大改版</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『在目前求職網站的流程裡，要下載附件無可避免地一定會需要帳號，要釜底抽薪解決這個問題，就是使用其他網站的服務。舉例來說：履歷可以加密壓縮之後放在 Google Drive、簡報檔在確認沒有個資疑慮之後可放在 Slideshare，而 portfolio （作品集）可放在免費的 online portfolio 網站上。最後，在求職網站上放這些檔案的連結（並提供密碼）就可以了。』整理履歷最煩人的就屬斟酌哪些東西要放進去，活了二十幾年太多阿哩阿雜的可以拿出來和面試官唬爛一番，但放太多無關緊要的可能連第一關都過不了。<ul>
+<li><a href="https://designtongue.me/%E4%BD%BF%E7%94%A8-%E6%B1%82%E8%81%B7%E7%B6%B2%E7%AB%99-%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/" target="_blank" rel="external">使用 求職網站 的注意事項</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>畢恭畢敬畢書盡。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Wo_KGzyV9w4" target="_blank" rel="external">朱俐靜 Miu Chu + 畢書盡 Bii - 我會在你身邊 - 存在的力量 - 2013</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-08-20-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-20-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/20 Wesley’
+    
+    </summary>
+    
+    
+      <category term="ntust" scheme="https://github.com/WeiChiaChang/blog/tags/ntust/"/>
+    
+      <category term="alcohol" scheme="https://github.com/WeiChiaChang/blog/tags/alcohol/"/>
+    
+      <category term="ptt" scheme="https://github.com/WeiChiaChang/blog/tags/ptt/"/>
+    
+      <category term="resume" scheme="https://github.com/WeiChiaChang/blog/tags/resume/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#117</title>
@@ -63,15 +121,15 @@
     </summary>
     
     
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
+      <category term="resume" scheme="https://github.com/WeiChiaChang/blog/tags/resume/"/>
+    
       <category term="vue" scheme="https://github.com/WeiChiaChang/blog/tags/vue/"/>
     
       <category term="documentary" scheme="https://github.com/WeiChiaChang/blog/tags/documentary/"/>
     
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
-      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
-    
-      <category term="resume" scheme="https://github.com/WeiChiaChang/blog/tags/resume/"/>
     
   </entry>
   
@@ -196,7 +254,7 @@
     <link href="https://github.com/WeiChiaChang/blog/2017/08/16/Wesley-Daily-Digest-114/"/>
     <id>https://github.com/WeiChiaChang/blog/2017/08/16/Wesley-Daily-Digest-114/</id>
     <published>2017-08-16T06:22:02.000Z</published>
-    <updated>2017-08-16T06:22:17.000Z</updated>
+    <updated>2017-08-20T02:56:34.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="2017-08-16-Wesley’s-Digest-Collection"><a href="#2017-08-16-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/16 Wesley’s Digest Collection"></a>2017/08/16 Wesley’s Digest Collection</h4><ul>
 <li><p>『就我而言，脖子比眼睛和四肢更容易疲勞。有時僵硬的都不能轉動了。有段時間真的特別嚴重，還去矯正過骨骼，但還是沒能完全矯正。要說當時為什麼會變成這樣，我覺得就是因為沒有好好在床上睡覺。我大約有半年的時間都是在公司的地板上或是漫畫咖啡店裡睡……這對我的頸部造成了很大的負擔。好好到床上睡覺真的非常重要的！』看過罪惡王冠就可以清楚知道原作的角色設定在線條上琢磨的細膩程度，神級別的畫師跟筆者都有類似的困擾啊，靠電腦吃飯的這行眼睛痠痛果然是無法根除的原罪。</p>
@@ -238,6 +296,14 @@
     
     </summary>
     
+    
+      <category term="ux" scheme="https://github.com/WeiChiaChang/blog/tags/ux/"/>
+    
+      <category term="animation" scheme="https://github.com/WeiChiaChang/blog/tags/animation/"/>
+    
+      <category term="studio" scheme="https://github.com/WeiChiaChang/blog/tags/studio/"/>
+    
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
     
   </entry>
   
@@ -986,56 +1052,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-08-01-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-01-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/01 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#98</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/07/31/Wesley-Daily-Digest-98/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/07/31/Wesley-Daily-Digest-98/</id>
-    <published>2017-07-31T05:19:21.000Z</published>
-    <updated>2017-07-31T05:19:37.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-07-31-Wesley’s-Digest-Collection"><a href="#2017-07-31-Wesley’s-Digest-Collection" class="headerlink" title="2017/07/31 Wesley’s Digest Collection"></a>2017/07/31 Wesley’s Digest Collection</h4><ul>
-<li><p>『「我想要宣傳我自己，讓大家對我產生更多好奇心，並讓他們覺得關注我的時間是值得的。」來自雪梨 18 歲的學員 Brooke Alyse 這麼說，她希望讓 Instagram 上一萬名的追蹤者持續增長，幫助她邁向演員之路。』大家都不再想當那個默不作聲，只管默默做事的小螺絲釘，透過社群媒體作為媒介，就像個擴音器，能有效的將個人的影響力放大，網紅在網路時代的竄起是可以預期的結果，人人都是自我的發聲代表也象徵著自媒體時代已經不是未來，未來已經來了。</p>
-<ul>
-<li><a href="http://www.storm.mg/lifestyle/303519" target="_blank" rel="external">75%孩子的夢想是成為YouTuber！美國興起「網紅夏令營」，但最重要的課程不是剪接拍片，而是…</a></li>
-</ul>
-</li>
-<li><p>『如上一段所說，過去在面試時，最無法接受面試者以「我認識某某某」作為起手或者收尾式，好像是沾著誰的光，而非透過事件來證明自己的能力。而當我越踏入社會，越發現這其實是一種「信任資本」，推薦你的人是因為「信任我們」，希望能一個小幫忙能協助我們獲得好的機會。這種信任資本，在亞洲社會中佔了挺大的份量，但這通常只能換到門票，能夠走多遠走多穩，靠的還是我們自己本身的實力』出外靠朋友，講的是人在異鄉除了倚賴自身能力生存外，還能夠有個可以互相照應的人，實習那陣子每回工作坊都會聽到超哥說的那句“有關係就是沒關係，但台灣不應該是這樣”，總是要靠著大聲攘攘說自己認識Ａ，和Ｂ是換帖兄弟這類的說詞才能壯大自己的能力呈現，無形間都是在消耗和那人之間的 credit，而多半會這麼比來比去的通常都是小學生。</p>
-<ul>
-<li><a href="https://medium.com/@raymondhou/%E5%8C%97%E4%BA%AC%E8%A1%8C-%E9%A6%99%E6%B8%AF%E5%89%B5%E4%B8%8D%E5%90%8C-2017-%E5%B9%B4%E6%9C%83-c2f0a6a82e3" target="_blank" rel="external">北京行、香港創不同 2017 年會</a></li>
-</ul>
-</li>
-<li><p>『学术不是社交，不是出名，是坐冷板凳。你做学问的目的，必须是对真理的热爱和对未知的好奇心。名不名与学者无关，得奖也是天上掉下来的馅饼。对学者来说，做学问本身，就是乐趣所在。想用社会“名人”来衬托你自己的地位，你要么是骗人，要么是骗自己，都是想掩饰你先天的不足，没有自信心。如果你不想用你自己的人格魅力赢得他人的信任，你也不能做学问。』上大學的第一年對未來四年都是滿滿的憧憬，直到和系主任兼任助理教授談過話才知道，學術這條路實在不好走，但也正因為難走，才有實踐的價值和意義，否則過於輕鬆寫意，也意即你是個很容易被取代的人。</p>
-<ul>
-<li><a href="https://mp.weixin.qq.com/s/oe1HXDWqXuIfIEmrblyBAw" target="_blank" rel="external">美国教授写给被开除中国留学生的信</a></li>
-</ul>
-</li>
-<li><p>『小心人月神話: 人月神話講的是人力和時間並不是線性關係，只有 PM 的世界裡面才會覺得九個媽媽一個月可以生出一個嬰兒，團隊溝通需要花費的時間成本跟團隊大小呈平方比。』最近看到某間網路書店在促銷，許久未看紙本書的筆者一時衝動便買了本軟體專案管理的經典人月神話回家看，是說也還沒看多少，但已經對書中對於 PM 和客戶不切實際的想像和描述深深有感。做軟體真的是蠻奇妙的工作。</p>
-<ul>
-<li><a href="https://www.jyt0532.com/2017/07/24/improve-project-estimation-skill/" target="_blank" rel="external">Effective Engineer - Improve your project estimation skills</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>會知道這個名詞還是從前女友的口中聽到的，然後才發現，啊原來還有小被這東西的存在。有小被的人其實大部分以女性為主，雖然可能顏色造型長的不太一樣，但不約而同的是聞起來都臭臭的，帶有霉味的那種。算是戀物癖嗎？感覺不太像，可以說是一種從小到大一路陪伴成長的精神寄託，就算男生沒收藏過小被，或多或少也抱過娃娃玩偶之類的，哪天突然被丟掉心情也是類似的。<ul>
-<li><a href="https://www.ptt.cc/bbs/WomenTalk/M.1500894685.A.741.html" target="_blank" rel="external">[問題] 家人威脅要把小被被丟掉怎麼辦</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>荒謬大師講到饒舌也是略懂略懂，大二那年在宿舍聽到這首笑到跟智障一樣，Cold Stone 的行銷意外有梗。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=5STvnkjIz9o&amp;list=PL9do701rCbQzwjmlebZffsYM4mVw44SrJ&amp;index=118" target="_blank" rel="external">沈玉琳 - 我要找名人 - 單曲 - 2013</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-07-31-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-07-31-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/07/31 Wesley’
     
     </summary>
     
