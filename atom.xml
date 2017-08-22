@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-08-21T02:31:03.000Z</updated>
+  <updated>2017-08-22T07:11:03.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#120</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/08/22/Wesley-Daily-Digest-120/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/08/22/Wesley-Daily-Digest-120/</id>
+    <published>2017-08-22T07:10:11.000Z</published>
+    <updated>2017-08-22T07:11:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-08-22-Wesley’s-Digest-Collection"><a href="#2017-08-22-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/22 Wesley’s Digest Collection"></a>2017/08/22 Wesley’s Digest Collection</h4><ul>
+<li><p>『“我知道的只是概念，你懂得的才是知识。”其实，我们就跟这位司机差不多，一付费一收听，就误以为学到了知识，其实离真正的掌握知识差了十万八千里，你以为买到的是知识，其实买到的是“知道”。你以为买到的是掌握，其实只是囤积了一堆“知道”。』知識付費到底造福的對象是誰？買知識的人求的是一個方便，說書人主動把知識整理集錦並販售，但買方學到的是知識又或者只是單純的知道而已？</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/8P2V5OpNuNs9i2Gp8IMqCg" target="_blank" rel="external">罗振宇永远不会告诉你的秘密</a></li>
+</ul>
+</li>
+<li><p>『就算不去皮村，我们周围他们其实也无处不在 — 给使馆区剪草的工人，给写字楼擦地的保洁，旁边正在盖的高楼里的建筑工人，地铁口卖鸡蛋灌饼的夫妻，和住在各个高档小区地下室里的成队的保安。但又的确离我们很远，因为他们是隐形的存在，你如果选择看不见，就可以看不见。近在咫尺又远在天边，繁华和落寞，城市生活的灰色幽默。』生命價值本該平等，但每個人都無法選擇各自的出身，不同的生活環境都在直接或是間接影響接下來可能發生的故事和將走向的道路。</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzI1NTIyMTA3Mw%3D%3D&amp;mid=2649511139&amp;idx=3&amp;sn=7a366f5eefc3a7f272c7a48d8d35d687&amp;chksm=f221b8ddc55631cb5dbd7d25e48338201bba5306a2f58027caa302c1da2761c4589983ec9742&amp;mpshare=1&amp;scene=43&amp;srcid=0801vitcXsX0N1nazNy4WPO5#rd" target="_blank" rel="external">清华学霸、马甲线女神、前麦肯锡董事合伙人：我见过太多世界的可笑</a></li>
+</ul>
+</li>
+<li><p>『薪資放在網路任人查詢難免讓人感覺不舒服，因此挪威稅務局改變網路查詢薪資的方式，從2014年開始實施「實名制」，挪威人必須使用自己的身分證字號登入，才能查詢別人的薪資，挪威稅務局長霍爾特（Hans Christian Holte）表示，現在人們能知道誰查了自己的薪資與稅額，實名制施行後，查詢的次數大幅降低，只剩先前的1成。』這做法其實挺讓人激賞的，玻璃天花板在職場上發生的尤其明顯，與其一味試圖窺探別人隱私，倒不如公平一點大家都把薪水公開透明化。</p>
+<ul>
+<li><a href="http://www.storm.mg/article/310135" target="_blank" rel="external">當全世界都能知道你賺多少錢…挪威國民薪資全透明，促進男女同工同酬</a></li>
+</ul>
+</li>
+<li><p>『這類綁架事件在中國農村相當普遍，我自己也有好多同事就曾經請假回鄉「救親戚」。李文星的家人去領屍時，還遇到了其他也去領屍的少年父母，有越來越多這類受害人的家屬這兩天站出來喊冤，「傳銷城」遠遠不只天津靜海一地。』發生這種事情已經不是單純的謹慎能夠提防的了。</p>
+<ul>
+<li><a href="https://www.thenewslens.com/article/75530" target="_blank" rel="external">少年李文星之死，看中國「直聘」人力銀行之惡</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>跟後端合作接 API 總是要搞定許多前置作業，要嘛先自己生一些假資料不然就是本地端起個 server 連進去做測試，json server 算是目前主流工具中最為容易上手且方便使用的，做 RESTful 的基本起手式和 action 都有支援。<ul>
+<li><a href="http://oomusou.io/http/http-json-server/" target="_blank" rel="external">JSON Server 簡介</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>寫程式必備的第一門課，日團取歌名果然都很有意思。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=rOU4YiuaxAM" target="_blank" rel="external">BUMP OF CHICKEN - Hello,world - Hello,world! / コロニー - 2015</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-08-22-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-22-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/22 Wesley’
+    
+    </summary>
+    
+    
+      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
+    
+      <category term="json" scheme="https://github.com/WeiChiaChang/blog/tags/json/"/>
+    
+      <category term="helloworld" scheme="https://github.com/WeiChiaChang/blog/tags/helloworld/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#119</title>
@@ -63,11 +121,11 @@
     </summary>
     
     
-      <category term="ptt" scheme="https://github.com/WeiChiaChang/blog/tags/ptt/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
       <category term="porn" scheme="https://github.com/WeiChiaChang/blog/tags/porn/"/>
+    
+      <category term="ptt" scheme="https://github.com/WeiChiaChang/blog/tags/ptt/"/>
     
   </entry>
   
@@ -119,13 +177,13 @@
     </summary>
     
     
-      <category term="ntust" scheme="https://github.com/WeiChiaChang/blog/tags/ntust/"/>
-    
-      <category term="alcohol" scheme="https://github.com/WeiChiaChang/blog/tags/alcohol/"/>
-    
       <category term="ptt" scheme="https://github.com/WeiChiaChang/blog/tags/ptt/"/>
     
       <category term="resume" scheme="https://github.com/WeiChiaChang/blog/tags/resume/"/>
+    
+      <category term="ntust" scheme="https://github.com/WeiChiaChang/blog/tags/ntust/"/>
+    
+      <category term="alcohol" scheme="https://github.com/WeiChiaChang/blog/tags/alcohol/"/>
     
   </entry>
   
@@ -179,13 +237,13 @@
     
       <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
     
-      <category term="resume" scheme="https://github.com/WeiChiaChang/blog/tags/resume/"/>
-    
       <category term="vue" scheme="https://github.com/WeiChiaChang/blog/tags/vue/"/>
     
       <category term="documentary" scheme="https://github.com/WeiChiaChang/blog/tags/documentary/"/>
     
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="resume" scheme="https://github.com/WeiChiaChang/blog/tags/resume/"/>
     
   </entry>
   
@@ -1008,56 +1066,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-08-03-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-03-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/03 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#100</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/08/02/Wesley-Daily-Digest-100/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/08/02/Wesley-Daily-Digest-100/</id>
-    <published>2017-08-02T03:03:53.000Z</published>
-    <updated>2017-08-02T14:22:49.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-08-02-Wesley’s-Digest-Collection"><a href="#2017-08-02-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/02 Wesley’s Digest Collection"></a>2017/08/02 Wesley’s Digest Collection</h4><ul>
-<li><p>公視製作的戲劇一向有口皆碑，高額經費做出來的東西要難看除非劇本真的寫太爛，但眾所皆知台灣總是那個拿最少資源，卻力圖做出最好成績的人，不管是戲劇界，運動界還是音樂界，刻苦耐勞經費東湊西湊也只是想把完整的作品細心孵出，對創作者而言這樣的精神食糧就足夠了。回到現實面儘管做到這步田地觀眾也不一定買單，劇作殺青結果收視率慘澹也很常見，而題材對了，剛好也正中觀眾胃口，又一堆無關緊要的人跳出來收割，說幾句好聽話就想消費別人的光環。</p>
-<ul>
-<li><a href="https://www.twreporter.org/a/wakeup2-taiwan-drama-industrial-future" target="_blank" rel="external">《麻醉風暴2》高規格製作背後　台劇能否東山再起？</a></li>
-</ul>
-</li>
-<li><p>『職場的真實體驗，終於讓周慕姿認真思考：「如果不好好為自己建立一些專業，接下來的人生就是不斷被選擇、威脅被取代，忍耐跟抱怨的份，」未來的圖像也越來越清晰，她發現自己不適合在組織內工作，想獨立作業，想擁有專業，並且做與助人相關工作。』當兵那段日子，班長常常每天跟我們洗腦，說簽下去的日子會多好多好，福利和薪水可以到多高等等，結果退伍之後有次跟以前的同袍出去玩，才知道那位班長在當完四年志願役也要退伍了，原因其實就很簡單，裡頭的制度真的是爛透了，有多少人是因為生活狀況和背景因素無法選擇只能繼續軍旅生涯，班長就是其中一個。</p>
-<ul>
-<li><a href="https://today.line.me/TW/article/e87e51abdae052de8bddc606e734a30d526e6b4f2061e3320106c9357e025396" target="_blank" rel="external">考上明星科系 她掙扎11年才下決心轉行</a></li>
-</ul>
-</li>
-<li><p>『儘管還是有人打從一開始就喜歡一些「實際的工作」的，例如，一開始就喜歡寫程序，或者喜歡平面設計，他們打從一開始就以這些職業為目標上大學，培養技能，一切看起來很好。但在這些為數不多的人之中，又有一大部份人會在工作一段時間後覺得厭倦，覺得自己未必真想從事這職業一輩子。』筆者大學選系完全亂亂填，因為當時選填志願完全不知道自己想念什麼，看什麼都很新鮮，感覺念什麼都無妨，天曉得管院的教學模式會讓一開始的自己賭爛如此久，同還好幸運的是大三那年莫名對寫程式燃起熱忱，回想大一時明明最討厭計算機概論，現在卻能夠自學並靠這門專業混口飯吃。雖然目前工作也做不滿一年，卻有種之後幾年還是要做類似工作的恐慌，或許時候到了還是會再次轉換跑到，而那個停損點，也只能憑感覺了。</p>
-<ul>
-<li><a href="http://4think.net/%E5%A6%82%E4%BD%95%E6%84%9B%E4%B8%8A%E4%BD%A0%E7%9A%84%E5%B7%A5%E4%BD%9C%EF%BC%9F/" target="_blank" rel="external">如何愛上你的工作？</a></li>
-</ul>
-</li>
-<li><p>『第一步，是希望開發出陪伴型機器人，在高齡化社會協助老人照護和治療。不僅如此，利姆也相信，讓機器人擁有同理心後，我們不用再擔心機器人終結人類世界。因為機器人將不再只循非一即二的規則行事，而是像人類一樣，能夠分辨道德上的對和錯，學會如何愛人。』人工智慧的發展和走向或許真的會像電影魔鬼終結者的劇情那樣，一步步將人類的文化毀滅，但導演往往會把一個極為感性的元素放入電影，就是愛，有愛就足以弭平一切紛爭，但真的是這樣嗎？這世界的邊緣人這麼多像筆者，不能因為漫畫也這樣畫就胡說八道啊。</p>
-<ul>
-<li><a href="https://www.bnext.com.tw/article/45444/angelica-lim" target="_blank" rel="external">《富比世》AI領域10大傑出女性、Pepper大腦的開發者——安潔莉卡．利姆</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『少女們永遠充滿苦惱，對外貌的苦惱、對體型的苦惱、對愛情憧憬的苦惱、對所愛之人開不了口，然後意中人跟人跑的苦惱⋯⋯幾乎是每位少女都有過的共通痛苦體驗。有苦惱，就有貪嗔癡，就有恨、怨、忌妒，深藏在少女三千煩惱絲底下的這些負面情緒，成了恐怖漫畫家們最愛的題材。』說到恐怖漫畫一定會提到日本經典漫畫家伊藤潤二，筆者抵擋不住老媽的苦苦哀求最後還是把一整套典藏版全部買齊帶回家，之前都是偶爾在網路上看，現在看到紙本反而不感覺恐怖，較為奇妙的一點是，為什麼作者可以想到這樣多奇葩的點子，每翻完一回總覺得腦袋頓時充滿了一卡車黑人問號。可能歸類在獵奇會更合適。<ul>
-<li><a href="https://fugu.cafe/talks/15850" target="_blank" rel="external">八〇年代的日本少女們都喜愛尖叫</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>忘記是和誰去看的電影，片名好像是叫做我就要你好好的，整部電影都在圍繞著這首歌轉圈圈，雖然劇情發生在現實世界絕對會被八卦版鄉民噓爆。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=nSDgHBxUbVQ&amp;list=PL9do701rCbQzwjmlebZffsYM4mVw44SrJ&amp;index=122" target="_blank" rel="external">Ed Sheeran - Photograph - x - Wembley Edition - 2015</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-08-02-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-02-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/02 Wesley’
     
     </summary>
     
