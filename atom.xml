@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-08-28T03:23:01.000Z</updated>
+  <updated>2017-08-29T04:06:28.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,62 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#127</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/08/29/Wesley-Daily-Digest-127/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/08/29/Wesley-Daily-Digest-127/</id>
+    <published>2017-08-29T04:05:26.000Z</published>
+    <updated>2017-08-29T04:06:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-08-29-Wesley’s-Digest-Collection"><a href="#2017-08-29-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/29 Wesley’s Digest Collection"></a>2017/08/29 Wesley’s Digest Collection</h4><ul>
+<li><p>挖礦光是前置設備在買高階顯卡就要花上一筆為數不小的金額了，但更為可觀的是挖礦途中的用電量，把機器放在一邊讓他自己跑，一個月結算下來光電費破個五六萬都不足為奇，校內挖礦這件事讓筆者想到讀國小時總會有校外人士跑到司令台附近的插座，鬼鬼祟祟的其實就是在偷電，學術研究性質就算了，但費盡洪荒之力才挖到的比特幣怎麼可能會有人想拱手讓出呢？</p>
+<ul>
+<li><a href="https://www.inside.com.tw/2017/08/08/bitcoin-mining" target="_blank" rel="external">比特幣要價十萬 － 如何看待學生校內挖礦</a></li>
+</ul>
+</li>
+<li><p>『两个人要长久的相处，生活中难免出现一些摩擦，例如价值观的一些细节点的矛盾，或者因为琐事和压力失去耐心，这时候最重要的是一定要有一个人跳出来解决问题，而不是两个人打一场闷仗，虽然打闷仗过后也会和好，但是会不经意的留下伤疤，以后可能会愈演愈烈或者突然爆发，因为问题并没有沟通解决，会产生累积效应。而如果大家产生冲突的时候，能够很快冷静下来，互相反思各自的问题，并且表达出来，做以改进，这种解决问题的方式才是真正的不留伤疤。』來自不同星球，說著不同的外星語，火星人和金星人能進行溝通這項行為基本上就已經是奇蹟了，兩人能走到一起更是難能可貴，太黏太膩太疏離都會變質，比起吵架更可怕的還是什麼都不說的冷暴力。</p>
+<ul>
+<li><a href="http://gitbook.cn/books/59788c52a5e12e58c70b7c12/index.html" target="_blank" rel="external">程序员恋爱指南：如何谈一场没有 bug 的恋爱？</a></li>
+</ul>
+</li>
+<li><p>『低薪族群女性高於男性約 10%，在年齡組成上，以 21-40 歲的人佔了 75% 的絕對多數。不過這個地方財政部有一點小小的奸詐，「受近年基本工資逐年調高與景氣回溫影響，我國低薪族占比自 100 年 26.4% 漸降至 104 年 25.2%」，雖然只下降了 1% 左右，總體人數卻是上升的。129 萬低薪族群是近五年來新高 。』就算再進步的國家依然存在著低薪和貧窮，比起這更悲慘的是，他看不慣你月收太多就想多拉幾個人一同下海。</p>
+<ul>
+<li><a href="https://buzzorange.com/techorange/2017/08/09/taiwan-salary-income-analytics/" target="_blank" rel="external">台灣薪資大數據：平均年薪 54.7 萬、四個人裡面就有一個人領 22K！</a></li>
+</ul>
+</li>
+<li><p>『我平常練習的時候就會出聲音提醒大家。大家都了解今天輸的話就結束了，再加上前一場比賽巴西贏了法國，如果我們輸了更是沒辦法進入複賽。比賽前果然大家都很在意比賽輸贏，因此我有特別跟大家說：「總而言之大家只要想著自己比賽的事情就好了。」』日本無論是背後團隊或是相關情蒐都做的十分到位，對比之下台灣排邪會做的也只是在球員有好成績時拿出來說說嘴罷了。</p>
+<ul>
+<li><a href="http://volleyball.biji.co/index.php?q=news&amp;act=info&amp;id=1047" target="_blank" rel="external">世大運 / 台灣1-3落敗，日本福山選手與今村選手訪談</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『後來 NIST 也更新了他們的指南，從字符規則改為強調密碼長度。但這也不能怪 Burr，畢竟科技發展日新月異，大家都是從錯中學，就像彈出視窗廣告發明人，還有發明 http 後面那兩條反斜線（同時也是發明網絡）的 Tim Berners-Lee，他們都曾說對造成眾人困擾感到很抱歉，不過他們可都是創造了網絡世界基礎元素的重要一份子。 』這種影響性極為全面的規格設計一訂下去就很難改動了，雖然的確有著許多不方便，但抱怨設計的人說穿了也就只會講幹話放馬後炮。<ul>
+<li><a href="https://www.hksilicon.com/articles/1400161" target="_blank" rel="external">15 年前發明煩死人的密碼規則，Bill Burr：抱歉浪費大家時間</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>有結衣的日劇就是先推再說。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=kImpWphugRY" target="_blank" rel="external">西野加奈 - No. 1 - 單曲 - 2015</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-08-29-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-29-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/29 Wesley’
+    
+    </summary>
+    
+    
+      <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
+    
+      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
+    
+      <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#126</title>
@@ -347,13 +403,13 @@
     </summary>
     
     
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
       <category term="github" scheme="https://github.com/WeiChiaChang/blog/tags/github/"/>
     
       <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
     
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
-      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
     
   </entry>
   
@@ -577,9 +633,9 @@
     </summary>
     
     
-      <category term="vue" scheme="https://github.com/WeiChiaChang/blog/tags/vue/"/>
-    
       <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
+      <category term="vue" scheme="https://github.com/WeiChiaChang/blog/tags/vue/"/>
     
       <category term="documentary" scheme="https://github.com/WeiChiaChang/blog/tags/documentary/"/>
     
@@ -1057,57 +1113,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-08-10-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-10-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/10 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#107</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/08/09/Wesley-Daily-Digest-107/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/08/09/Wesley-Daily-Digest-107/</id>
-    <published>2017-08-09T04:27:50.000Z</published>
-    <updated>2017-08-09T04:28:05.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-08-09-Wesley’s-Digest-Collection"><a href="#2017-08-09-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/09 Wesley’s Digest Collection"></a>2017/08/09 Wesley’s Digest Collection</h4><ul>
-<li><p>『“世界”和“时间”占据首位，“老子”、“兄弟”、“baby”、“money”、“bitch”、“real” 等词倒是让 rapper 的形象呼之欲出。rapper 的词里频繁提到“音乐”、“歌词”、“旋律”、“歌曲”，可见他们对自己的音乐非常在乎。嘻哈音乐由于有 freestyle 的文化，对亲自写词有要求，否则就不 “ real ” ，从节目中他们对偶像 rapper 的 diss 也能看出来。』想知道饒舌到底在唱些什麼，用了哪些屌詞和韻腳，直接從現有大量歌曲取樣分析，在這篇文章都有實際數據做出忠實的呈現。</p>
-<ul>
-<li><a href="http://www.g-cores.com/articles/26152?share=true" target="_blank" rel="external">我做了六百万字的歌词分析，告诉你中国Rapper都在唱些啥
-</a></li>
-</ul>
-</li>
-<li><p>『在這些宗教與科學符號的迷霧下，《新世紀福音戰士》的故事便變得更撲朔迷離，更不用說它所包含的哲學意涵。關於宗教與科學符號的部分，個人認為只是一種文學的修辭手法，用以渲染整套作品的神祕氣氛，對我們理解整套作品來說，不太重要（當然，正如第一節所說，此作品探討的主題與整部聖經的主題是有相通之處，這才令庵野秀明可以大量借用宗教符號）。』筆者沒有把福音戰士系列全部看完過，只記得當初看就感到劇情設定過於沈重，背後有太多東西想訴說。日本人在動漫領域的深耕除了廣度也兼具深度，所謂文化本來就不該設立門檻，每一種創作和衍生的作品無非都是一種媒介和呈現方式，同樣都是要藉此說明一個概念和故事。</p>
-<ul>
-<li><a href="http://corrupttheyouth.net/2017/07/28/%E6%96%B0%E4%B8%96%E7%B4%80%E7%9A%84%E5%8E%9F%E7%BD%AA%E3%80%81%E6%95%91%E8%B4%96%E8%88%87%E7%A6%8F%E9%9F%B3/" target="_blank" rel="external">新世紀的原罪、救贖與福音</a></li>
-</ul>
-</li>
-<li><p>『受訪時，他回想自己是在搬家時產生了想要轉為極簡生活的念頭：「搬家時，我很驚訝自己有這麼多東西，…時間流逝中，人們買東西又丟掉東西，(對東西)毫無感覺」。』筆者個人挺崇尚極簡主義，儘管目前過的生活模式還離理想姿態差了很大一步。環顧了一下房間，發現其實真的蠻多東西都是平常使用不到，就只是靜靜放在那邊，除非某天心血來潮來個打掃，否則甚至根本不會發現東西都長灰塵了。</p>
-<ul>
-<li><a href="https://dq.yam.com/post.php?id=6197" target="_blank" rel="external">日本有一群「極簡」生活到極致的人</a></li>
-</ul>
-</li>
-<li><p>『Facebook 跟 Google 不同的地方是， Facebook 的態度是 move fast， 一個產品不見得作到最完美才會上線，很有可能都很趕，這點對於工作壓力來說會比較大。但反觀其他公司如 Google ，普遍注重 life-work balance，這點倒是感謝現在的公司讓我還有足夠的平衡。』同樣都是處在矽谷的巨頭們，在不同的風格領導之下自然也發展出各自的企業文化，記得筆者的主管在離職前常跟筆者告誡千萬不要為公司賣命，用熬夜趕工趕死線而犧牲自己的健康完全沒有必要。這句話在他離開公司之後依舊常常不時會想起。</p>
-<ul>
-<li><a href="https://kylinyu.win/%E8%B5%B0%E8%A8%AA-facebook-%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E8%81%B7%E6%B6%AF---%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/" target="_blank" rel="external">走訪 Facebook 工程師的職涯 - 心得分享</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『新創公司設計師總是扮演橋樑的角色，從使用者端了解、產品規劃、行銷執行和工程師溝通協作…等，從開始到收尾，設計師參與大多數的過程，但過程都是一時，解決當下需求才是目的，如果可以用到 60% 的成本完成，為什麼非要浪費力氣做到 100% ?也許在設計端就可以解決團隊與節省工程師時間（畢竟工程師時間很寶貴），不管是什麼工具，只要能有效率的完成需求，就不需要去拘泥於完美開發，因為永遠沒有完美這回事。』同樣的道理或許也適用在軟體開發工程上，在筆者公司的情況往往是這樣的，不斷跟設計師催稿，終於拿到設計稿之後因為離死線也沒剩多少天了，便一如往常的拼命趕工趕 UI，此時三角理論又再次印證了幾件事實，當你的要求是做快一點要有效率但是錢又沒有增加的時候，產品出來的架構勢必亂七八糟，可能用了很多 wordaround 的解法先應急，真的趕上之後除了懶的重構像是一坨義大利麵般的程式碼同時又有新的專案來了。<ul>
-<li><a href="https://medium.com/as-a-product-designer/sketch-%E5%AF%A6%E7%8F%BE%E9%9D%9C%E6%85%8B%E7%B6%B2%E9%A0%81-yes-no-code-o-e009b1ddd252" target="_blank" rel="external">Sketch 實現靜態網頁 Yes, no code \^O^/</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>我們都擅長過度放大一個人的成功，也更擅長於選擇性的忽略從中過程，你不會知道 OOK 在成為世界搖滾天團之前經歷過如此嚴重的低潮，Maroon 5 也曾因感到沒有進一步的突破而面臨解散。自學前端到能夠稍微混口飯吃，和那群玩音樂玩到可以養活自己的人，某種程度就像是和自己的賭注。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=BKhBzbsSXi4&amp;index=114&amp;list=PL9do701rCbQzwjmlebZffsYM4mVw44SrJ" target="_blank" rel="external">謝和弦 - 每一個玩音樂的人 - 要你知道 - 2016</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-08-09-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-09-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/09 Wesley’
     
     </summary>
     
