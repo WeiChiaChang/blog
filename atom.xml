@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-08-29T04:06:28.000Z</updated>
+  <updated>2017-08-30T05:57:30.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#128</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/08/30/Wesley-Daily-Digest-128/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/08/30/Wesley-Daily-Digest-128/</id>
+    <published>2017-08-30T05:56:34.000Z</published>
+    <updated>2017-08-30T05:57:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-08-30-Wesley’s-Digest-Collection"><a href="#2017-08-30-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/30 Wesley’s Digest Collection"></a>2017/08/30 Wesley’s Digest Collection</h4><ul>
+<li><p>『戶籍的有無，可能成為某些人的生命轉捩點，卻也可能是人生的終點。不管是被戶籍拯救的人或者是沒被拯救到的人，因為戶籍這個極為特殊的制度，使得糾結在日本、台灣、中國的川島芳子、李香蘭、蓮舫這三位女性的命運也大不相同，也許可以說是歷史的一大諷刺。』相信很多 90 後的小孩會知道川島芳子和李香蘭這兩個名字都是從周星馳的電影得知的，小時看覺得沒什麼，就是一個角色的虛構名字，但隨著年紀增長才發現背後完全是有歷史可以引證的，所謂電影也就是文化的真實體現，在歷史洪流之中我們都只是毫不起眼的一粒沙。</p>
+<ul>
+<li><a href="https://www.twreporter.org/a/opinion-yoshiko-kawashima-yoshiko-yamaguchi-renh-murata" target="_blank" rel="external">野島剛／作為命運之鑰的戶籍——川島芳子、李香蘭以及蓮舫</a></li>
+</ul>
+</li>
+<li><p>『王策認為做一個職人的功課之一是讓更多人喜歡上咖啡，讓咖啡愛好者在家就可以建立屬於自己的咖啡風格，「我們要怎麼開發出更大的市場，每個人不必變得我們一樣，也未必要上課，我們可以做的是如何讓咖啡變得更簡單，讓每個人都願意去嘗試。」』筆者泡咖啡頂多就只是粉灑下去然後沖個熱水就直接喝了，但如果要拿去賣給別人呢？細節掌握的程度都會讓初來乍到的使用者產生難以磨滅的第一印象，細膩處理的心法在做前端工程時也是很適用的。</p>
+<ul>
+<li><a href="https://www.newsmarket.com.tw/blog/98925/" target="_blank" rel="external">最重要的是喝咖啡的人│28歲拿下世界咖啡沖煮冠軍 王策公開秘訣</a></li>
+</ul>
+</li>
+<li><p>『就心理層面來說，一旦你能和一個系統說話，那麼比起用文字或圖形介面和電腦互動，你就會想對這個系統投入更多的情緒。我有個有趣的觀察是，一旦我幫 Jarvis 內建聲音後，我就想幫它內建更多幽默感。它這部份的能力現在已經可以和 Max 互動，我想讓這些互動變得對女兒來說更有趣，但它的這部份的能力也讓我們覺得它和我們在一起。』能夠發展出像是鋼鐵人中的賈維斯個人智慧助理系統真的太令人感到興奮了，可以看到的是臉書也在相關領域做出了各種專案甚至還進一步提供了原始碼，just too cool to be true。</p>
+<ul>
+<li><a href="https://novapoints.com/2016/12/22/mark-zuckerberg-building-jarvis/" target="_blank" rel="external">Mark Zuckerberg 談智慧助理 Jarvis</a></li>
+</ul>
+</li>
+<li><p>『但是所有这些工具都有一个共同之处：它们之所以存在是因为 Web 平台发展太快了。如今任何地方都有 Web 技术的存在：Web 浏览器，桌面应用，电话应用，甚至手表应用。这个革命性发展同样也暴露出了我们需要解决的问题。比如，渐进式 Web 应用（PWA），它们之所以存在不是因为它们很炫酷，不是因为作为程序员的我们乐于写 PWA。请牢记本文的第一节：PWA 之所以存在，是因为它们创造了商业价值。』很少看到一個語言能從如此鹹魚的對待整個大翻身，一躍成為當今主流的開發語言，推陳出新的各種工具乍看之下一團亂，但他們的存在的確是為了解決更多存在已久的問題。或許 JS 開發者是最應該慶幸除了解法 A 我們還有解法 B-Z。</p>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/28423660" target="_blank" rel="external">JavaScript 疲劳终极指南：我们行业的真相</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『尽管计算机软件技术有很大一部分是 Dijkstra 发明的，但他却很少使用计算机，或许这和他作为程序员时很大一部分时间是在为还没造出来的计算机开发程序有关系。后来在德州大学的同事压力下他购买了一台 Macintosh 电脑，但只用来回复电子邮件和浏览网页。和 Donald Knuth、Leslie Lamport 这样关注于论文的数字排版并发明了 TeX 和 LaTeX 来做这件事的计算机科学家不一样，Dijkstra 从不用计算机写论文。他 认为应该不需要草稿和编辑就能写出一篇文章，所以他通常在脑中把整篇文章构思好才把文字落到纸上。』初學程式設計很多人都會要你邊上機邊打字，只看書不實作是寫不出好東西的，但更多的事實證明，腦袋沒有思想，做什麼都是 garbage in garbage out，跟寫作文一樣，構思流程才是核心關鍵，寫程式去實踐只是最後一步。<ul>
+<li><a href="https://www.oschina.net/news/72877/edsger-wybe-dijkstra" target="_blank" rel="external">你不知道的关于计算机大师 Dijkstra 的事情</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>很少聽 Jolin 的歌，但這首 edm 風濃厚到會讓人不停重播。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=aIzhtfKoqjE" target="_blank" rel="external">陳星翰 Starr Chen Feat. 蔡依林 Jolin Tsai -戀我癖 - 單曲 - 2016</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-08-30-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-30-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/30 Wesley’
+    
+    </summary>
+    
+    
+      <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
+    
+      <category term="ego" scheme="https://github.com/WeiChiaChang/blog/tags/ego/"/>
+    
+      <category term="history" scheme="https://github.com/WeiChiaChang/blog/tags/history/"/>
+    
+      <category term="javascript" scheme="https://github.com/WeiChiaChang/blog/tags/javascript/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#127</title>
@@ -65,9 +123,9 @@
     
       <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
     
-      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
-    
       <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
+    
+      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
     
   </entry>
   
@@ -1063,56 +1121,6 @@
     <summary type="html">
     
       &lt;h4 id=&quot;2017-08-11-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-11-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/11 Wesley’
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#108</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/08/10/Wesley-Daily-Digest-108/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/08/10/Wesley-Daily-Digest-108/</id>
-    <published>2017-08-10T03:29:37.000Z</published>
-    <updated>2017-08-10T03:29:52.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-08-10-Wesley’s-Digest-Collection"><a href="#2017-08-10-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/10 Wesley’s Digest Collection"></a>2017/08/10 Wesley’s Digest Collection</h4><ul>
-<li><p>『愛德華驚嘆生命的誕生，並且指出鍊金術師數百年來無法做到「人類創造人類」，但女人用 280 日就成功了。所謂「人類創造人類」，其實就是男女的性事繁殖。鍊金術與性繁殖，在此串連起來，而兩者的共通點正是「創造」。』鋼鍊之所以是經典有諸多原因，藉著賢者之石這樣的設定把故事劇情和人性的七宗罪一一剖析，合理展開的鋪陳顯得不過度為作品人氣而做不必要的渲染，灑狗血這類基本上在原作是完全看不到的。</p>
-<ul>
-<li><a href="http://corrupttheyouth.net/2017/01/12/%E3%80%8A%E9%8B%BC%E9%8D%8A%E3%80%8B%E9%9A%B1%E8%97%8F%E7%9A%84%E8%81%96%E7%B6%93%E5%AF%86%E7%A2%BC/" target="_blank" rel="external">《鋼鍊》隱藏的聖經密碼</a></li>
-</ul>
-</li>
-<li><p>『選擇 Ruby 的語法跟物件導向設計是為了盡可能降低學習門檻；而用 Go 寫則是要滿足現在 Web server 對於 performance 的需求（microservice 當紅）。只要 Goby 能夠帶來足夠多的效能提升，而且不會讓 Ruby 開發者太難上手，他們自然就容易轉換到 Goby，就像前陣子流行轉換到 Elixir 一樣。』該文作者和筆者差不多年紀，別人都在飛天甚至辭職 full time 開發自己的程式語言，看看對方再想想自己，總是在前端忙得跟什麼一樣，新框架說穿了就算解決某些問題還是層層的語法糖包裹住的，如果不能理解工具的核心和實作方式這一輩子大概也只能當個工匠而忘記自己其實是有能力成為發明工具的那個人。</p>
-<ul>
-<li><a href="https://medium.com/@st0012/the-economic-of-programming-languages-76dbd8b63310" target="_blank" rel="external">The Economic of Programming Languages 以及我還是堅持開發 Goby 的原因</a></li>
-</ul>
-</li>
-<li><p>『JWT 其中的一個組成內容為 Signature，可以防止藉由 Base64 可逆方法回推 payload 內容並將其修改。因為 Signature 是經由 Header 跟 Payload 一起 Base64 組成的。當然如果你的加密的金鑰 (secret) 流失， 便可經由第三方自行重置合法的 Token 導致失去驗證授權與否的效益』使用 JWT 似乎是多數新創進行工程相關開發的默契了，但很多人用不代表 JWT 就是顆銀彈，payload 一般而言不太可能放過於敏感的使用者資訊，像是簽章和金鑰這類還是應該存放於伺服端。</p>
-<ul>
-<li><a href="https://kylinyu.win/head-first-json-web-token-jwt/" target="_blank" rel="external">Head First JSON Web Token (JWT)</a></li>
-</ul>
-</li>
-<li><p>『远程团队招聘一般喜欢直接用一个实际需求来查看你的适应能力。比如让你用一个周末解决一个小需求。因为这样能直接考察你独立解决问题的能力。比如我当时被要求解决一个线上表格问题。给我一个周末的时间，让我给出初步方案。那我就得沟通需求、分析需求、画出草图、确认需求、理解现有技术架构，然后去实现它，中途有问题的话就主动沟通。你会发现代码能力其实可能只占 50% 的比重，更多的是你的做事方式适合符合这个团队。所以你预先了解团队是很重要的。』remote working 最棒的就是可以自在的選擇在哪裡工作，沒有一個固定的地方或場所限制住，今天我想去某間咖啡店就去，如果可以不用天天進辦公室照樣維持平常的生產力，這樣的工作模式想必有很多人都會想跳下坑來嘗試嘗試，但壞處還是存在，可能沒有可以常常碰面的同事，越來越邊緣化也不無可能。</p>
-<ul>
-<li><a href="http://gitbook.cn/books/5952f77b94b141525e125cba/index.html" target="_blank" rel="external">如何成为一位远程开发者</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『筆者本身是一位「半左撇子」──自懂事以來都是用右手寫字，不過也有左手用餐具等左撇子習慣。也是這個背景，令筆者對左撇子的日常生活這個題目産生興趣，並透過訪談和觀察等方法去了解更多。「左」在不同的文化和宇宙觀都被貼上次等甚或邪惡的標籤，故此左撇子在歷史上一直是被厭惡，需要「改正」的習慣[4]。在世俗化和強調個人發展的現代社會，對左撇子的負面概念比以往減退不少。』筆者就是左撇歧視的受害者，從小就習慣用左手拿筷子和寫字，後來被老媽發現後怕筆者被同儕霸凌，硬是被糾正回來用右手寫子，天曉得時至今日用右手寫出的字一樣醜，間接獲得的好處是打球多數時候可以左右開弓，雖然也沒什麼好炫耀的就是了。<ul>
-<li><a href="https://sobooks.tw/right-hand-left-hand/" target="_blank" rel="external">視之不見的煩惱：日常設計和左撇子的世界</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>台語 R&amp;B 怎麼聽怎麼過癮，一聽就上癮。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=K5qKpFLWaoA" target="_blank" rel="external">周杰倫 - 火車叨位去 - 八度空間 - 2002</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-08-10-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-10-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/10 Wesley’
     
     </summary>
     
