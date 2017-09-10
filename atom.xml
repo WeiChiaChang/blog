@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-09-09T06:13:45.000Z</updated>
+  <updated>2017-09-10T02:53:00.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,62 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#139</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/09/10/Wesley-Daily-Digest-139/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/09/10/Wesley-Daily-Digest-139/</id>
+    <published>2017-09-10T02:50:24.000Z</published>
+    <updated>2017-09-10T02:53:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-09-10-Wesley’s-Digest-Collection"><a href="#2017-09-10-Wesley’s-Digest-Collection" class="headerlink" title="2017/09/10 Wesley’s Digest Collection"></a>2017/09/10 Wesley’s Digest Collection</h4><ul>
+<li><p>『《Mega Maker》是一個由粉絲自發的專案計畫，遊戲本體是以免費遊戲設計工具「Game Maker」製作的遊戲引擎「Mega Engine」為基礎，自 2016 年 9 月起歷經了將近 10 個月的開發時間，終於在 2017 年 7 月問世，免費提供玩家設計《洛克人》關卡在單機遊玩，或是經由官方伺服器分享給網路上的其他人。』絕讚的運作機制，讓粉絲從原先單純的玩家變成遊戲內容本身的創作者，是另一種程度的遊玩快感，最屌的一點在於官方遲遲不推出，而是粉絲自主性開發的，真的是不離不棄是我兄弟。</p>
+<ul>
+<li><a href="https://fugu.cafe/talks/16088" target="_blank" rel="external">Mega Maker：不小心就花了一下午自製《洛克人》關卡</a></li>
+</ul>
+</li>
+<li><p>『讓我們再更上一層樓，不要期待推送一個至少有五十字的文字訊息，然後使用者會一字一句閱讀完畢，你應該設計為對話的形式。使用短的文字訊息搭配適當的喘息時間，讓使用者能夠在下一個文字推送訊息出現以前結束一個段落。記得要在機器人「輸入文字」的時候顯示出「正在輸入」的對話框。』各家平台都有各自的 bot 流程，使得開發自家聊天機器人越趨容易，只不過既然主軸是聊天對象，表現都要以盡量貼近真實人類的行為為努力方向，筆者認為機器人甚至不必做到馬上回覆，寧願遲一點，有點自己的個性在，畢竟現實生活中誰這麼悠閒天天等對方來敲視窗啊。</p>
+<ul>
+<li><a href="https://medium.com/botbonnie/%E6%8A%93%E4%BD%8F%E9%80%99%E5%85%AD%E5%80%8B-ux-%E8%A6%81%E9%BB%9E-%E7%82%BA%E4%BD%A0%E7%9A%84%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA%E8%A8%AD%E8%A8%88%E5%87%BA%E6%9C%80%E4%BD%B3%E5%B0%8D%E8%A9%B1%E6%B5%81%E7%A8%8B-590075b2f0cb" target="_blank" rel="external">抓住這六個 UX 要點，為你的聊天機器人設計出最佳對話流程</a></li>
+</ul>
+</li>
+<li><p>『於是，樂高成立了 Future Lab，他們的任務很簡單也很困難 – 成立樂高創新引擎。首要要做的就是瞭解小孩到底是怎麼「玩」的。經過一連串研究後，他們得到一個結論：現在的小孩並不覺得虛擬和現實有什麼分別，即便「玩」的時候也一樣。因此，樂高決定不抵抗數位化浪潮，而是更積極的思考如何讓現實體驗和虛擬世界中的樂高完美結合。』樂高如此歷史悠久的積木大廠也曾面臨過財務危機，或者是說當網際網路逐漸改變我們原本認識的世界的模樣，你的選擇會是跟海濤法師一樣都是假的，還是會重拾過去突破的勇氣搭上這股浪潮做些改變？</p>
+<ul>
+<li><a href="https://appworks.tw/lego-social-media/" target="_blank" rel="external">樂高如何擁抱數位，乘著社群浪潮重回玩具龍頭寶座</a></li>
+</ul>
+</li>
+<li><p>『即使 Google、Facebook、亞馬遜繼續統治線上服務，也並不意味著在更廣泛的層面上它們會繼續成為科技創新的領導者。 創新可能會朝著不同的方向轉移，比如電動汽車、送貨無人機，而不是智慧型手機軟體。矽谷、互聯網、創新是一體的，可以互換，我們早就習慣了，不過下一輪創新似乎與我們過去看到的完全不同。』當 Facebook 不能成功收購 Snapchat 之後的故事大家都知道，開始把對方有的功能複製到自家平台上，你可以說它是 copycat，但社群世代的使用者眼睛不見得是雪亮的，從眾是獲得更多人氣的捷徑，當中是否存在無謂的盲目也只能等使用者視線從螢幕離開才能真正思考了。</p>
+<ul>
+<li><a href="https://buzzorange.com/techorange/2017/08/18/silicon-valley-where-to-go/" target="_blank" rel="external">不再創新的矽谷：13 年來僅 Facebook 成為帝國，究竟是什麼在扼殺創新成長？</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『目前整個盛會尚未結束，應該可以再觀察後續的趨勢，而整體的週邊效應很廣泛，不能只從網路一個面向觀察。但單就現階段從搜尋熱門程度的變化，數據上似乎無法佐證「讓世界看見台灣」的效果啊！ 作為納稅人覺得 Q_Q 希望不是只有我們自己很 high，後續的關注熱度可以提昇！台灣是個美麗的國家，真心希望有更多人願意來造訪我們的家鄉！』Google Trend 分析很有趣，根據文中描述，台灣這個關鍵字本身搜尋熱度就遠高於世大運，成功舉辦世大運絕對是件美事，但能否讓更多台灣以外的人更了解台灣呢？可能需要點時間醞釀。<ul>
+<li><a href="https://pcmanx.blogspot.tw/2017/08/google-search-trend.html" target="_blank" rel="external">從 Google Search Trend 看世大運的國際宣傳效果</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>大和美姬丸從 2013 休團至今，這樣有趣的組合讓許多樂迷心中總期待著強勢回歸的那天。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=2DadJ-tJbt4" target="_blank" rel="external">mihimaru GT - アン　ロック - Mihimalogy - 2010</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-09-10-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-09-10-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/09/10 Wesley’
+    
+    </summary>
+    
+    
+      <category term="ux" scheme="https://github.com/WeiChiaChang/blog/tags/ux/"/>
+    
+      <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
+    
+      <category term="silicon valley" scheme="https://github.com/WeiChiaChang/blog/tags/silicon-valley/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#138</title>
@@ -697,9 +753,9 @@
     
       <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
     
-      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
-    
       <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
+    
+      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
     
   </entry>
   
@@ -1100,62 +1156,6 @@
       <category term="json" scheme="https://github.com/WeiChiaChang/blog/tags/json/"/>
     
       <category term="helloworld" scheme="https://github.com/WeiChiaChang/blog/tags/helloworld/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#119</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/08/21/Wesley-Daily-Digest-119/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/08/21/Wesley-Daily-Digest-119/</id>
-    <published>2017-08-21T02:30:11.000Z</published>
-    <updated>2017-08-21T02:31:03.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-08-21-Wesley’s-Digest-Collection"><a href="#2017-08-21-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/21 Wesley’s Digest Collection"></a>2017/08/21 Wesley’s Digest Collection</h4><ul>
-<li><p>『他們住的小屋子後是一片小農田，土豆用自然農法耕種，不除雜草，施肥用尿。田裡時常有東西可以收成，時常是花生，雜草的根也能熬水煮茶喝。兩人搬來望安的頭幾日，島上居民就把這大新聞傳遍了。「有兩個年輕人搬來住呢！」「他們住得下去嗎？」「住這裡會不會無聊啊？」』去年跨年跑去小琉球也有類似的感覺，很不想回去工作，天天浮淺天天去酒吧喝酒感覺很糜爛，但生活過得太複雜好像也沒有更快樂點。</p>
-<ul>
-<li><a href="https://www.mirrormedia.mg/story/20170728tour001/" target="_blank" rel="external">他們的簡單生活　貨車情侶之後來怎麼了</a></li>
-</ul>
-</li>
-<li><p>『Pornhub 分別公布了 2008、2014 與 2017 桌機與手機的看片比。2008 年智慧型手機才剛開始萌芽，用電腦看片的佔了絕對多數 99%；但到了 2014，手機小幅超過了桌機，各佔 56%與 46%（不知是否官方數字有出錯還是計算方式問題？）。最後到今年智慧型手機已逆轉成絕對多數，佔據 75%。』食色性也，過去總是想把筆電螢幕縮小以方便攜帶，而當人類發明了可以連線的手機之後，螢幕又開始越做越大了。</p>
-<ul>
-<li><a href="https://www.inside.com.tw/2017/08/03/pornhub-big-data" target="_blank" rel="external">情色帝國 Pornhub 十年大數據：你知道大家的看片口味如何演變嗎？</a></li>
-</ul>
-</li>
-<li><p>『下圖是以 Firefox 20、30、40、50~56 開啟 1,691 個分頁所需的時間。縱（Y）軸的單隊是分鐘。是的，Firefox 51 需要將近 8「分鐘」啟動。不過，Firefox 55 則只需要 15「秒」。1,691 個分頁只需 15 秒，你沒看錯。我再也不必擔心得重新啟動了。最近，我只會為了好玩而重新開啟。』Chrome 和 Firefox 同樣都是相當好用的瀏覽器，但 Chrome 在分頁記憶體上用量真的過於誇張，整個 RAM 都被吃的死死的，Firefox 做出的大幅度革新可能也會讓更多使用者回流。</p>
-<ul>
-<li><a href="https://medium.com/@moz2000tw/%E7%85%A5%E7%84%B6%E4%B8%80%E6%96%B0%E7%9A%84firefox-%E4%BB%A5%E5%8F%8A%E5%A4%9A%E5%88%B0%E5%9A%87%E4%BA%BA%E7%9A%84%E5%88%86%E9%A0%81-50afea8140f0" target="_blank" rel="external">煥然一新的Firefox，以及多到嚇人的分頁</a></li>
-</ul>
-</li>
-<li><p>創世神回台創辦的 AI 實驗室下的產物，其實就是一個 AI 記者，爬取鄉民可能會關注的議題並且自動產生新聞，記者如果不做功課整天只想簡單了事，大可以直接去抄 D 卡和這裡的文章。</p>
-<ul>
-<li><a href="http://news.ptt.cc/" target="_blank" rel="external">記者快抄</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『王志文2008年从吉林来到北京的时候才16岁。在老家念初中时，他不爱学习，觉得吉他特别酷，就拼命钻研吉他，他的父亲是化学老师，觉得他似乎有点天赋，索性就让他自己去北京闯闯，计划送他去迷笛音乐学校念书。幸福来得太突然，一想到自己要去北京，王志文就开始苦练琴技，甚至连头发也不剪了，让自己更接近摇滚青年。 』過了很久閒置的人生，直到遇見了一個人成了轉捩點，生活也開始運轉起來了。<ul>
-<li><a href="http://dashi.streetvoice.cn/article/20170727/02/" target="_blank" rel="external">热斑乐队：仿佛相遇后生活才运转起来</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>因為世大運所以回來複習一下原曲。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=cT9XCQM_gaY" target="_blank" rel="external">林強 - 向前行 - 向前行 - 1990</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-08-21-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-21-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/21 Wesley’
-    
-    </summary>
-    
-    
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
-      <category term="porn" scheme="https://github.com/WeiChiaChang/blog/tags/porn/"/>
-    
-      <category term="ptt" scheme="https://github.com/WeiChiaChang/blog/tags/ptt/"/>
     
   </entry>
   
