@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-09-11T03:34:52.000Z</updated>
+  <updated>2017-09-12T06:04:07.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#141</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/09/12/Wesley-Daily-Digest-141/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/09/12/Wesley-Daily-Digest-141/</id>
+    <published>2017-09-12T06:02:51.000Z</published>
+    <updated>2017-09-12T06:04:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-09-12-Wesley’s-Digest-Collection"><a href="#2017-09-12-Wesley’s-Digest-Collection" class="headerlink" title="2017/09/12 Wesley’s Digest Collection"></a>2017/09/12 Wesley’s Digest Collection</h4><ul>
+<li><p>『首先是  Open，非常 Open 的  checking。新人第一天入職，領到一台電腦，連上網後，所有的數據都可以看到：產品的月活、日活、每一個功能，甚至可以像股票交易系統看到這樣的數據，比如日本的用戶 30 歲以下的人在用 news feed 的時候情況到底怎樣，從今年年初到現在變化是怎樣的等。 所有的東西都開放給工程師，沒有任何權限。』開放是好事，水平式的管理和溝通也極好，但沒有任何權限這件事其實蠻有一定程度的風險在，筆者先前待過的實習公司就發生過被內部實習生銃康的悲劇，權限什麼的完全沒有設定就讓那位神奇的國中生為所欲為，原本以為是被駭，結果竟然是自己人搞的，傻眼貓咪。</p>
+<ul>
+<li><a href="https://buzzorange.com/techorange/2017/08/18/how-facebook-work-on-their-projects/" target="_blank" rel="external">【我在 Facebook 的日常生活】前 FB 軟體工程師談臉書最值得亞洲軟體公司借鏡的三件事</a></li>
+</ul>
+</li>
+<li><p>『台北舉行的國際性活動，卻發生國內團體抗議阻撓外國團體入場，甚至一度傳出有運動員被擋在外面，決定回選手村不參加開幕了，讓台北市長柯文哲的臉書被網友灌爆，批評「丟臉丟到國外去」，說反年改團體要鬧場也要看時間。』這幾天會蠻多篇關於世大運的文章，想說隔幾個禮拜再來看比較不會被當時的情緒左右。不過現在讀完這篇文章還是認為反年改這步走的太錯太魯莽，就算訴求真有合理之處也整個爛掉了。</p>
+<ul>
+<li><a href="https://www.thenewslens.com/article/76685" target="_blank" rel="external">反年改團體抗議阻撓，世大運開幕一度僅有掌旗手入場</a></li>
+</ul>
+</li>
+<li><p>『在過去，跆拳道依賴裁判現場給分，踢擊要準且夠力，往往動作要大到踢出「卡」的一聲，才能獲得裁判青睞，但也因此爭議性判決不斷。改採電子護具後，一切以感應為優先，誰能最快掌握電子護具的特性，勝率就高，導致有的選手開始出現怪異、不屬於跆拳道的動作。』科技走入運動項目帶來的是不得不的改變，電子護具的準確性筆者不是圈內人所以不清楚，但就排球和網球場上類似的鷹眼機制其實一直以來也頗具爭議，網球本身體積小，受到強大擊打變形程度明顯 ; 但排球的影響是 ball in 和 ball out 往往是一線之間，切邊球的斷定很難讓球場上拼戰的球員信服。或許真的要改變些什麼，學著適應體制，才能有足夠的能量打破體制。</p>
+<ul>
+<li><a href="https://www.bnext.com.tw/article/45802/using-electronic-protective-gear-changes-taekwondo-competition" target="_blank" rel="external">電子護具改變了跆拳道，戰神朱木炎的華麗腳法難再現</a></li>
+</ul>
+</li>
+<li><p>『當看到小三輪車被飄在空中的塑料袋拉著去尋找主人時，我們似乎看到了《紅氣球》的影子：跟隨男孩邂逅的那支有生命的紅氣球，觀眾瀏覽了整個巴黎的風貌。與之相同，《Détour》這部以小三輪車為主角的「小公路電影」，宣揚自由和相聚的同時，展現了法國輕快蓬勃，甜蜜可愛的夏天。導演 Gondry 還利用這個短片，利用向很多經典的法國電影致敬（比如《艾蜜莉的異想世界》），儘管片子的原聲是法語，但因為格調輕盈，絲毫不會感覺繁冗，就像是在讀一封寫給法國文化和電影史的情書。』手機拍攝效果自然是比不上專業攝影器材，但筆者應該是眼殘，還真的分不出來 iphone 拍攝和一般觀看電影的實際差距…。</p>
+<ul>
+<li><a href="http://www.brandinlabs.com/2017/07/10/%E8%98%8B%E6%9E%9C%E9%82%80%E8%AB%8B%E6%B3%95%E5%9C%8B%E5%A4%A7%E5%B0%8E%E6%BC%94%EF%BC%8C%E5%85%A8%E7%A8%8B%E7%94%A8iphone-%E6%8B%8D%E4%BA%86%E4%B8%80%E9%83%A8%E9%9B%BB%E5%BD%B1/" target="_blank" rel="external">蘋果邀請法國大導演，全程用 iPhone 拍了一部電影</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『世界上只有差不多5个公司需要运行这么大规模的作业。至于其他公司……他们使用了所有的IO来实现不必要的容错。在2000年代，人们狂热地追随着Google：“我们要做Google做过的每一件事，因为我们也运行着世界上最大的互联网数据服务。”』一半同意另一半則不予苟同，確實很多公司的技術線跟風性質強烈，為了使用某技術才去選擇某項新潮技術。但就算是模仿 Google 又如何？看看別人家的技術線再實際應用在自家系統，即便使用者數量級達不到 Google 的層次，但至少能夠證明大公司做得到的架構小公司一樣可行。<ul>
+<li><a href="http://www.infoq.com/cn/news/2017/06/U-no-Google" target="_blank" rel="external">一语点醒技术人：你不是Google</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>上大學之後反而不常聽大塚愛的歌，去年還是前年好不容易來台灣表演也沒去看，但總會有道旋律會在莫名的時間點突然被按下 play 鍵。好後悔當初沒去看 live。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Wz73g5s18B4" target="_blank" rel="external">Ai Otsuka - Renai Shashin - LOVE PiECE - 2007</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-09-12-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-09-12-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/09/12 Wesley’
+    
+    </summary>
+    
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
+    
+      <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
+    
+      <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#140</title>
@@ -1094,64 +1152,6 @@
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
       <category term="girls&#39; generation" scheme="https://github.com/WeiChiaChang/blog/tags/girls-generation/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#121</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/08/23/Wesley-Daily-Digest-121/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/08/23/Wesley-Daily-Digest-121/</id>
-    <published>2017-08-23T03:12:40.000Z</published>
-    <updated>2017-08-23T03:13:45.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-08-23-Wesley’s-Digest-Collection"><a href="#2017-08-23-Wesley’s-Digest-Collection" class="headerlink" title="2017/08/23 Wesley’s Digest Collection"></a>2017/08/23 Wesley’s Digest Collection</h4><ul>
-<li><p>『网页与APP的设计在本质上面有很多不同的视觉表现规则，我们在设计APP界面的时候要脱离网页的一些交互习惯，回归到移动用户的习惯中，让界面的操作逻辑更加顺畅。』做前端同時要做的可不只是單純網頁，響應式設計都要把 mobile-first 原則放在首要之位，把網頁的思維帶進手機介面設計本來就是人之常情，這年頭不管做前端還是做設計事情都只會越變越多。</p>
-<ul>
-<li><a href="https://mp.weixin.qq.com/s/VDQexzB1rCa02O1gfSh5uw" target="_blank" rel="external">资深视觉详解APP设计中的微妙细节 | 设计基础09</a></li>
-</ul>
-</li>
-<li><p>『面對教育、面對業界甚至面對政府，李綱副教授投身自動駕駛領域，也期許這項技術能在台灣蓬勃發展而成氣候，他也深知關在學術象牙塔而不思產業應用註定失敗。學術界人才輩出卻留不住的同時，產業界已經組成聯盟嘗試在國際搶佔一席之地，若政府能改變對新技術消極的政策方向，這波崛起的自動車浪潮，台灣或許還有機會趕上。』。</p>
-<ul>
-<li><a href="https://www.inside.com.tw/2017/08/02/talking-about-autonomous-car-with-kang-li" target="_blank" rel="external">【未來的通勤是手放開】自動車時代，台灣的位置在哪裡？ 專訪台大機械李綱副教授</a></li>
-</ul>
-</li>
-<li><p>『我一直沒有安裝其他的評論插件，因為覺得搬家有點麻煩。但是當我試用一下之後，我就覺得這個插件安裝很方便，功能也很實用，尤其是可以寫 Markdown 評論，就讓我非常喜歡這個插件了。』很棒的一個延伸，生活無處不 Github。原本看到這個插件很想在自己的 Daily Digest 裝個評論系統，然後只允許有 Github 帳號的人可以進行留言和評論，但後來還是覺得乾淨一點的好。</p>
-<ul>
-<li><a href="https://calpa.me/2017/08/04/utilize-github-issue-by-using-gitalk/" target="_blank" rel="external">善用 Github Issue 的開源評論插件 – Gitalk</a></li>
-</ul>
-</li>
-<li><p>『既然我們遇到不會的字會查字典，那為什麼我們寫軟體遇到問題時，不需要讀 doc 呢？而對於整個電腦的理解，非本科系的人絕對也是被甩在幾條街之外，因為我們不需要修資料結構、演算法，更別說對於資料庫，作業系統、計算機結構、計算機組織、編譯器理解的淺薄，一定要掌握上述這些知識才能寫前端嗎？』Github 當年一推出就讓全世界的開發者著迷愛上的原因 README 是個很大的關鍵，星星數目象徵著一個專案的健全發展和關注程度，當用了某個套件找不到解法，去官方看文件九成都能解決，最討厭的還是那種公司內部不開源就算了，文件也都不寫，又訂了一個靠北短的死線要你把東西生出來。</p>
-<ul>
-<li><a href="https://www.ptt.cc/bbs/Soft_Job/M.1453137664.A.52D.html" target="_blank" rel="external">[心得] 前端入門心得</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『发现没，有一种人，他们脸上总有一种气质，就是没文化却又很固执的气质，就是这么来的。扫地僧曾经曰过：武功要佛法来辅佐，不然会筋脉俱废练成痴呆。同样的，现代社会，道理也要知识来辅佐，不然会变成一个偏执的、思维水平很低的人。』好為人師是人的天性，用著聽到的道理塞進自己的話語，顯得自己也特別有學問，喝了一大碗雞湯吐出來的卻全是未消化的雞骨頭。<ul>
-<li><a href="https://mp.weixin.qq.com/s/LddRTaRDjte0CraZ2d3p0w" target="_blank" rel="external">没有知识，学一堆道理有毛用</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>今年台灣主辦真的很出色，但主題曲還是偏愛前年世大運的這首應援曲。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=j8F3Ufp4Yoc" target="_blank" rel="external">潘裕文 Peter Pan - 永不結束的馬拉松 - 單曲 - 2015</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-08-23-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-08-23-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/08/23 Wesley’
-    
-    </summary>
-    
-    
-      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
-    
-      <category term="github" scheme="https://github.com/WeiChiaChang/blog/tags/github/"/>
-    
-      <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
-    
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
   </entry>
   
