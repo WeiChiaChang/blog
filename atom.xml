@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-10-01T02:59:58.000Z</updated>
+  <updated>2017-10-02T03:00:43.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#161</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/10/02/Wesley-Daily-Digest-161/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/10/02/Wesley-Daily-Digest-161/</id>
+    <published>2017-10-02T03:00:03.000Z</published>
+    <updated>2017-10-02T03:00:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-10-02-Wesley’s-Digest-Collection"><a href="#2017-10-02-Wesley’s-Digest-Collection" class="headerlink" title="2017/10/02 Wesley’s Digest Collection"></a>2017/10/02 Wesley’s Digest Collection</h4><ul>
+<li><p>『iPhone 7 的 Jet Black，则是另外一个角度在追求无缝。它的制造的精密，装配公差等等，那些物理意义上的缝隙，依然是一代代在突破，但是更大的突破来自于我们对产品认知上的缝隙，我们称之为“现象上的无缝” 。iPhone 7 的高亮能够掩盖到那些缝隙，那些被眼睛看到的缝隙，而感觉和知觉上的缝隙并非只来自于视觉可见的那些物理缝隙，感知觉上的缝隙来自对产品一体化的违背，一个产品如果只是功能的叠加，并没有对它在日常生活中的符号意义作探讨，那么它就是散架了，也就是充满缝隙的。』極致的工藝技術展現的不只是高度技藝，而是近乎苛求的細節要求，蘋果價格雖然亂貴一通的，但基於以上數點就足以讓死忠果粉掏腰包繳納香油錢了。</p>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/28794683?utm_source=wechat_timeline&amp;utm_medium=social&amp;from=timeline&amp;isappinstalled=1" target="_blank" rel="external">Apple “无缝”设计之历程</a></li>
+</ul>
+</li>
+<li><p>『对我来说，最好的权衡是相对于花时间学习一门指定的框架，学习原生 JavaScript 会在未来带给你更多好处。框架只是捷径，背后其实都是 JavaScript。当你用上某个框架，并在某个地方出现异常时你就会明白了，在这种情况下，你会被迫通过浏览源代码去调查这个 bug。我是不是提到过，虽然许多框架欠缺得体的文档，但它们却有复杂的代码？但是，小菜一碟，对吗？你肯定已经花了很多时间学习原生 JavaScript 了？还是没有？』拿蜘蛛人返校日中的台詞似乎蠻適合作為短評結論的：如果少了那套服裝你就什麼都不是，那你就不應該擁有它。如果拿掉了框架你卻不會半點原生的 JavaScript 的操作，你怎麼好意思稱自己做開發者？</p>
+<ul>
+<li><a href="https://juejin.im/post/59a535bd6fb9a0249975cb9b" target="_blank" rel="external">[译] 原生 JavaScript 值得学习吗？答案是肯定的</a></li>
+</ul>
+</li>
+<li><p>『雖然 Lifestage 並不像 4 Snaps 那樣成功，但也讓 Michael 獲得了在大公司的產品設計的經驗。在用戶潮流方面，這個年輕人也會有自己獨到的見解。畢竟在 17 歲就開發出爆款遊戲的青少年並不多。更重要的是，他並不是會被失敗打倒的人，因為這位年輕人在自己 19 歲的時候就說過：「我有好奇心而且有決心，這兩種性格讓我想要不斷探索，如果我嘗試了 50 次，我都無法找到答案，我就會再找一遍。」』多數人對於矽谷科技金童的刻板印象無非幾個名詞和形容詞穿插，輟學生，聰明且極具天賦，cliche 聽到耳朵都快長繭了也不見講幹話的人試圖做點什麼付出實際行動。起步早，意味的是不斷重複 trial &amp; error 的過程，直到達標。把成功人士的故事過度簡化似乎是人類的通病。</p>
+<ul>
+<li><a href="https://www.inside.com.tw/2017/08/30/a-genius-intern-in-facebook-change-to-google" target="_blank" rel="external">曾靠賣 App 為全家付房租的 Facebook「神童」工程師跳槽 Google！</a></li>
+</ul>
+</li>
+<li><p>『大受歡迎的態勢下，問起團隊會害怕 Cubiio 被抄襲嗎？畢竟，當群眾集資提案者勇於將創意向全世界公開的同時，想竊取創意的山寨商們也虎視眈眈著——尤其，你的產品特別吸引人時。「確實會有這樣的風險。但我們也還在成長、還在進步，等到他把這個抄好弄好，我們更新更好的東西也已經出來了。」面對難以預測的未來，他們這樣期待自己。』。</p>
+<ul>
+<li><a href="http://crowdwatch.tw/people/1457" target="_blank" rel="external">破百萬美金的台灣實力，交大師生玩出雷雕新想像：專訪 Cubiio 團隊</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『選辦項目反映出一個國家的體育傳統和強項，台灣的滑輪溜冰，也藉著這次世大運奪牌的新聞，得到不少的關注。不過如果要重振台灣的體育實力，在增加選辦項目之餘，各運動協會內部的改革、代表隊的遴選與平日的培訓，更需要大家的關注和監督，才能讓台灣的選手們，未來能放心地在體育場上，繼續為台灣贏得更多的比賽。』在自己比賽的勝率好像真的高出些，不管是 NBA 或是 MLB 普遍都有這樣的現象，回到核心議題，如果我們無法持續關注這些選手並適時給予真正需要的資源，提早退役甚至轉職這樣的事情不願去想還是會無奈地發生。<ul>
+<li><a href="https://www.thenewslens.com/article/77449" target="_blank" rel="external">為什麼世大運台灣這麼威？南韓和俄羅斯也有過的「主場優勢」</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>澤野弘之近期的新作品，一如既往的曲名總讓人感覺是讓貓咪在鍵盤上亂踩而命名的…</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Vk0odeQMdsY" target="_blank" rel="external">SawanoHiroyuki[nZk] Feat. mizuki - ViEW - 2V-ALK - 2017</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-10-02-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-10-02-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/10/02 Wesley’
+    
+    </summary>
+    
+    
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
+    
+      <category term="Sawano Hiroyuki" scheme="https://github.com/WeiChiaChang/blog/tags/Sawano-Hiroyuki/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#160</title>
@@ -231,9 +289,9 @@
     
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
-      <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
-    
       <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
+    
+      <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
     
   </entry>
   
@@ -285,9 +343,9 @@
     </summary>
     
     
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
@@ -343,11 +401,11 @@
     </summary>
     
     
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
       <category term="interview" scheme="https://github.com/WeiChiaChang/blog/tags/interview/"/>
     
       <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
-      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
     
       <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
     
@@ -679,9 +737,9 @@
     </summary>
     
     
-      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
     
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
@@ -907,9 +965,9 @@
     </summary>
     
     
-      <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
     
       <category term="silicon valley" scheme="https://github.com/WeiChiaChang/blog/tags/silicon-valley/"/>
     
@@ -1019,9 +1077,9 @@
     
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
-      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
-    
       <category term="silicon valley" scheme="https://github.com/WeiChiaChang/blog/tags/silicon-valley/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
   </entry>
   
@@ -1080,64 +1138,6 @@
       <category term="history" scheme="https://github.com/WeiChiaChang/blog/tags/history/"/>
     
       <category term="world" scheme="https://github.com/WeiChiaChang/blog/tags/world/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#141</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/09/12/Wesley-Daily-Digest-141/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/09/12/Wesley-Daily-Digest-141/</id>
-    <published>2017-09-12T06:02:51.000Z</published>
-    <updated>2017-09-12T06:04:07.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-09-12-Wesley’s-Digest-Collection"><a href="#2017-09-12-Wesley’s-Digest-Collection" class="headerlink" title="2017/09/12 Wesley’s Digest Collection"></a>2017/09/12 Wesley’s Digest Collection</h4><ul>
-<li><p>『首先是  Open，非常 Open 的  checking。新人第一天入職，領到一台電腦，連上網後，所有的數據都可以看到：產品的月活、日活、每一個功能，甚至可以像股票交易系統看到這樣的數據，比如日本的用戶 30 歲以下的人在用 news feed 的時候情況到底怎樣，從今年年初到現在變化是怎樣的等。 所有的東西都開放給工程師，沒有任何權限。』開放是好事，水平式的管理和溝通也極好，但沒有任何權限這件事其實蠻有一定程度的風險在，筆者先前待過的實習公司就發生過被內部實習生銃康的悲劇，權限什麼的完全沒有設定就讓那位神奇的國中生為所欲為，原本以為是被駭，結果竟然是自己人搞的，傻眼貓咪。</p>
-<ul>
-<li><a href="https://buzzorange.com/techorange/2017/08/18/how-facebook-work-on-their-projects/" target="_blank" rel="external">【我在 Facebook 的日常生活】前 FB 軟體工程師談臉書最值得亞洲軟體公司借鏡的三件事</a></li>
-</ul>
-</li>
-<li><p>『台北舉行的國際性活動，卻發生國內團體抗議阻撓外國團體入場，甚至一度傳出有運動員被擋在外面，決定回選手村不參加開幕了，讓台北市長柯文哲的臉書被網友灌爆，批評「丟臉丟到國外去」，說反年改團體要鬧場也要看時間。』這幾天會蠻多篇關於世大運的文章，想說隔幾個禮拜再來看比較不會被當時的情緒左右。不過現在讀完這篇文章還是認為反年改這步走的太錯太魯莽，就算訴求真有合理之處也整個爛掉了。</p>
-<ul>
-<li><a href="https://www.thenewslens.com/article/76685" target="_blank" rel="external">反年改團體抗議阻撓，世大運開幕一度僅有掌旗手入場</a></li>
-</ul>
-</li>
-<li><p>『在過去，跆拳道依賴裁判現場給分，踢擊要準且夠力，往往動作要大到踢出「卡」的一聲，才能獲得裁判青睞，但也因此爭議性判決不斷。改採電子護具後，一切以感應為優先，誰能最快掌握電子護具的特性，勝率就高，導致有的選手開始出現怪異、不屬於跆拳道的動作。』科技走入運動項目帶來的是不得不的改變，電子護具的準確性筆者不是圈內人所以不清楚，但就排球和網球場上類似的鷹眼機制其實一直以來也頗具爭議，網球本身體積小，受到強大擊打變形程度明顯 ; 但排球的影響是 ball in 和 ball out 往往是一線之間，切邊球的斷定很難讓球場上拼戰的球員信服。或許真的要改變些什麼，學著適應體制，才能有足夠的能量打破體制。</p>
-<ul>
-<li><a href="https://www.bnext.com.tw/article/45802/using-electronic-protective-gear-changes-taekwondo-competition" target="_blank" rel="external">電子護具改變了跆拳道，戰神朱木炎的華麗腳法難再現</a></li>
-</ul>
-</li>
-<li><p>『當看到小三輪車被飄在空中的塑料袋拉著去尋找主人時，我們似乎看到了《紅氣球》的影子：跟隨男孩邂逅的那支有生命的紅氣球，觀眾瀏覽了整個巴黎的風貌。與之相同，《Détour》這部以小三輪車為主角的「小公路電影」，宣揚自由和相聚的同時，展現了法國輕快蓬勃，甜蜜可愛的夏天。導演 Gondry 還利用這個短片，利用向很多經典的法國電影致敬（比如《艾蜜莉的異想世界》），儘管片子的原聲是法語，但因為格調輕盈，絲毫不會感覺繁冗，就像是在讀一封寫給法國文化和電影史的情書。』手機拍攝效果自然是比不上專業攝影器材，但筆者應該是眼殘，還真的分不出來 iphone 拍攝和一般觀看電影的實際差距…。</p>
-<ul>
-<li><a href="http://www.brandinlabs.com/2017/07/10/%E8%98%8B%E6%9E%9C%E9%82%80%E8%AB%8B%E6%B3%95%E5%9C%8B%E5%A4%A7%E5%B0%8E%E6%BC%94%EF%BC%8C%E5%85%A8%E7%A8%8B%E7%94%A8iphone-%E6%8B%8D%E4%BA%86%E4%B8%80%E9%83%A8%E9%9B%BB%E5%BD%B1/" target="_blank" rel="external">蘋果邀請法國大導演，全程用 iPhone 拍了一部電影</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『世界上只有差不多5个公司需要运行这么大规模的作业。至于其他公司……他们使用了所有的IO来实现不必要的容错。在2000年代，人们狂热地追随着Google：“我们要做Google做过的每一件事，因为我们也运行着世界上最大的互联网数据服务。”』一半同意另一半則不予苟同，確實很多公司的技術線跟風性質強烈，為了使用某技術才去選擇某項新潮技術。但就算是模仿 Google 又如何？看看別人家的技術線再實際應用在自家系統，即便使用者數量級達不到 Google 的層次，但至少能夠證明大公司做得到的架構小公司一樣可行。<ul>
-<li><a href="http://www.infoq.com/cn/news/2017/06/U-no-Google" target="_blank" rel="external">一语点醒技术人：你不是Google</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>上大學之後反而不常聽大塚愛的歌，去年還是前年好不容易來台灣表演也沒去看，但總會有道旋律會在莫名的時間點突然被按下 play 鍵。好後悔當初沒去看 live。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=Wz73g5s18B4" target="_blank" rel="external">Ai Otsuka - Renai Shashin - LOVE PiECE - 2007</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-09-12-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-09-12-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/09/12 Wesley’
-    
-    </summary>
-    
-    
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
-      <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
-    
-      <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
-    
-      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
   </entry>
   
