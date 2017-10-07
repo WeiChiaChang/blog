@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-10-06T01:43:44.000Z</updated>
+  <updated>2017-10-07T07:32:30.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#166</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/10/07/Wesley-Daily-Digest-166/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/10/07/Wesley-Daily-Digest-166/</id>
+    <published>2017-10-07T07:31:20.000Z</published>
+    <updated>2017-10-07T07:32:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-10-07-Wesley’s-Digest-Collection"><a href="#2017-10-07-Wesley’s-Digest-Collection" class="headerlink" title="2017/10/07 Wesley’s Digest Collection"></a>2017/10/07 Wesley’s Digest Collection</h4><ul>
+<li><p>『事實上，LSD對於工作能力的幫助並不僅限於科技業，重大的科學發現也與LSD有關，比如因為發明當今生物學、醫學不可或缺的技術：PCR（聚合酶連鎖反應），而在1993年獲得諾貝爾獎的Kary Mullis博士也將他的成功歸因於LSD：「我懷疑，如果沒有LSD我會發明PCR嗎？LSD讓我可以靜靜坐在一個DNA分子上觀察一切，從某種程度上看，是它讓我體會到這些。」』看過電影藥命效應就知道，現實世界上演的真實事件往往比電影情節更加離奇精彩。</p>
+<ul>
+<li><a href="https://www.thenewslens.com/article/77438" target="_blank" rel="external">矽谷正在告訴全世界：LSD不是毒品，而是我們增進工作表現的「私房秘方」</a></li>
+</ul>
+</li>
+<li><p>『再者，當開發團隊欠缺架構系統經驗時，系統就會發生缺乏延展性（Scalability）的痛點，導致程式碼不能重複使用，也很難導入高可用性架構或使用水平擴充，「在還清技術債前，只會債臺高築。」曾義峰表示。』文中很棒的觀點是，就算不得已要打掉架構重新來過也未必是失敗，如果有著非常清楚放棄原有架構的理由，那麼大膽放手執行未嘗是件壞事。</p>
+<ul>
+<li><a href="http://www.ithome.com.tw/news/116435" target="_blank" rel="external">3種CTO要小心的架構技術債</a></li>
+</ul>
+</li>
+<li><p>『2014 年，許多舊金山的新創公司提供資深設計室的薪水，僅低於資深工程師約 10%。約有一半的新創公司甚至提供設計師們與工程師相同水準的薪資。或許這只是我個人的看法，但我認為此舉是藉由向潛在設計師族群表明，該公司對於設計部門的重視程度是和工程相同的，以在這個供不應求的市場上吸引到頂尖人才的一項策略。』設計師的薪資早該和工程師相當了，就筆者菜菜將近一年的實務經驗是，需求通常不難實現，但如果要自己去想出 UI 的畫面和呈現那其實是最花時間的，尤其是視覺累的一旦稍有雷同很容易被視作抄襲。</p>
+<ul>
+<li><a href="https://buzzorange.com/techorange/2014/10/01/how-top-startups-pay-designers/" target="_blank" rel="external">難道對新創公司來說，設計師就值這麼點錢？</a></li>
+</ul>
+</li>
+<li><p>『我相信材料是任何一種設計形式的本質。當設計師願意花更多時間理解材料特性時，材料便能發揮出令人意想不到的效果。因為在許多產品開發流程中，材料通常在中、後階段才納入設計師的思考。而 Material ConneXion Bangkok 正是一個中介，協助設計師們在計畫初期時，就能將材料特性列入考慮，設計師越了解材料，越有可能與設計方案碰撞出更好的化學反應。』。</p>
+<ul>
+<li><a href="https://www.damanwoo.com/node/90288" target="_blank" rel="external">亞洲最大！泰國曼谷材料圖書館 成設計師挖寶天堂</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『理解商業價值 (Reason about business value): 像公司的 CEO 一樣去理解商業價值。瞭解你的工作對於公司的價值，並且學著對更多 coding 以外的事情負起責任，像是產品的質量、功能的豐富性，以及速度。』大概也是很多公司的 core value，工程師最常陷入的窠臼無非就是本位思考，但有些人天生就只想做工程相關，有些人逐步跨足到管理階層，各有優缺，能夠把這幾種類型人才的綜合能力值發揮到多大才是公司存亡關鍵。<ul>
+<li><a href="https://medium.com/the-bayesian-trap/%E7%BF%BB%E8%AD%AF-%E9%A0%98%E5%B0%8E%E5%B0%88%E6%A1%88%E8%B5%B0%E5%90%91%E6%88%90%E5%8A%9F%E7%9A%84%E8%B3%87%E6%B7%B1%E5%B7%A5%E7%A8%8B%E5%B8%AB%E4%B9%8B%E8%B7%AF-d7992395277a" target="_blank" rel="external">[翻譯] 領導專案走向成功的資深工程師之路</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>就是愛 Aimer，每回聽就像得到救贖。雖然這種形容超級像邪教徒。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=wUSrmIkR-EE" target="_blank" rel="external">Aimer - September-san - Chouchou Musubi - 2016</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-10-07-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-10-07-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/10/07 Wesley’
+    
+    </summary>
+    
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="silicon valley" scheme="https://github.com/WeiChiaChang/blog/tags/silicon-valley/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+      <category term="aimer" scheme="https://github.com/WeiChiaChang/blog/tags/aimer/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#165</title>
@@ -229,9 +287,9 @@
     
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
       <category term="Sayuri" scheme="https://github.com/WeiChiaChang/blog/tags/Sayuri/"/>
     
@@ -1078,64 +1136,6 @@
       <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
     
       <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#146</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/09/17/Wesley-Daily-Digest-146/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/09/17/Wesley-Daily-Digest-146/</id>
-    <published>2017-09-17T02:10:16.000Z</published>
-    <updated>2017-09-17T02:12:04.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-09-17-Wesley’s-Digest-Collection"><a href="#2017-09-17-Wesley’s-Digest-Collection" class="headerlink" title="2017/09/17 Wesley’s Digest Collection"></a>2017/09/17 Wesley’s Digest Collection</h4><ul>
-<li><p>『用苦練彌補天分不足，但李智凱難以克服的是「心魔」，每次大賽總會出現失誤。林育信要李智凱自己找到抗壓方法，「不能像以前我說一他做一，不會懂得成長，我必須拋棄他一點。」』使用了 fullpage.js 展示，圖文並茂的網頁呈現手法使得觀看體驗有了不同於以往的層次感，文字部分不會過份搶眼，適時出現的旁註讓整篇報導閱讀下來一目了然，特別是第三張報導，右側提供了循環播放的影片佐以左側的簡潔描述，置中的排版設定讓觀看者容易鎖定目標。</p>
-<ul>
-<li><a href="https://udn.com/upf/newmedia/2017_data/universide_taipei_2017/jump_boys.html" target="_blank" rel="external">李智凱  15年翻滾人生 拚1秒完美落地</a></li>
-</ul>
-</li>
-<li><p>『應用：作圖軟體有時候會佔據大部分空間，這時就可以設定某個熱點為「顯示桌面」，來方便地把桌面上的素材拉進畫布』Mac 的觸控板只能用黑科技一詞來形容，方便程度完成可以屏棄外接滑鼠和鍵盤不用，至少對筆者而言是如此，不過累積一陣子的工作經驗，發現也開始有些職業病出現，腕隧道症候群大概是最顯而易見的。</p>
-<ul>
-<li><a href="https://medium.com/uxabc/useful-mac-tips-for-designers-4b97873c2b7b" target="_blank" rel="external">適合設計師的 macOS 實用設定</a></li>
-</ul>
-</li>
-<li><p>『其實不是渣，只是先看到不合適的人總要先走的，再不走留下來幹嗎呢？彼此三觀不合，硬拖著只能互相折磨，最後把對方都搞成渣。說不上是誰的錯，就是不適合罷了。說實話，我是不相信這個世界上有什麼感情是永恆的，也不相信在時間面前，我的感情能從一而終，但我確信，只有合適的才是最好的，才能陪你走的最久 。我要想感情平穩長久，就要找一個合適的人。』沒有那般的舒服自在，穿了過大的鞋子走起路來也只是顯得特別滑稽。</p>
-<ul>
-<li><a href="https://buzzorange.com/vidaorange/2017/08/23/what-is-true-love/" target="_blank" rel="external">「平淡」才是長久戀愛的關鍵！從 2 個故事學會分辨他是不是「對的人」</a></li>
-</ul>
-</li>
-<li><p>『整個改裝成本約美金1300元(約台幣四萬二)，以一年租期計算，平均每個月成本約美金108元(約台幣三千五)，加上每個月美金四百元(約台幣一萬三)的租金，一個月負擔大約是美金五百多元(約台幣一萬六千五)，對許多手頭不怎麼寬裕的年輕人來說，的確是比租下整間房子便宜許多，而如果自家有多餘空間，想要當房東創造額外收入，膠囊房的應用也大大提升了空間的使用效率。』住過幾次的膠囊旅館，空間雖小但別有洞天，當然想翻身卻又無法自在伸展又是另一番滋味了，相較於灣區物價水平的驚人程度，也難怪外國人來台灣遊玩詫異於物資之便宜，其實大概是跟痛苦一樣吧，都是比較出來的。</p>
-<ul>
-<li><a href="https://www.damanwoo.com/node/88094" target="_blank" rel="external">猜猜我在哪？對抗高房租的自造個人簡居</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『漸漸的引導，讓孩子理解到，世界是現實的，是有很多面向的。評估一個人，或許不是那麼容易；價值，也並不是非黑即白，很多時候我們以為的好或壞，只是因為我們並不知道全貌，我們並沒有站在不同的角度思考過，而簡單的選擇了一個立場。』許多簡單明顯的道理多數人可以理解，但一旦套用到現實生活，就算模樣不同但核心同樣的卻會讓人迷惘。<ul>
-<li><a href="https://i-chentsai.innovarad.tw/2017/08/momofuku_ando.html" target="_blank" rel="external">教孩子以不同角度看同一件事：從所謂的泡麵發明人安藤百福談起</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>交響情人夢應該是很多人對於古典樂的第一次接觸。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=eFHdRkeEnpM" target="_blank" rel="external">George Gershwin - Rhapsody in Blue - Rhapsody in Blue - 1924</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-09-17-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-09-17-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/09/17 Wesley’
-    
-    </summary>
-    
-    
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
-      <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
-    
-      <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
-    
-      <category term="Rhapsody in Blue" scheme="https://github.com/WeiChiaChang/blog/tags/Rhapsody-in-Blue/"/>
     
   </entry>
   
