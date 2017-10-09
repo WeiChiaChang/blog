@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-10-09T00:15:40.000Z</updated>
+  <updated>2017-10-09T00:58:05.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://github.com/WeiChiaChang/blog/2017/10/09/Wesley-Daily-Digest-168/"/>
     <id>https://github.com/WeiChiaChang/blog/2017/10/09/Wesley-Daily-Digest-168/</id>
     <published>2017-10-09T00:14:23.000Z</published>
-    <updated>2017-10-09T00:15:40.000Z</updated>
+    <updated>2017-10-09T00:58:05.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="2017-10-09-Wesley’s-Digest-Collection"><a href="#2017-10-09-Wesley’s-Digest-Collection" class="headerlink" title="2017/10/09 Wesley’s Digest Collection"></a>2017/10/09 Wesley’s Digest Collection</h4><ul>
 <li><p>『知识和学习能力是可以迁移的，掌握了 Vue 技术栈，再去学习 React，其迁移成本非常的小，你所需要做的是看文档，比较二者的异同，然后就可以直接上手了，反之也成立。因为 Vue 和 React 的相似度确实蛮高的。』筆者相當認同作者的觀點，起初看 React 官方文件真的一頭霧水，Redux 的概念更像天書，後來轉而從 Vue 著手，透過 Vuex 的導讀才大致對其作法有其初步理解，回過頭拜讀 React 才有種豁然開朗之感，不得不稱讚 Vue 和 React 的官方文件都寫的非常詳實。</p>
@@ -65,11 +65,11 @@
     
       <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
     
+      <category term="interview" scheme="https://github.com/WeiChiaChang/blog/tags/interview/"/>
+    
       <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
       <category term="DAOKO" scheme="https://github.com/WeiChiaChang/blog/tags/DAOKO/"/>
-    
-      <category term="internview" scheme="https://github.com/WeiChiaChang/blog/tags/internview/"/>
     
   </entry>
   
