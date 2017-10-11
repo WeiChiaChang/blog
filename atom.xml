@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-10-10T01:17:42.000Z</updated>
+  <updated>2017-10-11T03:40:58.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#170</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/10/11/Wesley-Daily-Digest-170/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/10/11/Wesley-Daily-Digest-170/</id>
+    <published>2017-10-11T03:40:03.000Z</published>
+    <updated>2017-10-11T03:40:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-10-11-Wesley’s-Digest-Collection"><a href="#2017-10-11-Wesley’s-Digest-Collection" class="headerlink" title="2017/10/11 Wesley’s Digest Collection"></a>2017/10/11 Wesley’s Digest Collection</h4><ul>
+<li><p>『Instagram 没成功的话，Kevin Systrom 这人就是彻底大悲催，错过了三次发财致富的机会。第一次，他在 Facebook 刚搬到 Palo Alto 的第一天就与 Mark Zuckerberg 结识，Zuckerberg 劝他辍学加入，他拒绝；第二次，在 Odeo 实习结束后不想留下而去 Google 上班，Odeo 后来做了个叫 Twitter 的产品；第三次，离开 Google 后，加入 Nextstop，呆了一年出来自己创业，他离开半年后这家公司被 Facebook 收购了，（按普通人的思路看）要再多待几年拿完股票就好了。』灣區這系列的專題報導都相當值得拜讀。創業過程中最常做的就是加法，開發者自身常常加入許多自以為使用者會愛上的功能，所以當 Burbn 半死不活而發現照片分享依舊有其市場，減法就是必要之徑。</p>
+<ul>
+<li><a href="https://medium.com/@wanquribao/%E6%B9%BE%E5%8C%BA%E6%97%A5%E6%8A%A5%E5%88%9B%E4%B8%9A%E7%AE%80%E5%8F%B2%E7%B3%BB%E5%88%97-4-instagram-4c80778547cf" target="_blank" rel="external">湾区日报创业简史系列 4：Instagram</a></li>
+</ul>
+</li>
+<li><p>『平常很少關注中華隊的我，在賽前也有注意到雙胞胎兄弟檔準備轉換跑道的新聞，不是很意外，畢竟台灣沒有體育人才就業環境。職業聯賽不是救命稻草，也不是遮羞布，台灣主要的問題我把它想得很簡單，就是人口數少，排球運動人口基數自然也少，要出優秀的球員就更少，這十年來我心目中覺得算的上優秀的就陳建禎、戴家瑞、簡瑋倫、黃培閎，其他好一點的算是亞洲二流、世界三流，再加上臺灣的企業近幾年的發展根本一灘死水，也沒有適當的青少年排球人才輸送計畫，客觀條件上不可能建立一個可以長期運作聯賽，誰是因誰是果我也說不明白。』一針見血的點出了當前排壇的問題重重，企業聯賽本質依然是業餘本位，要讓選手安身立命不太可能，也導致現役優秀選手最終只能選擇提早退役轉換跑道亦或是繼續逐夢旅外挑戰。</p>
+<ul>
+<li><a href="https://www.ptt.cc/bbs/Volleyball/M.1504612775.A.93A.html" target="_blank" rel="external">[閒聊] 世大運中華男排之旅</a></li>
+</ul>
+</li>
+<li><p>『文中也提到「不想當架構師的程式設計師，不是好程式設計師」。人各有志，架構師並不是世上唯一，也不是最強職業，因此拿開發者的「鄙視鍊」套在其它人身上，然後說對方不好，並不正確。況且，技術也不是誰有在用或是誰的資料庫大就是先進，用不到就是用不到，再多資料庫也是浪費，反而可能會為了架構而架構。』五倍紅寶石的龍哥針對幾個月前一篇中國開發者的回擊文，論述中立客觀許多，也相當認同 “真正的技術大神是不會藉由貶低別人來提升自我價值的”。</p>
+<ul>
+<li><a href="https://www.bnext.com.tw/article/46051/modernweb2017-developer-fullstack" target="_blank" rel="external">ModernWeb 開發者年會有感：真正的技術強者，才不會用貶低別人來證明自己</a></li>
+</ul>
+</li>
+<li><p>『所以，為什麼博客來的app體驗這麼差？可能就要看這個電子書app在博客來的策略定位是什麼了，在處處不想與現有獲利模式衝突的情況下，可以想見這個app會盡量想把使用者導回網頁，因為在網頁上隨意瀏覽並購買最多東西，才是博客來目前核心的獲利模式。』。</p>
+<ul>
+<li><a href="https://medium.com/@evonneyifangtsai/%E5%8D%9A%E5%AE%A2%E4%BE%86%E6%8E%A8%E5%87%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9B%BB%E5%AD%90%E6%9B%B8app%E5%BE%8C-%E7%AB%B6%E7%88%AD%E8%80%85%E9%83%BD%E7%AC%91%E4%BA%86-63eb287b04b8" target="_blank" rel="external">博客來推出自己的電子書app後，競爭者都笑了</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『2017年8月，陰暗森林的完整版本登上Steam，售價為15美金，獲得壓倒性好評。可是Acid Wizard注意到一件事：某位玩家不希望買遊戲替父母造成負擔，而忍痛選擇退款。這件案例在旁人看來或許微不足道，Acid Wizard卻選擇認真看待，事後更做出驚人的決定：開放大家免費下載遊戲。「如果你想玩陰暗森林卻沒有錢，可以去海盜灣找我們的發文，下載最新版的遊戲。」Acid Wizard這麼表示。Acid Wizard解釋說，其實在稍早以前，他們就曾經收到許多索取免費遊戲序號的電子郵件，促使他們決定將遊戲放上海盜灣，希望玩過的玩家等到有錢以後，再花錢購買付費版本。』相當大膽卻也十分務實的作法，有點像是佛心的 Sublime 雖然一直跳出購買提示框，但卻不曾真的主動移除過，等到開發者能夠自立之後若有心自然會回鍋購買正版授權。<ul>
+<li><a href="https://www.techbang.com/posts/53716-industry-news-developers-initiative-to-place-a-game-into-the-pirate-bay" target="_blank" rel="external">業界奇聞：開發商主動將遊戲放到海盜灣</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>東尼大木老師越來越適合這造型了。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=xVg1Dqeza0E" target="_blank" rel="external">周杰倫 - 軌跡 - Hidden Track - 2003</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-10-11-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-10-11-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/10/11 Wesley’
+    
+    </summary>
+    
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
+    
+      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#169</title>
@@ -117,11 +175,11 @@
     </summary>
     
     
+      <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
+    
       <category term="interview" scheme="https://github.com/WeiChiaChang/blog/tags/interview/"/>
     
       <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
-      <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
     
       <category term="DAOKO" scheme="https://github.com/WeiChiaChang/blog/tags/DAOKO/"/>
     
@@ -457,9 +515,9 @@
     </summary>
     
     
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
@@ -795,9 +853,9 @@
     </summary>
     
     
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
@@ -1080,64 +1138,6 @@
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
       <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#150</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/09/21/Wesley-Daily-Digest-150/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/09/21/Wesley-Daily-Digest-150/</id>
-    <published>2017-09-21T01:43:06.000Z</published>
-    <updated>2017-09-21T01:44:24.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-09-21-Wesley’s-Digest-Collection"><a href="#2017-09-21-Wesley’s-Digest-Collection" class="headerlink" title="2017/09/21 Wesley’s Digest Collection"></a>2017/09/21 Wesley’s Digest Collection</h4><ul>
-<li><p>『在發表這首歌之前，Taylor Swift 把自己社群媒體上的所有資料都抹除，當時大家都在猜是不是要發表新歌而之後，又上傳了三隻關於蛇的影片，新專輯取名 reputation 讓大家知道，這張專輯大概跟之前的風波還有自己的名譽有很大的關係而今天這首 Look What You Made Me 在寫的就是關於 Kanye WestKanye West 跟 Taylor Swift 的仇恨是在 Taylor Swift 接受 MTV 大獎的時候，Kanye 衝上台打斷她發言，說影像獎是屬於 Beyonce 的，並說他覺得 Taylor 沒資格拿獎而 Taylor Swift 當時才 19 歲，她完全不清楚到底發生了什麼事，但這件事情也觸發了 Taylor 的內心』有人說泰勒絲交往過這麼多影迷心目中的男神，但都分手分得特別快，而每次分手靈感都會源源不絕推出新歌，以上是幹話無誤，但泰勒絲的創作能力無庸置疑，只能說 haters gonna hate。</p>
-<ul>
-<li><a href="http://hjk897456321.pixnet.net/blog/post/343633754-%E4%B8%AD%E6%96%87%E6%AD%8C%E8%A9%9E%E7%BF%BB%E8%AD%AFTaylor%20Swift%20-%20Look%20What%20You%20Made%20Me%20Do" target="_blank" rel="external">中文歌詞翻譯 Taylor Swift - Look What You Made Me Do</a></li>
-</ul>
-</li>
-<li><p>『当然答主的思路远远没有这么离谱，但是技术这种东西够用就行了，最终还是为了业务服务，只要业务能跑，真的没有必要开坑折腾。做商业产品，千万不要把个人 geek 那套思路拿出来。改变世界的不是技术本身，而是使用技术做出来的产品。』回到老問題，究竟該不該為了新技術進行重構，這點真的還是要看立場和情況，但可以肯定的一點是，在尚未做出研究並得到足夠的證據支持之前，東西沒壞就不要去亂搞。</p>
-<ul>
-<li><a href="https://www.zhihu.com/question/63222133/answer/206812503" target="_blank" rel="external">截止到2017年7月，手淘内部还在用vue吗，有替换成react吗？</a></li>
-</ul>
-</li>
-<li><p>『不過他們的造型，通常都是一個有眼有嘴巴的年糕，如果是今天的話，大概會全部女體化變成 RAM 娘，CPU 娘什麼的吧？那個時候可不流行這一套，畢竟初版是民國七十一年，也就是 1982 年的東西，小玉如果當年十歲的話，現在也是四十多歲的中年人了。』好讚的圖文解說，用漫畫的方式把技術講的深入淺出比起一般笨重的教科書來得有趣多了，台灣出版商似乎越來越少推出這方面的書籍了。</p>
-<ul>
-<li><a href="https://www.inside.com.tw/2017/08/25/read-comics-to-learn-computer" target="_blank" rel="external">【Cheng lap 的資訊通鑑】《看漫畫學電腦》：你記得小玉、小明、老師和小貓嗎？</a></li>
-</ul>
-</li>
-<li><p>『使用這種染料並不是歐洲人的發明，胭脂蟲早在馬雅跟阿茲特克時期就開始了。阿茲特克王要求人民一年要上繳一定量的胭脂紅，而等到西班牙人佔據中美洲以後，又變本加厲地大肆剝削。等到中美洲五國獨立後，當地民眾的苦難仍未結束，雖然胭脂蟲的生產因茜素而沒落，但接著興起的卻是比胭脂蟲更耗費人工的咖啡….有時，讀著這一頁頁的血淚史，總是會掩卷歎息：為什麼苦難無了時？』小時候吃聰明豆看到成分標示，正常來說都是什麼紅色食用色素一號之類的名稱，有個胭脂紅的名字一直百思不得其解，過了許久才得知竟然是從小蟲子提煉出來的。從那時開始就不吃聰明豆了。</p>
-<ul>
-<li><a href="http://pansci.asia/archives/70327" target="_blank" rel="external">胭脂紅是怎麼來的？</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『當問到續集多種類型的混合，程偉豪開宗明義表示，如果要把市場做大，混和類型是一個必要的結果：「恐怖片是一個相對小眾的市場，市場小、利基小，有其票房侷限。如果只有恐怖片元素，很難成為一部拍給普羅大眾的電影。《紅衣小女孩》第一集——特別是片尾——其實已經有一點點的奇幻跟動作在裡面，同時混入了親情的元素。也因為第一集的成功，第二集我們才能把故事放大，加進更多的東西。」』電影取材的面向和受眾其中都有不少細節需要反覆思考，可以觀察到就商業導向的院線片而言很難只針對單一元素去做故事的延伸，劇情主線通常都會有其不同走向的元素和分支間接為觀眾帶入不同層次的情緒和感受。<ul>
-<li><a href="http://punchline.asia/archives/45714" target="_blank" rel="external">專訪／《紅衣小女孩 2》導演程偉豪：「我覺得我會是死在沙灘上的前浪」</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>我還是不解為何開頭不過前幾秒就倒頭栽摔得滿頭鮮血的用意何在，很ㄎㄧㄤ的曲風，但間奏特別對味。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=FuuUfP4uJEk" target="_blank" rel="external">WEDNESDAY CAMPANELLA - The Little Match Girl - ジパング - 2015</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-09-21-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-09-21-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/09/21 Wesley’
-    
-    </summary>
-    
-    
-      <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
-    
-      <category term="vue" scheme="https://github.com/WeiChiaChang/blog/tags/vue/"/>
-    
-      <category term="history" scheme="https://github.com/WeiChiaChang/blog/tags/history/"/>
-    
-      <category term="WEDNESDAY CAMPANELLA" scheme="https://github.com/WeiChiaChang/blog/tags/WEDNESDAY-CAMPANELLA/"/>
     
   </entry>
   
