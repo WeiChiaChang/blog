@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-10-16T02:20:15.000Z</updated>
+  <updated>2017-10-17T06:43:20.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#176</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/10/17/Wesley-Daily-Digest-176/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/10/17/Wesley-Daily-Digest-176/</id>
+    <published>2017-10-17T06:42:34.000Z</published>
+    <updated>2017-10-17T06:43:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-10-17-Wesley’s-Digest-Collection"><a href="#2017-10-17-Wesley’s-Digest-Collection" class="headerlink" title="2017/10/17 Wesley’s Digest Collection"></a>2017/10/17 Wesley’s Digest Collection</h4><ul>
+<li><p>『當一個字詞電腦分辨不出來，他們就會將其上傳到 reCAPTCHA 的資料庫。從這時候開始，驗證碼就不再是隨機、無意義的字母組成了。而當一個字詞被多個使用者輸入相同的答案，該字詞就會被確認，重新回傳到電子書的數據庫。所以你在 reCAPTCHA 的右下角，可以看到他們的宣言：「Stop Spam, Read Books（垃圾機器人走開，大家一起來看書吧）」。』既解決了原先問題更結合圖書辨識進一步處理掉另個問題，反爬蟲的最佳實踐。</p>
+<ul>
+<li><a href="https://buzzorange.com/techorange/2017/09/13/captcha-and-recaptcha/" target="_blank" rel="external">為什麼只要勾選「我不是機器人」，Google 就知道你不是機器人？</a></li>
+</ul>
+</li>
+<li><p>『Steve引述電腦科學家Alan Kay在70年代的一句名言：「熱愛軟件的人想製造他們自己的硬件。」（People that love software want to do their own hardware.）既然如此，儘管自視為一家軟件公司，最終軟硬件也必須處處講求高度一致的整合，每一部分都要經過調合和控制，不能各自為政（即使他坦言，未來有機會兩條腿均走出可行之路，但當時他不肯定，只知道封閉整合是最好的做法）。』很多人都說在 Jobs 離開之後蘋果的風格從此不同，也回不去了，就現在觀察起來的確是如此，但人都會變了，又有什麼事情是完全不會改變的呢？</p>
+<ul>
+<li><a href="https://hk.thenewslens.com/article/78660" target="_blank" rel="external">【Steve Jobs．三】Steve：我認為Apple經得起時間考驗—iPhone X失落了海盜精神</a></li>
+</ul>
+</li>
+<li><p>『石橋準也回憶，在 2012 年派愛族剛開始的時候，日本交友服務市場也是像台灣一樣以隨性交友為主，品質良莠不齊，甚至還有仙人跳事件發生，因此大眾對於交友軟體觀感不佳，政府也明令管制交友軟體不得上電視、某些戶外廣告，LINE 廣告也不行。因此派愛族轉而主打嚴肅交友，並透過身分證、護照或健保卡加強證件驗證身份及年齡審核，提供使用者更安全的交友環境，派愛族大受歡迎後，還吸引了許多追隨者加入婚戀交友的市場。』其實觀察交友市場的部署策略挺有趣的，因為該領域的體質和一般產品很不一樣，人是關鍵，偏偏這也是最難以控制的，也因此發展出極為多種不同於以往思維的方式。</p>
+<ul>
+<li><a href="https://www.inside.com.tw/2017/09/13/pairs-japan" target="_blank" rel="external">線上交友有攻略？看看日本第一交友軟體派愛族執行長石橋準也怎麼說</a></li>
+</ul>
+</li>
+<li><p>『2016年2月的整個月裡，TOKiMONSTA試著讓自己重新適應生活。最困難的部分仍是回到音樂事業上。當她打開混音軟體時，她不明白自己在幹什麼，儘管語言功能幾乎完全恢復，但音樂在她腦中聽起來就像是垃圾。「我聽不懂音樂。所有音樂都像噪音，像金屬般的刺耳聲或毫無意義的廢話。」她說。』像是小說情節般的劇情在真實人生上演，痛苦程度真的無法想像，比失語症還慘，從前熟悉的事物毫不留情的被抹除的一乾二淨。</p>
+<ul>
+<li><a href="https://www.mplus.com.tw/article/1834" target="_blank" rel="external">失而復得的話語與音樂：TOKiMONSTA</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『很顯而易見，作為一名發明家、政治家兼作家，富蘭克林（Ben Franklin）有著狐狸一般的智力。對於那些看似無法克服的挑戰，他都能發明出一些東西來應對。富蘭克林見證了電的破壞力，因此發明了避雷針；到中年視力受阻時，發明了雙光眼鏡；人們需要一種比壁爐更少煙熏味的室內取暖工具時，發明了我們現在所稱的「富蘭克林爐」。我甚至已經不想知道他在發明柔性導管時想要解決什麼問題！』西方國家的領袖似乎都是多才多藝的，幾任的美國總統像是富蘭克林，既是作家，政治家又是位傑出的科學家，雷根在參選總統前則是做為演員出身的，反之看看東方，人們普遍希望看到鑽研一門領域許久的人成為領導，台灣總統有九成以上都是法律系本科出身，這點還蠻耐人尋味的。<ul>
+<li><a href="https://www.inside.com.tw/2017/09/14/peter-salovey" target="_blank" rel="external">【硬塞大學生】：耶魯大學校長新生演講－我們應該成為狐狸還是刺蝟？</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Perfume 和卡莉怪妞背後的樂曲製作人中田康貴自組的 capsule，標準 EDM。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=x6UurRhIgD0" target="_blank" rel="external">capsule - Sugarless GiRL - Sugarless Girl - 2007</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-10-17-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-10-17-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/10/17 Wesley’
+    
+    </summary>
+    
+    
+      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#175</title>
@@ -349,9 +407,9 @@
     
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
-      <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
-    
       <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
+    
+      <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
     
   </entry>
   
@@ -1081,67 +1139,9 @@
     
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
-      <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
-    
       <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#156</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/09/27/Wesley-Daily-Digest-156/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/09/27/Wesley-Daily-Digest-156/</id>
-    <published>2017-09-27T02:22:23.000Z</published>
-    <updated>2017-09-27T02:23:25.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-09-27-Wesley’s-Digest-Collection"><a href="#2017-09-27-Wesley’s-Digest-Collection" class="headerlink" title="2017/09/27 Wesley’s Digest Collection"></a>2017/09/27 Wesley’s Digest Collection</h4><ul>
-<li><p>『你是不可能隨便就對什麼東西產生熱忱的。你得參與其中才行。我剛決定要當個作家的時候，我去參加了「全國小說寫作月」的計畫，簡單說就是要一個月寫出一整本小說。非常累人。非常恐怖。整個十一月我都閉關在當和尚。但是我愛死這個計畫了。如果說，你能連續不中斷做某件事情做一個月，那你大概能在這方面做出不錯的事業。』多數人會把人生簡化成選擇題，可能只是單純的怕麻煩，但是否有認真思考過變成填空題的可能性呢？試著挖出空白，填入任何曾經想過想做的事，與其被多重選擇的框架被定義被限制住，留白或許意味著更多不同於以往的可能性。</p>
-<ul>
-<li><a href="https://medium.com/@jacobchen/%E4%BA%94%E5%80%8B%E5%AF%AB%E7%B5%A6%E5%B9%B4%E8%BC%95%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B6%AF%E6%90%9C%E5%B0%8B%E6%8C%87%E5%8D%97-1bc1759037b7" target="_blank" rel="external">五個寫給年輕人的生涯搜尋指南</a></li>
-</ul>
-</li>
-<li><p>『从小就喜欢猫，可惜由于母亲“凡是会拉屎的都不养”的政策，一直都没有机会自己养一只。所以邻居家的猫，对我来说都有一种难以抵抗的诱惑。我还记得小时候住平房，自己学了一声喵叫录到磁带里，然后用最大的音量放出来，结果邻居家的小白猫听见了，窜进我家的纱门，那种欣喜是难以言表的。然而别人家的猫毕竟只能是客人，这个恋猫情结就一直到了自己独立生活的时候，才有了进展。』讀來十分有趣的一篇文章，是說悲劇的是住的公寓還是無法養嚮往已久的柴犬或是喵咪，只好退而求其次養了兩隻黃澄澄的皮卡丘。</p>
-<ul>
-<li><a href="http://www.yinwang.org/blog-cn/2017/07/21/love-cat" target="_blank" rel="external">我为什么爱猫</a></li>
-</ul>
-</li>
-<li><p>『喔，我其實不是要介紹生蠔來著，雖然它很威。漂流者自稱爛人居士，想讓大家用最經濟實惠的方式，吃到特別的食材。盡量省去多餘的開銷，運用自己的技術，把最純粹的成本回饋給老饕。要特別強調的是，正因為大都是特別的食材，所以就算把多餘的成本降低，價格可不是路邊攤可比擬。所以如果只是想吃便宜，真的不需要花時間跑這一趟。』前陣子和好久不見的大學室友去了這家傳說中的漂流者，聞名以久的店家離筆者住的地方出乎意料的近，當天點了超級多，菜單上的每項都很想嚐嚐，天使海老光看浪人料理都覺得太享受了，吃起來的滋味果然非常囂張。</p>
-<ul>
-<li><a href="https://anikimeow.blogspot.tw/2017/08/blog-post_27.html" target="_blank" rel="external">[食記]漂流者-鴨母寮菜市場</a></li>
-</ul>
-</li>
-<li><p>『該書的出版飽受批評，卻又勢不可擋地瘋狂暢銷，許多讀者成為曾根崎的忠實粉絲，為他癡狂，警方雖然痛恨曾根崎的行徑，卻又因為時效已到期，反而必須保護這位「一般市民」的生命安全。法律途徑未果，除了積怨深厚的受害者遺族開始思考如何自己實踐正義之外，從過去就不停追蹤此案的新聞主播仙堂俊雄（仲村徹 飾），也決定要在自已主持的新聞節目上與曾根崎正面交鋒，要用媒體的力量來「公審」元兇。』大概會對社會輿論中所謂的正義認知感到質疑，世界上不存在完人，有的只是口口聲聲說自己已痛徹悔悟，有的人仍然每日每夜重複著不堪痛苦。說起來人類社會制度竟是建立在這樣的基礎之上就感到心寒。</p>
-<ul>
-<li><a href="http://punchline.asia/archives/45661" target="_blank" rel="external">罪犯成了暢銷作家還擁有粉絲？從《第22年的告白：我是殺人犯》回看兩起日本真實案件</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『笨笨的應試者認爲設計就像畫畫，你想畫什麽就畫什麽。聰明的應試者明白設計的過程是一系列艱難的權衡。一個很棒的設計問題是：設計一個放在街角的垃圾箱。想一想你得做多少權衡！垃圾箱必須易於清空，但是很難被偷走；易於放進垃圾，但是碰到狂風大作，裏面的垃圾不會被吹出來；垃圾箱必須堅固而便宜。在某些城市，垃圾箱必須特別設計，以防恐怖分子在裏面藏一個定時炸彈。』寫程式最困難的從來就不是把產品做出來，因為這是身為工程師最基本的工作，能夠把產品細節考慮到多周全，從各種角度切入都能適當應對才稱得上是一個資深工程師該有的態度。<ul>
-<li><a href="http://chinesetrad.joelonsoftware.com/Articles/Interviewing.html" target="_blank" rel="external">軟體人員面試教戰守則</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Sakanaction 無論何時聽都帶股復古風和現代 edm 的混搭風味。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=NWcdyTljEaQ" target="_blank" rel="external">サカナクション - ユリイカ -  ユリイカ - 2013</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-09-27-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-09-27-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/09/27 Wesley’
-    
-    </summary>
-    
-    
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
-      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
-    
-      <category term="sakanaction" scheme="https://github.com/WeiChiaChang/blog/tags/sakanaction/"/>
+      <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
     
   </entry>
   
