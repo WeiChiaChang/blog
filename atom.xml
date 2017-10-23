@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-10-22T01:59:45.000Z</updated>
+  <updated>2017-10-23T02:22:39.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#182</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/10/23/Wesley-Daily-Digest-182/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/10/23/Wesley-Daily-Digest-182/</id>
+    <published>2017-10-23T02:22:00.000Z</published>
+    <updated>2017-10-23T02:22:39.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-10-23-Wesley’s-Digest-Collection"><a href="#2017-10-23-Wesley’s-Digest-Collection" class="headerlink" title="2017/10/23 Wesley’s Digest Collection"></a>2017/10/23 Wesley’s Digest Collection</h4><ul>
+<li><p>『別誤會，勞動者絕對值得尊敬，自己養活自己更沒有什麼好羞恥的。但我們還是希望能靠自己的努力，讓下一代過更好的日子。如果一直窩在小地方，像我們這樣的寒門子弟，不過就是複製上一代的悲劇，然後再把悲劇複製給下一代，任權貴魚肉。在大城市裡，專業分工還是有市場的，規矩至少還是在檯面上的。年輕人努力幹活，還有可能出人頭地。雖然靠自己的實力翻身很難、非常難。但在大城市裡至少還有一線生機。誰喜歡流浪？誰不想家？但不出去外面闖，就只能繼續當窮二代。誰甘心自己一輩子就是這樣子呢？』。</p>
+<ul>
+<li><a href="https://crossing.cw.com.tw/blogTopic.action?id=732&amp;nid=8617" target="_blank" rel="external">台灣這池子已經滿了──沒錢沒勢的年輕人，請出去冒險，賭他一把！</a></li>
+</ul>
+</li>
+<li><p>『这License思路很清奇，它带来的风险不是一般的专利风险，也就是你用了React有可能被Facebook告你专利侵权。而是只要你在用React，Facebook侵权你的专利你也不能告他，而且不只是跟前端相关的专利，而是包括了你拥有的所有专利。否则在你提起诉讼的瞬间，你就失去了使用React的授权。但是如果Facebook抄袭了你的产品，你又不能马上放弃React怎么办？当然是选择原谅他啦。』不久前的前端圈 license 議題再度因為百度和 Wordpress 棄用而引起軒然大波，似乎是受到社群的強烈反彈，React 官方團隊也在不斷的聲浪之下終於在版號 16 更改 license 為寬鬆許多的 MIT license。</p>
+<ul>
+<li><a href="https://www.zhihu.com/question/65437198?utm_content=buffer8791e&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer" target="_blank" rel="external">如何看待百度要求内部全面停止使用 React / React Native?</a></li>
+</ul>
+</li>
+<li><p>『2016-2017的賽季，Nootsara 和韓國隊隊長金延璟、巴西隊隊長 Natália Pereira、荷蘭隊 Maret Balkestein-Grothues 以及多位土耳其國家隊選手同在土耳其聯賽的 Fenerbahçe，那時候消息一傳出來，媒體們還大肆報導說世界最有錢之一的球團簽下世界最佳舉球、期待她和金延璟的驚人表現。』泰國和越南的女排風氣向來非常旺盛，忘記是聽誰說過泰國一年 365 天，天天都有舉辦排球比賽ＸＤ。</p>
+<ul>
+<li><a href="http://volleyball.biji.co/index.php?q=news&amp;act=info&amp;id=1073" target="_blank" rel="external">世界第一舉球：泰國女排 Nootsara Tomkom 大公開</a></li>
+</ul>
+</li>
+<li><p>『當別人請我給他們一些寫blog的建議，我總是回他：挑個你自認為可以的時間行程安排，什麼時候開始寫blog，預計多久寫一篇文，開始動工，並堅持下去。在你這麼做之前，任何建議對你來說都是不重要的。 你文章是否寫得很糟糕不重要，是否沒有任何人會看你的blog不重要，是不是沒啥有趣的東西可以紀錄也不重要。重要的是，只要你能透過寫文來表現出寫作的意願，而且渴望持續地寫作，檢視、思考與改善自己的寫作，你終究會成功的。』其實不管技術相關與否，每天閱讀的文章都可以簡單記錄下來，不像學生時代為了升學考試而寫，而是單純為了自己。</p>
+<ul>
+<li><a href="https://www.bnext.com.tw/article/46187/engineer-blog-inner-value-feedback" target="_blank" rel="external">我為什麼鼓勵工程師寫部落格？</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『唐鳳說，酸民的心態就是得不到足夠多的擁抱與人際關係，為了要填補空虛，而去留下情緒化與人身攻擊的言論，但往往留完言得到注意後，因為網路是虛的，隔天起來還是沒被滿足，就會繼續留言酸人。這時候我們要做的事——導正，讓他知道：「除非你能提供建設性的建議，否則得不到注意力。」唐鳳還說：少數兩成會開始意識到這件事情，其他的人就會發現這邊很無趣，就會去別的地方玩了 XD？到目前為止一句話：「用感受回覆感受、用事實回覆事實」。』唐鳳是資訊圈成名已久的天才人物，看她出任政務委員這個相當有挑戰性的工作筆者其實感到蠻欣慰的，但也擔心網路上最多的出一張嘴酸民亂講幹話，不過就唐鳳應對進退的高 EQ 反應看來是多慮的。<ul>
+<li><a href="https://www.thenewslens.com/article/78547" target="_blank" rel="external">唐鳳擅長的焦點討論法，正是公關與網路應答技巧的好典範</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>節奏感強烈的音符 Aimer 也掌握地十分出色，不管何時聽總是感到心靈被治癒了。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Dy4evyC55P0" target="_blank" rel="external">Aimer - Twoface - Daydream - 2016</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-10-23-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-10-23-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/10/23 Wesley’
+    
+    </summary>
+    
+    
+      <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
+    
+      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
+    
+      <category term="world" scheme="https://github.com/WeiChiaChang/blog/tags/world/"/>
+    
+      <category term="aimer" scheme="https://github.com/WeiChiaChang/blog/tags/aimer/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#181</title>
@@ -685,9 +743,9 @@
     </summary>
     
     
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
       <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
     
@@ -1086,64 +1144,6 @@
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#162</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/10/03/Wesley-Daily-Digest-162/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/10/03/Wesley-Daily-Digest-162/</id>
-    <published>2017-10-03T03:31:10.000Z</published>
-    <updated>2017-10-03T03:31:44.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-10-03-Wesley’s-Digest-Collection"><a href="#2017-10-03-Wesley’s-Digest-Collection" class="headerlink" title="2017/10/03 Wesley’s Digest Collection"></a>2017/10/03 Wesley’s Digest Collection</h4><ul>
-<li><p>『以往我們會另外安排紀錄員的角色將訪談對話與行為進行文字紀錄，往往擔任文字紀錄的人必須很專心快速打字，無法有餘裕在當下追問某些重要問題。便利貼觀察法則是由所有一起觀察的成員寫下便利貼來作為每一場使用者訪談的資料紀錄，以便利貼內容來取代訪談紀錄。』過去待過幾個關於新創的圈子普遍都會使用便利貼進行思考彙整和溝通，一開始的確相當新鮮有趣，各自的想法都能很快的被記錄下來，但多次討論之後發覺怎麼大家腦力爆棚，便利貼用量特別快，兩三天後紙就沒了。後來就索性改成在 Trello 上實作，比起紙本方式更多了份便利性。</p>
-<ul>
-<li><a href="https://designtongue.me/ux-%E4%BE%BF%E5%88%A9%E8%B2%BC%E8%A7%80%E5%AF%9F%E6%B3%95/" target="_blank" rel="external">幫助團隊找出共識的方法 – UX 便利貼觀察法</a></li>
-</ul>
-</li>
-<li><p>『依照需要去學習是最簡單的學習方式，需要什麼就去讀什麼。不過，如果把學問當成如此功利，又失掉一種樂趣，所以，有時候喜歡就好，不要去想有什麼用。對讀書，我的態度就是兩種，一種是有用就好，一種是喜歡就好。有用是direct learning，有方向的學習；喜歡則是有趣的學習。』『如果你嫌年輕人只看輕薄短小的內容，那就要學習如何在輕薄短小中傳遞同樣的訊息。產品賣不好，不要怪顧客，要怪你的產品。』。</p>
-<ul>
-<li><a href="http://www.cheers.com.tw/article/article.action?id=5064391&amp;from=share&amp;page=1" target="_blank" rel="external">柯文哲：如果有一天你說出「啊，這就是人生」，你就過關了</a></li>
-</ul>
-</li>
-<li><p>『事情還不只如此。因為，另外還有更多的人信誓旦旦，自有記憶以來，就是現在這個樣子。也就是說，他們所記得的，向來跟我們記得的不同。連我也是其中之一；換句話說，有些商標名我跟那些少數注意到這個效應的人一樣，所記得的是 A1 不是 B1，但另外有些商標名，我的記憶卻跟現實一樣是 B2，又跟這些少數人的 A2 不同。這才是最令人抓狂的事。』台灣似乎也有類似的事件，我猜我猜我猜猜猜的主持人很多人都以為一直以來都是吳宗憲，被多數人選擇性遺忘的其事實是最元老的開山祖其實是龍邵華。</p>
-<ul>
-<li><a href="http://blog.xuite.net/skywalker333/twblog/472019294" target="_blank" rel="external">曼德拉效應(一)</a></li>
-</ul>
-</li>
-<li><p>『位於新竹的一對小夫妻，想在丘林間規劃一間屬於自己孩子與雙親的獨立建築，在面對長輩照護與孩子成長的不同使用需求，若能在設計之中，讓六人家庭各自的空間既融合又保有自在感，該如何做呢？沒錯，這就大大的考驗著我們的建築師，在規劃時就先充分理解家人的需求，以及對家的想像，以及對空間掌握的技巧。』。</p>
-<ul>
-<li><a href="https://www.homify.tw/ideabooks/3979025/%E4%B8%89%E4%BB%A3%E5%90%8C%E5%A0%82%E7%9A%84%E7%8D%A8%E6%A3%9F%E5%88%A5%E5%A2%85:-%E5%85%85%E6%BB%BF%E7%8F%BE%E4%BB%A3%E7%A9%BA%E6%B0%A3%E6%84%9F%E7%9A%84%E9%80%9A%E9%80%8F%E7%B3%BB%E8%88%92%E9%81%A9%E5%B1%85%E6%89%80" target="_blank" rel="external">三代同堂的獨棟別墅: 充滿現代空氣感的通透系舒適居所</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『Google 給一般人的印象就是薪水福利社風好，才會一直是大家最想要去就業／轉職的公司。但是 Google 為什麼會敢提這麼好的條件，其中的一個原因就是他們要確定你不會有了這些條件就安逸下來。Google 要的 Googliness 其實就是代表了這種心態：不只是你能為 Google 做什麼，進了 Google 之後你自己想要利用這些資源做什麼也是一樣的重要。』為自己爭取更多資源好像是身為人類不得不這麼做的必要之惡啊，因為是生物都會想要繼續有尊嚴的存活。<ul>
-<li><a href="https://www.thenewslens.com/article/75963" target="_blank" rel="external">來到日本第八年，我就這樣轉職到了Google Japan</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>沒料想到酸欠少女的聲線這麼有辨識度，這首喜愛程度不下光と闇。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=J2sK7UI5HYY" target="_blank" rel="external">Sayuri - Odd Eye - Mikazuki no Koukai - 2017</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-10-03-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-10-03-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/10/03 Wesley’
-    
-    </summary>
-    
-    
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
-      <category term="Sayuri" scheme="https://github.com/WeiChiaChang/blog/tags/Sayuri/"/>
     
   </entry>
   
