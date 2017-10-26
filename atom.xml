@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-10-25T03:00:26.000Z</updated>
+  <updated>2017-10-26T01:49:13.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,60 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#185</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/10/26/Wesley-Daily-Digest-185/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/10/26/Wesley-Daily-Digest-185/</id>
+    <published>2017-10-26T01:48:35.000Z</published>
+    <updated>2017-10-26T01:49:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-10-26-Wesley’s-Digest-Collection"><a href="#2017-10-26-Wesley’s-Digest-Collection" class="headerlink" title="2017/10/26 Wesley’s Digest Collection"></a>2017/10/26 Wesley’s Digest Collection</h4><ul>
+<li><p>『五年後自駕車 Level 0~5 的排名有很大的機率就會打臉我上面整理的等級表，也許 Mobileye + Intel + BMW 會先實現全自動駕駛車，也許是 Tesla + Nvidia，也許依舊是 Google Waymo，其它公司都是快樂夥伴。Who knows！（ 曾經精準預測 AMD 大漲的 obov 倒是有在 PTT 留言開示 ）就繼續觀察下去吧！』。</p>
+<ul>
+<li><a href="http://blog.techbridge.cc/2017/06/21/Lets-know-a-little-bit-of-Self-Driving-Car/" target="_blank" rel="external">一起來用十分鐘略懂自駕車吧！GoGoGo！</a></li>
+</ul>
+</li>
+<li><p>『團隊在實驗中發現中，不少輪椅使用者最喜歡的鍛鍊方式就是自由滾動，如同普通人散步一樣，於是，他們也在 watchOS 3 中增加了兩項針對輪椅使用者的健身 App。在美國，超過 220 萬人的日常行動依賴輪椅，而這部分人因為無法正常開展健身運動而承擔著更高的疾病風險。Ron 認為，儘管輪椅使用者是小眾群體，但「人數多寡並不是蘋果考慮的主要因素」。「老實說，沒有任何其他專門針對輪椅使用者的活動監測裝置，但是蘋果希望我們的產品能夠服務於每一個人。」一個更包容的世界，就是永遠不要拋棄任何人。因為沒有人知道，自己有一天會不會被歸為那個常常被技術撇開的小眾群體。』。</p>
+<ul>
+<li><a href="https://technews.tw/2016/07/02/apple-watch-time-to-roll/" target="_blank" rel="external">為了Apple Watch 輪椅運動量計算功能，蘋果為什麼做了一年多？</a></li>
+</ul>
+</li>
+<li><p>『我是琳，今年剛升上大二，在學校附近的公館商圈租了一間公寓。台北的租金貴得嚇人，幸好我有一位不錯的室友跟我一起分租。她是比我大一屆的學姊，叫做梅。雖然不像「五姬」那麼誇張，但她在學校也算是挺有名的，人長得漂亮，成績也不錯，但重點是很好相處，甚至有點傻大姊的調調，但或許就是這樣才讓她這麼受男生歡迎吧！』這類型的推理文章挺有趣的，從觀察時間表推測某Ａ可能對哪些潛在對象是有好感的，舉例果然還是要生活化一點的才容易有共鳴。</p>
+<ul>
+<li><a href="https://www.projectup.net/article/view/id/3961" target="_blank" rel="external">專案管理推理系列：學姊的祕密</a></li>
+</ul>
+</li>
+<li><p>『近幾年，關於蘋果軟體品質下降的討論不絕於耳，蘋果在生物辨識、機器學習、AR 等重大領域大跨步前進，公司規模愈來愈大同時，似乎失卻了過往細心雕琢每個產品細節的用心。13 日發表會上，聽著 The Beatles 的歌、聽著 Steve 的話，有那麼一瞬間，我感到好似還身處過去的 good old days，不過今日的蘋果，確實不同以往了。我無意唱衰蘋果，身為一名生活中充滿蘋果產品的人，蘋果現在仍是我最喜愛及尊敬的科技公司。只是希望，蘋果不斷前進的同時，不要忘記過去珍視的價值。』。</p>
+<ul>
+<li><a href="https://technews.tw/2017/09/21/does-ios-11-show-apple-still-care-about-details/" target="_blank" rel="external">解析 iOS 11 介面設計：蘋果還像過去一樣在意細節嗎？</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『他們兩兄弟的辦公桌上總是堆滿了書籍，連在假日也請家教來教他們有關物理與法律的知識。如果你有機會與他們聊天，還會發現他們真的是上知天文、下知地理。話題可以從國際上的政治，聊到舊金山的自來水，然後講到飛行的樂趣，因為兩兄弟都是有牌照的飛行員。所以他們的學識與才能真是讓人欣羨不已。另外，Patrick 的電腦桌布上顯示的是他預估自己生命還剩餘的天數，用來提醒自己時間有限，因此不應該把時間浪費在玩樂上。』。<ul>
+<li><a href="http://startuplatte.com/2017/09/18/stripe-collison-brother/" target="_blank" rel="external">他29歲，身價11億美元。他的電腦螢幕上，顯示自己還有幾天可活。這是他工作和學習的方式…</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>火影也已經成為一個時代的記憶了啊，原本一直很希望可以不要完結的。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ekgRNL1CL-8" target="_blank" rel="external">Ikimono Gakari - Blue Bird - My Song Your Song - 2008</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-10-26-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-10-26-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/10/26 Wesley’
+    
+    </summary>
+    
+    
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
+      <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#184</title>
@@ -857,9 +911,9 @@
     </summary>
     
     
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
       <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
     
@@ -1094,60 +1148,6 @@
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
       <category term="aimer" scheme="https://github.com/WeiChiaChang/blog/tags/aimer/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#165</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/10/06/Wesley-Daily-Digest-165/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/10/06/Wesley-Daily-Digest-165/</id>
-    <published>2017-10-06T01:42:54.000Z</published>
-    <updated>2017-10-06T01:43:44.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-10-06-Wesley’s-Digest-Collection"><a href="#2017-10-06-Wesley’s-Digest-Collection" class="headerlink" title="2017/10/06 Wesley’s Digest Collection"></a>2017/10/06 Wesley’s Digest Collection</h4><ul>
-<li><p>『不过到了ICO这个环节，一切终于有了答案。表面上看到的那些其实都是表象，人家只是在种韭菜，把韭菜种到一定规模,ICO一出，几个亿就这么卷走了。虽然前戏又多又复杂又辛苦，但看到这个结局你也会觉得值得。谁能想到，尤其是罗振宇这样自以为了解互联网，了解社交，了解粉丝经济，了解知识经济的人也没想到，人家还有一个这样收割粉丝财产的路径，最后这些之前不过是被坑了几百块钱买会员买书买录音的人，一下子不知道多少钱就砸进了ICO这个大坑。』。</p>
-<ul>
-<li><a href="http://m.jiemian.com/article/1592557.html" target="_blank" rel="external">聪明如罗振宇，却栽倒在李笑来</a></li>
-</ul>
-</li>
-<li><p>『需要强调的是，即使使用了大量自定义控件和交互，这个处理的过程也并不会太复杂，你所需要付出的仅仅是少量的时间和一些耐心而已。而相比之下，兼容了 VoiceOver 后的好处是巨大的，它不但可以为你带来明显的用户增量，更重要的是，你解决了一个重要的 Bug，一个可能会影响到数以百万计用户使用的 Bug。』無障礙網頁的推動其實是異常艱辛的，我們以為滿足主流市場這樣的程度就很夠了，卻忘記去思考 vision-challenged 等使用者的需求和可能性。</p>
-<ul>
-<li><a href="https://sspai.com/post/40687" target="_blank" rel="external">盲人是如何使用 iPhone 的：专访顾伶磊</a></li>
-</ul>
-</li>
-<li><p>『這位78歲的兒童作家在書中描述了札哈在伊拉克長大，從小開始設計自己的衣服。當她看到家鄉的歷史建築時，希望自己也能設計出一座城市。其後她學習數學，在倫敦接受教育，「札哈總是有很多想法，」書中寫到。Winter想把這本書給那些「希望創造事物的孩子，以及那些在逆境中艱難掙扎的女孩」，「這本書是寫給有大膽夢想的孩子，」她說。』。</p>
-<ul>
-<li><a href="https://www.shoppingdesign.com.tw/post/view/2118" target="_blank" rel="external">第一本關於Zaha Hadid的兒童書：《這個世界不是長方形的》</a></li>
-</ul>
-</li>
-<li><p>『其實這也反映出，如果不是身為主辦國，一般人不太會去關注這個活動。也就是說，國內對於「舉辦國際重要比賽」的舉國歡騰程度，民族自信心的上升程度，很可能和全球實際的關注程度不成比例。就像是韓國舉辦世大運的時候，台灣也沒多少人注意一樣。』從 Google 搜尋的網路聲量觀察相關關鍵字的活躍程度，很有趣的一篇分析文，或許就如同柯Ｐ所說的，與其不斷對外灌輸台灣很棒之類的形容詞或是買廣告，倒不如讓各國選手能夠舒舒服服的備受重視，讓他們打從心裡喜愛這個國家回國之後自然而然就會對更多人宣傳。</p>
-<ul>
-<li><a href="https://pcmanx.blogspot.tw/2017/09/google-trends.html" target="_blank" rel="external">續 - 從 Google Trends 看世大運的國際宣傳效果</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『他利用教學之外的時間開始將多年辛苦積累起來的資料分類整理，並全力投入人體與動物的解剖，以獲得書中需要的專業知識。他認為：「蓋倫只解剖豬、狗等動物，從未解剖過人體；他將動物解剖的描述應用在人體上，可想而之，關於這方面的描述往往是錯誤的。」』先不說這奇怪的話題到底是哪個鄉民提出的，往往都是回文救了整篇討論串，最喜歡在批踢踢上看到這種既惡搞又正經的短文。<ul>
-<li><a href="https://www.ptt.cc/bbs/Gossiping/M.1504191377.A.328.html" target="_blank" rel="external">Re: [問卦] 解剖課屍體要自己帶還是學校提供？</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>感覺現場會更有震撼和穿透力，開始期待 MYTH &amp; ROID 來台灣演出的那天。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=TbCBIGnQUqM" target="_blank" rel="external">MYTH &amp; ROID「ANGER/ANGER」Music Clip フルVer. - eYe’s - 2016</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-10-06-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-10-06-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/10/06 Wesley’
-    
-    </summary>
-    
-    
-      <category term="MYTH&amp;ROID" scheme="https://github.com/WeiChiaChang/blog/tags/MYTH-ROID/"/>
-    
-      <category term="world" scheme="https://github.com/WeiChiaChang/blog/tags/world/"/>
     
   </entry>
   
