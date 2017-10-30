@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-10-29T01:39:39.000Z</updated>
+  <updated>2017-10-30T01:38:12.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,60 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#189</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/10/30/Wesley-Daily-Digest-189/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/10/30/Wesley-Daily-Digest-189/</id>
+    <published>2017-10-30T01:37:24.000Z</published>
+    <updated>2017-10-30T01:38:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-10-30-Wesley’s-Digest-Collection"><a href="#2017-10-30-Wesley’s-Digest-Collection" class="headerlink" title="2017/10/30 Wesley’s Digest Collection"></a>2017/10/30 Wesley’s Digest Collection</h4><ul>
+<li><p>『直到使用者經過了數十年的學習，習慣了「汽車」這個取代馬車的解決方案後，才能進一步地為汽車外型優化。此時就算跟馬車的外型已經截然不同，使用者也不再會輕易發生習慣障礙的問題。也就是說，當一個乍看下是最佳解的方案出現時，若沒有考慮使用者的心理、與過去的解決方案做適度的妥協與融合，那麼該解方將只會存在於理想上、而不能真正實踐。當然，一項新科技 (汽車) 在初發明時，之所以與過去的解方(馬車)長相很類似，很大一部份原因也是因為──發明人自己對於該科技想像力也被過去的方法限制了… 誰想的到汽車原來可以長得跟馬車不一樣？！』。</p>
+<ul>
+<li><a href="https://hellolynn.hpd.io/2017/09/22/%E6%89%81%E5%B9%B3%E5%8C%96%E8%A8%AD%E8%A8%88flat-design%E7%B0%A1%E5%8F%B2%E2%94%80%E4%B8%80%E6%8E%A2apple%E6%97%A9%E6%9C%9F%E8%88%87%E5%BE%8C%E6%9C%9F%E8%A8%AD%E8%A8%88%E7%9A%84%E8%BD%89%E8%AE%8A/" target="_blank" rel="external">扁平化設計(FLAT DESIGN)簡史─一探APPLE早期與後期設計的轉變關鍵</a></li>
+</ul>
+</li>
+<li><p>『這是怎麼辦到的？就因為我就像在做自己的生意一樣對待 Velocity。開發活動佔了我 10% 的心血，剩下的 90% 都是行銷。我在開發過程中轉變了既有觀念，像咒語一樣刻在我腦海裡：不論我花多久的時間開發，都必須下更多的功夫行銷。依我先前創業過程的時間規劃經驗。我想這個專案應該也不例外。拓展使用者 (User acquisition) 是少不了的。最後，如果你本來就想自行創業，或開發開放源碼專案給公眾使用，但最後卻沒人要用。不論這個專案本身多有創意，也不管你解決了多少技術難題，沒別人用就算失敗的專案。』『我想引用 GitHub 元老級工程師 Zach Holman 說過的概念：「我們喜歡純粹、不摻雜其他概念的開放源碼。但如果你有『行銷開放源碼專案很傻』的想法，才真的很傻。」』。</p>
+<ul>
+<li><a href="https://blog.mozilla.com.tw/posts/5720/treat-open-source-like-a-startup-1" target="_blank" rel="external">把開放源碼當做自己創業 (上)</a></li>
+</ul>
+</li>
+<li><p>『但她其實經常對自己沒有自信，到紐約進修舞蹈時，因碩大體型被身材姣好的歐美同學輕視，直到她發現有位看起來穿著時尚、身材也很好的同學其實跳起舞來不怎樣，但卻充滿著自信，那樣的光采很迷人。她曾在日本節目「A Studio」中說：「出道後沒什麼自我介紹的機會，留學的時候學著自我介紹，老師告訴我『要把自己曾經做過的事情有自信地化為語言向別人說出，接著才能有新的開始。』，所以後來我就學著要對自己的所有一切都抱持著自信。」終於在舞蹈教室的一次小考試中，不顧一切地表演了模仿碧昂絲的舞蹈，震驚了教室裡所有外國同學，大家又笑又叫地為她歡呼，她對自己開始有了自信之餘，也發現在外國市場表演的可能性，踏出了嶄新的一步。』。</p>
+<ul>
+<li><a href="http://www.designsurfing.biz/page/92/1" target="_blank" rel="external">日本搞笑演藝界的地才</a></li>
+</ul>
+</li>
+<li><p>『GIF ──姑且先不論其怎麼唸──的原理，就跟你我知道的卡通動畫的原理一樣，是透過大量的靜態圖片連續播放所達成的。雖然以前曾有 Flash，今天有各種影音平台還有 HTML5 技術，作為一個古老的圖片格式，GIF 卻是歷久而不衰，不但仍是網路世界的三大主流圖片格式（與 JPG 與 PNG）之一，且這個當初主要被拿來做動畫小圖片的格式，得利於普及的網路，得以有更多的應用。』。</p>
+<ul>
+<li><a href="https://gushi.tw/cold107/" target="_blank" rel="external">第一百零七號：不要再唸錯了！gif 的正確唸法是？</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『從1975年到1979年，再到1995年，因為製作公司發現越來越多玩家誤認戳飛海盜才是輸家，所以他們也把遊戲規則改了！從「戳飛海盜的人獲勝」→「遊戲開始之前，先決定戳飛海盜的人是輸還是贏」→「戳飛海盜的人輸了」。』『唉呀～原來如此呀～所以說，雖然玩家們一開始確實搞錯了！但反正遊戲只是樂趣嘛～所以製作公司也不再堅持，慢慢改成「戳飛海盜的人輸了」這個規則。』。<ul>
+<li><a href="https://www.ettoday.net/dalemon/post/30154?from=fb_et_news" target="_blank" rel="external">戳飛海盜才是贏家！海盜桶開發商證實：40年來玩家都搞錯了</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Lingered in the air for days。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=521Q3gh82IM" target="_blank" rel="external">Nujabes/Minmi - Shiki No Uta (Audiodoctor Remix) - Samurai Champloo Music Record: Departure - 2004</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-10-30-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-10-30-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/10/30 Wesley’
+    
+    </summary>
+    
+    
+      <category term="github" scheme="https://github.com/WeiChiaChang/blog/tags/github/"/>
+    
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#188</title>
@@ -283,11 +337,11 @@
     </summary>
     
     
+      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
       <category term="ux" scheme="https://github.com/WeiChiaChang/blog/tags/ux/"/>
     
       <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
-    
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
       <category term="game" scheme="https://github.com/WeiChiaChang/blog/tags/game/"/>
     
@@ -569,9 +623,9 @@
     </summary>
     
     
-      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
     
       <category term="education" scheme="https://github.com/WeiChiaChang/blog/tags/education/"/>
     
@@ -737,9 +791,9 @@
     </summary>
     
     
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
       <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
     
@@ -911,9 +965,9 @@
     </summary>
     
     
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
       <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
     
@@ -969,9 +1023,9 @@
     </summary>
     
     
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
   </entry>
   
@@ -1084,60 +1138,6 @@
       <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
     
       <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#169</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/10/10/Wesley-Daily-Digest-169/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/10/10/Wesley-Daily-Digest-169/</id>
-    <published>2017-10-10T01:17:06.000Z</published>
-    <updated>2017-10-10T01:17:42.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-10-10-Wesley’s-Digest-Collection"><a href="#2017-10-10-Wesley’s-Digest-Collection" class="headerlink" title="2017/10/10 Wesley’s Digest Collection"></a>2017/10/10 Wesley’s Digest Collection</h4><ul>
-<li><p>『涉獵多元領域的新知：不知道什麼時候會接觸到一個陌生的議題，所以平常累積的知識量可以成為日後搜索資料時的養分。為什麼會這麼說呢？透過平時累積，能夠對每個領域的「關鍵字」有些許了解，這對於搜尋資料非常有幫助。研究員需要很快速地掌握一個議題，等到接到任務才開始探索的話，會浪費相當多時間。』。</p>
-<ul>
-<li><a href="https://medium.com/@tiffanywang_66236/%E9%97%9C%E6%96%BC%E7%94%A8%E6%88%B6%E7%A0%94%E7%A9%B6%E5%93%A1-%E6%88%91%E6%9C%89%E4%B8%80%E4%BA%9B%E8%A9%B1%E6%83%B3%E8%AA%AA-855062bedad2" target="_blank" rel="external">關於用戶研究員，我有一些話想說</a></li>
-</ul>
-</li>
-<li><p>『Patrick 在一趟巴勒斯坦之旅後，對當地企業所說的話或許可以當作 Stripe 未來發展方向的註腳：只要企業需要，Stripe 會在世界任何地方，包括在巴勒斯坦提供服務。「特別是被世界低估、忽視的地方，我們反而對這些地方更感興趣。」』能夠解決問題是身為產品開發者的本能，但能夠把流程簡化到怎樣實作的程度才是真正考驗能力值的核心。</p>
-<ul>
-<li><a href="https://buzzorange.com/techorange/2017/09/07/how-two-brothers-turned-seven-lines-of-code-into-a-9-2-billion-startup/" target="_blank" rel="external">用 7 行 code 賺 3 千億台幣的超級新創：與 Paypal 打對台，卻連 Peter Thiel 都投資</a></li>
-</ul>
-</li>
-<li><p>『這次我們透過 CrowdTangle 觀察的某網站，其留言數竟然可以遠遠大於讚數及分享數，大概只有兩種可能：一、內容寫得太好或太爛，大家狂留言或批評。不過看了一下，根本不知道留言在哪裡。二、透過特殊的方式洗留言數。至於特殊的方式是什麼，癮科技雖然不是什麼優質媒體，但至少是個正直的媒體，這種教壞囝仔大小的方法，我們就不告訴大家了啦。』臉書買讚買追蹤的服務都是行之有年，就連 Github 也有人做類似的買追蹤人數和星星的服務，或許成長初期在山窮水盡之際只能出怪招，但洗數據的手段依然挺卑劣的。</p>
-<ul>
-<li><a href="https://www.cool3c.com/article/128723" target="_blank" rel="external">媒體照妖鏡：Facebook 洗數據大破解，CrowdTangle 讓造假媒體無所遁形</a></li>
-</ul>
-</li>
-<li><p>『Facebook初期也是哈佛學生限定、台灣Dcard和PTT也只有學生身份才可申請、在對岸超火紅的彈幕視頻網Bilibili，會員要申請成功要先考過100題的動漫問答，讓社群內初期都是很酷且過門檻的人。Telegram任何人都可申請（是的！所以氖特加了很多中國大陸朋友的群），但至少目前轉移到Telegram的朋友都是酷酷有個性的一群。』其實一直蠻納悶一件事的，當兵的那幾個月休假的每天都要按時回報，而回報的軟體偏偏都是用 LINE，以隱匿性和資安上考量來看都是不合理的使用，為什麼都沒人想到 Telegram 會是個不錯的選擇呢？</p>
-<ul>
-<li><a href="https://www.kocpc.com.tw/archives/103483" target="_blank" rel="external">和Line說掰掰~ 輕巧又好玩的Telegram來襲</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『很多人不懂得什么才是最好的材料，不知道如何设计卫生间，如何在夏季降温（而不被空调冷到），如何在冬季供暖保暖。装修公司很多也是农村包工头出身，根本不懂如何把房子装得优雅又舒服。一个很简单的例子，就是国内的房子装修使用太多的玻璃，不锈钢和地砖。』看久才發現作者似乎是個對自我能力具有足夠自新的人，雖然也沒什麼不好，但倒是蠻好奇 A 計畫的目前實踐程度。<ul>
-<li><a href="http://www.yinwang.org/blog-cn/2017/09/05/plans" target="_blank" rel="external">商业计划</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>鋼琴演奏版本更顯得有股史詩般的震撼。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=OF-EeipcRBM" target="_blank" rel="external">Lia - ピアノソナタ第2番 第一楽章 -鳥の詩 - AIR ORIGINAL SOUNDTRACK - 2000</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-10-10-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-10-10-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/10/10 Wesley’
-    
-    </summary>
-    
-    
-      <category term="ux" scheme="https://github.com/WeiChiaChang/blog/tags/ux/"/>
-    
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
   </entry>
   
