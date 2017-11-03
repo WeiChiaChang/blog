@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-11-02T00:24:08.000Z</updated>
+  <updated>2017-11-03T03:00:06.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#193</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/11/03/Wesley-Daily-Digest-193/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/11/03/Wesley-Daily-Digest-193/</id>
+    <published>2017-11-03T02:59:14.000Z</published>
+    <updated>2017-11-03T03:00:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-11-03-Wesley’s-Digest-Collection"><a href="#2017-11-03-Wesley’s-Digest-Collection" class="headerlink" title="2017/11/03 Wesley’s Digest Collection"></a>2017/11/03 Wesley’s Digest Collection</h4><ul>
+<li><p>『這就比較難了，通常大專案已經發展很久，架構變得非常複雜，即便是標註簡單的bug你可能都覺得困難的要命。我自己的作法是是著找到可以帶我入門的導師，畢竟老鳥對架構熟悉，指導新手比新手自己摸索容易，新手有任何問題也能很快得到導師討論和解答。怎樣找到肯帶你的人看運氣了，畢竟人家也不是沒是閒著，我自己是去 Mozilla 上面留言希望有熱心的工程師帶我。其次就是怎麼解 bug，相信有人帶之後這應該不會是太大問題。』文中作者也是非本科轉換跑道的一個實例，提出的幾點建議也讓筆者格外有感，開源專案不一定要非常非常厲害才能參與，有心有意願的都能共襄盛舉讓社群整體越來越好。</p>
+<ul>
+<li><a href="http://ithelp.ithome.com.tw/articles/10190201" target="_blank" rel="external">我是如何&amp;菜鳥該如何進入開源社群？</a></li>
+</ul>
+</li>
+<li><p>『後來 Scrum 出來之後, 有些人就覺得看到曙光, 認為可以先實施 scrum, 然後再慢慢引進 XP, 這樣就會讓 agile 比較容易成功. 想說從管理的角度出發, 只要經理一聲令下, 開始召開哪些會議, 就可以實施敏捷了.可是後來又發現 scrum 的 iteration 也是無法立馬達到其境界, 每次都是搞成 mini waterfall, 或者是大家覺得沒有這個必要. 因此 Kanban 就變成另一個入門”良藥”, 從你現在做的開始, 而不是一開始強迫你要做個做那個, 藉由改善文化, 有問題才改進, 讓實施 agile 是以演進的方式來進行. 』。</p>
+<ul>
+<li><a href="http://kojenchieh.pixnet.net/blog/post/386166536" target="_blank" rel="external">看板是入門毒藥 (gateway drug)</a></li>
+</ul>
+</li>
+<li><p>『肉乾，不只是把肉的水份透過我們的秘密工法曬乾而已，每一個步驟都是經過我們60年的研究與修正，才能夠讓肉變成最好吃的肉乾。碳火是用我們嚴選的硬闊木炭，還有精選的卡式瓦斯噴火槍，並靠著我們有20年燒烤經驗的師傅，花費3分鐘所升起的濃烈大火，其火燄可在30秒內把肉的水份完全蒸發，鎖住肉的精粹與靈魂。』文案深度決定於撰文者對於背景知識涉獵的深度和廣度，特別喜歡這種一本正經的胡說八道卻又有條有理的逐步分析。</p>
+<ul>
+<li><a href="http://www.copywriter.com.tw/teaching/detail/%E5%A6%82%E4%BD%95%E8%AE%93%E4%BD%A0%E7%9A%84%E6%96%87%E6%A1%88%E7%9C%8B%E8%B5%B7%E4%BE%86%E6%9C%89%E6%B7%B1%E5%BA%A6%EF%BC%9F%EF%BD%9C%E6%AD%A3%E7%B6%93%E7%9A%84%E8%AA%AA%E7%AC%91.html?fb_action_ids=10154841845450718&amp;fb_action_types=og.comments" target="_blank" rel="external">如何讓你的文案看起來有深度？｜正經的說笑</a></li>
+</ul>
+</li>
+<li><p>『讓我印象深刻的是，當沒有花蜜可以採收時，蜂農為了怕蜜蜂餓死，逼不得已才會餵蜂蜜吃糖，因為糖價年年升高，蜂農也需要付出非常高的成本。蜂蜜是養育下一代的糧食，因此蜜蜂如果發現自己吃到不好的蜜，會選擇自我了結…一旦環境遭受破壞，那麼蜜蜂的數量也會越來越少。』高中還是大學曾聽說過蜜蜂其實是檢測環境是否自然的一個明顯指標，少了這些勤奮的昆蟲默默的會讓很多習以為常的生態平衡逐漸崩壞。</p>
+<ul>
+<li><a href="https://www.newsmarket.com.tw/blog/29833/" target="_blank" rel="external">【公民寫手】與蜂蜜的緣分</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『在 13 歲的時候，青翠被現在的球隊  VTV Bình Điền Long An 發掘，當時球隊的人非常驚訝於她的身高還有她的各項數據都比同年齡的其他人高超級多 (誰 13 歲就長到 178 公分啊嚇死誰)，而且其實那時候他們還查證了非常久非常仔細，就為了確認她真的才 13 歲，證實了她是 1997 年生的以後，球隊已經退休的教練才終於了解到他眼前站的可是不可多得的奇才，更說在過去這麼多年來沒有看過身體素質這麼好的選手，這也開啟了她的排球之路。』企聯的強度要提升，除了尋求外援選手加入製造刺激以外，可能也就像是日本代表柳田將洋說過的，必須出走才能和更高層級的國家抗衡。<ul>
+<li><a href="http://volleyball.biji.co/index.php?q=news&amp;act=info&amp;id=1090" target="_blank" rel="external">又見企聯新外援，越南隊明日之星陳氏青翠(Trần Thị Thanh Thúy)透漏將來台</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>不難看出影片後製花了不少功夫，相當吸睛。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=PMivT7MJ41M" target="_blank" rel="external">Bruno Mars - That’s What I Like - 24K Magic - 2016</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-11-03-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-11-03-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/11/03 Wesley’
+    
+    </summary>
+    
+    
+      <category term="github" scheme="https://github.com/WeiChiaChang/blog/tags/github/"/>
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#192</title>
@@ -123,9 +181,9 @@
     
       <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
     
-      <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
-    
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
     
   </entry>
   
@@ -505,9 +563,9 @@
     
       <category term="ux" scheme="https://github.com/WeiChiaChang/blog/tags/ux/"/>
     
-      <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
     
       <category term="game" scheme="https://github.com/WeiChiaChang/blog/tags/game/"/>
     
@@ -1080,64 +1138,6 @@
       <category term="rap" scheme="https://github.com/WeiChiaChang/blog/tags/rap/"/>
     
       <category term="aimer" scheme="https://github.com/WeiChiaChang/blog/tags/aimer/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#173</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/10/14/Wesley-Daily-Digest-173/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/10/14/Wesley-Daily-Digest-173/</id>
-    <published>2017-10-14T01:14:59.000Z</published>
-    <updated>2017-10-14T01:16:36.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-10-14-Wesley’s-Digest-Collection"><a href="#2017-10-14-Wesley’s-Digest-Collection" class="headerlink" title="2017/10/14 Wesley’s Digest Collection"></a>2017/10/14 Wesley’s Digest Collection</h4><ul>
-<li><p>『麥卡錫於 2011 年逝世，終年 84 歲，他多年推動 AI 的發展努力為人類文明遺下寶貴的資產。他之所以能領取「圖靈獎」、得到「AI 之父」的美銜，全因他不甘墨守成規，勇於想像未來，把他的見聞啟發綜合起來，成為創新發明。以佛學的語言形容，麥卡錫是一位有「願力」的人，敢想敢做，將概念付諸實現。活在他開創的 AI 未來，今人不能只有恐懼與驚慌，而應轉抱開放進步的思維，否則就會被時代淘汰。』。</p>
-<ul>
-<li><a href="http://www.cup.com.hk/2017/08/31/the-father-of-ai-john-mccarthy/" target="_blank" rel="external">在圖靈之外，另一位人工智能之父</a></li>
-</ul>
-</li>
-<li><p>『例如很多人都喜歡畫畫、音樂、占卜等等，這些人將這些職業浪漫無暇化，覺得非做不可，但當上之後，才發現其背後的甘苦而放棄。其實無論那一種職涯跟職業，背後都有苦有樂，必然包含試煉與挑戰。也許，我們追求的，不是這些職業與技能本身，而是它背後所隱喻的，長久以來被教育壓抑的渴望。』筆者身邊越來越多朋友開始自發性的學起程式了，社群討論也逐漸看到許多熟悉的面孔，不管是轉換跑道還是理想實踐，能夠跳出原有舒適圈無疑都已經是種突破了。</p>
-<ul>
-<li><a href="https://medium.com/@steward379/%E4%BA%94%E5%80%8D%E7%9A%84%E5%B8%8C%E6%9C%9B-%E5%85%88%E5%95%8F%E5%95%8F-%E4%BD%A0%E6%98%AF%E8%AA%B0-7f5a75f0349e" target="_blank" rel="external">五倍的希望：所以，你到底是誰？</a></li>
-</ul>
-</li>
-<li><p>『一蘭拉麵的經營者就很清楚地認識到，熱門的餐廳一旦人滿為患，等待時間拉長，顧客的體驗就會大打折扣。但是一旦訂價太高，上門的人門可羅雀，又不利於宣傳。於是它推出了買六千元等值商品免排隊的方案，既滿足了有錢但沒時間，不想排隊受罪的中產階級需求，又製造了至少要排隊三小時才吃的到的瘋狂人氣。（至於催生了不到三百塊就可以幫你排隊的排隊黃牛產業，又是後話了）』這才驚覺一蘭訂出的各種規則都是策略，在經濟學理論上似乎是站得住腳的，不過能從拉麵聯想到雪山隧道的作者也是蠻猛的。</p>
-<ul>
-<li><a href="https://www.thenewslens.com/article/77895" target="_blank" rel="external">如何解決雪隧塞車？那些一蘭拉麵告訴我們的事</a></li>
-</ul>
-</li>
-<li><p>『间歇性踌躇满志，持续性混吃等死是最常见的顽疾。读过一篇鸡汤，就感觉自己斗志昂扬，转发到朋友圈，就感觉在自我鞭策。最可怕的莫过于你明明什么都没做，却沉醉在努力的自我感动中。朋友圈的打卡会给你留下一个自己已经努力过的幻象，这个幻象成本极低，点赞和反馈却能预支成功的快感，然后忘记实实在在的努力。』白話點說就是三分鐘熱度，嘴巴說著台灣教育多慘多糟年輕一代多沒競爭力，自己多努力在矽谷和技術圈討生存，結果真相是每天都在臉書 IG 打卡照片上傳，多年下來也不見任何實體建樹或做了什麼有用的軟體工具。然後你終於體會到人真的是靠嘴巴吃飯的。</p>
-<ul>
-<li><a href="http://www.jianshu.com/p/7d38e84c7ca8?utm_campaign=maleskine&amp;utm_content=note&amp;utm_medium=pc_all_hots&amp;utm_source=recommendation" target="_blank" rel="external">假装很努力，是年轻人的典型幼稚病</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『對中國賽後通過記者採訪區，心情頗為激動的中田久美監督雙眼通紅，熱淚盈眶，記者問這是什麼眼淚？中田監督回答說：「很不甘心呢…可能是年紀大了淚腺分泌較為旺盛吧。」先是苦笑回答，然後再解釋「為什麼呢？因為看到球員們努力拼搏的態度…」』大冠軍杯做為東道主的日本不管男女排最終都是以慘敗落幕，看到陣容相當不錯的日本隊伍面對世界強權的高度和力量依然極難找到突破點就不禁覺得台灣排球儘管哪天真的成功邁向職業化離世界巔峰還有很大一段路要走，話雖如此還是希望職業化早日成真。<ul>
-<li><a href="http://volleyball.biji.co/index.php?q=news&amp;act=info&amp;id=1064" target="_blank" rel="external">大冠軍盃日本女排兩連敗，第5名完成賽事</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>魚韻和日本天團 SMAP 幾年前合作的一首歌曲，這曲風果然很有山口大叔的味道。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=UsobNCx2qjM" target="_blank" rel="external">Sakanaction X SMAP - Moment - 單曲 - 2012</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-10-14-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-10-14-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/10/14 Wesley’
-    
-    </summary>
-    
-    
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
-      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
-    
-      <category term="sakanaction" scheme="https://github.com/WeiChiaChang/blog/tags/sakanaction/"/>
     
   </entry>
   
