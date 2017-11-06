@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-11-05T02:15:10.000Z</updated>
+  <updated>2017-11-06T02:37:23.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,60 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#196</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/11/06/Wesley-Daily-Digest-196/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/11/06/Wesley-Daily-Digest-196/</id>
+    <published>2017-11-06T02:36:44.000Z</published>
+    <updated>2017-11-06T02:37:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-11-06-Wesley’s-Digest-Collection"><a href="#2017-11-06-Wesley’s-Digest-Collection" class="headerlink" title="2017/11/06 Wesley’s Digest Collection"></a>2017/11/06 Wesley’s Digest Collection</h4><ul>
+<li><p>『同樣都是提供從A點移動到B點的航空運輸業，為了競爭，有的公司選擇了「廉價」但什麼服務都沒有；而Air France則選擇提升飛機上的服務品質，企圖透過好的服務提高乘客的滿意度，進一步增加回客率。法國航空除了兼顧品質，還利用消費者insight顧及乘客的內心需求，將「看不到電影結局」視為重要的事情，戳中乘客「即便是在下飛機後，也想再次回味旅程的美好」的心情，這時可不能因為一場看不到結局的電影而被迫中斷。』。</p>
+<ul>
+<li><a href="http://www.motive.com.tw/?p=17298" target="_blank" rel="external">解決乘客痛點！法國航空讓乘客把看不完的電影「外帶」（2017坎城創意節-銀獅獎）</a></li>
+</ul>
+</li>
+<li><p>『而從較早開始耕耘YouTube的蔡阿嘎，再到近年受歡迎的聖結石、阿滴英文、HowFun，葉揚表示，過去會紅的YouTuber多半是個人特質強，並且以純娛樂、搞笑類型為主，但是近期的YouTuber除了個人特色要更強，還要有娛樂效果之外的附加價值，例如冷知識、療癒效果等，才足以吸引網友。「像阿滴英文，真的每次都讓你學一點英文。而且他個人特質強，教英文又兼搞笑。」她說：「他們提供的是『複合式的benefit』，而不只是一個benefit。」』。</p>
+<ul>
+<li><a href="https://www.bnext.com.tw/article/46365/youtube-user-study-2017" target="_blank" rel="external">YouTuber達百萬訂閱速度越來越快！Google：能提供「複合式價值」的素人正紅</a></li>
+</ul>
+</li>
+<li><p>『針對資安的重要性，總統特別指出，去年她在年會上說，「資安就是國安」，政府會投入資源，來提升本土關鍵資安技術。今（106）年6月，國軍就成立了資通電軍指揮部。她接著表示，我們的資訊界，真的是高手都在民間。因此，她請同樣來自民間的高手，國安會李德財諮委及行政院唐鳳政委，秉持跳脫科層的透明精神，連結政府和民間的力量。此外，經濟部和教育部也要持續在人才培育上與時俱進，才能跟上資通安全產業中，一日千里的快速變化。』HITCON 認真耕耘了社群其實也有蠻長一段時間了，近幾年在 DEFCON 等國際賽事上發光發熱也終於讓高層理解到資安即國安這項事實，希望相關政策不要只是空口白話或是三天打魚，尤其是資安層面必須要持續做才能持續面對新挑戰。</p>
+<ul>
+<li><a href="http://www.president.gov.tw/News/21635" target="_blank" rel="external">總統：期盼駭客代表的高超技術與挑戰的精神能刺激政府成長　引發創新動力</a></li>
+</ul>
+</li>
+<li><p>『BFR 的運用範圍包含衛星發射、清理太空垃圾提供國際太空站服務。不過你以為這項技術只能用在前往外太空嗎？馬斯克展示了影片中可看到，他希望可以同時運用世界各國間的旅程，乘客登水上發射台後進入火箭，最高可以時速 27000km 行駛，示範片中看到標榜讓你在世界各國都能在 30 分鐘內抵達，香港到新加坡的 22 分鐘、曼谷到杜拜 27 分鐘、 從洛杉磯到紐約的 25 分鐘、從紐約到巴黎 30 分鐘，倫敦到香港只要 34 分鐘。』地表人還在殺豬公，別人已經在規劃上太空殖民火星了。</p>
+<ul>
+<li><a href="https://www.inside.com.tw/2017/09/29/spacex-plans-to-use-spaceships-for-earth-passenger-transit" target="_blank" rel="external">【馬斯克就是狂】發佈 2024 火星計劃，加碼全球 一小時生活圈目標！</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『一次性写的代码不需要美观优雅。但它必须是正确的、可以理解的 —— 因为绝不会改变的代码在系统的整个生命周期内可能仍然被阅读很多次。它不需要干净并紧凑 —— 只要干净就够了。代码中复制和粘贴[8]和其他小的裁剪是允许的，至少在某种程度上是这样的。这些是永远不需要打磨的代码。即使周围的其他代码正在更改，这些也是不需要重构的代码（除非你需要更改它）。这是不值得花费额外时间的代码。』。<ul>
+<li><a href="https://linux.cn/article-8916-1.html?utm_source=rss" target="_blank" rel="external">不要浪费时间写完美的代码</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>和 Yui 同樣是相當全面的創作型歌手。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=E_GR8fI9xls" target="_blank" rel="external">阿部真央 - ロンリー - Single - 2010</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-11-06-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-11-06-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/11/06 Wesley’
+    
+    </summary>
+    
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#195</title>
@@ -227,11 +281,11 @@
     </summary>
     
     
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
       <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
     
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
-      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
     
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
@@ -393,9 +447,9 @@
     </summary>
     
     
-      <category term="github" scheme="https://github.com/WeiChiaChang/blog/tags/github/"/>
-    
       <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
+      <category term="github" scheme="https://github.com/WeiChiaChang/blog/tags/github/"/>
     
   </entry>
   
@@ -667,11 +721,11 @@
     </summary>
     
     
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
       <category term="ux" scheme="https://github.com/WeiChiaChang/blog/tags/ux/"/>
     
       <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
+    
+      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
       <category term="game" scheme="https://github.com/WeiChiaChang/blog/tags/game/"/>
     
@@ -953,9 +1007,9 @@
     </summary>
     
     
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
       <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
+      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
       <category term="education" scheme="https://github.com/WeiChiaChang/blog/tags/education/"/>
     
@@ -1070,64 +1124,6 @@
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
       <category term="ioh" scheme="https://github.com/WeiChiaChang/blog/tags/ioh/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#176</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/10/17/Wesley-Daily-Digest-176/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/10/17/Wesley-Daily-Digest-176/</id>
-    <published>2017-10-17T06:42:34.000Z</published>
-    <updated>2017-10-17T06:43:20.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-10-17-Wesley’s-Digest-Collection"><a href="#2017-10-17-Wesley’s-Digest-Collection" class="headerlink" title="2017/10/17 Wesley’s Digest Collection"></a>2017/10/17 Wesley’s Digest Collection</h4><ul>
-<li><p>『當一個字詞電腦分辨不出來，他們就會將其上傳到 reCAPTCHA 的資料庫。從這時候開始，驗證碼就不再是隨機、無意義的字母組成了。而當一個字詞被多個使用者輸入相同的答案，該字詞就會被確認，重新回傳到電子書的數據庫。所以你在 reCAPTCHA 的右下角，可以看到他們的宣言：「Stop Spam, Read Books（垃圾機器人走開，大家一起來看書吧）」。』既解決了原先問題更結合圖書辨識進一步處理掉另個問題，反爬蟲的最佳實踐。</p>
-<ul>
-<li><a href="https://buzzorange.com/techorange/2017/09/13/captcha-and-recaptcha/" target="_blank" rel="external">為什麼只要勾選「我不是機器人」，Google 就知道你不是機器人？</a></li>
-</ul>
-</li>
-<li><p>『Steve引述電腦科學家Alan Kay在70年代的一句名言：「熱愛軟件的人想製造他們自己的硬件。」（People that love software want to do their own hardware.）既然如此，儘管自視為一家軟件公司，最終軟硬件也必須處處講求高度一致的整合，每一部分都要經過調合和控制，不能各自為政（即使他坦言，未來有機會兩條腿均走出可行之路，但當時他不肯定，只知道封閉整合是最好的做法）。』很多人都說在 Jobs 離開之後蘋果的風格從此不同，也回不去了，就現在觀察起來的確是如此，但人都會變了，又有什麼事情是完全不會改變的呢？</p>
-<ul>
-<li><a href="https://hk.thenewslens.com/article/78660" target="_blank" rel="external">【Steve Jobs．三】Steve：我認為Apple經得起時間考驗—iPhone X失落了海盜精神</a></li>
-</ul>
-</li>
-<li><p>『石橋準也回憶，在 2012 年派愛族剛開始的時候，日本交友服務市場也是像台灣一樣以隨性交友為主，品質良莠不齊，甚至還有仙人跳事件發生，因此大眾對於交友軟體觀感不佳，政府也明令管制交友軟體不得上電視、某些戶外廣告，LINE 廣告也不行。因此派愛族轉而主打嚴肅交友，並透過身分證、護照或健保卡加強證件驗證身份及年齡審核，提供使用者更安全的交友環境，派愛族大受歡迎後，還吸引了許多追隨者加入婚戀交友的市場。』其實觀察交友市場的部署策略挺有趣的，因為該領域的體質和一般產品很不一樣，人是關鍵，偏偏這也是最難以控制的，也因此發展出極為多種不同於以往思維的方式。</p>
-<ul>
-<li><a href="https://www.inside.com.tw/2017/09/13/pairs-japan" target="_blank" rel="external">線上交友有攻略？看看日本第一交友軟體派愛族執行長石橋準也怎麼說</a></li>
-</ul>
-</li>
-<li><p>『2016年2月的整個月裡，TOKiMONSTA試著讓自己重新適應生活。最困難的部分仍是回到音樂事業上。當她打開混音軟體時，她不明白自己在幹什麼，儘管語言功能幾乎完全恢復，但音樂在她腦中聽起來就像是垃圾。「我聽不懂音樂。所有音樂都像噪音，像金屬般的刺耳聲或毫無意義的廢話。」她說。』像是小說情節般的劇情在真實人生上演，痛苦程度真的無法想像，比失語症還慘，從前熟悉的事物毫不留情的被抹除的一乾二淨。</p>
-<ul>
-<li><a href="https://www.mplus.com.tw/article/1834" target="_blank" rel="external">失而復得的話語與音樂：TOKiMONSTA</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『很顯而易見，作為一名發明家、政治家兼作家，富蘭克林（Ben Franklin）有著狐狸一般的智力。對於那些看似無法克服的挑戰，他都能發明出一些東西來應對。富蘭克林見證了電的破壞力，因此發明了避雷針；到中年視力受阻時，發明了雙光眼鏡；人們需要一種比壁爐更少煙熏味的室內取暖工具時，發明了我們現在所稱的「富蘭克林爐」。我甚至已經不想知道他在發明柔性導管時想要解決什麼問題！』西方國家的領袖似乎都是多才多藝的，幾任的美國總統像是富蘭克林，既是作家，政治家又是位傑出的科學家，雷根在參選總統前則是做為演員出身的，反之看看東方，人們普遍希望看到鑽研一門領域許久的人成為領導，台灣總統有九成以上都是法律系本科出身，這點還蠻耐人尋味的。<ul>
-<li><a href="https://www.inside.com.tw/2017/09/14/peter-salovey" target="_blank" rel="external">【硬塞大學生】：耶魯大學校長新生演講－我們應該成為狐狸還是刺蝟？</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Perfume 和卡莉怪妞背後的樂曲製作人中田康貴自組的 capsule，標準 EDM。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=x6UurRhIgD0" target="_blank" rel="external">capsule - Sugarless GiRL - Sugarless Girl - 2007</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-10-17-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-10-17-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/10/17 Wesley’
-    
-    </summary>
-    
-    
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
-      <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
-    
-      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
   </entry>
   
