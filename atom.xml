@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-11-06T02:37:23.000Z</updated>
+  <updated>2017-11-07T02:14:20.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,60 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#197</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/11/07/Wesley-Daily-Digest-197/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/11/07/Wesley-Daily-Digest-197/</id>
+    <published>2017-11-07T02:13:52.000Z</published>
+    <updated>2017-11-07T02:14:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-11-07-Wesley’s-Digest-Collection"><a href="#2017-11-07-Wesley’s-Digest-Collection" class="headerlink" title="2017/11/07 Wesley’s Digest Collection"></a>2017/11/07 Wesley’s Digest Collection</h4><ul>
+<li><p>『這一切要先從 Vertica 講起。沒多久前我的工作幾乎每天都會使用 Vertica，Vertica 是一個強大的資料庫，但它官方的客戶端程式（vsql）一點都不強大。另一個 GUI 的選擇 DbVisualizer 也是難用到爆。我就想起 PostgreSQL 那邊有一個叫 pgcli 的好物，我想如果 fork 它，應該不需要太大功夫就能把它改成 Vertica 版本。最後也如我所想，沒花幾天就寫出了 vcli。我還聯絡了 pgcli 的原作者，告訴他「我用你的東西寫了另一個專案」，他很高興的幫我在他網站上宣傳。但 Vertica 實在是小眾，所以 vcli 並沒有得到很多注意。但至少有了 vcli，我終於能每天快快樂樂的使用 Vertica 了。』。</p>
+<ul>
+<li><a href="https://www.inside.com.tw/2016/07/08/how-i-get-4000-stars-on-my-github-project" target="_blank" rel="external">我如何在 GitHub 上拿到四千顆星</a></li>
+</ul>
+</li>
+<li><p>『所以，運算思惟的前三核心（decomposition、pattern recognition、abstraction），是第四核心 (algorithm) 的重要基礎。而我前一篇文章〈運算思惟其實一點也不神祕〉就在申論：前三核心的能力，本來就是語文課程及數學課程就該好好培養的，並不是只有程式設計課程才能培養。只不過，現今的語文課程及數學課程，花太多精力在搞背誦、蒐集解題花招，而沒有踏實聚焦在王道的議題探索及解題思惟上，導致 literacy capability 及 problem solving 能力都不足。這種貧乏的基礎，能夠進一步灌輸 computational thinking 嗎？』。</p>
+<ul>
+<li><a href="http://school.soft-arch.net/blog/154515/on-algorithm-myth" target="_blank" rel="external">演算法也有不神祕的一面（下集）</a></li>
+</ul>
+</li>
+<li><p>『那天飯局我印象超深刻，結束時大家說要在門外合照，男友去結帳，留學粉打了一通電話，突然上車就走了，男友出來問說她人呢，其他朋友說她男友來接她，男友臉 超 驚 訝，說：「他交男朋友了？她怎麼都沒說？」在回家的路上repeat 5次以上「她居然交男朋友了…」又有一次，我看到男友和好友的訊息，內容大致上是說要不要考慮和留學粉在一起，彼此很適合，雙方父母又都很喜歡對方，當時就應該要和留學粉在一起，沒在一起好可惜…。男友的回應是她現在也有男友了來不及了。』和曾經發生在筆者身上的事情有 87% 雷同，歷史果然是人類一再重複上演的。</p>
+<ul>
+<li><a href="https://www.ptt.cc/bbs/Boy-Girl/M.1506714008.A.651.html" target="_blank" rel="external">[討論] 面對另一半紅粉知己的心態（文長）</a></li>
+</ul>
+</li>
+<li><p>『我個人覺得，Chatbot 是個假議題，因為我研究了一小段時間後，就發現其實重點在後面的 AI，或者說 NLP。所以就趕快投入研究 Deep Learning 了。至於 FinTech，雖然我不認為這是個有實質生產的行業，但以研究為目的，或者以賺錢為目的，應該是可行的。因為 Deep Learning 的長處在於從大量資料中歸納出特徵。如果你把股價的曲線圖看做 Game 的螢幕，那 DQN 應該也是可以訓練用來執行「買」「賣」的動作。這裡面有個難度是，蒐集資料，標註資料，開發平台，等等，都需要不少人力、物力，執行起來困難度也不低就是了。』。</p>
+<ul>
+<li><a href="https://hemingwang.blogspot.tw/2017/09/ai_30.html" target="_blank" rel="external">AI創業日記（三）：如何組隊</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『手機 app 的主要錯誤大多出現在打字的 input 區塊。打字是一個容易出錯又耗時的高成本互動，即使是用整個鍵盤（在觸控螢幕上更是如此）。理想的狀況下，應該要移除產品頁上所有客戶應該輸入原始數據的區域（這會打開使用者錯誤的大門）。你應該用數字選項來避免讓使用者犯錯：用單選按鈕(radio)跟增減按鈕(steppers)讓使用者只能選擇一個特定的選項。』。<ul>
+<li><a href="https://medium.com/digital-sunday/%E8%A1%8C%E5%8B%95%E9%9B%BB%E5%95%86%E5%B9%B3%E5%8F%B0-%E7%94%A2%E5%93%81%E9%A0%81%E7%9A%84%E5%B0%8F%E7%B4%B0%E7%AF%80-e849f90c7016" target="_blank" rel="external">行動電商平台：產品頁的小細節</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Google 日文翻譯混音出來亂好聽的。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=AiosKUO7oqo" target="_blank" rel="external">heiakim Music - Counting!! - Nope - 2017</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-11-07-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-11-07-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/11/07 Wesley’
+    
+    </summary>
+    
+    
+      <category term="github" scheme="https://github.com/WeiChiaChang/blog/tags/github/"/>
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#196</title>
@@ -723,9 +777,9 @@
     
       <category term="ux" scheme="https://github.com/WeiChiaChang/blog/tags/ux/"/>
     
-      <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
     
       <category term="game" scheme="https://github.com/WeiChiaChang/blog/tags/game/"/>
     
@@ -1068,62 +1122,6 @@
       <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
     
       <category term="toe" scheme="https://github.com/WeiChiaChang/blog/tags/toe/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#177</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/10/18/Wesley-Daily-Digest-177/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/10/18/Wesley-Daily-Digest-177/</id>
-    <published>2017-10-18T02:12:27.000Z</published>
-    <updated>2017-10-18T02:13:08.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-10-18-Wesley’s-Digest-Collection"><a href="#2017-10-18-Wesley’s-Digest-Collection" class="headerlink" title="2017/10/18 Wesley’s Digest Collection"></a>2017/10/18 Wesley’s Digest Collection</h4><ul>
-<li><p>『杜国楹说，某次，在武夷山拜访拜访一位茶人，在辞别时，他扭头看到桌子上摆了个盘，上面写着国家级非物质文化遗产大红袍制作基地传承人，“非物质文化遗产传承人”字样刺激到了他。显然，这个标签如果和产品能绑在一起，对产品是种品质确认，对消费者就是一种强烈的消费鼓励。“大师作”是他们找到的最后答案，也成为小罐茶进入茶行业的切入点和卖点，八位大师的站台，变相降低了小罐茶进入市场的难度。』以為自己在這個圈子待上許久就會成功其實真的難說，你眼中的外行人很可能在掌握關鍵因素後就反過來打垮你。</p>
-<ul>
-<li><a href="https://m.huxiu.com/article/210252.html?f=app_ios_friends" target="_blank" rel="external">旋风小罐茶：一群外行闯入茶界，出手就是几亿销售，搞的是什么事？</a></li>
-</ul>
-</li>
-<li><p>『业界谈“用户体验”最多的是腾讯，我也一直在强调。看到同一个痛点的人很多，最后跑赢跑输，取决于你早期有没有站在用户角度把体验做到最好，做到极致，通过产品与用户的心灵对话。怎么通过用户体验打动用户？这非常关键。很多创业者浅尝辄止，产品做到一半，就交给下属，精力转移去管别的“大事”。但回过头看，其他“大事”都是小事。最重要的就是产品体验能不能打动人，这就是最大的事，比一切事情都大。只有做好了产品，才有往下走的可能。』看到痛點的人多，意即試圖解決問題的人也多，能不斷琢磨使用者體驗直到更加完善的便能掌握市場。</p>
-<ul>
-<li><a href="https://mp.weixin.qq.com/s/GKPSrh2WVEJg9P9RM_x8Ow" target="_blank" rel="external">马化腾：用户体验，比一切事情都大</a></li>
-</ul>
-</li>
-<li><p>『現在，擁有 Nespresso 咖啡膠囊和 Nescafé 即溶咖啡的雀巢，竟收購市值約 5 億美元的 68％ 藍瓶咖啡股權，即便雀巢與藍瓶兩者都強調，管理階層不會變動，藍瓶執行長 Bryan Meehan、創辦人 James Freeman 都將續留，但大量工業化咖啡代表主導小眾精品品牌，不免讓文青們冷汗直流啊～』嗯…。</p>
-<ul>
-<li><a href="https://www.damanwoo.com/node/90365" target="_blank" rel="external">跌破全球文青眼鏡！雀巢宣布收購藍瓶咖啡股權</a></li>
-</ul>
-</li>
-<li><p>『獲台灣教育部 100 年留學獎學金取得紐約視覺藝術學院（School of Visual Arts, VSA）電腦藝術碩士，隻身赴美兩年期間堅持自己負擔所有生活費與百萬學費，不花家裡一分一毛獨立克服在美留學的經濟困難。旅美期間多次獲得奬學金，包括紐約視覺藝術學院書卷獎、紐約視覺藝術學院助教獎學金、紐約視覺藝術學院旅外獎學金，2013 年更以紐約視覺藝術學院 Paula Rhodes 傑出成就獎畢業。2014 年，27 歲以一己之力還清百萬留學貸款。』IOH 平台上很多經驗突出的講者，但這位是筆者目前聽到最具啟發和激勵的一位。</p>
-<ul>
-<li><a href="https://ioh.tw/talks/%E8%A6%96%E8%A6%BA%E8%97%9D%E8%A1%93%E5%AD%B8%E9%99%A2-school-of-visual-arts-%E6%B1%9F%E5%AD%9F%E8%8A%9D-meng-chih-chiang-ov-study-mde-us/" target="_blank" rel="external">Meng Chih Chiang 江孟芝</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『话说使用 Mac 电脑的同学，一般同时使用蓝牙键鼠、耳机等设备都比较多，而且 macOS 的很多新特性比如通用剪贴板、Handoff、Continuity 等都需要使用蓝牙辅助，因此如果蓝牙常常受到干扰，还是挺痛苦的。为此 Septillion 同学找到了一个妙方！解决思路是酱紫的：既然干扰多，那么理论上我们只要手动去扫描整个频率，找到干扰最小的信道即可避免被干扰了。』改用 MacPro 之後也開始習慣藍芽無線的滑鼠和鍵盤操作，剛開始用的確延遲的問題蠻頻繁的，但也沒有特別找解法，不習慣一陣子之後就突然好了。<ul>
-<li><a href="http://www.iplaysoft.com/fix-bluetooth-interference.html" target="_blank" rel="external">无线蓝牙鼠标键盘耳机老是断开/延迟/卡顿/粘键连击？一招解决烦恼问题</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>昨天看了端推薦的電影甜蜜蜜，好難得看到黎明在大螢幕的樣子，張曼玉在情緒轉折上的演技爆棚，整部電影似乎有種把鄧麗君的歌曲用導演的想法詮釋過的感覺，從歌曲到電影，從過去到現在，依然經典。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=e5AHXxUaVj4" target="_blank" rel="external">鄧麗君 - 甜蜜蜜 - 難忘的一天、甜蜜蜜 - 1979</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-10-18-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-10-18-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/10/18 Wesley’
-    
-    </summary>
-    
-    
-      <category term="ux" scheme="https://github.com/WeiChiaChang/blog/tags/ux/"/>
-    
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
-      <category term="ioh" scheme="https://github.com/WeiChiaChang/blog/tags/ioh/"/>
     
   </entry>
   
