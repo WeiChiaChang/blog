@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-11-10T02:34:10.000Z</updated>
+  <updated>2017-11-11T00:18:00.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#201</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/11/11/Wesley-Daily-Digest-201/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/11/11/Wesley-Daily-Digest-201/</id>
+    <published>2017-11-11T00:16:59.000Z</published>
+    <updated>2017-11-11T00:18:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-11-11-Wesley’s-Digest-Collection"><a href="#2017-11-11-Wesley’s-Digest-Collection" class="headerlink" title="2017/11/11 Wesley’s Digest Collection"></a>2017/11/11 Wesley’s Digest Collection</h4><ul>
+<li><p>『我認為，最頂尖的網站，或許就該像是一間高級壽司店，在顧客被引導到吧台就座後，先是和熟識的老師父寒暄近況以及討論菜單，接著享用佳餚美食、以及欣賞師父料理壽司過程的手藝，也就是除了說、看、吃之外，你需要做的事情並不多；一個經過細心規劃的網站也是如此。越能讓瀏覽者無負擔無障礙地吸收訊息，越能夠得到青睞，這也就是為什麼近年來大家越來越重視「友善的介面與直覺式設計」，讓人不需要過多的思考和疑慮，相反地，是簡單而直接的使用體驗，而這樣的設計方式不管在哪都將受到喜愛。』。</p>
+<ul>
+<li><a href="https://blog.25sprout.com/%E5%A5%BD%E7%9A%84%E7%B6%B2%E7%AB%99%E8%A9%B2%E5%85%B7%E5%82%99%E4%BB%80%E9%BA%BC%E6%A2%9D%E4%BB%B6-%E6%88%96%E8%A8%B1%E9%AB%98%E7%B4%9A%E5%A3%BD%E5%8F%B8%E5%BA%97%E7%9F%A5%E9%81%93-469f2700365d" target="_blank" rel="external">好的網站該具備什麼條件？或許高級壽司店知道</a></li>
+</ul>
+</li>
+<li><p>『你需要具备很强的自学能力、对技术有热情并且不断跟进。因为 JavaScript/前端的社区非常非常活跃，有太多的新东西需要你自己来发现与学习：比如 Universal JavaScript、Isomorphic JavaScript、前端测试、HTML5 页游、WebRTC、WebSocket、CSS 4、SVG、HTTP/2、ES 7、React Native、Babel、TypeScript、Electron 等等等等… 虽然一下扯得有点多，但这些确实就是你未来将会遇到的。你并不需要全部掌握它们，但是却多多益善；你也可以专精在某几个方面，这已经足以让你成为非常专业的前端工程师。』。</p>
+<ul>
+<li><a href="https://huangxuan.me/2015/10/28/how-designer-learn-fe/" target="_blank" rel="external">「知乎」设计师如何学习前端？</a></li>
+</ul>
+</li>
+<li><p>『許多人聽到軟技能(Soft Skill)會直覺地想到“個性”，其實，可以再細緻思考一些。如果說硬技能(Hard Skill)是在職場中所運用到的“技術功能”，那麼軟技能(Soft Skill)則是在職場中所運用到的“個人功能”，像是：團隊合作、多樣化協作、時間管理、解決問題、溝通方式、領導風格等。硬技能通常能夠被客觀量化，譬如取得的學位程度、第二外語的流暢程度、擅長的程式語言等，相較之下，軟技能卻是主觀且難以量化的，譬如你無法明確分級溝通能力的程度。而硬技能可以通過正規教育或培訓課程來習得，但軟技能卻是通過“大量經驗”被動地啟發（天生強化）或自發性建立（後天改變）來做學習的。』。</p>
+<ul>
+<li><a href="http://www.lynncareers.com/2017/06/skillset.html" target="_blank" rel="external">【求職策略】打怪般地配置你的軟技能</a></li>
+</ul>
+</li>
+<li><p>『自己看不懂的句子，就不要寫進筆記裡。如果你真的想把某個句子寫進你筆記裡，請你負責去弄懂它的意思。你可能要因此多花一天，一個月，一年的時間去弄懂它。如果你不能付出這麼多時間成本，那麼你就刪掉那個句子。你沒有那個壁虎，就不能吃那個瀉藥。看到任何玄奧的句子，請你用你自己的語氣，用最平易近人的方式，轉述給自己聽。如果自己真的做不到這個轉述的功夫，那你還是放棄它吧。』。</p>
+<ul>
+<li><a href="https://medium.com/@taweichi/%E5%AF%AB%E8%AE%80%E6%9B%B8%E7%AD%86%E8%A8%98-%E4%B8%8D%E8%A6%81%E4%B8%8D%E8%A6%81%E7%9A%84-7aed3adb20ad" target="_blank" rel="external">寫讀書筆記，不要「自欺欺人」</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『使用匿名軟體與社群軟體最大的差別在於你認不認識對方。使用社群軟體找朋友聊天的時候，我們辨認身分的方式是透過 ID 或軟體上顯示的名稱，那麼匿名軟體呢？顯示的可能是「路人 123」、「陌生人」或者是自己取的稱號比如「陽光天蠍男」之類，但你怎麼知道這個稱號的背後是誰，是一個人、兩個人抑或是電腦？像是美國影集《黑鏡》白色聖誕那集，你怎麼知道在宴會中把妹的宅男，其實正仰賴著視訊，請情場高手遠端即時指點，而背後更有屬不清的觀眾在看著他。』。<ul>
+<li><a href="https://jerrynest.io/wootalk-auto-chat/" target="_blank" rel="external">匿名聊天安全嗎？透過中間人攻擊，你的聊天訊息全被看光光</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>突然想念起升大三時和室友看了一整個暑假的 Guilty Crown，雖然當時挺靡爛的。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=M_tGU3OzaVc" target="_blank" rel="external">EGOIST - Departures - Extra Terrestrial Biological Entities - 2012</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-11-11-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-11-11-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/11/11 Wesley’
+    
+    </summary>
+    
+    
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
+    
+      <category term="single" scheme="https://github.com/WeiChiaChang/blog/tags/single/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#200</title>
@@ -1058,62 +1116,6 @@
       <category term="world" scheme="https://github.com/WeiChiaChang/blog/tags/world/"/>
     
       <category term="aimer" scheme="https://github.com/WeiChiaChang/blog/tags/aimer/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#181</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/10/22/Wesley-Daily-Digest-181/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/10/22/Wesley-Daily-Digest-181/</id>
-    <published>2017-10-22T01:58:48.000Z</published>
-    <updated>2017-10-22T01:59:45.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-10-22-Wesley’s-Digest-Collection"><a href="#2017-10-22-Wesley’s-Digest-Collection" class="headerlink" title="2017/10/22 Wesley’s Digest Collection"></a>2017/10/22 Wesley’s Digest Collection</h4><ul>
-<li><p>『生活中你會遇到一種不經意秀恩愛的人，他們的狀態往往的這樣的：你們去逛街，「這個杯子真好看，跟我男朋友上次送我的一模一樣」。你們在聊天：「這個遊戲特別蠢，我女朋友超愛玩」。當你無時無刻地提起一個人，說明他在你心中佔據了很重要的位置， 他一切瑣碎的日常都深深地印入了你的腦海。「當我把你掛在嘴上，其實你已經住進了我的心裡。」』這感覺已經不對 我最後才了解。好像不小心把歌詞寫出來了，哎算了。</p>
-<ul>
-<li><a href="https://buzzorange.com/vidaorange/2017/08/18/8-things-to-find-the-mr-right/" target="_blank" rel="external">對的人即使沈默也不會尷尬，8 個愛情長跑的人都知道的「真愛」徵兆</a></li>
-</ul>
-</li>
-<li><p>『在knowyourmeme.com中，詳細記載了Donger這個名稱和它為何風行的由來。一名英雄聯盟的玩家Michael Santana，ID為Imaqtipie，非常喜歡玩漢默丁格(Heimerdinger)這名英雄。這位仁兄給漢默丁格給取了個小名叫做donger，顯然是取Heimerdinger中的dinger，再把它做些變化。後來不知名的鄉民用Unicode符號畫出了漢默丁格的臉，再加上一句意義不明的話「Raise your dongers」（舉起你的Donger），Donger這個說法就流行起來了。』國外鄉民似乎超愛用 Donger 惡搞的，之前還在 Github 上看到專門產生 Donger 圖的產生器囧。</p>
-<ul>
-<li><a href="https://hearthstonetakao.blogspot.tw/2015/07/hitwitchspamtwitch-chat-spam.html" target="_blank" rel="external">Twitch文化介紹 (2) - Spam篇</a></li>
-</ul>
-</li>
-<li><p>『為了真正模擬膠捲相機，Gudak Cam 結束完一捲的拍攝後，需要耐心等待三天的沖曬時間，結果揭曉時就是拍照技術見真章的時候了 XD！不過也有人偷吃步，藉由調整手機時間，加快沖洗的速度，對此官方表示，照片若沒有得到完整的沖洗時間，會出現半成品的情況，所以大家還是靜心等候吧～』從科技到復古，相信不久後又會從復古風回到高科技，和歷史一般總是不斷輪迴重新上演。</p>
-<ul>
-<li><a href="https://www.damanwoo.com/node/90341" target="_blank" rel="external">韓國當紅的「Gudak Cam」App，讓拍照回到傻瓜相機時代</a></li>
-</ul>
-</li>
-<li><p>『說自己「什麼都不會」的人，一直都在學習在転転才待了一個多月我就發現，要把一件事變成專業，不在於你的學歷是不是本科系出身，而在於你願意多努力去習得這項專長，就像転転的文化一樣，不只要跟上最新的設計趨勢和技術，還要自我鞭策、不斷超前。 第一次看到這句話是在準備面試時，瀏覽公司的部落格看到一位同事寫的工作日誌。 第二次是我得知自己工作錄取後，在臉書上分享喜悅時無意間寫下的。 第三次是我對同事的專業能力表示佩服時，他回我的。 我們都在転転，而我在潤飾転転官網的文案時也發現，転転一直在找追求自我成長的學習者加入。』。</p>
-<ul>
-<li><a href="https://www.yourator.co/company_blogs/17" target="_blank" rel="external">「第一次離設計這麼近」我在転転從零到有</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『創業的工作步調和模式與在公司上班完全不同，特別是營收，一開始幾乎都是在燒錢，不太可能開工第一天就有進帳。再加上為了把握時間，草創時期可說是不分平日、週末都要全心投入打造產品、研擬商業模式。如果新加入的共同創辦人無法配合 CEO 擬訂的工作計畫和方向，別說個人，就算是團隊要付出的共同時間成本和機會成本也會變得更高。』這禮拜一開工一打開 Slack 群組才發現 Prenetics 能到 B 輪融資大約有 40 M 美，換算一下大致上和台灣的 17 和 Appier 同樣 level，想起不過幾個月前和 CEO 一起吃飯，總覺得怎麼功能一直改，客戶要的畫面一直變，但不得不承認幾乎只靠 Danny 一個人能夠說服阿里巴巴等創投投資，真心認為非常猛。<ul>
-<li><a href="https://appworks.tw/startup-co-founder/" target="_blank" rel="external">創業路上，如何找到真能攜手奮鬥的共同創辦人</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>音樂本身不錯耐聽，但MV 的臉部抽換感到莫名詭異。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=JV3eoboDv2g" target="_blank" rel="external">中田ヤスタカ - Crazy Crazy feat. Charli XCX &amp; Kyary Pamyu Pamyu - 單曲 - 2017</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-10-22-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-10-22-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/10/22 Wesley’
-    
-    </summary>
-    
-    
-      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
-    
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
-      <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
     
   </entry>
   
