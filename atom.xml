@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-11-20T00:38:58.000Z</updated>
+  <updated>2017-11-21T02:33:00.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,62 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#211</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/11/21/Wesley-Daily-Digest-211/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/11/21/Wesley-Daily-Digest-211/</id>
+    <published>2017-11-21T02:31:59.000Z</published>
+    <updated>2017-11-21T02:33:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-11-21-Wesley’s-Digest-Collection"><a href="#2017-11-21-Wesley’s-Digest-Collection" class="headerlink" title="2017/11/21 Wesley’s Digest Collection"></a>2017/11/21 Wesley’s Digest Collection</h4><ul>
+<li><p>『把他人成功的結果和現狀誤以為是他們成功的前提和原因，是一般人惰於思考，懶於推敲的一種表現。作為早期創業公司，我們要能夠把偉大公司的品牌 PR 和真實歷史區分開來，回到他們跟我們一樣微小的初期，也許那裡才有我們期待的取勝之匙。也只有這樣，我們才會對於我們的當下有更多的耐心、恒心和信心。』。</p>
+<ul>
+<li><a href="https://meet.bnext.com.tw/articles/view/39860" target="_blank" rel="external">你知道這些創業故事嗎？風雨飄搖時期的 Google、Facebook、Airbnb、Uber</a></li>
+</ul>
+</li>
+<li><p>『在TBH的使用模式裡，使用者並不能像Sarahah或YikYak那樣自由的輸入任何內容，而是只能回答應用程式產生的問題。TBH對於這些問題具有絕對的把控權，也就是說用戶在這款應用上唯一能做的就是在給出的既定的朋友中做出對應問題的選擇，在這樣顯得「不自由」的設定中，沒有「失控」的內容呈現，所有點對點呈現的「匿名」內容都是受控的。』。</p>
+<ul>
+<li><a href="https://www.bnext.com.tw/article/46615/anonymous-ucg-app-tbh-facebook-social-media" target="_blank" rel="external">3天「攻陷」3,000所學校，匿名社交TBH為何成了Facebook眼中的未來新寵？</a></li>
+</ul>
+</li>
+<li><p>『两前年，流火曾经找我聊想搭建一个行业内前端社区，他有清爽的界面，有优雅的交互体验，我当时并不看好，担心接下来的工作压力会让人抗不住，两年过去了，在百度搜索f2e可以在显要位置看到这个极简的域名”f2e.im”。社区雏形完整，代码完全开源，我也很幸运成为F2E社区第三号成员。我当然听到过太多质疑的声音，诸如”这东东和某东东很类似？”，或者”这里菜鸟太多了，没有我想要的高手？”云云。Whatever!~评论终将归于浮云，留下的是两年的坚持，以及它换来的微不足道的满足感！同样，当流火在解决了成百上千个无关紧要又繁琐冗碎的bugfix时，换来了对python的精通，对代码版本迭代的专业性把握，对网络协议和内容渲染模式的深刻理解，收获了直面一线用户的宝贵经验，更重要的是，懂得坚持的意义。这些硬技能直接促成了今天流火在业务上的钻研与精通。』微不足道的堅持，而堅持即是勝利。</p>
+<ul>
+<li><a href="https://github.com/lifesinger/blog/issues/198">微不足道的坚持 #198</a></li>
+</ul>
+</li>
+<li><p>『釀酒師需要具備什麼特質？Roland表示，每個人都可以釀酒，釀酒來自內心，是非常個人、私密、情感豐沛的。當然，首先要按部就班學習扎實的技巧，但最後要通通忘掉，就像大廚烹飪一樣，順從藝術家的直覺，對味道有深刻的了解和想像，而不是依賴電腦、死記書本。只有這樣才能釀出好酒。 好的釀酒師也不能躲在啤酒後面，要有走到台前當酒保和客人應對的本事。Roland說：「遇到新客人的時候，我會盡量和他們接觸聊天，了解喜好，以這些對話為靈感，下次再從我累積幾十年的知識庫中，開發一款啤酒看看，試試市場的接受度如何。其中需要很多調整和試驗。」另一方面，「傳統總算被當成一回事了。」Roland不斷強調。傳統非常重要，靈感都來自傳統。』。</p>
+<ul>
+<li><a href="https://everylittled.thenewslens.com/article/75917" target="_blank" rel="external">德國人在台灣釀啤酒？他用龍潭的水釀出冠軍啤酒</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『除了語言教學，很多人會注意到我們的片頭、剪輯風格甚至動畫，這些都是一種無形中的加分吧！我們很努力地生產風趣、充實的內容，在這些視覺設計與包裝上也不曾馬虎；因為覺得自己在做的是教學內容，若做得不夠「好看」，很難吸引使用者持續地追蹤。』。<ul>
+<li><a href="https://www.pinkoi.com/magz/Z9LciQk4?utm_campaign=Facebook+Magz&amp;utm_source=Facebook&amp;utm_medium=Post&amp;utm_term=20171019" target="_blank" rel="external">阿滴英文：「這是一個自學的時代。」｜學習不等待，明星 YouTuber 的美感練習</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Aoi。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=sz8yIucLlbE" target="_blank" rel="external">Sakanaction - Aoi - Sakanaction - 2013</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-11-21-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-11-21-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/11/21 Wesley’
+    
+    </summary>
+    
+    
+      <category term="english learning" scheme="https://github.com/WeiChiaChang/blog/tags/english-learning/"/>
+    
+      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="sakanaction" scheme="https://github.com/WeiChiaChang/blog/tags/sakanaction/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#210</title>
@@ -1068,62 +1124,6 @@
       <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
     
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#191</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/11/01/Wesley-Daily-Digest-191/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/11/01/Wesley-Daily-Digest-191/</id>
-    <published>2017-11-01T01:52:43.000Z</published>
-    <updated>2017-11-01T01:53:52.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-11-01-Wesley’s-Digest-Collection"><a href="#2017-11-01-Wesley’s-Digest-Collection" class="headerlink" title="2017/11/01 Wesley’s Digest Collection"></a>2017/11/01 Wesley’s Digest Collection</h4><ul>
-<li><p>『这个过程中，「猜」起到了很大的作用。我记得本科时的数学老师 —— 一个可爱的小老头 —— 点名提问对方答不上来时，常常挂在嘴边的口头禅是：你猜一下嘛。他总说连蒙带猜也是解题的一种思路，伟大的数学家同时也是伟大的猜想家。我们读代码时，猜文件名，函数名，变量名的意图，猜某个分支的意图，猜某段代码的意图，最终结合运行的结果，打印出来的调试信息来印证我们的猜测。这是读者和作者间有趣的猫鼠游戏。读得越多，猜得越多，印证得越多，形成一个有效的 feedback loop（read - guess - verify），你下次猜测成功的几率就越大。』。</p>
-<ul>
-<li><a href="https://zhuanlan.zhihu.com/p/26222486" target="_blank" rel="external">如何阅读一份代码？</a></li>
-</ul>
-</li>
-<li><p>『這還不夠諷刺，憤怒的網友立馬起底這張海報的女性是誰，海報右下方寫著「牛奶石鹼歷 24年 東京都港区 吉田仁美」，網友赫然發現她不是專業的攝影模特兒，這位名叫吉田仁美的女性就職於Vix Communication，這是一間公關與人力派遣企業。一進入Vix Communication的官網，企業宗旨就大大地印在首頁上：「我們立志成為如家庭一般的企業。We are One。」不知道吉田小姐在拍攝完牛奶石鹼的海報後，看到那些不可思議的標語，再想想自己公司的宗旨，是不是感受到了一點荒謬的感覺呢？』。</p>
-<ul>
-<li><a href="https://nippon.cafe/sono/8337" target="_blank" rel="external">一塊越擦越髒的牛奶肥皂，洗不掉顧客心中的巨大污點</a></li>
-</ul>
-</li>
-<li><p>『請教社群提供學習的建議：描述清楚你的 context，例如你的學習目的、你目前在該領域的熟悉程度，已經自己看過學習過哪些東西，以及你打算在哪運用。請大家依據你的 context 提供適合的學習資源與方式給你。不要輕忽了描述你 context 的重要性，因為學習都是由淺入深的，每個人狀態不同，自然推薦給他的學習建議就該不一樣，才會有效。由這些社群專家跟先驅者來幫你過濾、篩選、推薦，可以節省你走很多冤枉路的時間跟成本，因為在這個資訊爆炸的時代，應該先花時間在高品質的內容中。』。</p>
-<ul>
-<li><a href="https://dotblogs.com.tw/hatelove/2017/09/25/technical-proposal%E2%80%AC" target="_blank" rel="external">2017-09-25 養成技術提案的能力</a></li>
-</ul>
-</li>
-<li><p>『我可以想像，在最外層，它是在詼諧地重現這系列一直在致敬、在惡搞的 007 詹姆斯．龐德到處跟女性上床的習慣，在這其中主角跟女友之間，還包裝了一個「我想先取得你的同意」而後再吵架的安排，讓我搞不清楚這是要倡導開放式關係？還是在合理化（或批判？）男性因為工作而不得不上酒家「逢場作戲」的邏輯——更糟的是，這劇本竟然讓女生說出：「如果你願意娶我，那我就可以考慮容忍。」簡直把婚約當成男性給女性的獎勵，是一顆定心丸，一旦得到「承諾」就達成人生目標了，心滿意足矣。還可以／應該要容忍自己覺得不舒服的事⋯⋯哈囉？請問這是哪一個世紀的劇本？』。</p>
-<ul>
-<li><a href="http://www.biosmonthly.com/columnist_topic/9214" target="_blank" rel="external">每週影評｜《金牌特務：機密對決》：那一場踩到紅線的戲</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『第一次看到這本書，是去忠孝敦化一家專門進口獵奇外國書籍的書店翻到的，書裡密密麻麻的寫滿了行雲流水卻難以辨認的文字，一開始還以為是阿拉伯文，仔細查 了卻發現根本不是。這本書結合了由藝術、建築、人類自然歷史領域裡激發出來的極端聰明點子，融合了冰冷華麗的詭異感，瘋狂至極的想像與瑰麗精緻的插圖，游 移在現實與超現實的世界之間，讓我第一次站在陰暗書店裡翻著書頁時，心中每瀏覽過一頁便深深震撼驚嘆一次。』。<ul>
-<li><a href="https://flipermag.com/2016/04/14/luigi-serafini/" target="_blank" rel="external">義大利藝術家 Luigi Serafini 的詭麗百科全書</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Ｘ的竟然十年了。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=8xg3vE8Ie_E" target="_blank" rel="external">Taylor Swift - Love Story - Fearless - 2008</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-11-01-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-11-01-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/11/01 Wesley’
-    
-    </summary>
-    
-    
-      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
-    
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
-      <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
     
   </entry>
   
