@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-12-09T01:16:03.000Z</updated>
+  <updated>2017-12-10T02:14:42.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,60 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#230</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/12/10/Wesley-Daily-Digest-230/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/12/10/Wesley-Daily-Digest-230/</id>
+    <published>2017-12-10T02:13:48.000Z</published>
+    <updated>2017-12-10T02:14:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-12-10-Wesley’s-Digest-Collection"><a href="#2017-12-10-Wesley’s-Digest-Collection" class="headerlink" title="2017/12/10 Wesley’s Digest Collection"></a>2017/12/10 Wesley’s Digest Collection</h4><ul>
+<li><p>『日本電信公司 NTT DoCoMo 運用 5G 高寬頻、低延遲技術，跟日本三人女子團體 Perfume 合作完成完美表演。Perfume 整齊劃一的舞步，將分隔三地的三人合體在同一個舞台的畫面造成不少話題，三名團員分別在東京、倫敦、紐約三地，透過 5G 的低延遲特性克服畫面延遲，加上 Perfume 的表演默契還能精準地讓畫面跟舞步同步。不僅克服時差、距離的問題，還能輸出高畫質影像，這種結合科技與藝術的另類演出，讓讓三人三地的 Perfume 做出有特色的同步演出。』Perfume 不愧是走在時代尖端的音樂團體，不管是電子 EDM 曲風還是行銷手法都每每讓人有耳目一新的體驗。</p>
+<ul>
+<li><a href="https://www.cool3c.com/article/130741" target="_blank" rel="external">Perfume 三人三地 用低延遲 5G 技術合體做出同步演唱會</a></li>
+</ul>
+</li>
+<li><p>『如果你花了半年時間，抽絲剝繭理清了複雜的商業邏輯，建立了清爽明確的抽象層，並且預先額外設想了其他的使用情境，最後開發了一套易於擴充的軟體架構，讓一個大學剛畢業的新人，都可以在你的架構上不到一個星期就可以開發出新功能。這代表什麼呢？這代表你的績效很差 — 你的管理者只會看到，你花了半年才做了一件事清，一個新人剛來，卻只需要花上一個星期就可以完成一件事，那還要你來做什麼呢？』。</p>
+<ul>
+<li><a href="https://medium.com/@p5d12000/%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%87%89%E8%A9%B2%E6%94%BE%E5%BF%83%E5%A4%A7%E8%86%BD%E5%9C%B0%E5%89%B5%E9%80%A0%E6%8A%80%E8%A1%93%E8%B2%A0%E5%82%B5-a8022d85810" target="_blank" rel="external">工程師應該放心大膽地創造技術負債</a></li>
+</ul>
+</li>
+<li><p>『達美樂曾說明本身其實是一間科技公司，只是恰好在販售披薩，先前除了在紐西蘭與 Flirtey 合作以小型無人機提供披薩遞送服務，更曾在英國地區推出可透過藍牙技術與手機 App 連動的實體按鈕，就連外帶用的披薩瓦楞紙盒、輸送帶式烤箱，以及外送時可確保披薩溫度的可攜式電熱包都隨著時間持續精進。』達美樂曾說明本身其實是一間科技公司，只是恰好在販售披薩 … sounds interesting。</p>
+<ul>
+<li><a href="https://www.inside.com.tw/2017/11/12/dominos-using-ai-to-check-if-pizza-is-ready" target="_blank" rel="external">本身是間科技公司的達美樂，開始藉由人工智慧確保披薩烘焙品質</a></li>
+</ul>
+</li>
+<li><p>『為何都是那麼年輕的人？「因為資深有經驗的人不來，在傳統媒體做過幾年的人沒有一個願意來，大家還是覺得在一個報紙做比較有安全感和體面一點。」徐滬生回憶道，當時是間寂寂無名的小公司，雖然自身在媒體圈有點名氣，但還是沒有人願意去冒險。於是只能找到年輕人，「反而沒有太多的束縛，他們都很拼命」。』。</p>
+<ul>
+<li><a href="http://bkb.mpweekly.com/%E5%9F%8E%E5%B8%82%E7%84%A6%E7%82%B9/sundaypeople-yitiao-xuhusheng" target="_blank" rel="external">【星期日人物】大船沉沒前轉身 《一条》背後的男人－徐滬生</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『未來，除了繼續靠數據擴展他們的數位媒體版圖外，BuzzFeed還希望為社會帶來影響力。「對現代媒體來說，科技帶來前所未見的機會，讓他們連結自家讀者與觀眾、連結人們的生活、並對人們關心的事件給予互動。」Jonah Peretti說，如果一篇「每個有乳頭的人都該知道的29件事」文章，能讓一個讀者因此去醫院檢查、發現1期乳癌，這就是對社會一點小小的正面影響。』。<ul>
+<li><a href="https://www.bnext.com.tw/article/46758/company-stories-buzzfeed" target="_blank" rel="external">揭秘BuzzFeed社群經營5大招，成為流量獨角獸！</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>還能有什麼比這更憂傷。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=KU28BTLeonQ" target="_blank" rel="external">Cicada - 以一種假裝放蕩的矜持 與你告別 - Farewell - 2016</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-12-10-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-12-10-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/12/10 Wesley’
+    
+    </summary>
+    
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#229</title>
@@ -63,11 +117,11 @@
     </summary>
     
     
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
       <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
     
       <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
       <category term="aimer" scheme="https://github.com/WeiChiaChang/blog/tags/aimer/"/>
     
@@ -237,9 +291,9 @@
     
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
@@ -297,9 +351,9 @@
     
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
-      <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
-    
       <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
+    
+      <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
@@ -353,9 +407,9 @@
     </summary>
     
     
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
       <category term="game" scheme="https://github.com/WeiChiaChang/blog/tags/game/"/>
     
@@ -415,9 +469,9 @@
     
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
-      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
-    
       <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
+    
+      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
     
       <category term="WEDNESDAY CAMPANELLA" scheme="https://github.com/WeiChiaChang/blog/tags/WEDNESDAY-CAMPANELLA/"/>
     
@@ -1102,64 +1156,6 @@
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
       <category term="sakanaction" scheme="https://github.com/WeiChiaChang/blog/tags/sakanaction/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#210</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/11/20/Wesley-Daily-Digest-210/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/11/20/Wesley-Daily-Digest-210/</id>
-    <published>2017-11-20T00:38:15.000Z</published>
-    <updated>2017-11-20T00:38:58.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-11-20-Wesley’s-Digest-Collection"><a href="#2017-11-20-Wesley’s-Digest-Collection" class="headerlink" title="2017/11/20 Wesley’s Digest Collection"></a>2017/11/20 Wesley’s Digest Collection</h4><ul>
-<li><p>『醫科一直被視為台灣社會最拔尖的菁英，大概也只有劉源俊這批萌發於60年代的物理學者，有氣魄睥睨醫科。1957年，蘇聯發射第一顆人造衛星，同年李政道、楊振寧拿下諾貝爾物理學獎，「當屆有史以來第一次，建中保送生第一名選擇了台大物理系、非醫科，隔年聯考第一名也選擇了台大物理系，那是物理學研究氣氛最濃的時代，滿街都是理科翻版教科書，後來醫科併入丙組，和甲組的理科分開。」他說。』。</p>
-<ul>
-<li><a href="https://www.twreporter.org/a/interview-sciencemonthly-tsai-meng-li" target="_blank" rel="external">論文造假案背面：蔡孟利以小說「勘誤」未現的真相</a></li>
-</ul>
-</li>
-<li><p>『我的另外一個重大發現，是我的目標用戶群大部分都使用文字或文章在Facebook上交流和分享。不在我目標用戶群中的朋友，多半喜歡用影片或圖像來溝通交流；因此，我看到的這些非目標用戶群在Facebook上轉貼分享的影片，幾乎都是一樣的東西。在我的目標用戶群裡面，對文章發表形式的喜好和接受度也不一樣。我發現我寫的文章如果直接發表在Facebook上，無論點閱率、按讚數、或是分享數，都比經過專業編輯過以後的貼文來得更高。所以，往往我信手拈來，隨筆寫寫的輕鬆文章，反而比我花了很多時間，總結很多經驗和理論的文章，受到更多歡迎。』。</p>
-<ul>
-<li><a href="https://tuna.to/fb-terry-followers-7187a1de2c80" target="_blank" rel="external">我的Facebook社群研究／程天縱</a></li>
-</ul>
-</li>
-<li><p>『因為使用到 React.js，所以為了修改畫面而要習慣 React 的 view 結構，雖然我的 JavaScripts 完全不行，但學習了解程式語言的結構是我能在短時間內做到的。就好像為了製造印章風格的 logo，設計師會在設計之前瘋狂地蒐集瀏覽各式各樣的印章樣式：從印章怎麼刻、分成陰刻與陽刻等等，為的就是要了解印章背後的原理。我認為設計師有價值的地方在於觀察、理解、重組與整合，最後調配各種要素以達到設計的目的。』。</p>
-<ul>
-<li><a href="https://medium.com/d-d-mag/ui-%E8%A8%AD%E8%A8%88%E5%B8%AB%E8%88%87%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E5%8D%94%E4%BD%9C-57777eaae71b" target="_blank" rel="external">UI 設計師與前端工程師的協作</a></li>
-</ul>
-</li>
-<li><p>『扯一下現在很紅的 devops, 我是覺得要當一個好的 RD, 其實也要當過一陣子的 operation因為假如你有維運的經驗 其實你會知道寫程式時 哪些地方要特別注意 哪些地方要特別加 log, 以利之後查詢這其實也是一種自己的 feature 自己維運的概念 (但這又牽扯到未來的 micro-service 概念, micro-service 的一個很重要的點應該是 Boundaries and Responsibility )』。</p>
-<ul>
-<li><a href="https://mylake.github.io/2017/10/08/good-team-good-work/" target="_blank" rel="external">good team, good work</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『從電視廣告甚至到社群網站發文都常常引發話題的杯麵創始品牌．日清，迎接即將來臨的冷冷季節推出每年冬天定番的牛奶海鮮口味杯麵（ミルクシーフードヌードル），再加上今年剛好是這口味開賣10週年而特別推出加入起司感的特濃版本，日清官方推特搶先放上廣告圖來提醒大家這10週年版本的開賣訊息，但沒想到已經上傳的廣告圖卻遭到上司要求重新修改！？重覆修圖的結果竟然也讓這廣告圖完全走向崩壞wwww』。<ul>
-<li><a href="https://news.gamme.com.tw/1526988" target="_blank" rel="external">《按照上司要求不斷修圖的結果》這種廣告圖大概也只有日清可以成立吧ww</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Beautiful song。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=LyJqTA61F-s" target="_blank" rel="external">Aimer - Nemuri no Mori - Midnight Sun - 2014</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-11-20-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-11-20-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/11/20 Wesley’
-    
-    </summary>
-    
-    
-      <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
-    
-      <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
-    
-      <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
-    
-      <category term="aimer" scheme="https://github.com/WeiChiaChang/blog/tags/aimer/"/>
     
   </entry>
   
