@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2017-12-25T01:54:35.000Z</updated>
+  <updated>2017-12-26T01:57:24.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,60 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#246</title>
+    <link href="https://github.com/WeiChiaChang/blog/2017/12/26/Wesley-Daily-Digest-246/"/>
+    <id>https://github.com/WeiChiaChang/blog/2017/12/26/Wesley-Daily-Digest-246/</id>
+    <published>2017-12-26T01:56:31.000Z</published>
+    <updated>2017-12-26T01:57:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2017-12-26-Wesley’s-Digest-Collection"><a href="#2017-12-26-Wesley’s-Digest-Collection" class="headerlink" title="2017/12/26 Wesley’s Digest Collection"></a>2017/12/26 Wesley’s Digest Collection</h4><ul>
+<li><p>『Enigma Pattern的首席資料科學家Lukasz Kuncewicz表示，Enigma是一套複雜的密碼系統，即使知道訊息的語言是德文，破解仍然需要花費許多時間，更何況要測試數十億可能的組合，或許需要花上數周。而雲端科技加速了這個過程，一臺解碼子需要花費數周，同時使用2,000臺解碼子每秒測試4千1百萬種可能性，約測試過了320億種可能性，13分鐘後便能完全破解Enigma M4版本。』。</p>
+<ul>
+<li><a href="https://www.ithome.com.tw/news/118987" target="_blank" rel="external">圖靈耗費2年心力，但雲端加AI只用15分鐘，就破解了納粹Enigma密碼機</a></li>
+</ul>
+</li>
+<li><p>『最近 iPhone 出現黑屏、無限轉圈圈的問題，我們可以利用這個機會進行寫ˋ回報，以下是我的作法，大家可當做參考，也歡迎告慰先進分享你的問題回報方是，讓未來寫回報更能夠加速問題的處理！Device: iPhone 6S，iOS 版本 : 11.1.2，問題：在11月底進行了更新之後，重開機，螢幕卻出現了「黑屏不斷轉圈圈」、「閃退」的問題，這邊讓其強制關機重開機也是一樣狀況，也無法解決問題。More Detail：可以看以下錄製的操作影片。』。</p>
+<ul>
+<li><a href="https://medium.com/@mybaseball52/%E5%95%8F%E9%A1%8C%E5%9B%9E%E5%A0%B1%E6%80%8E%E9%BA%BC%E5%AF%AB-93af5c7ed592" target="_blank" rel="external">問題回報怎麼寫</a></li>
+</ul>
+</li>
+<li><p>『在很多热爱程序的人心底，如此用着开源的IDE (QT creator), 用着开源的的是音频编解码软件（ffmpeg），造出的应用却关起门来收费，可谓是开源世界的 “蛀虫”。』。</p>
+<ul>
+<li><a href="https://elevenbeans.github.io/2017/04/10/%E5%BC%80%E6%BA%90%E7%B2%BE%E7%A5%9E%E4%BB%8E%E6%88%91%E5%81%9A%E8%B5%B7/" target="_blank" rel="external">开源精神, 从我做起</a></li>
+</ul>
+</li>
+<li><p>『自嘲自己當市長三周年最大成就是「爬樓梯越爬越快」，從政治素人變成非典型市長，在我們獨家鏡頭下，柯文哲這樣替自己下評論，「我根本就不是政治人物，我們是半路出家」。』雖然有點內容廣場，但看到這句還是 quote 一下。</p>
+<ul>
+<li><a href="http://www.setn.com/News.aspx?NewsID=329205" target="_blank" rel="external">每天上班都遇「尷尬弟」…兩人成麻吉！　柯P分享保暖撇步</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『舉例來說，在英文世界許多（老一輩的）人確實相信女性邏輯比較差。然而，如果看看那些人怎樣對待打算學習邏輯的女性，在教學上給予的差別待遇，就不難理解這種「預言」怎樣「自我實現」。7先剝奪女性學習的機會，再指控女性能力不好，還覺得自己客觀中立理性，這種行為老實說不太適合用文雅的字眼來評價。』。<ul>
+<li><a href="https://opinion.udn.com/opinion/story/6685/2894184" target="_blank" rel="external">賴天恆／第一次「仇女」就上手</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>外表和嗓音的獨特反差感。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=GfZpNSXita4" target="_blank" rel="external">iri - Watashi - Watashi - 2017</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2017-12-26-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-12-26-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/12/26 Wesley’
+    
+    </summary>
+    
+    
+      <category term="github" scheme="https://github.com/WeiChiaChang/blog/tags/github/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#245</title>
@@ -1080,68 +1134,6 @@
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#226</title>
-    <link href="https://github.com/WeiChiaChang/blog/2017/12/06/Wesley-Daily-Digest-226/"/>
-    <id>https://github.com/WeiChiaChang/blog/2017/12/06/Wesley-Daily-Digest-226/</id>
-    <published>2017-12-06T01:56:26.000Z</published>
-    <updated>2017-12-06T01:57:02.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2017-12-06-Wesley’s-Digest-Collection"><a href="#2017-12-06-Wesley’s-Digest-Collection" class="headerlink" title="2017/12/06 Wesley’s Digest Collection"></a>2017/12/06 Wesley’s Digest Collection</h4><ul>
-<li><p>『主流教育的人們甚至會把像我們這樣另類教育出來的學生，看作是「教育叛軍」（rebels）。也導致常常有人會問說：「哇，那你們的學生一定很自由，想做什麼就做什麼。」但我們認為享受自由之前，必須先承擔責任。我們是有固定的課程時間，每個禮拜二到禮拜六是上課時間，每天早上10點開始一直到晚餐結束，至於你學什麼，是經過和學生的討論和他們自己的抉擇。』。</p>
-<ul>
-<li><a href="https://www.twreporter.org/a/high-risk-youth-korean-solution" target="_blank" rel="external">【南韓篇】Haja Center讓中輟生決定學什麼</a></li>
-</ul>
-</li>
-<li><p>『隨後 Jeff Bezos 以「從現在到 80 歲最好人生規劃」的方向思考了幾天，最後做出「盡量不要讓自己後悔」的決定。他說：「雖然你可能會為自己做出錯誤抉擇感到後悔，但更常見的是，你會因連試都沒試遺憾終生，就像當初喜歡一個人卻沒告白一樣。」因此他決意辭職，創辦亞馬遜。「就算我失敗了，我 80 歲時仍會因這件事感到自豪。」』『「我們都必須選擇自己的人生。要記住，人生是被抉擇所形塑，而非天份。」他認為人若不是選擇安逸舒適的生活，就是冒險犯難；但到了人 80 歲的時候，會感到自豪的是後者。』。</p>
-<ul>
-<li><a href="https://www.inside.com.tw/2017/11/06/jeff-bezos-guide-to-life" target="_blank" rel="external">貝索斯的人生指南：無論勝敗，創辦亞馬遜是為了 80 歲還能引以自豪</a></li>
-</ul>
-</li>
-<li><p>『少數在台灣還拚命做技術的，甚至一堆都是僑生。還有一些很拚的，結果目標就只是進入大公司，或是幫助別人得到大公司的肯定。這就是台灣的文化，不思進取，開公司和搞技術的，還不是全都一個樣。台灣人就是這樣的格局，這樣的夢想，這樣做什麼軟體業啊？現在台灣軟體界根本一堆宗教，Google 教、Github 教、Scrum 教、某某程式語言教，還有新的 AI 教，大家光是關注教內新聞和讚揚我教就飽了，關心如何做出有用的產品，都不是自己的事，平常上班只是工作，工時和福利比較重要，其實也真的早就沒人關心台灣軟體業的發展了。』。</p>
-<ul>
-<li><a href="https://www.ptt.cc/bbs/Gossiping/M.1509874983.A.325.html" target="_blank" rel="external">Re: [問卦] 台灣軟體業為什麼搞不起來</a></li>
-</ul>
-</li>
-<li><p>『他們知道這年齡的觀眾沒辦法提太重的雜貨回家，但他們也不希望陌生人進入他家。這就是為何他們讓警察來檢查他們的送貨人員。這能讓他們的觀眾對送貨來家裡的員工有信心，並且還讓他們把餐點放進冷凍庫。這點是沒有超市可以做到的，因為這會減少他們可以販售商品的機會。』『所以我的問題是：你想成為怎麼樣的人呢？你想只是當一個 UI 設計師，還是你要逼迫自己跟你的客戶去思考介面以外的東西呢？』。</p>
-<ul>
-<li><a href="https://medium.com/digital-sunday/ux-%E8%A8%AD%E8%A8%88%E5%B8%AB%E5%80%91-%E4%BD%A0%E5%80%91%E6%94%BE%E5%A4%AA%E5%A4%9A%E5%BF%83%E5%8A%9B%E5%9C%A8%E5%89%B5%E9%80%A0%E5%8F%AA%E6%98%AF%E6%BC%82%E4%BA%AE%E7%9A%84%E4%BB%8B%E9%9D%A2%E4%BA%86%E5%97%8E-d450891cdffe" target="_blank" rel="external">UX 設計師們：你們放太多心力在創造只是漂亮的介面了嗎？</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『商业公司最关心的（或者说唯一在乎的）事情，就是增加收入、降低成本。因此，它们实际上需要的不是程序员，而是能够帮助它们增加收入、降低成本的人。开发优美的软件，解决技术难题，编写没有 bug 的代码，这些都不是商业公司的目的。它们雇佣你，是为了让你帮它们完成某个可以增加收入、降低成本的项目，而不是为了让你追求个人的软件成就。』。<ul>
-<li><a href="http://www.ruanyifeng.com/blog/2011/10/dont_call_yourself_a_programmer.html" target="_blank" rel="external">不要自称为程序员</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>雨の匂いなら　気付けば遠くへ　消える頃には愛しくなる。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=RlNSVp47PQA" target="_blank" rel="external">Aimer - After Rain - Falling Alone - 2001</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2017-12-06-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2017-12-06-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2017/12/06 Wesley’
-    
-    </summary>
-    
-    
-      <category term="ux" scheme="https://github.com/WeiChiaChang/blog/tags/ux/"/>
-    
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
-      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
-    
-      <category term="aimer" scheme="https://github.com/WeiChiaChang/blog/tags/aimer/"/>
     
   </entry>
   
