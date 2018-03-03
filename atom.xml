@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2018-03-02T02:24:24.000Z</updated>
+  <updated>2018-03-03T02:20:59.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#312</title>
+    <link href="https://github.com/WeiChiaChang/blog/2018/03/03/Wesley-Daily-Digest-312/"/>
+    <id>https://github.com/WeiChiaChang/blog/2018/03/03/Wesley-Daily-Digest-312/</id>
+    <published>2018-03-03T02:18:56.000Z</published>
+    <updated>2018-03-03T02:20:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2018-03-03-Wesley’s-Digest-Collection"><a href="#2018-03-03-Wesley’s-Digest-Collection" class="headerlink" title="2018/03/03 Wesley’s Digest Collection"></a>2018/03/03 Wesley’s Digest Collection</h4><ul>
+<li><p>『創辦人約書亞‧凡那（Joshua Viner）和瓊‧凡那（Jon Viner）兄弟是連續創業家，過去曾打造擁有5千萬使用者的交友軟體Chirpme，因為自己養了寵物後，發現「陪伴商機」很有潛力才決定創業。』。</p>
+<ul>
+<li><a href="https://meet.bnext.com.tw/articles/view/42305?utm_campaign=5137301&amp;utm_source=SendPulse&amp;utm_medium=push" target="_blank" rel="external">看準寵物市場不敗商機，軟銀砸87億投資代客遛狗App</a></li>
+</ul>
+</li>
+<li><p>『如果大部分人都在不同的时区工作，那怎么安排公共假期呢？想象一下自己在中国过着孤单的圣诞假期……解决方法很简单，就是无限制假期。在GitHub，只要不给同事太大压力，你可以自行选择在任何时候休假，假期内薪水照付，没有时间限制，也不需要公司批准。』。</p>
+<ul>
+<li><a href="http://cheng.guru/blog/2014/12/07/github-benefits.html" target="_blank" rel="external">说说GitHub的福利政策</a></li>
+</ul>
+</li>
+<li><p>『当然也不是说这门课没有用，社会上不少人几乎完全不会编程却在架构师、主管的位置上做的风生水起，靠的就是这样能说，把这位老师的扯劲学上一半，毕业了去个小公司当个主管没有问题。再说说虚拟城市这个大项目，因为项目比较大所以需要不同的人组队，通常来说到最后就是一个牛人带一群亲朋好友，最后亲朋好友们打打酱油最后牛人自己一个耗上几夜把东西做出来。』。</p>
+<ul>
+<li><a href="http://cheng.guru/blog/2015/09/25/seu.html" target="_blank" rel="external">计院那些年那些事</a></li>
+</ul>
+</li>
+<li><p>『負責與Niantic洽商合作的嘉義縣智慧城市辦公室執行長王景弘說，Ingress的台灣玩家人數約15萬人，許多玩家都很瘋狂，半夜也會前往攻占據點，這次預估可帶起一波玩家進攻台灣燈會的風潮。』。</p>
+<ul>
+<li><a href="http://m.ltn.com.tw/news/life/breakingnews/2330885" target="_blank" rel="external">台灣燈會超炫 結合Ingress遊戲攻占嘉義景點</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>時速 204 公里是什麼誇張的概念 ….<ul>
+<li><a href="http://volleyball.biji.co/index.php?q=news&amp;act=info&amp;id=1320" target="_blank" rel="external">排球小軼事：排球也有世界紀錄？</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>工作爆炸忙碌時就是要聽個 Aimer。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=fw766SgVSQM" target="_blank" rel="external">Aimer - Spica - Single - 2016</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2018-03-03-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-03-03-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/03/03 Wesley’
+    
+    </summary>
+    
+    
+      <category term="github" scheme="https://github.com/WeiChiaChang/blog/tags/github/"/>
+    
+      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+      <category term="aimer" scheme="https://github.com/WeiChiaChang/blog/tags/aimer/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#311</title>
@@ -449,9 +507,9 @@
     </summary>
     
     
-      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
     
       <category term="game" scheme="https://github.com/WeiChiaChang/blog/tags/game/"/>
     
@@ -565,13 +623,13 @@
     </summary>
     
     
-      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
-      <category term="porn" scheme="https://github.com/WeiChiaChang/blog/tags/porn/"/>
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
     
       <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
+    
+      <category term="porn" scheme="https://github.com/WeiChiaChang/blog/tags/porn/"/>
     
       <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
     
@@ -735,9 +793,9 @@
     </summary>
     
     
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
       <category term="github" scheme="https://github.com/WeiChiaChang/blog/tags/github/"/>
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
       <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
     
@@ -1086,64 +1144,6 @@
       <category term="rap" scheme="https://github.com/WeiChiaChang/blog/tags/rap/"/>
     
       <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#292</title>
-    <link href="https://github.com/WeiChiaChang/blog/2018/02/11/Wesley-Daily-Digest-292/"/>
-    <id>https://github.com/WeiChiaChang/blog/2018/02/11/Wesley-Daily-Digest-292/</id>
-    <published>2018-02-11T02:54:51.000Z</published>
-    <updated>2018-02-11T02:55:22.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2018-02-11-Wesley’s-Digest-Collection"><a href="#2018-02-11-Wesley’s-Digest-Collection" class="headerlink" title="2018/02/11 Wesley’s Digest Collection"></a>2018/02/11 Wesley’s Digest Collection</h4><ul>
-<li><p>『難怪日本觀眾覺得「戀上香港」的香港是「新」的，它所戀上的香港，當鏡頭晃過，有電車、夜景、街市、石板街、茶樓、海山樓、黃大仙等……都是貼地得多的場景，不再借鑑舊日想像中的香港。這次總算沒有漁船、大佛、旗袍和戲棚唱曲，也似乎不再強調香港有龍。』。</p>
-<ul>
-<li><a href="http://www.cup.com.hk/2017/10/13/redeye-koisuru-hong-kong/" target="_blank" rel="external">紅眼：「戀上香港」—— 從架空回歸真實的香港</a></li>
-</ul>
-</li>
-<li><p>『你可能會說，白癡才做沒效率的工作，簡直是壓榨勞工，或覺得不可思議，真有那麼忙嗎？等你拿到46個月的年終獎時，你也許就不會這麼說了。如果你還是認為這是不應該的，那建議別來中國，中國現在就是一個戰場。』。</p>
-<ul>
-<li><a href="http://www.fhm.com.tw/article?id=24773" target="_blank" rel="external">我用北京遊戲公司7年經驗告訴你，太多人對中國充滿無知與幻想</a></li>
-</ul>
-</li>
-<li><p>『當然這樣的性愛合約是否生效，也得看使用者所在當地國家法律而定，《LegalFling》提供的是以區塊鏈打造，難以修改的「資料紀錄」，LegalThings 也保證會以最高加密標準，確保使用者個資不會外洩。』不管是不是，我覺得炒幣是勢在必行了。</p>
-<ul>
-<li><a href="https://www.inside.com.tw/2018/01/22/upcoming-legal-fling-app-combines-blockchain-contracts-sex-ruin" target="_blank" rel="external">名符其實「區塊戀」？歐洲 APP《LegalFling》讓一夜情也有合約保障！</a></li>
-</ul>
-</li>
-<li><p>『我們逼走了一位好醫師。我們犧牲了在他的熱忱底下原本可以 救活的生命。我們在大街辱罵他，但連一聲道歉也沒有。』。</p>
-<ul>
-<li><a href="http://www.ourxanadu.net/?p=49" target="_blank" rel="external">有誰在乎事實的真相？</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『美香和慎二的共通點是他們透過大量的言語反映內心的迷惘，不斷的說話是他們暫且逃逸現實，宣洩情緒的出口，否則他們會被東京壓得喘不過氣，而劇中不少搖晃鏡頭更帶出他們不安的心理狀態。美香和慎二被淹沒在東京的人群裡，這裡沒有人聽得見他們的心聲，只是不斷映照空虛的自己。生冷的東京底下涵蓋著東京人「視而不見」的城市病徵。』。<ul>
-<li><a href="https://flipermag.com/2018/01/22/tokyo-night-sky/" target="_blank" rel="external">《東京夜空最深藍》：人住在城市會漸漸視而不見</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>androp 為 Aimer 量身定做的單戀。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=zSOJk7ggJts" target="_blank" rel="external">Aimer - Kataomoi - Daydream - 2016</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2018-02-11-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-02-11-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/02/11 Wesley’
-    
-    </summary>
-    
-    
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
-      <category term="game" scheme="https://github.com/WeiChiaChang/blog/tags/game/"/>
-    
-      <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
-    
-      <category term="aimer" scheme="https://github.com/WeiChiaChang/blog/tags/aimer/"/>
     
   </entry>
   
