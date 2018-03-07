@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2018-03-06T02:21:01.000Z</updated>
+  <updated>2018-03-07T01:55:04.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#316</title>
+    <link href="https://github.com/WeiChiaChang/blog/2018/03/07/Wesley-Daily-Digest-316/"/>
+    <id>https://github.com/WeiChiaChang/blog/2018/03/07/Wesley-Daily-Digest-316/</id>
+    <published>2018-03-07T01:54:35.000Z</published>
+    <updated>2018-03-07T01:55:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2018-03-07-Wesley’s-Digest-Collection"><a href="#2018-03-07-Wesley’s-Digest-Collection" class="headerlink" title="2018/03/07 Wesley’s Digest Collection"></a>2018/03/07 Wesley’s Digest Collection</h4><ul>
+<li><p>『蘇珊本人就說，「我不認為有很多媽媽，會對加密貨幣持有如何改變世界的遠大目標；但像我們這種組織，這些媽媽們平常都被日常生活所綑綁。」彼此交流如何投資加密貨幣，不只是互相幫忙賺錢，同時透過跟另一個媽媽交流生活中的點點滴滴，也是在情緒上互相扶持。』。</p>
+<ul>
+<li><a href="https://www.inside.com.tw/2018/01/29/bitcoin-moms" target="_blank" rel="external">地方的媽媽需要炒幣！英國婦女如何自組「比特幣互助會」？</a></li>
+</ul>
+</li>
+<li><p>『「究竟都市人如何看待周遭的他種生命？看待都市流浪動物與野生動物的生存問題呢？」抱著這樣一顆想替動物「去汙名化」的心，我義無反顧地投入狩獵行為的研究裡。』。</p>
+<ul>
+<li><a href="https://dq.yam.com/post.php?id=8783" target="_blank" rel="external">貓、幼雛、蜥蜴與松鼠──離我們很近又陌生的「都市生態」</a></li>
+</ul>
+</li>
+<li><p>『很多老闆沒有翟神的好記性，經營不善時，要員工共體時艱，減薪、資遣、扣發獎金等無所不來；一旦營運轉好時，通通忘了，減掉的薪水忘記加回來、扣發的獎金忘記補回來、被資遣的員工忘記找回來。像翟神這樣做就對了，花錢買人心，留下來和他一起打拚的員工就會死忠到底。』。</p>
+<ul>
+<li><a href="http://www.storm.mg/lifestyle/394232" target="_blank" rel="external">「勞基法又沒規定要發年終，幹嘛給！」年終多重要？看納豆、翟神員工反應「差很大」就懂</a></li>
+</ul>
+</li>
+<li><p>『此外，低薪、過勞、工作制度的不健全，都讓「斜槓」在尋覓工作機會時沒能獲得良好的保障，被刁難、強加業務的情形時有所聞，使得「斜槓」難以憑著能力接到案子，還有可能因為價錢談不攏而被冠上「草莓族」的標籤。』。</p>
+<ul>
+<li><a href="http://www.storm.mg/lifestyle/394150" target="_blank" rel="external">台灣斜槓世代的多職人生</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『软件的精髓在于设计，设计是一件很费大脑的事件。对于软件来说，设计没有完美的，它总是一件需要取舍需要权衡的事，比如：时间换空间，空间换时间，TCP或UDP，同步还是异步，数据冗余还不冗余等等。那怕是一个小小的observers模式是pull方式还是push方式 都需要仔细讨论。这些的东西需要时间和做前期尝试。』。<ul>
+<li><a href="https://coolshell.cn/articles/5686.html" target="_blank" rel="external">多些时间能少写些代码</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>不同版本各有勝出。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=9X2bj5BLfW0" target="_blank" rel="external">Nagi Yanagi - Vidro Moyou やなぎなぎ ビードロ模様 - Euaru - 2013</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2018-03-07-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-03-07-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/03/07 Wesley’
+    
+    </summary>
+    
+    
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
+    
+      <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#315</title>
@@ -1084,64 +1142,6 @@
       <category term="game" scheme="https://github.com/WeiChiaChang/blog/tags/game/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#296</title>
-    <link href="https://github.com/WeiChiaChang/blog/2018/02/15/Wesley-Daily-Digest-296/"/>
-    <id>https://github.com/WeiChiaChang/blog/2018/02/15/Wesley-Daily-Digest-296/</id>
-    <published>2018-02-15T00:21:43.000Z</published>
-    <updated>2018-02-15T00:22:38.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2018-02-15-Wesley’s-Digest-Collection"><a href="#2018-02-15-Wesley’s-Digest-Collection" class="headerlink" title="2018/02/15 Wesley’s Digest Collection"></a>2018/02/15 Wesley’s Digest Collection</h4><ul>
-<li><p>『同時，小室哲哉自身的身體狀況也漸漸下滑，表示2017年時突然聽不太到，至今左耳仍處於幾乎聽不到的狀態，原因被診斷為壓力過大。在治療過程中，因而認識了護士A女。 小室哲哉說A女是值得信賴的護士，彼此間並無男女關係，「然而卻造成誤會，一方面也是因為環境讓人有所聯想的關係。在此我想，只能說是『由於我所為不德所致』，真的很抱歉。」』。</p>
-<ul>
-<li><a href="https://memeon-music.com/2018/01/19/keiko/" target="_blank" rel="external">小室哲哉 外遇風波 今召開記者會宣布引退「自己的音樂活動會從本日開始中止」</a></li>
-</ul>
-</li>
-<li><p>『猶加敦半島上散布了各式各樣由馬雅人所留下的巨大遺跡，而這是因為當地擁有許多被雨水、地下水侵蝕而形成的石灰岩洞穴「天然井」(Cenote)，在馬雅人的宗教觀裡，天然井是被用來與神溝通、具有極高地位的聖地。』。</p>
-<ul>
-<li><a href="https://dq.yam.com/post.php?id=8713" target="_blank" rel="external">研究馬雅文化的墊腳石 全世界最大水底洞穴在墨西哥</a></li>
-</ul>
-</li>
-<li><p>『去年聖結石在一部「廢主管理論」中，談論到自己過去在職場上所觀察到的現象，事實上，這和他自己成為創作者前，涉獵不同領域工作有相當大的關係，也讓他很早就看到了社會的現實，懂得觀察掌握趨勢，累積到現在讓自己在創作之路上能保有強大的野心以及堅持下去的毅力。』其實他的故事本身蠻勵志的，就會想到一張圖，喜歡你，不喜歡你，可以分成四個象限，被爭議，被拒絕，被接受，被忽略，卡在中間的就是一般人，高關注度隨之帶來的絕對是大褒大貶，haters gonna hate，但如果一直堅持要做個大家好也沒有不好，都只是個選擇罷了。</p>
-<ul>
-<li><a href="https://www.inside.com.tw/2018/01/19/youtuber-saint-2" target="_blank" rel="external">【YouTuber 真情告白】百萬訂閱被背後是看盡人生百態，聖結石從打工仔邁向多元創作者</a></li>
-</ul>
-</li>
-<li><p>『聽音樂也可以，如果你會某種樂器，儘管去玩，但為了讓心智有機會漫遊，記得選一首擅長的曲子。音樂讓大腦進入聯想狀態，你對曲子的熟悉能讓大腦不必專注於手中正在進行的這件事。對我們這些非音樂家來說，光是聽音樂，就能啟動許多大腦迴路。戴耳機聽音樂，可以有效阻隔外面的世界，無論你是坐在沙發上聽，躺在地上聽，或是在路上邊跑邊聽。任何音樂都行，但不要有歌詞。即使你對歌詞倒背如流，也會動用到你大腦處理文字的部位，啟動執行網絡。』。</p>
-<ul>
-<li><a href="https://www.bnext.com.tw/article/47749/the-art-and-practice-of-breakthrough-thinking" target="_blank" rel="external">想不出來的時候，就去散步吧！利用不花腦筋的活動，讓創意源源不絕</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『當受害者多爽，我的生命不夠順遂都是因為某某某誰誰誰害的，我多麼不得已啊。我的美好在未來不在現在，因為有某個人拖住了我，我多麼辛苦又偉大，看看我的犧牲，我等著你來補償呢。』。<ul>
-<li><a href="https://womany.net/read/article/10164" target="_blank" rel="external">【楊雅晴專文】當下不能在一起的人就是無緣的人，不要等</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Best edition。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=wZZ7oFKsKzY" target="_blank" rel="external">Nyancat - Nyancat - Single - 2011</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2018-02-15-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-02-15-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/02/15 Wesley’
-    
-    </summary>
-    
-    
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
-      <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
-    
-      <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
-    
-      <category term="stratgy" scheme="https://github.com/WeiChiaChang/blog/tags/stratgy/"/>
     
   </entry>
   
