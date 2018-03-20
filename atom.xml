@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2018-03-19T01:49:15.000Z</updated>
+  <updated>2018-03-20T01:52:39.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#329</title>
+    <link href="https://github.com/WeiChiaChang/blog/2018/03/20/Wesley-Daily-Digest-329/"/>
+    <id>https://github.com/WeiChiaChang/blog/2018/03/20/Wesley-Daily-Digest-329/</id>
+    <published>2018-03-20T01:52:05.000Z</published>
+    <updated>2018-03-20T01:52:39.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2018-03-20-Wesley’s-Digest-Collection"><a href="#2018-03-20-Wesley’s-Digest-Collection" class="headerlink" title="2018/03/20 Wesley’s Digest Collection"></a>2018/03/20 Wesley’s Digest Collection</h4><ul>
+<li><p>『有時資料分析的結果很殘酷，會顯示過去在編輯與行銷上的直覺並不符合現實，有時則能佐證過去經驗與判斷的可信度。』。</p>
+<ul>
+<li><a href="https://www.hbrtaiwan.com/article_content_AR0007025.html" target="_blank" rel="external">讓資料為你產生價值</a></li>
+</ul>
+</li>
+<li><p>『在Jimi Hendrix活躍的前後期間，電吉他是個新鮮、迷人且令人興奮的東西。每個人都想成為吉他大師，因此許多人會開始模仿B.B.King和Buddy Guy這些在舞台演出的人，然後便一代接續著一代傳承。如今，年輕孩子更常聽電子音樂或其他音樂，因為他們沒有像過去的你我那樣，有一個可以效仿的吉他英雄。』。</p>
+<ul>
+<li><a href="https://www.mplus.com.tw/article/2032" target="_blank" rel="external">搖滾樂還沒死，但電吉他正在凋零</a></li>
+</ul>
+</li>
+<li><p>『YouTube 創立於 2005 年 2 月，由三名前 PayPal 僱員查得·賀利（Chad Hurley）、陳士駿、賈德·卡林姆（Jawed Karim）創辦。YouTube 的第一影片即是賈德·卡林姆所上傳的《我在動物園》（Me at the zoo），「低畫質」的影片、影片長度僅有 19 秒，卻象徵了數位網路的新開始。』。</p>
+<ul>
+<li><a href="https://www.damanwoo.com/node/91117" target="_blank" rel="external">【大人物今日發明】2 月 14 日 — YouTube 創立</a></li>
+</ul>
+</li>
+<li><p>『發售這麼久還能接受採訪，讓我確實感受到自己原來做了個不得了的東西（笑）。或許有點太過客觀，但從紅白機開始到現在不斷移植到各種機體上，並對公司營收做出貢獻，並且有這麼多玩家持續在玩著，對於技術者來說，真的是感到非常的幸福。』。</p>
+<ul>
+<li><a href="http://h9856.gameqb.net/2018/02/30.html" target="_blank" rel="external">【專題】「太空侵略者」 30 週年開發秘話 - 開發者西角友宏與和田洋一對談</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『除此之外，一定要邀请工程师来参与项目前期的需求收集和需求评审，不要觉得这种场合不需要工程师，等确定了再转述或者产品经理去宣讲就可以了。你需要尽可能让工程师参与，他可以更全面地了解项目和特性的目的，和不同利益相关者的顾虑和立场，也可以让工程师理解一些产品经理对产品细节的坚持。』。<ul>
+<li><a href="http://www.infoq.com/cn/news/2018/02/product-manager-cooperation-win" target="_blank" rel="external">产品经理如何与开发打交道，才能实现合作与共赢？</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>太鼓達人，經典回味。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=j7CDb610Bg0" target="_blank" rel="external">BUMP OF CHICKEN - 天体観測 - Jupiter - 2002</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2018-03-20-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-03-20-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/03/20 Wesley’
+    
+    </summary>
+    
+    
+      <category term="game" scheme="https://github.com/WeiChiaChang/blog/tags/game/"/>
+    
+      <category term="PM" scheme="https://github.com/WeiChiaChang/blog/tags/PM/"/>
+    
+      <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
+    
+      <category term="rock" scheme="https://github.com/WeiChiaChang/blog/tags/rock/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#328</title>
@@ -453,9 +511,9 @@
     </summary>
     
     
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
       <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
       <category term="world" scheme="https://github.com/WeiChiaChang/blog/tags/world/"/>
     
@@ -1092,58 +1150,6 @@
       <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#309</title>
-    <link href="https://github.com/WeiChiaChang/blog/2018/02/28/Wesley-Daily-Digest-309/"/>
-    <id>https://github.com/WeiChiaChang/blog/2018/02/28/Wesley-Daily-Digest-309/</id>
-    <published>2018-02-28T01:39:36.000Z</published>
-    <updated>2018-02-28T01:39:59.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2018-02-28-Wesley’s-Digest-Collection"><a href="#2018-02-28-Wesley’s-Digest-Collection" class="headerlink" title="2018/02/28 Wesley’s Digest Collection"></a>2018/02/28 Wesley’s Digest Collection</h4><ul>
-<li><p>『情人以東方香料作定情信物，貴族宴客時以香料炫耀財富，人人都藉異國香料沾天堂的光。若然主人給客人面子，就會請他們吃很多胡椒，客人吃晚飯時，如果發覺菜肉味道嗆辣，就知道這戶人家非常看得起自己了。』。</p>
-<ul>
-<li><a href="http://www.cup.com.hk/2017/12/14/pepper-in-different-culture/" target="_blank" rel="external">胡椒：來自天堂的萬靈藥</a></li>
-</ul>
-</li>
-<li><p>『而鄧麗君的死因，主要是因為日益嚴重的氣喘發作導致呼吸困難，最後於 1995 年 4 月底入住的清邁梅坪酒店內發生呼吸不順，雖緊急送往蘭朗醫院進行急救，卻因當時交通繁忙延誤送醫時間而在途中停止呼吸，即便立即持續實施心外按壓與電擊刺激將近 45 分鐘，最後仍宣告不治。』。</p>
-<ul>
-<li><a href="https://www.inside.com.tw/2018/01/29/google-doodle-teresa-teng" target="_blank" rel="external">Google 塗鴉：「永遠的軍中情人」、「亞洲歌姬」鄧麗君 65 歲冥誕</a></li>
-</ul>
-</li>
-<li><p>『在稍早由沈修平博士所發出的文章中，沈博士直言蘋果的 app 審核指南與作法惡名昭彰。他認為蘋果的審核指南中的許多項目，目的在於強化其市場獨佔權，而非保護消費者，並不尊重美國法律，尤其是反托拉斯法。』。</p>
-<ul>
-<li><a href="https://www.bnext.com.tw/article/47967/goliath-beats-david-app-store-reject-update-for-puffin-browser-by-cloudmosa" target="_blank" rel="external">大鯨魚欺負小蝦米？Puffin 瀏覽器驚傳遭 App Store 駁回更新</a></li>
-</ul>
-</li>
-<li><p>『不過要如何將個人流量轉成品牌流量，再更進一步轉換成購買流量，其實也是有技巧的，不是隨便一個藝人或網紅都能做到。張祐誠提到其中很重要的一點是，隋棠對這個品牌的投入很深。「藝人要有足夠參與度，如果不是她發自內心喜歡，消費者不會有感動。」他表示每一個產品從設計、布料到樣衣，都必須經過隋棠的審核把關才能上架。這也是打造品牌獨特性的關鍵。』。</p>
-<ul>
-<li><a href="https://www.bnext.com.tw/article/47987/sonia-sui-personal-brand-suitangtang" target="_blank" rel="external">打破服飾電商經營法則，隋棠自有品牌為何一夕爆紅</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『而當遇見時，便明白以往的一切都是發生的恰如其分，各自帶著彼此的故事，為了隨之而來的相遇，共享彼此的人生。』。<ul>
-<li><a href="https://flipermag.com/2018/01/29/after-youth/" target="_blank" rel="external">在青春之後，明白相遇是一種必然</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>不要掙扎了吧，放手吧。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=GedcwChv85k" target="_blank" rel="external">渣泥 - 半心 - EP - 2017</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2018-02-28-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-02-28-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/02/28 Wesley’
-    
-    </summary>
-    
-    
-      <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
     
   </entry>
   
