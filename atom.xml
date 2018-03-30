@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2018-03-29T00:50:19.000Z</updated>
+  <updated>2018-03-30T08:26:00.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#339</title>
+    <link href="https://github.com/WeiChiaChang/blog/2018/03/30/Wesley-Daily-Digest-339/"/>
+    <id>https://github.com/WeiChiaChang/blog/2018/03/30/Wesley-Daily-Digest-339/</id>
+    <published>2018-03-30T08:25:30.000Z</published>
+    <updated>2018-03-30T08:26:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2018-03-30-Wesley’s-Digest-Collection"><a href="#2018-03-30-Wesley’s-Digest-Collection" class="headerlink" title="2018/03/30 Wesley’s Digest Collection"></a>2018/03/30 Wesley’s Digest Collection</h4><ul>
+<li><p>『 新加坡商Sea集團上季虧損擴增逾兩倍，原因是Sea為了追求旗下電商平台蝦皮的業績成長而大舉投資，行銷成本激增。Sea並宣布集團總裁納許（Nick Nash）計劃年底卸任。』。</p>
+<ul>
+<li><a href="https://money.udn.com/money/story/5599/3005391" target="_blank" rel="external">蝦皮燒錢 母公司虧損擴大</a></li>
+</ul>
+</li>
+<li><p>『是的，完美主義者他們最大的問題在於，他們想要完成不可能的任務，把目標設定過高（神一般的目標），或者無法在時限內完成的（例如一週內瘦 10 公斤），做不到又難以妥協，甚至強烈批評苛責自己，而不斷衍生出強烈不滿足的情緒，甚至自我厭惡的情緒。』。</p>
+<ul>
+<li><a href="https://buzzorange.com/vidaorange/2018/03/01/self-esteem/" target="_blank" rel="external">你不知道的心理學秘密：自我要求高的人，通常自我感覺不良好</a></li>
+</ul>
+</li>
+<li><p>『他們把攻擊描準特定的 IP ，利用 GitHub 上面的暫存資料系統機制（data-caching systems) 去使每一個流量傳輸放大，藉此製作出極大的資訊流量，企圖令 GitHub 主機超出負荷，根據他們的說法製作出來的流量達到每秒以 Tb(terabyte)計算。』。</p>
+<ul>
+<li><a href="https://www.techapple.com/archives/20381" target="_blank" rel="external">GitHub 受到破紀錄級 DDoS 攻擊：每秒 1.35Tb 也攻不下它！</a></li>
+</ul>
+</li>
+<li><p>『但在免費用戶越來越贈恨廣告的背景下，類似像Coinhive這樣的革命，的確還有很大的商業潛能，想像有一天，網站能脫離靠著被廣告綁架的宿命，免費使用者能夠清爽地享用著付費等級的內容，代價只需要手機或電腦的部分效能』。</p>
+<ul>
+<li><a href="https://www.ettoday.net/dalemon/post/33936" target="_blank" rel="external">挖礦代碼植入！部落客用「零廣告」逆轉收入：讀者看得更清爽</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『我個人觀察這條鏈裡面，最賺的是場主，因為機器在你租完別人後還是值錢的。一般簽約大概都是半年，所以能有保證的收入。最扯的案例是某場主進機台，徵台主，開出租金半年一口氣繳比較划算的方案，收齊後拿這些錢開新場，用一樣的方案，錢滾錢開了幾個場，等個一兩年後續熱潮過了後再把機台賣掉，等於用四十萬的初期資金，可以滾出一兩百萬以上的最終收益。』。<ul>
+<li><a href="https://www.ptt.cc/bbs/Gossiping/M.1520099140.A.103.html" target="_blank" rel="external">[爆卦] 夾娃娃機業界生態—花費百萬的過來人勸世</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Epic Lyrics.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ymCTiGe5wxk" target="_blank" rel="external">amazarashi One Room jojishi - Message Bottle - 2010</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2018-03-30-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-03-30-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/03/30 Wesley’
+    
+    </summary>
+    
+    
+      <category term="github" scheme="https://github.com/WeiChiaChang/blog/tags/github/"/>
+    
+      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+      <category term="amazarashi" scheme="https://github.com/WeiChiaChang/blog/tags/amazarashi/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#338</title>
@@ -1080,64 +1138,6 @@
       <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#319</title>
-    <link href="https://github.com/WeiChiaChang/blog/2018/03/10/Wesley-Daily-Digest-319/"/>
-    <id>https://github.com/WeiChiaChang/blog/2018/03/10/Wesley-Daily-Digest-319/</id>
-    <published>2018-03-10T01:56:17.000Z</published>
-    <updated>2018-03-10T01:56:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2018-03-10-Wesley’s-Digest-Collection"><a href="#2018-03-10-Wesley’s-Digest-Collection" class="headerlink" title="2018/03/10 Wesley’s Digest Collection"></a>2018/03/10 Wesley’s Digest Collection</h4><ul>
-<li><p>『首先，德國社會尊重專業，視技職教育為年輕人自我實現的過程。「年輕人應該做他有興趣的事，想清楚自己想做什麼、能做什麼，比管以後能賺多少錢更重要」，德國教育部如此鼓勵青少年。』。</p>
-<ul>
-<li><a href="https://newtalk.tw/news/view/2018-02-04/113134" target="_blank" rel="external">18歲月薪台幣近8萬 德國技職磨出好薪水</a></li>
-</ul>
-</li>
-<li><p>『「『曾經我問自己的孩子要不要當電競選手？他們馬上說不要！』因為把遊戲當興趣跟作為專業完全不同，你不僅要熟練、勤練手感，每天眼睛睜開只能專注這件事。就像大家去KTV唱歌是消遣，但對我來說是工作，心情完全不同。在這樣辛苦的情況下，孩子若有天賦與意願去當電競選手，真的要放手讓他去啊！」施文彬興致勃勃地說明。』。</p>
-<ul>
-<li><a href="https://udn.com/news/story/6868/2963769" target="_blank" rel="external">施文彬：打造電競人才鏈不能靠興趣</a></li>
-</ul>
-</li>
-<li><p>『到最後，拜這位教育嚴格的「虎媽」音樂家之賜，這已經完全成了一場網路上的收藏家炫耀大會，各種各樣平常因為堆積心愛的收藏品、花大錢滿足自己童年遺憾，不斷因為空間壓迫或經費支出而受盡家人白眼、同儕側目的收藏者們，似乎都趁機好好的炫耀了一番，並且一吐怨氣。』。</p>
-<ul>
-<li><a href="https://sosreader.com/20180203/" target="_blank" rel="external">萌事件｜神楽坂雯麗｜玩具的怨恨：日本「虎媽音樂家」意外引爆懷舊收藏炫耀潮</a></li>
-</ul>
-</li>
-<li><p>『面對充滿不確定性的未來，啾啾鞋提醒學子在聆聽任何人的經驗時（包括他自己的分享），都應抱持著懷疑的心態，考量到「倖存者偏差」，或許對方過去的決策一點也不精明，只不過是因為他後來幸運獲得一些成功，大家才回過頭說：「他以前做的決定好像很厲害」。』。</p>
-<ul>
-<li><a href="https://ioh.tw/ioharticles-%E5%B0%88%E8%A8%AA-%E5%95%BE%E5%95%BE%E9%9E%8B/?utm_source=facebook&amp;utm_medium=referral&amp;utm_campaign=facebook_fan_page_daily_post&amp;utm_content=other_ioh_article_2045_180205" target="_blank" rel="external">別讓主修決定你是誰！啾啾鞋：就算本科不是最強，也能走出自己的路</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>企業造就慣老闆文化，失去正常判斷力的勞方也只能被迫推往過勞的方向。<ul>
-<li><a href="https://theinitium.com/article/20170227-international-karoshi/" target="_blank" rel="external">不想加班？日本青年人向過勞死說不</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Sayuri 今年新歌第一發！</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=T9N6IUtpO2Y" target="_blank" rel="external">Sayuri - Proust - Tsuki to Hanataba - 2018</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2018-03-10-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-03-10-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/03/10 Wesley’
-    
-    </summary>
-    
-    
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
-      <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
-    
-      <category term="game" scheme="https://github.com/WeiChiaChang/blog/tags/game/"/>
-    
-      <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
     
   </entry>
   
