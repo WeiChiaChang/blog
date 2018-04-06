@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2018-04-05T05:53:06.000Z</updated>
+  <updated>2018-04-06T01:35:50.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#346</title>
+    <link href="https://github.com/WeiChiaChang/blog/2018/04/06/Wesley-Daily-Digest-346/"/>
+    <id>https://github.com/WeiChiaChang/blog/2018/04/06/Wesley-Daily-Digest-346/</id>
+    <published>2018-04-06T01:34:56.000Z</published>
+    <updated>2018-04-06T01:35:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2018-04-06-Wesley’s-Digest-Collection"><a href="#2018-04-06-Wesley’s-Digest-Collection" class="headerlink" title="2018/04/06 Wesley’s Digest Collection"></a>2018/04/06 Wesley’s Digest Collection</h4><ul>
+<li><p>『数据库一定要 mongodb，因为像 JSON，明明 postgresql 更合适。配置文件一定要 JSON 格式，因为像 JS。但是 JSON 配置文件很反人类啊。桌面开发一定要 electron，移动端一定要 React Native，完全不管性能和功能。build 一定要 grunt gulp，完全不学 bash make。这就很呵呵。我没说 Node 不好，我是说你应该看看别的好东西，别抱着 JS 到死。去看看 go，看看 Rack，看看 Rails!ruby 社区给 JS.社区带来过巨大的影响，接下来会是 go 社区。』。</p>
+<ul>
+<li><a href="https://www.zhihu.com/question/64968947" target="_blank" rel="external">如何理解 Ryan Dahl 最近专访中的言论“Node 也许不是构建大型服务的最佳选择”？ - 知乎</a></li>
+</ul>
+</li>
+<li><p>『而且這個產業還不像醫生、藥師一樣需要特定身份，只要你找對方法、用心做下去，半年內就可以達成目標。』。</p>
+<ul>
+<li><a href="https://www.ptt.cc/bbs/Salary/M.1488332704.A.931.html" target="_blank" rel="external">[心得] 入門前端工程師 ——面試攻略 - 看板 Salary - 批踢踢實業坊</a></li>
+</ul>
+</li>
+<li><p>已經不知道 ARuFa 的腦袋到底發生過什麼了，竟然還釣到五隻烏賊。</p>
+<ul>
+<li><a href="https://forum.gamer.com.tw/C.php?bsn=60084&amp;snA=203595" target="_blank" rel="external">【ARuFa】在船上舉行道歉記者會的話，用閃光燈的光真的能釣到烏賊嗎 @歡樂惡搞 KUSO 哈啦板 - 巴哈姆特</a></li>
+</ul>
+</li>
+<li><p>『台灣學術界的許多人明明知道，台灣作為不以英語當官方語的國家，無法吸引國際一流人才過來，但是去整天討糖吃，錯誤引導政府高教政策。更好笑的是，把自己吹捧得像是國際多受歡迎的人才一樣，其實有國際流動力的、想要國際流動的，也不是這樣多。』。</p>
+<ul>
+<li><a href="https://tw.appledaily.com/new/realtime/20180309/1310947/" target="_blank" rel="external">美大學教授：台灣大學老師薪水低嗎 | 蘋果日報</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『最後再次重申，科學家應該實事求是，有幾分證據說幾分話，不要讓科技淪為政治語言。明知道是沒用的東西，失敗了就勇敢的承認錯誤，而不是欺騙並使用以拖待忘的手法。』。<ul>
+<li><a href="https://www.taiwannews.com.tw/ch/news/3379683" target="_blank" rel="external">〈時評〉不忍看福衛五號成為國際太空界的笑柄 | 台灣英文新聞</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>2016/11/03 @TOKYO DOME CITY HALL。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=THMVMun5Mbc" target="_blank" rel="external">SawanoHiroyuki[nZk] Live 004 - 『＆Ｚ, oＩ, aLIEz』Feat.mizuki ／ALDNOAH.ZERO</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2018-04-06-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-04-06-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/04/06 Wesley’
+    
+    </summary>
+    
+    
+      <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
+    
+      <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+      <category term="Sawano Hiroyuki" scheme="https://github.com/WeiChiaChang/blog/tags/Sawano-Hiroyuki/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#345</title>
@@ -1076,62 +1134,6 @@
     
     
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
-      <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#326</title>
-    <link href="https://github.com/WeiChiaChang/blog/2018/03/17/Wesley-Daily-Digest-326/"/>
-    <id>https://github.com/WeiChiaChang/blog/2018/03/17/Wesley-Daily-Digest-326/</id>
-    <published>2018-03-17T01:47:01.000Z</published>
-    <updated>2018-03-17T01:47:36.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2018-03-17-Wesley’s-Digest-Collection"><a href="#2018-03-17-Wesley’s-Digest-Collection" class="headerlink" title="2018/03/17 Wesley’s Digest Collection"></a>2018/03/17 Wesley’s Digest Collection</h4><ul>
-<li><p>『不過整體搜尋來說，成長最多的關鍵字為「蕾絲邊 高級」、「高級 HD」和「情人節」。這份關鍵字榜單也顯示 350 萬新高級用戶，積極地探索高級用戶專屬內容。』真的是做網站的清流。</p>
-<ul>
-<li><a href="https://www.inside.com.tw/2018/02/14/pornhub-premium-valentines-day" target="_blank" rel="external">情人節全免費！情色霸主 Pornhub 歷年 2 月 14 日流量創高峰</a></li>
-</ul>
-</li>
-<li><p>『離園後第一回有人陪我過年，為此我特地搬家，搬到一間樓中樓的大樓，房租貴很多，可是我不管那麼多，樓中樓比較像「家」，有客廳、廚房、房間。記得我還去買春聯來貼，買象徵大吉大利的橘子、一堆火鍋料，邀朋友一起到我家同樂，很難忘的一個春節。』。</p>
-<ul>
-<li><a href="https://www.twreporter.org/a/opinion-alone-in-newyears-eve" target="_blank" rel="external">除夕夜，我一個人——小C的故事</a></li>
-</ul>
-</li>
-<li><p>『我心裡想的是：唉唉唉。我心裡想的是：又來了。即使是擁有完美老二的東西也會出大問題。即使是聖潔修女也會愛得死去活來。』。</p>
-<ul>
-<li><a href="http://www.biosmonthly.com/columnist_topic/9485" target="_blank" rel="external">二月選書｜該換女人養性愛機器人了吧？《荒謬生活的可能解答》</a></li>
-</ul>
-</li>
-<li><p>『當一個喜劇演員最難的一點是你必須要不斷證明你是好笑的。』。</p>
-<ul>
-<li><a href="https://today.line.me/TW/pc/article/5X7jqV" target="_blank" rel="external">單口喜劇戳笑穴 海歸學霸時薪64 「靠熱情撐」</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『即使是知名主流唱片公司所推的音樂人也不一定CD就能大賣，因此我並不特別設限，只要想在這邊寄賣，我全都接受。希望在這裡可以讓每個拼命製作自己想要的音樂的人們都有個被看到的地方，而這樣的CD店也別有一番趣味。』。<ul>
-<li><a href="https://memeon-music.com/2018/01/26/tokyo-future-music/" target="_blank" rel="external">【迷迷專訪】培育未來之星的唱片行 「東京未來音樂 TOKYO FUTURE MUSIC」</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Distorted love. Can’t get you off my mind.</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=VdXZaGGWe3Y" target="_blank" rel="external">Shook Feat. Ronika - Distorted Love - Single - 2012</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2018-03-17-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-03-17-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/03/17 Wesley’
-    
-    </summary>
-    
-    
-      <category term="porn" scheme="https://github.com/WeiChiaChang/blog/tags/porn/"/>
-    
-      <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
     
       <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
     
