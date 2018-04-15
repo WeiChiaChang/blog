@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2018-04-14T02:24:53.000Z</updated>
+  <updated>2018-04-15T01:01:44.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,60 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#355</title>
+    <link href="https://github.com/WeiChiaChang/blog/2018/04/15/Wesley-Daily-Digest-355/"/>
+    <id>https://github.com/WeiChiaChang/blog/2018/04/15/Wesley-Daily-Digest-355/</id>
+    <published>2018-04-15T01:01:14.000Z</published>
+    <updated>2018-04-15T01:01:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2018-04-15-Wesley’s-Digest-Collection"><a href="#2018-04-15-Wesley’s-Digest-Collection" class="headerlink" title="2018/04/15 Wesley’s Digest Collection"></a>2018/04/15 Wesley’s Digest Collection</h4><ul>
+<li><p>『Work like hell. Put in 100 hours weeks every week. If others are putting in 40 hours and you’re putting in 100, even if you’re doing the same thing, you will achieve in 4 months what it takes them a year.』。</p>
+<ul>
+<li><a href="https://udn.com/news/story/6928/2808227" target="_blank" rel="external">清大畢業生：沒有目標的我 在德國當上軟體工程師 | 大學研究所 | 文教 | 聯合新聞網</a></li>
+</ul>
+</li>
+<li><p>『因此當網站有 XSS 弱點時，若 cookie 含有 HttpOnly flag，則攻擊者無法直接經由 JavaScript 存取使用者的 session cookie，可降低使用者身份被盜用的機率。』。</p>
+<ul>
+<li><a href="https://devco.re/blog/2014/06/11/setcookie-httponly-security-issues-of-http-headers-3/" target="_blank" rel="external">HttpOnly - HTTP Headers 的資安議題 (3) | DEVCORE 戴夫寇爾</a></li>
+</ul>
+</li>
+<li><p>『可是，同樣經歷了無數次的調整修正，為什麼有人可以收費數百萬（或許還不包含修改增加費用）；而有些人卻只能收費數百元，還得讓業主改到爽呢？』。</p>
+<ul>
+<li><a href="https://medium.com/%E8%83%8C%E5%9C%B0%E8%A3%A1%E7%9A%84%E8%BA%AB%E5%88%86%E5%85%B6%E5%AF%A6%E6%98%AF%E4%B8%80%E4%BD%8D%E5%B9%B3%E9%9D%A2%E8%A8%AD%E8%A8%88%E5%B8%AB/%E9%97%9C%E6%96%BC%E8%A8%AD%E8%A8%88%E5%A0%B1%E5%83%B9%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BF%83%E5%BE%97-%E4%BB%A5%E5%8F%8A%E6%88%91%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%80%E5%B9%B4%E4%B8%AD-%E6%88%90%E5%8A%9F%E6%8F%90%E9%AB%98%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A0%B1%E5%83%B9%E8%88%87%E5%B9%B4%E6%94%B6-781675f9e79e" target="_blank" rel="external">關於設計報價的一些心得，以及我如何在一年中，成功提高了自己的報價與年收 – 設計私房誌 – Medium</a></li>
+</ul>
+</li>
+<li><p>平實而不矯情。</p>
+<ul>
+<li><a href="https://medium.com/%E8%83%8C%E5%9C%B0%E8%A3%A1%E7%9A%84%E8%BA%AB%E5%88%86%E5%85%B6%E5%AF%A6%E6%98%AF%E4%B8%80%E4%BD%8D%E5%B9%B3%E9%9D%A2%E8%A8%AD%E8%A8%88%E5%B8%AB/%E9%96%8B%E7%AF%87-%E6%9B%B8%E5%AF%AB-%E9%80%99%E4%BB%B6%E4%BA%8B%E6%83%85%E4%B8%8A%E7%9A%84%E6%88%91-59aa5e3d234e" target="_blank" rel="external">開篇：「書寫」這件事情上的我 – 設計私房誌 – Medium</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『我自己觀察，台灣的教育制度似乎只著重於教導前20%的學生，而其他80%的學生卻備受忽略，無法獲得應有的知識。』。<ul>
+<li><a href="https://opinion.cw.com.tw/blog/profile/416/article/6624" target="_blank" rel="external">半杯水的台灣，我們該樂觀還是悲觀？ ｜ Mark Stocker ／ 在商不言商 ｜ 獨立評論</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Live version.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=gnmqEaiYfUg" target="_blank" rel="external">青とメメメ「セプテンバーさん」</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2018-04-15-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-04-15-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/04/15 Wesley’
+    
+    </summary>
+    
+    
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#354</title>
@@ -227,9 +281,9 @@
     
       <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
     
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
       <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
       <category term="piano" scheme="https://github.com/WeiChiaChang/blog/tags/piano/"/>
     
@@ -393,9 +447,9 @@
     </summary>
     
     
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
       <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
     
@@ -563,9 +617,9 @@
     </summary>
     
     
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
@@ -1017,9 +1071,9 @@
     
       <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
-      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
-    
       <category term="love" scheme="https://github.com/WeiChiaChang/blog/tags/love/"/>
+    
+      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
@@ -1077,65 +1131,11 @@
     
       <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
     
-      <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
-    
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
+      <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
+    
       <category term="aimer" scheme="https://github.com/WeiChiaChang/blog/tags/aimer/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#335</title>
-    <link href="https://github.com/WeiChiaChang/blog/2018/03/26/Wesley-Daily-Digest-335/"/>
-    <id>https://github.com/WeiChiaChang/blog/2018/03/26/Wesley-Daily-Digest-335/</id>
-    <published>2018-03-26T01:28:54.000Z</published>
-    <updated>2018-03-26T01:29:18.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2018-03-26-Wesley’s-Digest-Collection"><a href="#2018-03-26-Wesley’s-Digest-Collection" class="headerlink" title="2018/03/26 Wesley’s Digest Collection"></a>2018/03/26 Wesley’s Digest Collection</h4><ul>
-<li><p>『現在的情況令人沮喪，我感覺八Ｏ年代的場景又要重演。』。</p>
-<ul>
-<li><a href="https://www.mplus.com.tw/article/1538" target="_blank" rel="external">《猜火車》世代的海洛因使用者後來怎麼了？</a></li>
-</ul>
-</li>
-<li><p>『但自從生病後，我發現這把尺說是不合時宜也不為過，從小到大每個大人都跟我們說：做你自己喜歡的，自己是獨一無二的，但當出社會，你瞬間就只是單純的賺錢機器，能賺錢的才算本事，不能賺錢的，只差被直指是廢物罷了』。</p>
-<ul>
-<li><a href="https://flipermag.com/2018/02/25/adult/" target="_blank" rel="external">一個合格的大人</a></li>
-</ul>
-</li>
-<li><p>『井底之蛙的世界覺得不可能發生的事，不代表在這現實殘酷的世界裡不會發生，想睡直播主請先惦惦自己的口袋荷包 女主播陪睡自己的榜一到榜五都時有所聞』。</p>
-<ul>
-<li><a href="https://www.ptt.cc/bbs/Gossiping/M.1519537749.A.F4A.html" target="_blank" rel="external">Re: [新聞] 17直播年賺10億！黃立成豪送300萬直升機</a></li>
-</ul>
-</li>
-<li><p>『劉宏恩表示，在大學裡任教，看多了被台灣的教育訓練成「認為學習就等於讀書，讀書就等於考試」的明星學校畢業生，除了讀書之外，不知道如何從生活或人際互動中做學習，除了考試不知道自己為什麼要去讀書。』。</p>
-<ul>
-<li><a href="https://udn.com/news/story/6887/3000107" target="_blank" rel="external">六龜高中校長一席話 學者：比明星高中校長更值得敬佩</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『也因此非常適合發展網路實名制的策略，未來有可能你一出生就會被賦予一個網路 IP，在網路上的一舉一動都將追蹤的到 …… 有點可怕啊。』。<ul>
-<li><a href="https://buzzorange.com/techorange/2017/12/01/china-ipv6/" target="_blank" rel="external">中國網路實名制又更進一步：以後 IP 就像身分證字號，一輩子跟著你！</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Helvetica。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=pp5gsrq6yJM" target="_blank" rel="external">Yanagi Nagi - Helvetica - Euaru - 2013</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2018-03-26-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-03-26-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/03/26 Wesley’
-    
-    </summary>
-    
-    
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
-      <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
     
   </entry>
   
