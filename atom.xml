@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2018-04-26T01:10:44.000Z</updated>
+  <updated>2018-04-27T01:58:47.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,60 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#367</title>
+    <link href="https://github.com/WeiChiaChang/blog/2018/04/27/Wesley-Daily-Digest-367/"/>
+    <id>https://github.com/WeiChiaChang/blog/2018/04/27/Wesley-Daily-Digest-367/</id>
+    <published>2018-04-27T01:58:27.000Z</published>
+    <updated>2018-04-27T01:58:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2018-04-27-Wesley’s-Digest-Collection"><a href="#2018-04-27-Wesley’s-Digest-Collection" class="headerlink" title="2018/04/27 Wesley’s Digest Collection"></a>2018/04/27 Wesley’s Digest Collection</h4><ul>
+<li><p>『你們要念建築就好好念，你們要轉走最好是在撐完建築的訓練之後，因為建築是所有藝術的頂端。』。</p>
+<ul>
+<li><a href="https://flipermag.com/2018/04/03/half-goatee-story/" target="_blank" rel="external">從建築出身，以書本為地基，建造突破書頁精湛紙藝的團隊──半隻羊立體書實驗室 | FLiPER</a></li>
+</ul>
+</li>
+<li><p>『跳舞的少女們，每一天都是元氣滿滿迎向新的一天。是她們為我充電，給我力量。一分鐘三十秒以後我退出窄徑，關掉電腦，出門迎向現實世界。』。</p>
+<ul>
+<li><a href="http://www.biosmonthly.com/issue_topic/9517" target="_blank" rel="external">BIOS Monthly 【二次元音樂故事館】百合情誼是全世界最溫暖的魔法</a></li>
+</ul>
+</li>
+<li><p>『除了常规的字体大小、明暗主题等选项之外，你还可以回到以前的方形头像及旧回复样式，或者在界面中显示转推按钮、分割线及认证标志。如果你通晓 CSS，甚至可以自己编写代码随意定制你的 Tweeten 界面。』。</p>
+<ul>
+<li><a href="https://sspai.com/post/40952" target="_blank" rel="external">Tweeten：更好用的 Twitter 桌面客户端 - 少数派</a></li>
+</ul>
+</li>
+<li><p>『王以帆面臨的抉擇，也點出了偏鄉醫療留不住年輕醫師的關鍵。放眼未來，他直言與升等、發展性及待遇有關。在偏鄉醫院，病患人數相對少，對於原本薪水相對差的兒科醫師來說，確實得不到較好的收入，讓年輕醫師不願留在偏鄉醫院。王以帆搖頭說，「現實狀況就是如此，真的很難改變。」』。</p>
+<ul>
+<li><a href="https://www.twreporter.org/a/child-health-care-pediatricians-remote-areas" target="_blank" rel="external">【偏鄉篇2】從醫療奉獻到經營事業——偏鄉兒科醫師的世代轉折 - 報導者 The Reporter</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>選舉時節垃圾媒體又出來搶頭版了。<ul>
+<li><a href="https://www.ptt.cc/bbs/Gossiping/M.1522395002.A.64A.html" target="_blank" rel="external">批踢踢實業坊</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Piano version one.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=vdZVCRO837c" target="_blank" rel="external">Yuri on ICE piano 弾いてみた</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2018-04-27-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-04-27-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/04/27 Wesley’
+    
+    </summary>
+    
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+      <category term="piano" scheme="https://github.com/WeiChiaChang/blog/tags/piano/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#366</title>
@@ -409,9 +463,9 @@
     </summary>
     
     
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
       <category term="porn" scheme="https://github.com/WeiChiaChang/blog/tags/porn/"/>
     
@@ -915,11 +969,11 @@
     </summary>
     
     
-      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+      <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
     
       <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
-      <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
     
       <category term="piano" scheme="https://github.com/WeiChiaChang/blog/tags/piano/"/>
     
@@ -1083,65 +1137,11 @@
     </summary>
     
     
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
-      <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
-    
-      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#347</title>
-    <link href="https://github.com/WeiChiaChang/blog/2018/04/07/Wesley-Daily-Digest-347/"/>
-    <id>https://github.com/WeiChiaChang/blog/2018/04/07/Wesley-Daily-Digest-347/</id>
-    <published>2018-04-07T01:13:31.000Z</published>
-    <updated>2018-04-07T01:14:01.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2018-04-07-Wesley’s-Digest-Collection"><a href="#2018-04-07-Wesley’s-Digest-Collection" class="headerlink" title="2018/04/07 Wesley’s Digest Collection"></a>2018/04/07 Wesley’s Digest Collection</h4><ul>
-<li><p>『畢竟Williams曾是呼風喚雨的頂級車隊，身段並不因如今的處境而紆降，但其實她不必解釋這麼多，大大方方承認使用付費車手並不是什麼丟臉的事，以沒有財團支持的私人車隊來說，這其實是求生存的務實做法，除非她不願承認該隊目前的處境：連續兩年名列錦標第5，已經完全坐實「中游」車隊，非資深車迷根本無法體會Williams在20多年前是怎樣的角色，而如今F1車子的影響遠遠大過車手，那怎樣能把車子做好呢？就是要錢。』。</p>
-<ul>
-<li><a href="http://www.carnews.com/m/Index/content/50785" target="_blank" rel="external">願打願挨的市場機制F1付費車手的生態</a></li>
-</ul>
-</li>
-<li><p>『所以我跟我们那些传统的企业家说，如果你没有互联网的战略，你就没有新用户了。因为所有现在的新用户，那些大学生、高中生、职高生，他们只相信用户的评价，他们只相信互联网的信息。』。</p>
-<ul>
-<li><a href="https://mp.weixin.qq.com/s/z8W-o-v8sMwjHGFNBat6lw" target="_blank" rel="external">京东救命恩人徐新：微信打败支付宝只有一个原因…</a></li>
-</ul>
-</li>
-<li><p>『2009 年他們推出免費增值（freemium）服務，只要客戶的收件人少於 2000 人，就能免費享有服務；但收件人一旦超過 2000 人，或是需要客製化服務， MailChimp 就會開始收費（每月 10 美元起）。這種收費機制讓客戶沒有負擔地試用，而且一旦企業開始被收費，就代表業務有所成長。不僅客戶感到開心，MailChimp 也能因此獲利，雙贏的結果是客戶數從 10 萬成長到 1600 萬。』。</p>
-<ul>
-<li><a href="https://www.managertoday.com.tw/articles/view/55795" target="_blank" rel="external">只靠「發 email」年賺 150 億！MailChimp 是怎麼辦到的？｜經理人</a></li>
-</ul>
-</li>
-<li><p>假新聞操作起手式。</p>
-<ul>
-<li><a href="https://citypatterns.blogspot.tw/2018/03/mastering-fake-news-operations-in-one-day.html" target="_blank" rel="external">城市格局: 一天學會假新聞操作</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『二○一七年英國有一個民調說台灣是世界上最宜居的地方，台灣人天天抱怨，卻都喜歡住在這裡，這難道不是一個大家可以共同努力的最大共識嗎？』。<ul>
-<li><a href="https://udn.com/news/story/7340/3022805?from=udn-catelistnews_ch2" target="_blank" rel="external">周行一／台灣，妳為什麼這麼焦慮？ | 聯合報名人堂 | 評論 | 聯合新聞網</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>七弦吉他….他酷以！</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=kwsciXm_7sA" target="_blank" rel="external">Cytus II - INSPION FullBand Master / INSPION</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2018-04-07-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-04-07-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/04/07 Wesley’
-    
-    </summary>
-    
-    
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
