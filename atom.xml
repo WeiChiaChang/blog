@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2018-05-03T01:05:38.000Z</updated>
+  <updated>2018-05-04T02:23:30.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,62 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#374</title>
+    <link href="https://github.com/WeiChiaChang/blog/2018/05/04/Wesley-Daily-Digest-374/"/>
+    <id>https://github.com/WeiChiaChang/blog/2018/05/04/Wesley-Daily-Digest-374/</id>
+    <published>2018-05-04T02:22:39.000Z</published>
+    <updated>2018-05-04T02:23:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2018-05-04-Wesley’s-Digest-Collection"><a href="#2018-05-04-Wesley’s-Digest-Collection" class="headerlink" title="2018/05/04 Wesley’s Digest Collection"></a>2018/05/04 Wesley’s Digest Collection</h4><ul>
+<li><p>『接下來這年，改組成台體大的台灣體院捲土重來，師大也迎來近年黃金世代的新血——許美中、吳宗軒、雙胞胎，連續第六年捍衛王座成功。之後的故事也許大家都比較熟悉了，陳克舟教練坐鎮的中原大學、上個世代的「黃金左手」林顯丞帶領的國北教大，連續五年輪番上陣挑戰台師大霸業卻都無功而返。』。</p>
+<ul>
+<li><a href="http://volleyball.biji.co/index.php?q=news&amp;act=info&amp;id=1518" target="_blank" rel="external">排球筆記講古：師大男排連霸史 | 排球筆記</a></li>
+</ul>
+</li>
+<li><p>『另外它也從 3D 建模、切割開始，親手打造出專屬自己發光 Logo 的 iPhone 外殼。有了前兩次經驗，Scotty Allen 這次實驗比想像中快多了（但還是很難）。他本人現在也長居在中國深圳，繼續挑戰各式各樣的 iPhone 改造。』。</p>
+<ul>
+<li><a href="https://www.inside.com.tw/2018/04/11/how-to-diy-upgrade-an-iphone-from-16gb-to-128gb-of-storage" target="_blank" rel="external">美國魔改工程師再度出招：手工做出容量 800%，專屬 Logo 會發亮的 iPhone！ - INSIDE 硬塞的網路趨勢觀察</a></li>
+</ul>
+</li>
+<li><p>『台彩表示，整體中獎率26分之1，頭獎中獎機率為135萬分之1，雖較今彩539中獎機率58萬分之1要低，但高於大樂透1,398萬分之1、大福彩1,864萬分之1。』。</p>
+<ul>
+<li><a href="https://tw.news.appledaily.com/life/realtime/20180410/1331549" target="_blank" rel="external">地獄倒楣鬼有福了！ 台彩新玩法「摃龜贏千萬」 | 蘋果日報</a></li>
+</ul>
+</li>
+<li><p>『這樣的判決令人服氣嗎？合法嗎？正當嗎？』。</p>
+<ul>
+<li><a href="https://www.thenewslens.com/article/59150" target="_blank" rel="external">韓國男女不平等報告書（一）我們的肉體：密陽女子中學生集體性侵事件 - The News Lens 關鍵評論網</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『說了這麼多，其實 serverless 代表的就是把計算力變成 utility 的一個過程。就像水電一樣，大家都需要的東西，規模化到最後，就會變成付錢就能解決的東西。』。<ul>
+<li><a href="https://medium.com/@poga/why-serverless-7d9cfc84aa3d" target="_blank" rel="external">Why Serverless – poga – Medium</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>狗屁倒灶的公司日常不來點 Aimer 平衡一下嗎？</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=GOurhX0YAPQ" target="_blank" rel="external">Aimer - ONE (Blanc et Noir)</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2018-05-04-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-05-04-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/05/04 Wesley’
+    
+    </summary>
+    
+    
+      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+      <category term="aimer" scheme="https://github.com/WeiChiaChang/blog/tags/aimer/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#373</title>
@@ -1098,60 +1154,6 @@
       <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#354</title>
-    <link href="https://github.com/WeiChiaChang/blog/2018/04/14/Wesley-Daily-Digest-354/"/>
-    <id>https://github.com/WeiChiaChang/blog/2018/04/14/Wesley-Daily-Digest-354/</id>
-    <published>2018-04-14T02:24:29.000Z</published>
-    <updated>2018-04-14T02:24:53.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2018-04-14-Wesley’s-Digest-Collection"><a href="#2018-04-14-Wesley’s-Digest-Collection" class="headerlink" title="2018/04/14 Wesley’s Digest Collection"></a>2018/04/14 Wesley’s Digest Collection</h4><ul>
-<li><p>如果是傳言屬實，那真的要幫富堅大師寫個大大的慘字。</p>
-<ul>
-<li><a href="https://www.ptt.cc/bbs/Gossiping/M.1521293139.A.AD8.html" target="_blank" rel="external">[爆卦] 富堅休刊真相竟然是…</a></li>
-</ul>
-</li>
-<li><p>『其實能夠有個工作是能夠幫助人類更了解這宇宙 本身就是很了不起的，又何必一定要區分高下排個輸贏呢?』。</p>
-<ul>
-<li><a href="http://disp.cc/b/163-avtb" target="_blank" rel="external">Re: [問卦] 霍金這一生到底貢獻了什麼實質東西@@? - Gossiping板 - Disp BBS</a></li>
-</ul>
-</li>
-<li><p>福誠打豐商也是很有心得了。</p>
-<ul>
-<li><a href="http://volleyball.biji.co/index.php?q=news&amp;act=info&amp;id=1380" target="_blank" rel="external">106HVL / 福誠「連線」，黃宇晨、林政瑋的HVL最終戰 | 排球筆記</a></li>
-</ul>
-</li>
-<li><p>『不方便也可以是好設計。一流的設計要能讓人心甘情願更不方便，並且在不方便的體驗中意識到自己有機會改變，形成動機，看到希望，產生信念。最後發現與獲得比方便更高的價值。這才是設計能力的終極展現。』。</p>
-<ul>
-<li><a href="http://taiwan.chtsai.org/2018/03/17/fangbian_bushi_weiyi_de_jiazhi/" target="_blank" rel="external">「方便」不是唯一的價值 – Taiwan 2.0</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『我不仅爱猫，尊敬猫，我还从它们身上学到很多做人的道理。学它们不卑不亢，独立有尊严的性格，学它们明察秋毫，敏锐的直觉，学它们自在舒服，干净安逸的生活方式。』。<ul>
-<li><a href="http://www.yinwang.org/blog-cn/2017/07/21/love-cat" target="_blank" rel="external">我为什么爱猫</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Matter Of Time.</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=KW3jGFgBdws" target="_blank" rel="external">Lisa Shaw CHERRY Matter Of Time</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2018-04-14-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-04-14-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/04/14 Wesley’
-    
-    </summary>
-    
-    
-      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
-    
-      <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
     
   </entry>
   
