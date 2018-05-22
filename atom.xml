@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2018-05-21T01:55:02.000Z</updated>
+  <updated>2018-05-22T02:03:03.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,66 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#392</title>
+    <link href="https://github.com/WeiChiaChang/blog/2018/05/22/Wesley-Daily-Digest-392/"/>
+    <id>https://github.com/WeiChiaChang/blog/2018/05/22/Wesley-Daily-Digest-392/</id>
+    <published>2018-05-22T02:02:26.000Z</published>
+    <updated>2018-05-22T02:03:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2018-05-22-Wesley’s-Digest-Collection"><a href="#2018-05-22-Wesley’s-Digest-Collection" class="headerlink" title="2018/05/22 Wesley’s Digest Collection"></a>2018/05/22 Wesley’s Digest Collection</h4><ul>
+<li><p>『不太喜歡小鮮肉一詞，偏偏龍星涼卻又完美駕馭「色氣」與「鮮美」兩種特質。相較於其他新生代，尚未正式進入廣為人知的領域，卻又是近幾年少見地能脫、能瘋狂、能展現演技的電眼之星。』。</p>
+<ul>
+<li><a href="https://everylittled.thenewslens.com/article/93512" target="_blank" rel="external">遊走於狂妄與單純之間的演技潛力股：龍星涼 - every little d</a></li>
+</ul>
+</li>
+<li><p>『漸漸我發現這答案似乎很簡單，code越是乾淨的同學，往往越是表現好的，因為這樣的code不容易藏bug、在維護上也很清楚，還有很多很多的其他好處。當然，第二重要的就是測試了，老師曾說我們應該用「沒有測試過的程式都是有問題的」的態度去做事情，於是乎，測試確實是唯一的方式讓你有信心並證明自己的程式可以經得起真實世界的考驗。』。</p>
+<ul>
+<li><a href="https://blog.heron.me/cmu%E7%A2%A9%E5%A3%AB%E7%AC%AC%E4%BA%8C%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97-18f219659d86" target="_blank" rel="external">CMU碩士第二年修課心得 – Heron’s Blog</a></li>
+</ul>
+</li>
+<li><p>第一次海外公演就到台灣～</p>
+<ul>
+<li><a href="https://memeon-music.com/2018/05/17/aimyon-2/" target="_blank" rel="external">【迷迷專訪】Aimyon [愛繆] 來台催票 被台灣料理分量嚇到 談歌詞心境轉變笑說「變成熟了」 - MeMeOn 迷迷音</a></li>
+</ul>
+</li>
+<li><p>『結果就這樣子每件事都難以啟齒，就乾脆都不說了。有人說忘掉過去，才能活出自己。有趣的是我覺得剛好相反，越認識歷史，我才越知道什麼是自己。』。</p>
+<ul>
+<li><a href="https://medium.com/@80ssundries/hashtag-288-2018-b5e5a9f8a9f8" target="_blank" rel="external">Hashtag 228, 2018. – 重置的美工 – Medium</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『「在電動車的初期發展階段，你只知道市場的需求會增加，但到底量有多大，沒人說得準，」投入電動車的研發超過10年，史密特似乎已經摸索出生存之道，「你得非常靈活才行，隨時跟著客戶的需求調整，大家其實都在邊做邊學。」』。<ul>
+<li><a href="https://www.twreporter.org/a/german-automotive-industry-transformation-ev-car" target="_blank" rel="external">受辱也要做！大學教授意外掀起電動車創新革命 - 報導者 The Reporter</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>SECONDWALL 好水啊！</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=PzXue624DFQ" target="_blank" rel="external">SECONDWALL “恋の終わりに、桜舞い散る” MV</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2018-05-22-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-05-22-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/05/22 Wesley’
+    
+    </summary>
+    
+    
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
+      <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
+    
+      <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+      <category term="rock" scheme="https://github.com/WeiChiaChang/blog/tags/rock/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#391</title>
@@ -231,11 +291,11 @@
     </summary>
     
     
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
       <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
     
       <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
       <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
     
@@ -925,9 +985,9 @@
     
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
       <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
       <category term="Sawano Hiroyuki" scheme="https://github.com/WeiChiaChang/blog/tags/Sawano-Hiroyuki/"/>
     
@@ -1097,71 +1157,11 @@
     </summary>
     
     
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
       <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
-      <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
-    
-      <category term="Sawano Hiroyuki" scheme="https://github.com/WeiChiaChang/blog/tags/Sawano-Hiroyuki/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#372</title>
-    <link href="https://github.com/WeiChiaChang/blog/2018/05/02/Wesley-Daily-Digest-372/"/>
-    <id>https://github.com/WeiChiaChang/blog/2018/05/02/Wesley-Daily-Digest-372/</id>
-    <published>2018-05-02T08:10:02.000Z</published>
-    <updated>2018-05-02T08:10:49.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2018-05-02-Wesley’s-Digest-Collection"><a href="#2018-05-02-Wesley’s-Digest-Collection" class="headerlink" title="2018/05/02 Wesley’s Digest Collection"></a>2018/05/02 Wesley’s Digest Collection</h4><ul>
-<li><p>『從來沒有一個日職旅美打者像大谷這樣23歲就能挑戰大聯盟，且這些打者中也只有一朗、松井在同齡間的表現能與大谷比擬。為何大谷翔平的打擊實力可能比想像中更值得期待？因為他已經打出相當超齡的成績、而且年紀顯示球技還有成長空間。』。</p>
-<ul>
-<li><a href="https://www.thenewslens.com/article/90670" target="_blank" rel="external">為什麼大谷翔平的打擊實力，比過往旅美日職明星更值得期待？ - The News Lens 關鍵評論網</a></li>
-</ul>
-</li>
-<li><p>『當我審視自己過去30年來的累積  才發現，論 社會經驗 隨機應變 交際手腕 我不如那些打滾上來的人。論 知識涵養 專業能力 自學態度 我又輸給血統純正的書卷。我也曾感到迷惘  覺得自己處處不如人，但後來才想通  位於中間又怎樣  不如就好好發展自己的特質吧。論 靜下心來看書 查資料 鑽研技術的能力 我絕對大勝不愛念書的人。論 表達能力 溝通能力 統整能力 我又略勝讀書人一籌。所以每個人的成長曲線都不一樣  相信自己  照著自己的步調走就可以了』。</p>
-<ul>
-<li><a href="https://www.ptt.cc/bbs/CareerPlan/M.1523139136.A.7BA.html" target="_blank" rel="external">Re: [請益] 人生做錯了什麼決定？ - 看板 CareerPlan - 批踢踢實業坊</a></li>
-</ul>
-</li>
-<li><p>『結果列一列之後，發現多數都是和語言 /  框架無關的問題，而是在系統架構上要怎麼設計，而這些設計原則，不太會因為換了語言或框架就改變的。』。</p>
-<ul>
-<li><a href="https://www.ptt.cc/bbs/soft_job/M.1522894163.A.1DC.html" target="_blank" rel="external">Re: [請益] 離開Web開發的建議 - 看板 Soft_Job - 批踢踢實業坊</a></li>
-</ul>
-</li>
-<li><p>『「醫生還是有盲點的。」他笑著說，醫師常常用專業角度告訴病人，應該要多睡、多運動，怎麼不吃比較健康的食物，但自己也未必能做到。』。</p>
-<ul>
-<li><a href="https://meet.bnext.com.tw/articles/view/42671" target="_blank" rel="external">年輕醫師玩資料科學，用健檢資料算出糖尿病機率</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>神一般的留言串，真的是釣出一堆潛水客。<ul>
-<li><a href="https://www.ptt.cc/bbs/AC_In/M.1522993393.A.BF0.html" target="_blank" rel="external">[請神] 十多年前自由時報中的圖片(DONE)</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>感傷。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=0hh4OUu30E0" target="_blank" rel="external">澤野弘之 - Anxiety</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2018-05-02-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-05-02-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/05/02 Wesley’
-    
-    </summary>
-    
-    
-      <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
-    
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
-      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+      <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
     
       <category term="Sawano Hiroyuki" scheme="https://github.com/WeiChiaChang/blog/tags/Sawano-Hiroyuki/"/>
     
