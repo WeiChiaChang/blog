@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2018-05-30T02:20:53.000Z</updated>
+  <updated>2018-05-31T01:12:21.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#401</title>
+    <link href="https://github.com/WeiChiaChang/blog/2018/05/31/Wesley-Daily-Digest-401/"/>
+    <id>https://github.com/WeiChiaChang/blog/2018/05/31/Wesley-Daily-Digest-401/</id>
+    <published>2018-05-31T01:11:52.000Z</published>
+    <updated>2018-05-31T01:12:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2018-05-31-Wesley’s-Digest-Collection"><a href="#2018-05-31-Wesley’s-Digest-Collection" class="headerlink" title="2018/05/31 Wesley’s Digest Collection"></a>2018/05/31 Wesley’s Digest Collection</h4><ul>
+<li><p>『臺灣有第二個隊伍「BFS」，是由交大Bamboofox、臺大Balsn、中央大學DoubleSigma以及中科院Kerkeryuan CTF戰隊等四隊聯軍，打下入圍賽第22名的好成績，主辦單位則於5月18日公布，確認BFS成為臺灣第二隊入圍DEF CON CTF決賽的隊伍。』。</p>
+<ul>
+<li><a href="https://www.ithome.com.tw/news/123119" target="_blank" rel="external">臺灣首度有兩隊入圍全球駭客攻防大賽DEF CON CTF決賽，HITCON和BFS戰隊，8月於美國再戰全球 | iThome</a></li>
+</ul>
+</li>
+<li><p>『上小大方公開9個月收入破350萬，拍影片炫富引來國稅局關注，大張旗鼓修訂相關法規。可以說，不論正負面，網紅的影響力漸漸超越傳統藝人，成為公關活動、品牌行銷新寵兒。』。</p>
+<ul>
+<li><a href="https://www.ettoday.net/news/20180520/1173644.htm" target="_blank" rel="external">聖結石輸了！2018最夯Youtube網紅「3天王稱霸」　網友驚呼不認識 | ETtoday生活 | ETtoday新聞雲</a></li>
+</ul>
+</li>
+<li><p>感覺還在磨合中，兩場輸得有點可惜。</p>
+<ul>
+<li><a href="http://volleyball.biji.co/index.php?q=news&amp;act=info&amp;id=1573" target="_blank" rel="external">不敵地主哈薩克，黃建逢：今年目標是亞運，現在輸球不見得是壞事 | 排球筆記</a></li>
+</ul>
+</li>
+<li><p>『「人生有時很難說，選擇左轉或右轉，結果或許就大不同。」投入才在籌備階段的中華職棒公司，一切都是問號，但他目標清楚的訂下三年計畫：第一年要吸收所有的棒球專業知識；第二年要練就出色的文筆；第三年，要大家看到「曾文誠」這名字，就能想到棒球。』。</p>
+<ul>
+<li><a href="https://www.twreporter.org/a/interview-tseng-wen-cheng" target="_blank" rel="external">環一座思念母親的島——曾文誠人生最棒的完賽 - 報導者 The Reporter</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>人都會死，一想到這件事還是很難過。能夠在有限的生命中創造價值，為秉持的信仰終生致力。做個會讓人感動的人。<ul>
+<li><a href="http://www.setn.com/News.aspx?NewsID=275250" target="_blank" rel="external">韓媒不忘徐生明　大篇幅專訪謝榮瑤 | 運動 | 三立新聞網 SETN.COM</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>八爺的歌真的很耐聽啊。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=lzAyrgSqeeE" target="_blank" rel="external">米津玄師 MV「orion」</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2018-05-31-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-05-31-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/05/31 Wesley’
+    
+    </summary>
+    
+    
+      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#400</title>
@@ -125,9 +183,9 @@
     
       <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
-      <category term="game" scheme="https://github.com/WeiChiaChang/blog/tags/game/"/>
-    
       <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
+    
+      <category term="game" scheme="https://github.com/WeiChiaChang/blog/tags/game/"/>
     
   </entry>
   
@@ -747,11 +805,11 @@
     </summary>
     
     
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
       <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
     
       <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
+    
+      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
       <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
     
@@ -1106,64 +1164,6 @@
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
       <category term="piano" scheme="https://github.com/WeiChiaChang/blog/tags/piano/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#381</title>
-    <link href="https://github.com/WeiChiaChang/blog/2018/05/11/Wesley-Daily-Digest-381/"/>
-    <id>https://github.com/WeiChiaChang/blog/2018/05/11/Wesley-Daily-Digest-381/</id>
-    <published>2018-05-11T12:22:13.000Z</published>
-    <updated>2018-05-11T12:22:43.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2018-05-11-Wesley’s-Digest-Collection"><a href="#2018-05-11-Wesley’s-Digest-Collection" class="headerlink" title="2018/05/11 Wesley’s Digest Collection"></a>2018/05/11 Wesley’s Digest Collection</h4><ul>
-<li><p>移工問題的反映就是，台灣人到國外也會遇到更為苛刻的待遇，如果台灣人都無法對別人視如己出，迴圈也只是跳到不同場境繼續發生罷了。</p>
-<ul>
-<li><a href="https://news.pts.org.tw/article/392063" target="_blank" rel="external">逾百越南移工抗議勞動條件惡劣</a></li>
-</ul>
-</li>
-<li><p>神人也太多！</p>
-<ul>
-<li><a href="https://www.ptt.cc/bbs/NSwitch/M.1524306076.A.0CB.html" target="_blank" rel="external">[推薦] 推特上的神人Labo創作 - 看板 NSwitch - 批踢踢實業坊</a></li>
-</ul>
-</li>
-<li><p>『比起傳統的獨立樂團，七月半有更多時間來經營粉絲。甚至也不需要只靠跑表演跟賣作品來獲利，我們是否可能期待新媒體時代可以給音樂創作者更多來元的收入，來讓音樂創作者更有可能專職創作，甚至因此有更豐富的作品？都讓這個時代的閱聽人感到期待。』。</p>
-<ul>
-<li><a href="https://www.inside.com.tw/2018/04/22/youtubers-band-sevenfat" target="_blank" rel="external">【YouTuber 文化論】剖析《七月半》：先養粉絲，再玩團的時代來了？ - INSIDE 硬塞的網路趨勢觀察</a></li>
-</ul>
-</li>
-<li><p>『這聽起來像是在主張對數據驅動的數字經濟完全不加監管，但實際上不是。人們有理由擔心Facebook和它的一些同行可能已經非常強大，足以壓制創新。也有理由懷疑它隨意處置消費者數據。』。</p>
-<ul>
-<li><a href="https://cn.nytimes.com/business/20180418/facebook-regulation-privacy/zh-hant/" target="_blank" rel="external">Facebook令人毛骨悚然，但它也很有價值 - 紐約時報中文網</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『過去幾年，外界在看台積電、三星、英特爾的三雄競爭，眼光都擺在 7 奈米、EUV 等夢幻技術的進度。結果，原先不起眼的封測部門，現在儼然成為台積電甩開三星、英特爾的主要差異點。』。<ul>
-<li><a href="http://finance.technews.tw/2018/04/22/tsmc-packaging-technology/" target="_blank" rel="external">一個「小媳婦部門」為何能讓台積電擊敗三星、獨吃蘋果？ | TechNews 科技新報</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>.que。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=-miXKExBzTQ" target="_blank" rel="external">[.que] - Farewell【Music Video】</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2018-05-11-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-05-11-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/05/11 Wesley’
-    
-    </summary>
-    
-    
-      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
-    
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
-      <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
-    
-      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
   </entry>
   
