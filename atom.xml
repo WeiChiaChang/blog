@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2018-06-01T01:53:45.000Z</updated>
+  <updated>2018-06-02T02:05:45.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,66 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#403</title>
+    <link href="https://github.com/WeiChiaChang/blog/2018/06/02/Wesley-Daily-Digest-403/"/>
+    <id>https://github.com/WeiChiaChang/blog/2018/06/02/Wesley-Daily-Digest-403/</id>
+    <published>2018-06-02T02:05:14.000Z</published>
+    <updated>2018-06-02T02:05:45.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2018-06-02-Wesley’s-Digest-Collection"><a href="#2018-06-02-Wesley’s-Digest-Collection" class="headerlink" title="2018/06/02 Wesley’s Digest Collection"></a>2018/06/02 Wesley’s Digest Collection</h4><ul>
+<li><p>『開發者Anthony Weston表示Ultra Password Cube可在安全、離線的情況下產生亂數，並完全阻段網路上攻擊者的入侵，而且能確保亂數具有高度隨機性，以協助使用者產生可靠的密碼。』。</p>
+<ul>
+<li><a href="https://www.techbang.com/posts/58651-ultra-password-cube-random-number-password-generator-free-of-plug-can-be-transferred-out-of-the-security-code?from=home_news" target="_blank" rel="external">Ultra Password Cube 亂數密碼產生器，免插電就能轉出安全密碼 | T客邦</a></li>
+</ul>
+</li>
+<li><p>認親大會開始。</p>
+<ul>
+<li><a href="https://www.ptt.cc/bbs/gossiping/M.1527609788.A.8C3.html" target="_blank" rel="external">批踢踢實業坊</a></li>
+</ul>
+</li>
+<li><p>『誠如作者，畢業後先受雇一陣子，就能獨立開設能源顧問公司，提供高品質的分析與建議，並進一步統包且提供解決方案。為什麼？因為 MIT 的思考強度、學習強度、工作強度、競爭強度，都是最頂尖的，回到真實社會，多數事情都能迎刃而解。』。</p>
+<ul>
+<li><a href="https://i-chentsai.innovarad.tw/2018/05/idea_factory_mit.html" target="_blank" rel="external">《創意工廠 MIT》：在世界第一科技學府讀書，是怎樣的感覺？…37 年前。 | 蔡依橙</a></li>
+</ul>
+</li>
+<li><p>今年報稅軟體的確已經有所提升了，相信軟體不斷迭代不斷提升一定能夠越做越好的。</p>
+<ul>
+<li><a href="https://medium.com/@yinchuchen/egov-tax-service-in-taiwan-2e90d143a600" target="_blank" rel="external">新版報稅介面的挫折經驗 – YingChu Chen – Medium</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『由於操控簡單又有趣，還具備中文界面，因此近期再度於社群軟體快速擴散，吸引許多網友紛紛曬出自己的地圖。』某種程度透露出人都有展示自我的天性傾向。這個方向嗅得出商機的味道。<ul>
+<li><a href="https://www.inside.com.tw/2018/05/31/japan-travel-map" target="_blank" rel="external">你玩過了嗎？爆紅 App「制縣傳說」測出你的日本旅遊等級 - INSIDE 硬塞的網路趨勢觀察</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>夢燈籠。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=i5l2ngom220" target="_blank" rel="external">Kimi no Na wa. (Your Name.) OP / 君の名は. オープニング: RADWIMPS - 夢灯籠 / Yumetourou Piano Cover</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2018-06-02-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-06-02-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/06/02 Wesley’
+    
+    </summary>
+    
+    
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
+      <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
+    
+      <category term="game" scheme="https://github.com/WeiChiaChang/blog/tags/game/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+      <category term="piano" scheme="https://github.com/WeiChiaChang/blog/tags/piano/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#402</title>
@@ -241,9 +301,9 @@
     
       <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
-      <category term="game" scheme="https://github.com/WeiChiaChang/blog/tags/game/"/>
-    
       <category term="internet" scheme="https://github.com/WeiChiaChang/blog/tags/internet/"/>
+    
+      <category term="game" scheme="https://github.com/WeiChiaChang/blog/tags/game/"/>
     
   </entry>
   
@@ -1110,60 +1170,6 @@
       <category term="work" scheme="https://github.com/WeiChiaChang/blog/tags/work/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#383</title>
-    <link href="https://github.com/WeiChiaChang/blog/2018/05/13/Wesley-Daily-Digest-383/"/>
-    <id>https://github.com/WeiChiaChang/blog/2018/05/13/Wesley-Daily-Digest-383/</id>
-    <published>2018-05-13T04:13:47.000Z</published>
-    <updated>2018-05-13T04:14:20.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2018-05-13-Wesley’s-Digest-Collection"><a href="#2018-05-13-Wesley’s-Digest-Collection" class="headerlink" title="2018/05/13 Wesley’s Digest Collection"></a>2018/05/13 Wesley’s Digest Collection</h4><ul>
-<li><p>『我覺得在執行槍決前，該做的事情要做，我們一直都沒有對犯罪預防或犯罪行為，有很多的理解、調查、研究。』。</p>
-<ul>
-<li><a href="https://www.mirrormedia.mg/story/20180419pol001/" target="_blank" rel="external">【一鏡到底】當幸福撞見不幸　小燈泡的媽媽王婉諭 - 鏡週刊</a></li>
-</ul>
-</li>
-<li><p>『有你的春日，最適合赤裸，最適合相擁。』。</p>
-<ul>
-<li><a href="http://www.biosmonthly.com/cover_story_topic/9562" target="_blank" rel="external">BIOS Monthly 春暖花開，好想做愛｜ 專訪摸哥：腐女的腦袋，真是上天給的禮物</a></li>
-</ul>
-</li>
-<li><p>Ｊ個是反串還是真實事件呢？</p>
-<ul>
-<li><a href="https://www.ptt.cc/bbs/Soft_Job/M.1524799027.A.895.html" target="_blank" rel="external">[請益] 個位的版本控制(EC)工具 - 看板 Soft_Job - 批踢踢實業坊</a></li>
-</ul>
-</li>
-<li><p>『一朗要求水手球團幫他找一個三房的公寓，球團照做了，但他們很納悶，沒有小孩的一朗夫妻為何需要多一個房間？後來他們才知道，這是一朗在家練習揮棒的獨立空間。』。</p>
-<ul>
-<li><a href="https://www.mirrormedia.mg/story/20180426web001/?utm_source=facebook&amp;utm_medium=mmpage" target="_blank" rel="external">【張尤金專欄】重回17年前　鈴木一朗傳奇開始的那一天（上） - 鏡週刊</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>『一切都是為了妹妹。』。<ul>
-<li><a href="https://pttweb.tw/gossiping/m-1524796517-a-c12.html" target="_blank" rel="external">[問卦] 金正恩是不是北韓魯魯修? | PTT網頁版</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Nightfall.</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=lmP_Rggba40" target="_blank" rel="external">[.que] - Forever (Official Audio)</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2018-05-13-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-05-13-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/05/13 Wesley’
-    
-    </summary>
-    
-    
-      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
-    
-      <category term="piano" scheme="https://github.com/WeiChiaChang/blog/tags/piano/"/>
     
   </entry>
   
