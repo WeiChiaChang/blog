@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2018-06-08T02:30:46.000Z</updated>
+  <updated>2018-06-08T16:03:50.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,62 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#410</title>
+    <link href="https://github.com/WeiChiaChang/blog/2018/06/09/Wesley-Daily-Digest-410/"/>
+    <id>https://github.com/WeiChiaChang/blog/2018/06/09/Wesley-Daily-Digest-410/</id>
+    <published>2018-06-08T16:03:16.000Z</published>
+    <updated>2018-06-08T16:03:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2018-06-09-Wesley’s-Digest-Collection"><a href="#2018-06-09-Wesley’s-Digest-Collection" class="headerlink" title="2018/06/09 Wesley’s Digest Collection"></a>2018/06/09 Wesley’s Digest Collection</h4><ul>
+<li><p>『話說前三本柱作者都有堅持，岸本是對稱，尾田是塞滿滿，久保是留白、大臉跟大跨頁。』。</p>
+<ul>
+<li><a href="https://www.ptt.cc/bbs/c_chat/M.1527947331.A.CF2.html" target="_blank" rel="external">[討論] 岸本對於對稱的堅持 - 看板 C_Chat - 批踢踢實業坊</a></li>
+</ul>
+</li>
+<li><p>要不是兩個禮拜後要去聽 toe 不然這場也很想衝台北啊。</p>
+<ul>
+<li><a href="https://memeon-music.com/2018/06/02/yanaginagi-2/" target="_blank" rel="external">[迷迷現場] 動漫歌手 yanaginagi 台灣演唱會詳細報導「希望這些曲子能成為台灣樂迷們的寶物」 - MeMeOn 迷迷音</a></li>
+</ul>
+</li>
+<li><p>真的是這樣發展的話，唉這個開源生態圈大概會…..。</p>
+<ul>
+<li><a href="https://www.inside.com.tw/2018/06/03/microsoft-to-acquire-github" target="_blank" rel="external">傳微軟有意收購 GitHub，價格上看 50 億美元 - INSIDE 硬塞的網路趨勢觀察</a></li>
+</ul>
+</li>
+<li><p>報稅雜談值得分析一下。</p>
+<ul>
+<li><a href="https://medium.com/@davihuan/%E9%97%9C%E6%96%BC-107-%E5%B9%B4%E5%80%8B%E4%BA%BA%E7%B6%9C%E5%90%88%E6%89%80%E5%BE%97%E7%A8%85%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B%E6%83%85-be2b5ffc3359" target="_blank" rel="external">關於 107 年個人綜合所得稅的一些事情 – david lifu huang – Medium</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『多虧你把那些很難的案子都推給我，讓我程式功力更上層樓，我才有今天！』。<ul>
+<li><a href="http://dreamyeh.pixnet.net/blog/post/28898591-%5Bkuso%5D-%E5%B7%A5%E7%A8%8B%E5%B8%AB%E5%8A%A0%E7%8F%AD%E7%9A%84%E7%90%86%E7%94%B1" target="_blank" rel="external">[Kuso] 工程師加班的理由 @ 天使的咖啡屋 :: 痞客邦 ::</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>這位小哥後來的路線越來越詭異啦ＸＤ。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=GRgv0IIyYE8" target="_blank" rel="external">IF－西野カナ　ピアノ　耳コピ</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2018-06-09-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-06-09-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/06/09 Wesley’
+    
+    </summary>
+    
+    
+      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
+      <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#409</title>
@@ -519,9 +575,9 @@
     </summary>
     
     
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
       <category term="volleyball" scheme="https://github.com/WeiChiaChang/blog/tags/volleyball/"/>
     
@@ -751,9 +807,9 @@
     </summary>
     
     
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
   </entry>
   
@@ -1096,64 +1152,6 @@
       <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
     
       <category term="rock" scheme="https://github.com/WeiChiaChang/blog/tags/rock/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#390</title>
-    <link href="https://github.com/WeiChiaChang/blog/2018/05/20/Wesley-Daily-Digest-390/"/>
-    <id>https://github.com/WeiChiaChang/blog/2018/05/20/Wesley-Daily-Digest-390/</id>
-    <published>2018-05-20T02:04:47.000Z</published>
-    <updated>2018-05-20T02:05:27.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2018-05-20-Wesley’s-Digest-Collection"><a href="#2018-05-20-Wesley’s-Digest-Collection" class="headerlink" title="2018/05/20 Wesley’s Digest Collection"></a>2018/05/20 Wesley’s Digest Collection</h4><ul>
-<li><p>『别太傻，别免费给人干活——这类活是所谓的做私活,而不是冒牌工作,做私活有很多风险。一般要求你做私活的人都是混蛋，不过也有少数例外。』。</p>
-<ul>
-<li><a href="https://36kr.com/p/5131279.html" target="_blank" rel="external">提高自己设计能力的一条捷径：仿真设计_36氪</a></li>
-</ul>
-</li>
-<li><p>『當然，這並不是說其他人對你的影響是零，相反地，正因為你很在意某些人、某些物、某一些你不得不去做的事，你很關心別人會怎麼看待你，所以你逡巡不前、被那些狗屁倒灶的事情給綁住。』。</p>
-<ul>
-<li><a href="https://medium.com/%E6%B5%B7%E8%8B%94%E7%86%8A%E7%9A%84%E6%B4%9E%E7%A9%B4/%E4%BD%A0%E6%98%AF%E4%B8%80%E5%88%87%E7%9A%84%E7%AD%94%E6%A1%88-%E5%8F%AA%E6%98%AF%E4%BD%A0%E4%B8%8D%E6%83%B3%E6%89%BF%E8%AA%8D%E8%80%8C%E5%B7%B2-4198a0562eff" target="_blank" rel="external">你是一切的答案，只是你不想承認而已。 – 海苔熊的洞穴 – Medium</a></li>
-</ul>
-</li>
-<li><p>『日本黑幫引進日本人來台，由台灣籍的選手教育訓練，成立詐騙機房。』。</p>
-<ul>
-<li><a href="http://disp.cc/b/163-aB01" target="_blank" rel="external">[新聞] 日本山口組來台學詐！ 騙走逾5千萬日幣 - Gossiping板 - Disp BBS</a></li>
-</ul>
-</li>
-<li><p>『同樣演出《法醫女王》的井浦新亦獲得最佳男配角。此外，由米津玄師演唱的該劇主題曲《Lemon》也獲得本屆「最佳日劇主題曲」肯定，同時該劇也獲得「最佳腳本獎」及「導演獎」。9個獎項中包辦6獎，《UNNATURAL法醫女王》堪稱本屆最大贏家。』。</p>
-<ul>
-<li><a href="http://www.epochtimes.com/b5/18/5/3/n10358155.htm" target="_blank" rel="external">《法醫女王》成日劇獎大贏家《99.9》獲兩獎 | 石原聰美 | 松本潤 | 木村文乃 | 大紀元</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>Redesign 是最好的練習。<ul>
-<li><a href="https://medium.com/as-a-product-designer/%E9%87%8D%E6%96%B0%E8%A8%AD%E8%A8%88-pinkoi-%E8%A8%BB%E5%86%8A%E7%99%BB%E5%85%A5%E9%A0%81-cda29ddffc93" target="_blank" rel="external">重新設計 Pinkoi 註冊登入頁 – As A Product Designer – Medium</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Orchestra version。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=UykdzO2w7xI" target="_blank" rel="external">Kimi no Na wa. Orchestra Concert - “Sparkle / スパークル” by RADWIMPS『君の名は。』オーケストラコンサート</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2018-05-20-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-05-20-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/05/20 Wesley’
-    
-    </summary>
-    
-    
-      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
-    
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
-      <category term="piano" scheme="https://github.com/WeiChiaChang/blog/tags/piano/"/>
     
   </entry>
   
