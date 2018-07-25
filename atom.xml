@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2018-07-23T23:23:56.000Z</updated>
+  <updated>2018-07-25T01:06:51.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,66 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#456</title>
+    <link href="https://github.com/WeiChiaChang/blog/2018/07/25/Wesley-Daily-Digest-456/"/>
+    <id>https://github.com/WeiChiaChang/blog/2018/07/25/Wesley-Daily-Digest-456/</id>
+    <published>2018-07-25T01:06:24.000Z</published>
+    <updated>2018-07-25T01:06:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2018-07-25-Wesley’s-Digest-Collection"><a href="#2018-07-25-Wesley’s-Digest-Collection" class="headerlink" title="2018/07/25 Wesley’s Digest Collection"></a>2018/07/25 Wesley’s Digest Collection</h4><ul>
+<li><p>『從Reddit上用戶測試的結果來看，怪異結果都出自索馬里語與毛利語這類訓練文本較少的小眾語言，合理推測，當初AI在學習的時候，系統用很多宗教相關的內容作為訓練素材，因此用這些文本訓練出來的AI模型，會翻譯出宗教內容，也就不令人感到太意外。』。</p>
+<ul>
+<li><a href="https://www.bnext.com.tw/article/49967/why-is-google-translate-spitting-out-sinister-religious-prophecies" target="_blank" rel="external">「距離毀滅日只剩三分鐘」Google翻譯出現詭異結果，是故障還是邪靈作祟？｜數位時代</a></li>
+</ul>
+</li>
+<li><p>KOM_I 這個扯爆 wwww，十月要來台灣演唱了，竟然已經一年了！</p>
+<ul>
+<li><a href="https://memeon-music.com/2018/07/23/kom_i/" target="_blank" rel="external">[迷迷演唱會] 沖繩開唱被捲到海中「能夠活著回來真是太好了！」星期三的康帕內拉 10/13 台北開唱 - MeMeOn 迷迷音</a></li>
+</ul>
+</li>
+<li><p>『在今天舉行的東亞運動會臨時理事會，竟以舉手表決方式決議取消台中市主辦權，台中市政府將向國際表達抗議，中華奧會訂下午2點將召開記者會說明。』。</p>
+<ul>
+<li><a href="http://news.ltn.com.tw/news/politics/breakingnews/2497613" target="_blank" rel="external">中國蠻橫打壓！我東亞青運主辦權被取消 - 政治 - 自由時報電子報</a></li>
+</ul>
+</li>
+<li><p>『對未來充滿不確定和茫然，例如能不能持續獲得研究資金，以及拿到博士學位後又該何去何從。普遍的孤立和隔離感，也能壓垮博士研究或畢業生。』。</p>
+<ul>
+<li><a href="https://www.mplus.com.tw/article/1346" target="_blank" rel="external">MPlus | 沒人提起念博士的這種代價</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>酸民不分國界。<ul>
+<li><a href="https://tw.appledaily.com/new/realtime/20180723/1396785/" target="_blank" rel="external">愛800億富商臭了嗎？剛力彩芽謝罪刪照 | 蘋果日報</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>Live 的這個版本更讚呀。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=bLcqM2TcyDQ" target="_blank" rel="external">Aimer - AM03:00 (Live “Midnight Sun” Ver.)</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2018-07-25-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-07-25-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/07/25 Wesley’
+    
+    </summary>
+    
+    
+      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
+    
+      <category term="study" scheme="https://github.com/WeiChiaChang/blog/tags/study/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+      <category term="aimer" scheme="https://github.com/WeiChiaChang/blog/tags/aimer/"/>
+    
+      <category term="joke" scheme="https://github.com/WeiChiaChang/blog/tags/joke/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#455</title>
@@ -65,9 +125,9 @@
     
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
@@ -1088,60 +1148,6 @@
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#436</title>
-    <link href="https://github.com/WeiChiaChang/blog/2018/07/05/Wesley-Daily-Digest-436/"/>
-    <id>https://github.com/WeiChiaChang/blog/2018/07/05/Wesley-Daily-Digest-436/</id>
-    <published>2018-07-05T01:33:59.000Z</published>
-    <updated>2018-07-05T01:34:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2018-07-05-Wesley’s-Digest-Collection"><a href="#2018-07-05-Wesley’s-Digest-Collection" class="headerlink" title="2018/07/05 Wesley’s Digest Collection"></a>2018/07/05 Wesley’s Digest Collection</h4><ul>
-<li><p>冒泡是什麼新名詞嗎，只想到 bubble sort。</p>
-<ul>
-<li><a href="https://www.digitaling.com/projects/28629.html?plat=ios" target="_blank" rel="external">KFC推出《咖啡职场图鉴》，#不冒泡，没机会# - 数英</a></li>
-</ul>
-</li>
-<li><p>善解人衣是三小 wwwww</p>
-<ul>
-<li><a href="https://www.ptt.cc/bbs/Boy-Girl/M.1530204310.A.116.html" target="_blank" rel="external">Re: [討論] 出社會後 AA的議題真的存在嗎 - 看板 Boy-Girl - 批踢踢實業坊</a></li>
-</ul>
-</li>
-<li><p>嗯哼。</p>
-<ul>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzA3NjU2MDUzMA==&amp;mid=2673022929&amp;idx=1&amp;sn=44dadae3968a65e010d38d89da890113&amp;chksm=85f8d62cb28f5f3a3ae4183d9c25ec219e88c9949f84c3c9dd36c01a370018702af61dbd652f&amp;mpshare=1&amp;scene=43&amp;srcid=0701RtNUZKzmxgkM3d2OW90H#rd" target="_blank" rel="external">家里在一二线城市有多套房是什么体验？答案太颠覆，获得知乎最高赞…</a></li>
-</ul>
-</li>
-<li><p>對留言區這段話最為印象深刻： “很多人用幾十年時間重覆著別人的人生，我自己工作十年後才夠膽辭職嘗試發展自己的人生。” 。</p>
-<ul>
-<li><a href="https://medium.com/@zzzerochan/%E9%80%99%E6%98%AF%E4%BD%A0%E8%A6%81%E7%9A%84%E7%94%9F%E6%B4%BB%E5%97%8E-75aca3f138ae" target="_blank" rel="external">這是你要的生活嗎？ – 陳零 – Medium</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>奇葩文 wwww<ul>
-<li><a href="https://medium.com/@changyuheng/%E5%A4%A7%E5%AE%B6%E5%9C%A8%E6%8D%B7%E9%81%8B%E4%B8%8A%E5%81%9A%E9%81%8E%E6%9C%80%E5%B0%B7%E5%B0%AC%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E4%BB%80%E9%BA%BC-470124ef68bc" target="_blank" rel="external">大家在捷運上做過最尷尬的事情是什麼？ – Henry Chang – Medium</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>amazarashi 再來台灣吧！</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=MfAkM1sSx44" target="_blank" rel="external">amazarashi - Juvenile</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2018-07-05-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-07-05-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/07/05 Wesley’
-    
-    </summary>
-    
-    
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
-      <category term="amazarashi" scheme="https://github.com/WeiChiaChang/blog/tags/amazarashi/"/>
     
   </entry>
   
