@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2018-08-01T16:08:10.000Z</updated>
+  <updated>2018-08-03T02:04:11.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Wesley-Daily-Digest-#465</title>
+    <link href="https://github.com/WeiChiaChang/blog/2018/08/03/Wesley-Daily-Digest-465/"/>
+    <id>https://github.com/WeiChiaChang/blog/2018/08/03/Wesley-Daily-Digest-465/</id>
+    <published>2018-08-03T02:03:40.000Z</published>
+    <updated>2018-08-03T02:04:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="2018-08-03-Wesley’s-Digest-Collection"><a href="#2018-08-03-Wesley’s-Digest-Collection" class="headerlink" title="2018/08/03 Wesley’s Digest Collection"></a>2018/08/03 Wesley’s Digest Collection</h4><ul>
+<li><p>『這是柯文哲與在臺北城市生活的你們之間的暗語。在過去四年的 1461 天裡，因為有你們，我們一起嗡嗡嗡，在生活中迎接美好轉變。下一個四年，請與我再次走入 { 大括弧 } 中，一起實踐我們對生活的期待。』。</p>
+<ul>
+<li><a href="https://buzzorange.com/techorange/2018/07/25/teamkp-launched-crowdfunded-site-for-election-2018/" target="_blank" rel="external">柯 P 募資網站上線！內藏給工程師的告白，簡直是全台最科技的競選文宣了 | TechOrange</a></li>
+</ul>
+</li>
+<li><p>滑坡現象。</p>
+<ul>
+<li><a href="https://www.zhihu.com/question/32039226/answer/76056150?utm_source=wechat_timeline&amp;utm_medium=social&amp;utm_oi=27124584939520&amp;from=timeline&amp;isappinstalled=0" target="_blank" rel="external">为什么有些大公司技术弱爆了？ - 知乎</a></li>
+</ul>
+</li>
+<li><p>『無論是哪個產業的 PM，相當程度都是知識狂；懂得越多，越有可能在未來派上用場。』。</p>
+<ul>
+<li><a href="https://medium.com/as-a-product-designer/salary-of-project-n-product-manager-1c70d1d68f7c" target="_blank" rel="external">【百工圖】PM的薪水有多少？產品經理與專案經理經驗談 (中) – As A Product Designer – Medium</a></li>
+</ul>
+</li>
+<li><p>好多亮點呀這個討論串。</p>
+<ul>
+<li><a href="https://www.facebook.com/mitterchiang/posts/10156721054013939" target="_blank" rel="external">Mitter Chiang - 尊重本地文化是非常根本的事情，在台灣社群講話，請不要把Marketing(行銷)稱為營… | Facebook</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>『別外騰訊第二季度遊戲受制於「絕地求生」端遊尚未過審，目前依然在等待政府部門審批放行，變現能力成疑。PC端遊收入從高點下滑等方面影響了公司總體收入。而且，第二季度在寒暑假之間，向來是遊戲淡季，這也會影響騰訊的收入。』。<ul>
+<li><a href="http://fortuneinsight.com/web/posts/20196" target="_blank" rel="external">【危機四伏】「吃雞」遊戲大熱竟無法為騰訊帶來現金流？亮麗財報背後的隱藏危機！ – Fortune Insight</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>乾淨俐落的一個版本。</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=WKnVGuTIuq4" target="_blank" rel="external">Koi wa Ameagari no You ni ED | “Ref:rain” | Piano Cover with Sheets!</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;2018-08-03-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-08-03-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/08/03 Wesley’
+    
+    </summary>
+    
+    
+      <category term="game" scheme="https://github.com/WeiChiaChang/blog/tags/game/"/>
+    
+      <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+      <category term="aimer" scheme="https://github.com/WeiChiaChang/blog/tags/aimer/"/>
+    
+      <category term="piano" scheme="https://github.com/WeiChiaChang/blog/tags/piano/"/>
+    
+  </entry>
   
   <entry>
     <title>Wesley-Daily-Digest-#464</title>
@@ -409,9 +467,9 @@
     
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
-      <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
-    
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+      <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
     
   </entry>
   
@@ -463,9 +521,9 @@
     </summary>
     
     
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
       <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
+      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
@@ -701,9 +759,9 @@
     
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
-      <category term="rap" scheme="https://github.com/WeiChiaChang/blog/tags/rap/"/>
-    
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
+    
+      <category term="rap" scheme="https://github.com/WeiChiaChang/blog/tags/rap/"/>
     
   </entry>
   
@@ -755,9 +813,9 @@
     </summary>
     
     
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
       <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
+      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
     
@@ -984,9 +1042,9 @@
     </summary>
     
     
-      <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
-    
       <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
+    
+      <category term="front-end" scheme="https://github.com/WeiChiaChang/blog/tags/front-end/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
@@ -1098,62 +1156,6 @@
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
       <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Wesley-Daily-Digest-#445</title>
-    <link href="https://github.com/WeiChiaChang/blog/2018/07/14/Wesley-Daily-Digest-445/"/>
-    <id>https://github.com/WeiChiaChang/blog/2018/07/14/Wesley-Daily-Digest-445/</id>
-    <published>2018-07-14T04:26:24.000Z</published>
-    <updated>2018-07-14T04:26:56.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="2018-07-14-Wesley’s-Digest-Collection"><a href="#2018-07-14-Wesley’s-Digest-Collection" class="headerlink" title="2018/07/14 Wesley’s Digest Collection"></a>2018/07/14 Wesley’s Digest Collection</h4><ul>
-<li><p>有萌萌與他的恐龍朋友作者！</p>
-<ul>
-<li><a href="https://flipermag.com/2018/07/10/33-2/" target="_blank" rel="external">看過了嗎？這些台灣優秀的創作者，都在美國 3X3 國際插畫大獎榜上有名 | FLiPER</a></li>
-</ul>
-</li>
-<li><p>『公司的媒體曝光高就代表前途一片光明？這時可以去了解公司離職率，或是問問身邊一兩個有在這些公司實習或工作過的人，他們怎麼看待這間公司及老闆。』。</p>
-<ul>
-<li><a href="https://www.gigihuang.com/2018/07/11/liveuptoyourname/" target="_blank" rel="external">名氣 vs 實力 - GiGi，兩個G都要大寫的女子</a></li>
-</ul>
-</li>
-<li><p>讓克羅埃西亞拿下大力神杯吧！</p>
-<ul>
-<li><a href="https://www.dongtw.com/2018-fifa-world-cup/20180712/872831.html" target="_blank" rel="external">國家歷史首次！克羅埃西亞逆轉三獅軍60年來首次，決賽上演10億天團 VS 大「磨」王 (影) | 2018 世足專區 | 動網 DONGTW</a></li>
-</ul>
-</li>
-<li><p>『雖然四地公民都手持英國護照，但大都討厭被稱作英國人。』。</p>
-<ul>
-<li><a href="http://www.cup.com.hk/2017/05/31/why-team-gb/" target="_blank" rel="external">【短片】為何奧運只有英國隊，足球比賽卻分那麼細？ - *CUP</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>想到 POWER錕的粉絲團說關就關。<ul>
-<li><a href="https://www.inside.com.tw/2018/07/11/should-i-buy-facebook-fanpage" target="_blank" rel="external"> 買 Facebook 粉絲團 還是自己經營比較好？ - INSIDE 硬塞的網路趨勢觀察</a></li>
-</ul>
-</li>
-</ul>
-<h4 id="只聽經典"><a href="#只聽經典" class="headerlink" title="只聽經典"></a>只聽經典</h4><p>去 KTV 唱這首一定爆幹爽。</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=NhJCYJs0XIA" target="_blank" rel="external">康士坦的變化球【擱淺的人】官方歌詞版MV</a></li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;2018-07-14-Wesley’s-Digest-Collection&quot;&gt;&lt;a href=&quot;#2018-07-14-Wesley’s-Digest-Collection&quot; class=&quot;headerlink&quot; title=&quot;2018/07/14 Wesley’
-    
-    </summary>
-    
-    
-      <category term="design" scheme="https://github.com/WeiChiaChang/blog/tags/design/"/>
-    
-      <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
-    
-      <category term="rock" scheme="https://github.com/WeiChiaChang/blog/tags/rock/"/>
     
   </entry>
   
