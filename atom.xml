@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2018-08-12T07:03:21.000Z</updated>
+  <updated>2018-08-12T07:51:23.000Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -16,13 +16,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>365日-#001</title>
-    <link href="https://github.com/WeiChiaChang/blog/2018/08/12/365%E6%97%A5-001/"/>
-    <id>https://github.com/WeiChiaChang/blog/2018/08/12/365日-001/</id>
-    <published>2018-08-12T07:01:11.000Z</published>
-    <updated>2018-08-12T07:03:21.000Z</updated>
+    <title>365日的那些片刻與日常。001</title>
+    <link href="https://github.com/WeiChiaChang/blog/2018/08/12/365%E6%97%A5%E7%9A%84%E9%82%A3%E4%BA%9B%E7%89%87%E5%88%BB%E8%88%87%E6%97%A5%E5%B8%B8%E3%80%82001/"/>
+    <id>https://github.com/WeiChiaChang/blog/2018/08/12/365日的那些片刻與日常。001/</id>
+    <published>2018-08-12T07:50:55.000Z</published>
+    <updated>2018-08-12T07:51:23.000Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="365-日的那些片刻與日常。"><a href="#365-日的那些片刻與日常。" class="headerlink" title="365 日的那些片刻與日常。"></a>365 日的那些片刻與日常。</h4><p><img src="https://i.imgur.com/ZAaLUtx.jpg" alt="RADWIMPS_LIVE_2018_08_11"></p>
+    <content type="html"><![CDATA[<h4 id="001。"><a href="#001。" class="headerlink" title="#001。"></a>#001。</h4><p><img src="https://i.imgur.com/ZAaLUtx.jpg" alt="RADWIMPS_LIVE_2018_08_11"></p>
 <p>做點新嘗試。</p>
 <p>365 日，又是嶄新的一年。</p>
 <p>原先的文摘已經變得過於規律呆板，<br>就是無聊的流水帳。</p>
@@ -45,7 +45,7 @@
     
     <summary type="html">
     
-      &lt;h4 id=&quot;365-日的那些片刻與日常。&quot;&gt;&lt;a href=&quot;#365-日的那些片刻與日常。&quot; class=&quot;headerlink&quot; title=&quot;365 日的那些片刻與日常。&quot;&gt;&lt;/a&gt;365 日的那些片刻與日常。&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;https://i.im
+      &lt;h4 id=&quot;001。&quot;&gt;&lt;a href=&quot;#001。&quot; class=&quot;headerlink&quot; title=&quot;#001。&quot;&gt;&lt;/a&gt;#001。&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/ZAaLUtx.jpg&quot; alt=&quot;RADWIMPS_LIV
     
     </summary>
     
@@ -958,9 +958,9 @@
     </summary>
     
     
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
       <category term="music" scheme="https://github.com/WeiChiaChang/blog/tags/music/"/>
     
@@ -1136,9 +1136,9 @@
     
       <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
     
-      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
-    
       <category term="strategy" scheme="https://github.com/WeiChiaChang/blog/tags/strategy/"/>
+    
+      <category term="career" scheme="https://github.com/WeiChiaChang/blog/tags/career/"/>
     
       <category term="software" scheme="https://github.com/WeiChiaChang/blog/tags/software/"/>
     
