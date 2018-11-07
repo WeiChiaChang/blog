@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://github.com/WeiChiaChang/blog/"/>
-  <updated>2018-11-06T10:57:08.999Z</updated>
+  <updated>2018-11-07T11:14:11.015Z</updated>
   <id>https://github.com/WeiChiaChang/blog/</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>365日的那些片刻與日常。088</title>
+    <link href="https://github.com/WeiChiaChang/blog/2018/11/07/365%E6%97%A5%E7%9A%84%E9%82%A3%E4%BA%9B%E7%89%87%E5%88%BB%E8%88%87%E6%97%A5%E5%B8%B8%E3%80%82088/"/>
+    <id>https://github.com/WeiChiaChang/blog/2018/11/07/365日的那些片刻與日常。088/</id>
+    <published>2018-11-07T11:13:49.000Z</published>
+    <updated>2018-11-07T11:14:11.015Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="088。"><a href="#088。" class="headerlink" title="088。"></a>088。</h4><p><img src="https://i.imgur.com/veyDp0u.png" alt="獨立思考"></p>
+<p>有時候會懷疑自己的手是不是也是具獨立思考的個體。</p>
+<p>這類的 moment 最近時常發生，<br>腦袋ㄧ心想著要做某個功能，<br>然後還來不及把細節思考清楚，<br>code 就霹哩啪拉按著鍵盤打出來了。<br>媽呀，竟然還可以運作。</p>
+<p>幹，一定是最近 Bass 練太勤了。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;088。&quot;&gt;&lt;a href=&quot;#088。&quot; class=&quot;headerlink&quot; title=&quot;088。&quot;&gt;&lt;/a&gt;088。&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/veyDp0u.png&quot; alt=&quot;獨立思考&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+    
+    </summary>
+    
+    
+      <category term="joke" scheme="https://github.com/WeiChiaChang/blog/tags/joke/"/>
+    
+      <category term="bass" scheme="https://github.com/WeiChiaChang/blog/tags/bass/"/>
+    
+  </entry>
   
   <entry>
     <title>365日的那些片刻與日常。087</title>
@@ -535,37 +562,6 @@
       <category term="bass" scheme="https://github.com/WeiChiaChang/blog/tags/bass/"/>
     
       <category term="pikachu" scheme="https://github.com/WeiChiaChang/blog/tags/pikachu/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>365日的那些片刻與日常。068</title>
-    <link href="https://github.com/WeiChiaChang/blog/2018/10/19/365%E6%97%A5%E7%9A%84%E9%82%A3%E4%BA%9B%E7%89%87%E5%88%BB%E8%88%87%E6%97%A5%E5%B8%B8%E3%80%82068/"/>
-    <id>https://github.com/WeiChiaChang/blog/2018/10/19/365日的那些片刻與日常。068/</id>
-    <published>2018-10-19T01:18:49.000Z</published>
-    <updated>2018-10-19T01:20:07.071Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="068。"><a href="#068。" class="headerlink" title="068。"></a>068。</h4><p><img src="https://i.imgur.com/eOf17Wb.jpg" alt="Kurt - Spaceout"></p>
-<p>補記，該日照片同樣攝於 10/18。</p>
-<p>回台南的第一件事就是小聚。</p>
-<p>和 Kurt 的認識是在上上份工作時，<br>第一眼以為這人和我同樣差不多大學剛畢業，<br>殊不知遠遠比我想像的還大了一輪 (褒義，稱讚意味)。</p>
-<p>幾些原因輾轉離開了前前東家，<br>人生藍圖也展往新的方向：<br>一棟共同辦公空間的經營者。</p>
-<p>老式舊樓房的改建後真的是好大一棟，<br>所呈現的樣貌也相當吸引人。</p>
-<p>尤其喜歡這個吧台。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;068。&quot;&gt;&lt;a href=&quot;#068。&quot; class=&quot;headerlink&quot; title=&quot;068。&quot;&gt;&lt;/a&gt;068。&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/eOf17Wb.jpg&quot; alt=&quot;Kurt - Spaceou
-    
-    </summary>
-    
-    
-      <category term="life" scheme="https://github.com/WeiChiaChang/blog/tags/life/"/>
-    
-      <category term="tainan" scheme="https://github.com/WeiChiaChang/blog/tags/tainan/"/>
-    
-      <category term="friends" scheme="https://github.com/WeiChiaChang/blog/tags/friends/"/>
     
   </entry>
   
